@@ -1,0 +1,205 @@
+name: Daily Podcast Leaderboard Scrape
+on:
+  schedule:
+    # Daily at 10am UTC. This is a PUBLIC repo, so Actions minutes are
+    # unlimited; the five jobs below run every day. Split into stages so a
+    # runner hiccup or a bug in one stage never loses data the others already
+    # produced.
+    - cron: '0 10 * * *'
+  workflow_dispatch:         # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+# Job graph mirrors the real data dependencies:
+#   apple ─┬─────────────► spotify ─────┐
+#          └─► apple_video ─────────────┼─► cumulative
+#   trending (independent) ─────────────┘
+# apple and trending start in parallel. spotify and apple_video need apple's
+# committed leaderboard.json. cumulative reads all three boards. Each job
+# checks out fresh, runs its script, and commits+pushes its own output, so a
+# later failure never loses upstream data. Any downstream analysis or reporting
+# runs elsewhere, consuming these published outputs.
+
+jobs:
+  apple:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Run Apple chart scraper
+        run: python scraper/scrape.py
+      - name: Commit and push Apple data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/leaderboard.json data/history.json data/show_history.json data/host_state.json
+          if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "Apple scrape: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then exit 0; fi
+            echo "push attempt $i failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 15 + 5))
+          done
+          echo "::error::failed to push Apple data after 5 attempts"; exit 1
+
+  trending:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Build trending feed (Podcast Index)
+        continue-on-error: true
+        env:
+          PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
+          PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
+        run: python scraper/trending.py
+      - name: Commit and push trending data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/trending.json
+          if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "Trending update: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then exit 0; fi
+            echo "push attempt $i failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 15 + 5))
+          done
+          echo "::error::failed to push trending data after 5 attempts"; exit 1
+
+  spotify:
+    needs: apple
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Build Spotify leaderboard (MVP)
+        continue-on-error: true
+        env:
+          PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
+          PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
+        run: python scraper/spotify_scrape.py
+      - name: Commit and push Spotify data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/spotify_leaderboard.json data/spotify_show_map.json \
+                  data/spotify_history.json data/spotify_show_history.json \
+                  data/spotify_host_state.json
+          if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "Spotify scrape: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then exit 0; fi
+            echo "push attempt $i failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 15 + 5))
+          done
+          echo "::error::failed to push Spotify data after 5 attempts"; exit 1
+
+  apple_video:
+    needs: apple
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Scan for Apple-native video (full board every run)
+        continue-on-error: true
+        run: python scraper/apple_video.py
+      - name: Commit and push Apple-video data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/leaderboard.json data/apple_video_state.json
+          if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "Apple video scan: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then exit 0; fi
+            echo "push attempt $i failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 15 + 5))
+          done
+          echo "::error::failed to push Apple-video data after 5 attempts"; exit 1
+
+  cumulative:
+    needs: [spotify, apple_video, trending]
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Update cumulative host tracker
+        # Re-checks a rolling budget of previously-seen feeds plus the blended
+        # corpus_feeds.csv for host changes, so migrations are caught even after
+        # a show leaves the charts.
+        continue-on-error: true
+        run: python scraper/cumulative.py
+      - name: Commit and push cumulative tracker data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tracked_feeds.json data/host_moves.json
+          if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "Cumulative host tracker: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then exit 0; fi
+            echo "push attempt $i failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 15 + 5))
+          done
+          echo "::error::failed to push cumulative data after 5 attempts"; exit 1

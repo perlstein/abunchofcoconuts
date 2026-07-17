@@ -1,0 +1,11 @@
+# Apple Video seed list: itunes_id,label. Always re-checked every run
+# (regardless of chart status), so a confirmed or candidate video show never
+# falls out of view just because it stops charting. Add more candidates here
+# as they're found; apple_video.py verifies each one against its real Apple
+# Podcasts page, it doesn't trust this list blindly.
+itunes_id,label
+1723943281,Primary Technology
+1373518864,Movies on the Side
+1811677507,Mind If We Talk?
+478840375,This Week in Tech (Video)
+1876968955,Friends Keep Secrets
