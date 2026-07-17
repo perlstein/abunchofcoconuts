@@ -1,7 +1,16 @@
 {
   "generated": "2026-07-17",
-  "total_tracked": 10962,
+  "total_tracked": 10964,
   "moves": [
+    {
+      "title": "SpawnCast",
+      "feed_url": "http://feeds.feedburner.com/soundcloud/QbQD",
+      "from": "SoundCloud",
+      "to": "Spotify/Anchor",
+      "date": "2026-07-17",
+      "source": "subgenre",
+      "artwork": ""
+    },
     {
       "title": "Mysterious Radio: Paranormal, UFO and Lore Interviews",
       "feed_url": "https://rss.beehiiv.com/podcasts/019ebe8c-6558-7589-8276-fa922f0e4077.xml",
