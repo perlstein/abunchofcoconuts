@@ -52,6 +52,7 @@ from scrape import LEADERBOARD_PATH, ROOT, fetch_show_feed, log
 
 TRACKED_PATH = ROOT / "data" / "tracked_feeds.json"
 MOVES_PATH = ROOT / "data" / "host_moves.json"
+CUMULATIVE_HISTORY_PATH = ROOT / "data" / "cumulative_history.json"
 WATCHLIST_PATH = ROOT / "data" / "watchlist.csv"
 CHANNEL_FEEDS_PATH = ROOT / "data" / "channel_feeds.csv"  # auto-built by channels.py
 NETWORK_FEEDS_PATH = ROOT / "data" / "network_feeds.csv"  # auto-built by networks.py
@@ -91,6 +92,53 @@ def _confident(host: str) -> bool:
     """A host firm enough to count as a real placement. A transient 'Unknown'
     or an unmatched/self-hosted feed never triggers a (false) migration."""
     return bool(host) and host not in ("Unknown", UNMATCHED)
+
+
+def build_corpus_snapshot(state, scan_date, *, synthetic=False):
+    """Aggregate the tracked-feed corpus into one history entry, shaped exactly
+    like a data/history.json entry so the frontend's existing bump + share
+    charts render it unchanged. Only feeds with a confident host count
+    (apply_observation never stores Unknown/Other-Self-Hosted as a host, so a
+    missing `host` just means "not confidently resolved" and is skipped)."""
+    counts = {}
+    for st in state.values():
+        host = st.get("host")
+        if host:
+            counts[host] = counts.get(host, 0) + 1
+    total = sum(counts.values())
+    platforms = sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))
+    entry = {
+        "date": scan_date,
+        "total_shows": total,
+        "platforms": [{
+            "name": name,
+            "count": n,
+            "share": round(n / total * 100, 1) if total else 0.0,
+            "rank": rank,
+        } for rank, (name, n) in enumerate(platforms, 1)],
+    }
+    if synthetic:
+        entry["synthetic"] = True
+    return entry
+
+
+def append_cumulative_history(entry):
+    """Append one corpus snapshot to cumulative_history.json, replacing any
+    entry with the same date (a same-day rerun updates rather than duplicates).
+    Same file shape as history.json; no compaction -- the corpus grows slowly
+    and synthetic backfill entries are kept so the chart stays dashed-then-solid."""
+    hist = _load_json(CUMULATIVE_HISTORY_PATH) or {
+        "schema_version": 1, "first_entry": None, "last_entry": None, "entries": []}
+    entries = [e for e in hist.get("entries", []) if e.get("date") != entry["date"]]
+    entries.append(entry)
+    entries.sort(key=lambda e: e["date"])
+    hist["entries"] = entries
+    hist["first_entry"] = entries[0]["date"]
+    hist["last_entry"] = entries[-1]["date"]
+    hist["schema_version"] = 1
+    CUMULATIVE_HISTORY_PATH.parent.mkdir(parents=True, exist_ok=True)
+    CUMULATIVE_HISTORY_PATH.write_text(json.dumps(hist, indent=2, ensure_ascii=False))
+    return len(entries)
 
 
 def apply_observation(state, feed_url, host, scan_date, *, title=None, artwork=None, source=None):
@@ -337,6 +385,12 @@ def main() -> int:
         {"generated": scan_date, "total_tracked": len(state), "moves": moves},
         indent=2, ensure_ascii=False))
     log(f"cumulative: wrote {len(state)} tracked feeds, {len(moves)} total moves")
+
+    # Append today's corpus-wide hosting snapshot ("All Feeds" time series).
+    snap = build_corpus_snapshot(state, scan_date)
+    n = append_cumulative_history(snap)
+    log(f"cumulative: corpus snapshot {snap['total_shows']} hosted feeds "
+        f"across {len(snap['platforms'])} hosts ({n} history entries total)")
     return 0
 
 
