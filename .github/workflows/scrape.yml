@@ -1,4 +1,4 @@
-name: Daily Podcast Leaderboard Scrape
+name: Daily Chart Sync
 on:
   schedule:
     # Daily at 10am UTC. This is a PUBLIC repo, so Actions minutes are
