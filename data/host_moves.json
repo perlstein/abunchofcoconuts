@@ -1,15 +1,24 @@
 {
-  "generated": "2026-07-18",
-  "total_tracked": 21088,
+  "generated": "2026-07-19",
+  "total_tracked": 21097,
   "moves": [
+    {
+      "title": "The Symbolic World",
+      "feed_url": "https://anchor.fm/s/114dd2538/podcast/rss",
+      "from": "Spreaker",
+      "to": "Spotify/Anchor",
+      "date": "2026-07-19",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/b4/d4/c6b4d441-a842-63df-e4f3-275bff2d194d/mza_13881595203660290428.jpg/170x170bb.png"
+    },
     {
       "title": "SpawnCast",
       "feed_url": "http://feeds.feedburner.com/soundcloud/QbQD",
       "from": "SoundCloud",
       "to": "Spotify/Anchor",
       "date": "2026-07-17",
-      "source": "subgenre",
-      "artwork": ""
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/02/ed/8b/02ed8b7d-9989-e199-0df3-be3aab83bd38/mza_8748567534217743040.png/170x170bb.png"
     },
     {
       "title": "Mysterious Radio: Paranormal, UFO and Lore Interviews",
