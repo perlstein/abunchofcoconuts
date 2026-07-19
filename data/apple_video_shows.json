@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18",
+  "generated": "2026-07-19",
   "shows": [
     {
       "itunes_id": "1358187061",
@@ -14,12 +14,12 @@
     {
       "itunes_id": "254078311",
       "title": "Football Ramble",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/6c/eb/c76cebed-2adf-257e-b635-b3de782ef31f/mza_17605460054758293685.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/6c/eb/c76cebed-2adf-257e-b635-b3de782ef31f/mza_17605460054758293685.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/8af0c347-5e6e-48e2-8fae-3f4e765c84ab",
       "host": "Acast",
       "episode_count": 2000,
       "last_published": "2026-07-16",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1433583146",
@@ -122,6 +122,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1292381204",
+      "title": "TFTC: A Bitcoin Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/84/2a/29842aec-ab2f-f4ea-720c-0a182b896001/mza_16883325139704201560.jpg/170x170bb.png",
+      "feed_url": "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9",
+      "host": "Fountain",
+      "episode_count": 1019,
+      "last_published": "2026-07-18",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1093028505",
       "title": "The Bossticks",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/3f/e8/743fe8fd-31d0-2204-936f-fc5c06b4054e/mza_1022273159166077539.jpg/170x170bb.png",
@@ -167,19 +177,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/59/3d/24593df5-3a1d-bb1e-b723-c445089853d5/mza_1203789523881052632.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/63e24225436c36001119fc66",
       "host": "Acast",
-      "episode_count": 611,
-      "last_published": "2026-07-10",
+      "episode_count": 613,
+      "last_published": "2026-07-17",
       "on_chart": true
     },
     {
       "itunes_id": "1471270483",
       "title": "Gloss Angeles",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/03963f96-9683-5260-8377-d391301de9b7",
       "host": "Acast",
       "episode_count": 583,
       "last_published": "2026-07-17",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1092361338",
@@ -207,8 +217,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/5a/0a/555a0ad4-5dbf-9f9d-b205-08e629cc35dd/mza_17473463849753207729.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/talk-easy-with-sam-fragoso",
       "host": "Art19",
-      "episode_count": 552,
-      "last_published": "2026-07-05",
+      "episode_count": 553,
+      "last_published": "2026-07-19",
       "on_chart": true
     },
     {
@@ -394,12 +404,12 @@
     {
       "itunes_id": "1704206163",
       "title": "Rap Life Radio with Ebro Darden",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/170x170bb.png",
-      "feed_url": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/600x600bb.jpg",
+      "feed_url": "",
       "host": "Unknown",
       "episode_count": 218,
       "last_published": "2026-07-16",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1706179464",
@@ -494,12 +504,12 @@
     {
       "itunes_id": "1473854035",
       "title": "Apple Events",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/0b/ac/b10bac9b-e35a-efd1-1c54-6321ce535fa0/mza_4971492661867950951.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/0b/ac/b10bac9b-e35a-efd1-1c54-6321ce535fa0/mza_4971492661867950951.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/apple-events",
       "host": "Art19",
       "episode_count": 66,
       "last_published": "2026-06-08",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1800771701",
@@ -527,8 +537,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/2c/bf/652cbf40-9143-042f-5f88-5261384e32c3/mza_17849545999156770446.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/after-the-whistle-us",
       "host": "Art19",
-      "episode_count": 51,
-      "last_published": "2026-07-13",
+      "episode_count": 52,
+      "last_published": "2026-07-18",
       "on_chart": true
     },
     {
@@ -654,12 +664,12 @@
     {
       "itunes_id": "425659636",
       "title": "Joyce Meyer Enjoying Everyday Life® TV Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d2/55/d2/d255d269-925d-bf6a-f07c-003a047d7581/mza_2752145070783640762.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d2/55/d2/d255d269-925d-bf6a-f07c-003a047d7581/mza_2752145070783640762.jpg/600x600bb.jpg",
       "feed_url": "https://jmmtvsd.libsyn.com/rss",
       "host": "Libsyn",
       "episode_count": 21,
       "last_published": "2026-07-16",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1884146372",
@@ -694,12 +704,12 @@
     {
       "itunes_id": "264537349",
       "title": "Sesame Street Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4f/67/c2/4f67c214-09c2-820f-33c2-60bc95383234/mza_14803612707659114729.png/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/4f/67/c2/4f67c214-09c2-820f-33c2-60bc95383234/mza_14803612707659114729.png/600x600bb.jpg",
       "feed_url": "http://downloads.cdn.sesame.org/podcast/rss/rss.xml",
       "host": "Other/Self-Hosted",
       "episode_count": 20,
       "last_published": "2017-03-27",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1888343624",
@@ -708,7 +718,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/69c4c11f217ea6ceb706debc",
       "host": "Acast",
       "episode_count": 14,
-      "last_published": "2026-07-08",
+      "last_published": "2026-07-15",
       "on_chart": true
     },
     {
