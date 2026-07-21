@@ -1,7 +1,79 @@
 {
-  "generated": "2026-07-20",
-  "total_tracked": 21115,
+  "generated": "2026-07-21",
+  "total_tracked": 22041,
   "moves": [
+    {
+      "title": "Software Engineering Daily",
+      "feed_url": "https://softwareengineeringdaily.com/feed/podcast/",
+      "from": "Megaphone",
+      "to": "Transistor",
+      "date": "2026-07-21",
+      "source": "subgenre",
+      "artwork": ""
+    },
+    {
+      "title": "WSJ Minute Briefing",
+      "feed_url": "https://video-api.wsj.com/podcast/rss/wsj/minute-briefing",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-07-21",
+      "source": "subgenre",
+      "artwork": ""
+    },
+    {
+      "title": "WSJ Tech News Briefing",
+      "feed_url": "https://video-api.wsj.com/podcast/rss/wsj/tech-news-briefing",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-07-21",
+      "source": "subgenre",
+      "artwork": ""
+    },
+    {
+      "title": "WSJ Your Money Briefing",
+      "feed_url": "https://video-api.wsj.com/podcast/rss/wsj/your-money-matters",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-07-21",
+      "source": "subgenre",
+      "artwork": ""
+    },
+    {
+      "title": "Barron's Streetwise",
+      "feed_url": "https://video-api.barrons.com/podcast/rss/barrons/streetwise?partner=itunes",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-07-21",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/79/41/5b794162-1649-7bf4-7a01-f95ac753e0c5/mza_22991207174413103.jpg/170x170bb.png"
+    },
+    {
+      "title": "Impolitic with John Heilemann",
+      "feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/hell-high-water",
+      "from": "Megaphone",
+      "to": "AmperWave (Audacy)",
+      "date": "2026-07-21",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/fb/23/85fb2303-8d44-b05b-f462-142e4efaf1a5/mza_8878237170289630401.jpg/170x170bb.png"
+    },
+    {
+      "title": "WSJ What’s News",
+      "feed_url": "https://feeds.simplecast.com/BA5QWI2p",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-07-21",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/e6/62/87e6629b-78fa-7b76-959a-901e020bc5c7/mza_13260730044840862954.jpg/170x170bb.png"
+    },
+    {
+      "title": "Data Science With Sam",
+      "feed_url": "https://media.rss.com/data-science-with-sam/feed.xml",
+      "from": "Podbean",
+      "to": "RSS.com",
+      "date": "2026-07-21",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6a/21/3d/6a213d7f-ebeb-ed8a-1123-9350aae3fb4b/mza_9916926620382631982.jpg/170x170bb.png"
+    },
     {
       "title": "DJ LOFT Mixes",
       "feed_url": "https://hearthis.at/dj-loft/podcast.xml",
