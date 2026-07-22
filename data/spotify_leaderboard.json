@@ -1,6 +1,6 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-07-21",
+  "last_scanned": "2026-07-22",
   "total_unique_shows": 800,
   "resolved_rate": 98.5,
   "platforms": [
@@ -10948,7 +10948,7 @@
         {
           "title": "STAN:A",
           "id": "spotify:show:3mNzAtzbx87dJmkrz7HtS5",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f2e7a9319ab88b34dd8f73f90",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fdce4d6fa8f2ec92f7b82e6ee",
           "categories": [
             "Music"
           ],
@@ -11992,7 +11992,7 @@
         {
           "title": "Jesser",
           "id": "spotify:show:6TUUyLhyjxXD8CApPoMvu9",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fbe52a8a962f9c9623aeecc32",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fdb12dd043f884e931559edb3",
           "categories": [
             "Sports"
           ],
@@ -14668,9 +14668,22 @@
           "website": "http://dirtymomedia.com/",
           "description": "Now in its 10th year, Door Bumper Clear returns with a fresh lineup, raw energy, and the same unapologetic edge fans have come to love. Veteran NASCAR industry members Freddie Kraft and Tommy Baldwin—brothers in the sport and unfiltered to the core—team up with the fearless Karsyn Elledge, a rising…",
           "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
+          "episode_count": 426,
+          "last_published": "2026-07-20",
+          "schedule": {
+            "days": [
+              21,
+              2,
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "label": "Weekly · Mondays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -24234,7 +24247,7 @@
         {
           "title": "Chicks in the Office",
           "id": "spotify:show:2EjMCqYDzYnYQuuTBRMjJy",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f81511b0190a6554d39ee3689",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fad65260421d022bc49d20b99",
           "categories": [
             "Society & Culture"
           ],
@@ -38538,7 +38551,7 @@
             {
               "title": "STAN:A",
               "id": "spotify:show:3mNzAtzbx87dJmkrz7HtS5",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f2e7a9319ab88b34dd8f73f90",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fdce4d6fa8f2ec92f7b82e6ee",
               "categories": [
                 "Music"
               ],
@@ -46399,7 +46412,7 @@
             {
               "title": "Chicks in the Office",
               "id": "spotify:show:2EjMCqYDzYnYQuuTBRMjJy",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f81511b0190a6554d39ee3689",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fad65260421d022bc49d20b99",
               "categories": [
                 "Society & Culture"
               ],
@@ -47961,9 +47974,22 @@
               "website": "http://dirtymomedia.com/",
               "description": "Now in its 10th year, Door Bumper Clear returns with a fresh lineup, raw energy, and the same unapologetic edge fans have come to love. Veteran NASCAR industry members Freddie Kraft and Tommy Baldwin—brothers in the sport and unfiltered to the core—team up with the fearless Karsyn Elledge, a rising…",
               "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
+              "episode_count": 426,
+              "last_published": "2026-07-20",
+              "schedule": {
+                "days": [
+                  21,
+                  2,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0
+                ],
+                "label": "Weekly · Mondays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
               "rss_video": null
             }
           ],
@@ -48506,7 +48532,7 @@
             {
               "title": "Jesser",
               "id": "spotify:show:6TUUyLhyjxXD8CApPoMvu9",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fbe52a8a962f9c9623aeecc32",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fdb12dd043f884e931559edb3",
               "categories": [
                 "Sports"
               ],
