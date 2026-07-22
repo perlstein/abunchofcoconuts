@@ -1,7 +1,25 @@
 {
-  "generated": "2026-07-21",
-  "total_tracked": 22041,
+  "generated": "2026-07-22",
+  "total_tracked": 22474,
   "moves": [
+    {
+      "title": "",
+      "feed_url": "https://video-api.wsj.com/podcast/rss/wsj/opinion-potomac-watch",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-07-22",
+      "source": "subgenre",
+      "artwork": ""
+    },
+    {
+      "title": "Inside AsembleAI: DeepTech, AI & Science",
+      "feed_url": "https://media.rss.com/insideasembleai/feed.xml",
+      "from": "Podbean",
+      "to": "RSS.com",
+      "date": "2026-07-22",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/53/38/2b5338ca-6121-c75c-ff25-73bd3e9fa802/mza_11480776803924298324.png/170x170bb.png"
+    },
     {
       "title": "Software Engineering Daily",
       "feed_url": "https://softwareengineeringdaily.com/feed/podcast/",
