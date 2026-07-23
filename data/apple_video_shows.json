@@ -18,7 +18,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/8af0c347-5e6e-48e2-8fae-3f4e765c84ab",
       "host": "Acast",
       "episode_count": 2000,
-      "last_published": "2026-07-22",
+      "last_published": "2026-07-23",
       "on_chart": false
     },
     {
@@ -37,8 +37,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/04/ea/53/04ea5351-9a69-6650-ac69-d6351bfd95da/mza_16931716041146167328.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/69545da8cb029db7575279fc",
       "host": "Acast",
-      "episode_count": 1743,
-      "last_published": "2026-07-22",
+      "episode_count": 1742,
+      "last_published": "2026-07-21",
       "on_chart": true
     },
     {
@@ -107,7 +107,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0b/3b/1d/0b3b1d64-205d-febc-ae10-e33e34d045c8/mza_12028558795167970983.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/61de0665cc27c20014ea15cf",
       "host": "Acast",
-      "episode_count": 1171,
+      "episode_count": 1170,
       "last_published": "2026-07-20",
       "on_chart": true
     },
@@ -297,8 +297,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/ae/52/0eae52bf-5236-e283-7938-28d91e1820e0/mza_3099432660874981459.jpg/170x170bb.png",
       "feed_url": "https://feeds.simplecast.com/Fa0PP4fl",
       "host": "Simplecast",
-      "episode_count": 383,
-      "last_published": "2026-07-23",
+      "episode_count": 382,
+      "last_published": "2026-07-20",
       "on_chart": true
     },
     {
@@ -464,12 +464,12 @@
     {
       "itunes_id": "1482455669",
       "title": "What Bitcoin Did",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/ff/bb/fbffbba3-1a5b-0759-fa35-cafc42f214c9/mza_4444412895211887709.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/ff/bb/fbffbba3-1a5b-0759-fa35-cafc42f214c9/mza_4444412895211887709.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg",
       "host": "Fountain",
-      "episode_count": 188,
-      "last_published": "2026-07-15",
-      "on_chart": true
+      "episode_count": 189,
+      "last_published": "2026-07-17",
+      "on_chart": false
     },
     {
       "itunes_id": "1693209578",
@@ -567,8 +567,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/36/80/3a36803c-81ed-1866-6f6a-b437731c4d76/mza_801030307819731484.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/67cb14f5baaeff02dcf6d1d9",
       "host": "Acast",
-      "episode_count": 56,
-      "last_published": "2026-07-23",
+      "episode_count": 55,
+      "last_published": "2026-07-16",
       "on_chart": true
     },
     {
@@ -637,8 +637,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/170x170bb.png",
       "feed_url": "https://rss.libsyn.com/shows/615750/destinations/5370830.xml",
       "host": "Libsyn",
-      "episode_count": 41,
-      "last_published": "2026-07-21",
+      "episode_count": 42,
+      "last_published": "2026-07-23",
       "on_chart": true
     },
     {
@@ -692,16 +692,6 @@
       "on_chart": true
     },
     {
-      "itunes_id": "1896758426",
-      "title": "Hey Jonas!",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/aa/5a/2baa5aed-5eab-dc1d-95ad-5620f502b9a2/mza_2934007108515108068.jpg/170x170bb.png",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e1bf9c31-b143-4cab-9326-b435011facc4/207c15f2-8abc-4ee3-af74-b435011fb18c/podcast.rss",
-      "host": "Omny / Triton",
-      "episode_count": 23,
-      "last_published": "2026-07-21",
-      "on_chart": true
-    },
-    {
       "itunes_id": "1877266132",
       "title": "The Person Who Believed In Me",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/60/15/c3601517-0586-cd0c-b08c-4ea95727da44/mza_8768441501299510340.jpg/170x170bb.png",
@@ -709,6 +699,16 @@
       "host": "Flightcast",
       "episode_count": 23,
       "last_published": "2026-07-20",
+      "on_chart": true
+    },
+    {
+      "itunes_id": "1896758426",
+      "title": "Hey Jonas!",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/aa/5a/2baa5aed-5eab-dc1d-95ad-5620f502b9a2/mza_2934007108515108068.jpg/170x170bb.png",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e1bf9c31-b143-4cab-9326-b435011facc4/207c15f2-8abc-4ee3-af74-b435011fb18c/podcast.rss",
+      "host": "Omny / Triton",
+      "episode_count": 22,
+      "last_published": "2026-07-16",
       "on_chart": true
     },
     {
