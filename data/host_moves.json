@@ -1,7 +1,16 @@
 {
   "generated": "2026-07-23",
-  "total_tracked": 23006,
+  "total_tracked": 23414,
   "moves": [
+    {
+      "title": "Twenty Thousand Hertz",
+      "feed_url": "https://feeds.megaphone.fm/20k",
+      "from": "PRX",
+      "to": "Megaphone",
+      "date": "2026-07-23",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/df/fb/d7/dffbd730-85cd-cc3f-44ac-324af78e64bb/mza_10893787860356189042.jpg/170x170bb.png"
+    },
     {
       "title": "Wannabe Clutter Free | Declutter, Simplify, Find Freedom",
       "feed_url": "https://feeds.redcircle.com/2c47262e-8274-42b9-aa73-766ef516ca70",
@@ -55,6 +64,15 @@
       "date": "2026-07-23",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/dd/64/addd64d2-c2b1-4ff2-aa5f-0f5cc723f92b/mza_10710679716941336906.jpeg/170x170bb.png"
+    },
+    {
+      "title": "Locked In with Ian Bick",
+      "feed_url": "https://rss.libsyn.com/shows/625410/destinations/5506140.xml",
+      "from": "Megaphone",
+      "to": "Libsyn",
+      "date": "2026-07-23",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/32/5d/ec325df0-5f4f-536e-473a-dee222a77d3c/mza_3390259646728192199.jpg/170x170bb.png"
     },
     {
       "title": "",
