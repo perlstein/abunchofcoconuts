@@ -1,7 +1,8 @@
 name: Daily Chart Sweep
 on:
   schedule:
-    - cron: '0 10 * * *'   # daily at 10:00 UTC (~3 AM PT)
+    - cron: '0 9 * 3-10 *'        # 2 AM PDT (Mar-Oct)
+    - cron: '0 10 * 11,12,1,2 *'  # 2 AM PST (Nov-Feb)
   workflow_dispatch:
 
 permissions:

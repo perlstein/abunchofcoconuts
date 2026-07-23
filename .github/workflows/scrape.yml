@@ -1,11 +1,12 @@
 name: Daily Chart Sync
 on:
   schedule:
-    # Daily at 10am UTC. This is a PUBLIC repo, so Actions minutes are
+    # 2 AM PT, DST-adjusted. This is a PUBLIC repo, so Actions minutes are
     # unlimited; the five jobs below run every day. Split into stages so a
     # runner hiccup or a bug in one stage never loses data the others already
     # produced.
-    - cron: '0 10 * * *'
+    - cron: '0 9 * 3-10 *'        # 2 AM PDT (Mar-Oct)
+    - cron: '0 10 * 11,12,1,2 *'  # 2 AM PST (Nov-Feb)
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
 permissions:
