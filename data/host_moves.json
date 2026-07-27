@@ -1,7 +1,25 @@
 {
-  "generated": "2026-07-26",
-  "total_tracked": 24444,
+  "generated": "2026-07-27",
+  "total_tracked": 24696,
   "moves": [
+    {
+      "title": "Nontendo Podcast",
+      "feed_url": "https://anchor.fm/s/111880bdc/podcast/rss",
+      "from": "Spreaker",
+      "to": "Spotify/Anchor",
+      "date": "2026-07-27",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/bf/53/03bf53ba-82a2-6127-1d48-b5e4f4b15b48/mza_4018211325132409246.jpg/170x170bb.png"
+    },
+    {
+      "title": "Scripture Central",
+      "feed_url": "https://feed.podbean.com/scripturecentral/feed.xml",
+      "from": "SoundCloud",
+      "to": "Podbean",
+      "date": "2026-07-27",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/6e/3e/9f6e3eea-e4d4-8e46-d295-241256c61aa0/mza_14155890374214606044.png/170x170bb.png"
+    },
     {
       "title": "Barron's Streetwise",
       "feed_url": "https://feeds.simplecast.com/zuVCxwR_",
