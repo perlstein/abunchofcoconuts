@@ -16,15 +16,14 @@ permissions:
 # Job graph mirrors the real data dependencies:
 #   apple ─┬─────────────► spotify ─────┐
 #          └─► apple_video ─────────────┼─► cumulative
-#   trending (independent) ─────────────┤
-#   networks (independent) ─────────────┘
+#   trending (independent) ─────────────┘
 # apple and trending start in parallel. spotify and apple_video need apple's
-# committed leaderboard.json. networks is independent (its own seed + the
-# iTunes API). cumulative reads all three boards AND the network_feeds.csv
-# networks publishes, so it waits on networks too. Each job checks out fresh,
-# runs its script, and commits+pushes its own output, so a later failure never
-# loses upstream data. Any downstream analysis or reporting runs elsewhere,
-# consuming these published outputs.
+# committed leaderboard.json. cumulative reads all three boards plus the
+# network_feeds.csv published by the separate Networks Resolve workflow
+# (.github/workflows/networks.yml, scheduled just ahead of this run). Each job
+# checks out fresh, runs its script, and commits+pushes its own output, so a
+# later failure never loses upstream data. Any downstream analysis or reporting
+# runs elsewhere, consuming these published outputs.
 
 jobs:
   apple:
@@ -171,45 +170,8 @@ jobs:
           done
           echo "::error::failed to push Apple-video data after 5 attempts"; exit 1
 
-  networks:
-    runs-on: ubuntu-latest
-    timeout-minutes: 30
-    continue-on-error: true
-    steps:
-      - uses: actions/checkout@v5
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          ref: main
-      - uses: actions/setup-python@v6
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-          cache-dependency-path: scraper/requirements.txt
-      - name: Install dependencies
-        run: pip install -r scraper/requirements.txt
-      - name: Resolve tracked networks (seed -> feeds + host breakdown)
-        # Reads data/network_seed.csv, resolves each network's shows to their RSS
-        # feeds via the iTunes API, detects hosts, and writes network_feeds.csv
-        # (always-checked watchlist for the cumulative job) + networks.json.
-        continue-on-error: true
-        run: python scraper/networks.py
-      - name: Commit and push network data
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/network_feeds.csv data/networks.json
-          if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
-          git commit -m "Networks resolve: $(date -u +%Y-%m-%d)"
-          for i in 1 2 3 4 5; do
-            if git pull --rebase origin main && git push; then exit 0; fi
-            echo "push attempt $i failed, retrying..."
-            git rebase --abort 2>/dev/null || true
-            sleep $((RANDOM % 15 + 5))
-          done
-          echo "::error::failed to push network data after 5 attempts"; exit 1
-
   cumulative:
-    needs: [spotify, apple_video, trending, networks]
+    needs: [spotify, apple_video, trending]
     runs-on: ubuntu-latest
     timeout-minutes: 90
     continue-on-error: true

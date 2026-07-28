@@ -1,0 +1,55 @@
+name: Networks Resolve
+
+# Resolves the tracked networks in data/network_seed.csv to their RSS feeds and
+# host breakdown. Standalone so it can be run on demand (workflow_dispatch) the
+# moment a network is added, independent of the heavier Daily Chart Sync. Also
+# runs daily just before that sync, so cumulative.py picks up fresh
+# network_feeds.csv. Commits data/network_feeds.csv + data/networks.json to main.
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Comma-separated network labels to scan (blank = all)'
+        required: false
+        default: ''
+  schedule:
+    - cron: '0 9 * 3-10 *'         # 2:00 AM PDT, ahead of the 2:30 sync (Mar-Oct)
+    - cron: '0 10 * 11,12,1,2 *'   # 2:00 AM PST (Nov-Feb)
+
+permissions:
+  contents: write
+
+jobs:
+  networks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Resolve tracked networks (seed -> feeds + host breakdown)
+        env:
+          NETWORKS_ONLY: ${{ github.event.inputs.only }}
+        run: python scraper/networks.py
+      - name: Commit and push network data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/network_feeds.csv data/networks.json
+          if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
+          git commit -m "Networks resolve: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then exit 0; fi
+            echo "push attempt $i failed, retrying..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 15 + 5))
+          done
+          echo "::error::failed to push network data after 5 attempts"; exit 1

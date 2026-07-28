@@ -79,13 +79,14 @@ def load_seed():
             continue
         parts = next(csv.reader([line]))
         parts += [""] * (4 - len(parts))  # pad to 4 columns
-        label, channel_id, extra_ids, homepage = (p.strip() for p in parts[:4])
+        label, channel, extra_ids, homepage = (p.strip() for p in parts[:4])
         if not label or label.lower() == "label":  # skips the header row
             continue
         ids = [i.strip() for i in extra_ids.split(";") if i.strip().isdigit()]
+        channel_ids = [c.strip() for c in channel.split(";") if c.strip().isdigit()]
         out.append({
             "label": label,
-            "channel_id": channel_id if channel_id.isdigit() else None,
+            "channel_ids": channel_ids,  # 0+ Apple channel ids (;-separated)
             "extra_ids": ids,
             "homepage": homepage or None,
         })
@@ -162,14 +163,17 @@ def resolve_network(net: dict) -> dict:
         if iid not in seen:
             seen.add(iid)
             ids.append(iid)
-    discovered = channel_show_ids(net["channel_id"]) if net["channel_id"] else []
+    discovered = []
+    for cid in net["channel_ids"]:  # union across every channel on the row
+        discovered.extend(channel_show_ids(cid))
     for iid in discovered:
         if iid not in seen:
             seen.add(iid)
             ids.append(iid)
 
     log(f"networks: {net['label']}: {len(ids)} shows "
-        f"({len(net['extra_ids'])} curated, {len(discovered)} from channel page)")
+        f"({len(net['extra_ids'])} curated, {len(discovered)} from "
+        f"{len(net['channel_ids'])} channel(s))")
 
     shows = []
     if ids:
@@ -196,7 +200,7 @@ def resolve_network(net: dict) -> dict:
 
     entry = {
         "label": net["label"],
-        "channel_id": net["channel_id"],
+        "channel_ids": net["channel_ids"],
         "homepage": net["homepage"],
         "show_count": len(shows),
         "feed_count": sum(1 for s in shows if s.get("feed_url")),

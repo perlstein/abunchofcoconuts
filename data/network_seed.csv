@@ -6,10 +6,12 @@
 #
 # Columns:
 #   label       display name of the network
-#   channel_id  Apple Podcasts channel id -- the /id number in a
-#               podcasts.apple.com/.../channel/.../id<N> URL (blank if none).
-#               When present, every show the channel page lists is discovered
-#               automatically (disable with NETWORKS_NO_CHANNEL_SCRAPE=1).
+#   channel_id  Apple Podcasts channel id(s) -- the /id number in a
+#               podcasts.apple.com/.../channel/.../id<N> URL. May be a
+#               ;-separated list to pull one network from several Apple
+#               channels (e.g. a label with sub-channels). Blank if none.
+#               Every show a channel page lists is discovered automatically
+#               (disable with NETWORKS_NO_CHANNEL_SCRAPE=1).
 #   extra_ids   ;-separated Apple Podcasts SHOW ids always included on top of
 #               channel discovery -- for back catalog, or networks with no
 #               Apple channel (give ids, leave channel_id blank).
@@ -17,7 +19,7 @@
 #
 # NOTE ON RESOLUTION: feed URLs and hosts are filled in by networks.py, which
 # needs outbound network access, so it runs in GitHub Actions (see
-# .github/workflows/scrape.yml), not from a locked-down dev box.
+# .github/workflows/networks.yml), not from a locked-down dev box.
 label,channel_id,extra_ids,homepage
 The Washington Post,6442482183,1444873564;1652580979;1734654238;1143265842;1692384254;1738047797;1532219705;1072170823;1254001472;1342503128;1709740516;1451109634,https://podcasts.apple.com/us/channel/the-washington-post/id6442482183
 The Boston Globe,6444069262,,https://podcasts.apple.com/us/channel/the-boston-globe/id6444069262
@@ -27,4 +29,4 @@ Understood.org,6448918883,,https://podcasts.apple.com/us/channel/understood-org/
 DCP Entertainment,6442455235,,https://podcasts.apple.com/us/channel/dcp-entertainment/id6442455235
 Macmillan Podcasts,6442568515,,https://podcasts.macmillan.com/
 Defector,,1525039108;1597761181,https://defector.com/defector-podcasts
-Sony Music,,,https://www.sonymusic.com/podcasts/
+Sony Music,6442475215,1676536478;1197924737,https://www.sonymusic.com/podcasts/

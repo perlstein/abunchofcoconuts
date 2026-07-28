@@ -59,8 +59,10 @@ NETWORKS_NO_CHANNEL_SCRAPE=1 python scraper/networks.py  # trust curated ids onl
 
 `networks.json` gives you the host breakdown immediately. To fold the new feeds
 into the long-term host-move tracker without a full corpus re-check, follow with
-`CUMULATIVE_SEED_ONLY=1 python scraper/cumulative.py`. In CI, the `networks` job
-in `.github/workflows/scrape.yml` runs this on every scheduled sync.
+`CUMULATIVE_SEED_ONLY=1 python scraper/cumulative.py`. In CI, the standalone
+**Networks Resolve** workflow (`.github/workflows/networks.yml`) runs this — on a
+daily schedule and on demand (Actions → Networks Resolve → Run workflow, with an
+optional label filter) — and commits the results to `main`.
 
 Run locally:
 
