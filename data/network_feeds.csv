@@ -37,7 +37,7 @@ https://rss.art19.com/the-wonder-of-stevie,Higher Ground -- The Wonder of Stevie
 https://rss.art19.com/renegades-born-in-the-usa,Higher Ground -- Renegades: Born in the USA
 https://rss.art19.com/the-sum-of-us,Higher Ground -- The Sum of Us
 https://api.substack.com/feed/podcast/2734084.rss,Campside Media -- Inside the Tent with Campside Media
-https://feeds.acast.com/public/shows/6a6245115092e5d5712f0ce3,Campside Media -- Origin Stories
+https://rss.art19.com/origin-stories,Campside Media -- Origin Stories
 https://feeds.acast.com/public/shows/6a273c6f6642088a106c73e4,Campside Media -- David Greene is Obsessed
 https://feeds.acast.com/public/shows/682ddf8310ca442d5fd16cf7,Campside Media -- White Devil
 https://feeds.acast.com/public/shows/6a27471cec7c103dca6acd3c,Campside Media -- Fallen Angel
@@ -69,8 +69,8 @@ https://feeds.acast.com/public/shows/69bb17dc723e626074236117,Macmillan Podcasts
 https://feeds.acast.com/public/shows/69bb0df86cb58679e800d3d8,Macmillan Podcasts -- Driving the Green Book
 https://feeds.acast.com/public/shows/69bb125d723e626074218686,Macmillan Podcasts -- The Astro Poets Podcast
 https://feeds.megaphone.fm/thegirls,Macmillan Podcasts -- The Girls: Find Sadie
-https://feeds.acast.com/public/shows/69bb09b9c4b9c3b6f4f75852,Macmillan Podcasts -- Better at Everything
 https://feeds.megaphone.fm/iloveyoubut,"Macmillan Podcasts -- I Love You, But I Hate Your Politics"
+https://feeds.acast.com/public/shows/69bb09b9c4b9c3b6f4f75852,Macmillan Podcasts -- Better at Everything
 https://feeds.acast.com/public/shows/69bb12019f7cc5ed03a55792,Macmillan Podcasts -- Rossen to the Rescue
 https://feeds.acast.com/public/shows/69bb0a489f7cc5ed03a2e1b2,Macmillan Podcasts -- Knowing: Robin Williams
 https://rss.art19.com/the-distraction,Defector -- The Distraction: A Defector Podcast
@@ -163,6 +163,7 @@ https://rss.pdrl.fm/0d589c/feeds.simplecast.com/FLv6o1WR,Bleav -- The Vault: A P
 https://feeds.simplecast.com/P6LayEuH,Bleav -- Scout's Eye with Matt Williamson
 https://feeds.simplecast.com/ZzsFYSQ_,Bleav -- The Knight Report Podcast
 https://feeds.simplecast.com/9n8N04U5,Bleav -- North Shore Nine: A Pittsburgh Pirates Podcast
+https://feeds.simplecast.com/eOhbkY6o,Bleav -- Golden Daze
 https://feeds.simplecast.com/9SpNG6RQ,Bleav -- Braves Today
 https://feeds.simplecast.com/8ugfDD4b,Bleav -- All Dodgers
 https://feeds.simplecast.com/I42nvQlz,Bleav -- Broad Street Hockey: A Philadelphia Flyers Podcast
@@ -180,7 +181,6 @@ https://feeds.simplecast.com/_yBZuib4,Bleav -- In The Gun: A West Virginia Footb
 https://feeds.simplecast.com/heiTBv_K,Bleav -- Bleav in Carolina Panthers
 https://feeds.simplecast.com/tL9DvjpA,Bleav -- Bleav in Bengals
 https://feeds.simplecast.com/9LN2umzo,Bleav -- The Patriots Report with Price & Hogan
-https://feeds.simplecast.com/C_lDIkoo,Bleav -- Talkin' Ball with Pat Leonard
 https://feeds.simplecast.com/ubOjt451,Bleav -- Bleav in Bills
 https://feeds.simplecast.com/XanUt6xf,Bleav -- Bleav in Giants
 https://feeds.simplecast.com/3G0BqNa5,Bleav -- Bleav in Cowboys
@@ -356,12 +356,14 @@ https://feeds.megaphone.fm/lets-make-a-poop,Starburns Audio -- Let's Make a Poop
 https://feeds.megaphone.fm/bobbo-supreme,Starburns Audio -- Bobbo Supreme
 https://rss.pdrl.fm/5ab4ca/feeds.megaphone.fm/scaredychat,Snarled Entertainment -- Scaredy Chat
 https://rss.pdrl.fm/18fe3d/feeds.megaphone.fm/STU4784387159,Snarled Entertainment -- The Shadow Diaries
+https://feeds.simplecast.com/kAl8Plz_,reVolver Podcasts -- El Show De Piolín
 https://rss.amperwave.net/v2/feed/podcorn/1b88188f37e4ba9a83427cffea44d4e5,reVolver Podcasts -- (EA) Eternal Affairs TRUTH Radio
 https://feeds.simplecast.com/DQU4rvRN,reVolver Podcasts -- Carolina Cadillo Show
 https://feeds.simplecast.com/7yMPxtSY,reVolver Podcasts -- Al Chile
 https://feeds.simplecast.com/oVdZGPUT,reVolver Podcasts -- Intriga Fatal
 https://feeds.simplecast.com/zda2GtXD,reVolver Podcasts -- Mujeres Rompiendo el Silencio
 https://feeds.simplecast.com/RoGdveaX,reVolver Podcasts -- La Cadena
+https://feeds.simplecast.com/Ztr2y26F,reVolver Podcasts -- Yo No Creo En Los Hombres
 https://feeds.simplecast.com/48KenZRl,reVolver Podcasts -- La Fiera
 https://feeds.simplecast.com/pEbbr8_c,reVolver Podcasts -- Aquella Mujer
 https://feeds.simplecast.com/0NGDRk_8,reVolver Podcasts -- The Austin Young Show
@@ -461,20 +463,20 @@ https://feeds.twit.tv/sn_video_hd.xml,TWiT.tv -- Security Now (Video)
 https://rss.pdrl.fm/e76374/feeds.twit.tv/uls.xml,TWiT.tv -- Untitled Linux Show (Audio)
 https://feeds.twit.tv/mbw_video_hd.xml,TWiT.tv -- MacBreak Weekly (Video)
 https://feeds.twit.tv/ww_video_hd.xml,TWiT.tv -- Windows Weekly (Video)
-https://feeds.twit.tv/twit_video_hd.xml,TWiT.tv -- This Week in Tech (Video)
 https://feeds.twit.tv/hot.xml,TWiT.tv -- Hands-On Tech (Audio)
+https://feeds.twit.tv/twit_video_hd.xml,TWiT.tv -- This Week in Tech (Video)
 https://feeds.twit.tv/sn.xml,TWiT.tv -- Security Now (Audio)
 https://feeds.twit.tv/ces.xml,TWiT.tv -- TWiT News (Audio)
 https://feeds.twit.tv/tnw_video_hd.xml,TWiT.tv -- Tech News Weekly (Video)
 https://feeds.twit.tv/ipad_video_hd.xml,TWiT.tv -- iOS Today (Video)
-https://feeds.twit.tv/twig_video_hd.xml,TWiT.tv -- Intelligent Machines (Video)
 https://feeds.twit.tv/mbw.xml,TWiT.tv -- MacBreak Weekly (Audio)
+https://feeds.twit.tv/twig_video_hd.xml,TWiT.tv -- Intelligent Machines (Video)
 https://feeds.twit.tv/howin_video_hd.xml,TWiT.tv -- Hands-On Windows (Video)
 https://feeds.twit.tv/uls_video_hd.xml,TWiT.tv -- Untitled Linux Show (Video)
 https://feeds.twit.tv/ww.xml,TWiT.tv -- Windows Weekly (Audio)
-https://feeds.twit.tv/hom_video_hd.xml,TWiT.tv -- Hands-On Apple (Video)
 https://feeds.twit.tv/specials_video_hd.xml,TWiT.tv -- TWiT News (Video)
 https://feeds.twit.tv/twis_video_hd.xml,TWiT.tv -- This Week in Space (Video)
+https://feeds.twit.tv/hom_video_hd.xml,TWiT.tv -- Hands-On Apple (Video)
 https://feeds.megaphone.fm/QCD2921626995,True Native Media -- The History Chicks
 https://feeds.megaphone.fm/ARML9966973519,True Native Media -- The Box of Oddities
 https://rss.art19.com/i-have-adhd,True Native Media -- I Have ADHD Podcast
@@ -628,15 +630,15 @@ https://feeds.megaphone.fm/STM3654929833,GoKidGo -- Ziggy & The Beaks
 https://feeds.megaphone.fm/STM2572267869,GoKidGo -- Snoriezzz
 https://feeds.megaphone.fm/STM3779962735,GoKidGo -- The Word Search
 https://feeds.megaphone.fm/SBP5890237026,"GoKidGo -- Peace, Love, and Cupcakes"
-https://feeds.megaphone.fm/STM8638707933,"GoKidGo -- Love, Diana: Musical Mysteries"
 https://feeds.megaphone.fm/STM6808472050,GoKidGo -- Teddy Talks
+https://feeds.megaphone.fm/STM8638707933,"GoKidGo -- Love, Diana: Musical Mysteries"
 https://feeds.megaphone.fm/SBP1876031491,GoKidGo -- Defenders of Monstrovia
 https://feeds.megaphone.fm/jonnierocket,GoKidGo -- Jonnie Rocket
 https://feeds.megaphone.fm/STM9705637426,GoKidGo -- Why Do They Talk Like That?
 https://feeds.megaphone.fm/SBP8762246664,GoKidGo -- Howdy Sheriff
 https://feeds.megaphone.fm/rainbowsurfers,GoKidGo -- Rainbow Surfers
-https://feeds.megaphone.fm/STM8973811703,GoKidGo -- Gem Sisters: Sister Detectives
 https://feeds.megaphone.fm/STM8834781103,GoKidGo -- Red and the Planet of Lost Balls
+https://feeds.megaphone.fm/STM8973811703,GoKidGo -- Gem Sisters: Sister Detectives
 https://feeds.megaphone.fm/STM6212107967,Starglow Media -- KidNuz: News for Kids
 https://feeds.megaphone.fm/GLSS8637059451,Starglow Media -- Who Smarted? - Educational Podcast for Kids
 https://feeds.megaphone.fm/STM6807571366,Starglow Media -- Sleep Tight Stories - Bedtime Stories for Kids
@@ -717,10 +719,10 @@ https://feeds.simplecast.com/cRDWESkJ,VAULT Studios -- Intent: The Tex McIver Ca
 https://feeds.simplecast.com/8FpeM9Hp,VAULT Studios -- Killer Cases
 https://feeds.simplecast.com/IKmQVCyJ,VAULT Studios -- The Yellow Car
 https://feeds.simplecast.com/kQxAiONB,VAULT Studios -- Locked Inside
-https://feeds.simplecast.com/6qB4d5No,VAULT Studios -- Urge to Kill - VS
 https://feeds.simplecast.com/Qf75jF2E,VAULT Studios -- Strangeville
-https://feeds.simplecast.com/_6RrUJUg,VAULT Studios -- Anything You Say
+https://feeds.simplecast.com/6qB4d5No,VAULT Studios -- Urge to Kill - VS
 https://feeds.simplecast.com/csxHRhCe,VAULT Studios -- Should Be Alive
+https://feeds.simplecast.com/_6RrUJUg,VAULT Studios -- Anything You Say
 https://feeds.simplecast.com/QMGN1X4y,VAULT Studios -- 88 Days: The Jayme Closs Story - VS
 https://feeds.simplecast.com/ozREz7Mb,VAULT Studios -- Bomber
 https://feeds.simplecast.com/V5SWTnMF,VAULT Studios -- Selena: A Star Dies in Texas
@@ -736,8 +738,8 @@ https://youthcultureinc.podomatic.com/rss2.xml,Youth Inc. -- Youth Culture Podca
 https://rss.alivepodcastnetwork.com/youthsoup-a-podcast-by-listen-up-youth-radio,Youth Inc. -- YouthSoup: A Podcast by Listen Up Youth Radio
 http://www.bizlynks.tv/category/letstalknonprofits/feed/podcast/,Youth Inc. -- Let's Talk Nonprofits | BizLynks TV Network
 https://anchor.fm/s/3e308b60/podcast/rss,Youth Inc. -- Martial Arts and More
-https://anchor.fm/s/22ffd468/podcast/rss,Youth Inc. -- Humans for SDGs
 https://rss.buzzsprout.com/2530062.rss,Youth Inc. -- Let's Talk About It by HYC
+https://anchor.fm/s/22ffd468/podcast/rss,Youth Inc. -- Humans for SDGs
 https://anchor.fm/s/108355a1c/podcast/rss,Youth Inc. -- Still In The Game with Leah Jantzen
 https://anchor.fm/s/54638e28/podcast/rss,Youth Inc. -- Ghetto Youth Podcast
 https://anchor.fm/s/1f23ce08/podcast/rss,"Youth Inc. -- Elmcor Youth & Adult Activities, Inc."
@@ -776,8 +778,8 @@ https://anchor.fm/s/5705de60/podcast/rss,"Penguin Random House Audio -- Dafne Sc
 https://feeds.soundcloud.com/users/soundcloud:users:305055662/sounds.rss,Penguin Random House Audio -- Me gusta escuchar Podcast
 https://feeds.soundcloud.com/users/soundcloud:users:750992302/sounds.rss,Penguin Random House Audio -- Penguin: Listen To
 https://anchor.fm/s/e7182ea4/podcast/rss,Penguin Random House Audio -- Alpe d'Huez
-https://rss.art19.com/kein-maedchen-fuer-alles-raus-aus-der-harmoniefalle,Penguin Random House Audio -- Kein Mädchen für alles - Raus aus der Harmoniefalle!
 https://feeds.simplecast.com/igMB9yxC,Penguin Random House Audio -- The Baldwin 100
+https://rss.art19.com/kein-maedchen-fuer-alles-raus-aus-der-harmoniefalle,Penguin Random House Audio -- Kein Mädchen für alles - Raus aus der Harmoniefalle!
 https://feeds.transistor.fm/mariano-sigman-un-podcast-de-sus-libros,Penguin Random House Audio -- Mariano Sigman: un podcast de sus libros
 https://anchor.fm/s/fae0ed40/podcast/rss,Penguin Random House Audio -- Bendita sed. La historia de la editorial Alfaguara
 https://anchor.fm/s/1104604cc/podcast/rss,Penguin Random House Audio -- In Hiding by Marguerite Élias Quddus - Holocaust Survivor Memoirs Collection
@@ -844,8 +846,8 @@ https://feeds.megaphone.fm/ADL4806200195,"Cosmic Standard -- Investies: Your Wee
 https://feeds.simplecast.com/VLcuBq8q,iM Media -- Media Clips
 https://rss.buzzsprout.com/2501875.rss,iM Media -- I'm Disabled... So What?
 https://feeds.soundcloud.com/users/soundcloud:users:243404756/sounds.rss,iM Media -- Zwischen Baby und Bildschirm
-https://anchor.fm/s/40fd9324/podcast/rss,iM Media -- I'm a Protagonist
 https://feeds.transistor.fm/fileye-takilanlar,iM Media -- Fileye Takılanlar
+https://anchor.fm/s/40fd9324/podcast/rss,iM Media -- I'm a Protagonist
 https://feeds.hubhopper.com/3003f150ba36e44f06d8b11418c2f684.rss,iM Media -- Social media impact on students
 https://feeds.megaphone.fm/GLT7578700931,"Platform Media -- The Good, The Bad & The Rugby"
 https://feeds.megaphone.fm/GLT9487939818,Platform Media -- Wolf & Owl with Romesh Ranganathan and Tom Davis
@@ -937,19 +939,19 @@ https://anchor.fm/s/468ee720/podcast/rss,Foreign Policy -- Eyes on Southeast Asi
 https://feeds.megaphone.fm/FGP2076453861,Foreign Policy -- Munich Moments
 https://feeds.megaphone.fm/FGP5617743572,Foreign Policy -- Strength in Numbers
 https://feeds.megaphone.fm/FGP7642678408,Foreign Policy -- And Now The Hard Part
-https://feeds.megaphone.fm/FGP6134186599,Foreign Policy -- I Serve
 https://feeds.megaphone.fm/FGP3437157374,Foreign Policy -- World's Toughest Job
 https://feeds.megaphone.fm/FGP9803647303,Foreign Policy -- The Threshold
+https://feeds.megaphone.fm/FGP6134186599,Foreign Policy -- I Serve
 https://anchor.fm/s/10f6bf944/podcast/rss,Foreign Policy -- Shifting Ground
 https://feeds.megaphone.fm/FGP6171574823,Foreign Policy -- Syria's Lost Generation
 https://feeds.megaphone.fm/FGP6505362237,Foreign Policy -- Can We End Epidemics?
-https://anchor.fm/s/104a07580/podcast/rss,Foreign Policy -- Report in Short
 https://feeds.megaphone.fm/FGP8571683953,Foreign Policy -- Hemispheric Security With FIU
+https://anchor.fm/s/104a07580/podcast/rss,Foreign Policy -- Report in Short
 https://api.substack.com/feed/podcast/2679302.rss,Foreign Policy -- Behind The Front
 https://feeds.megaphone.fm/FGP6938197607,Foreign Policy -- AVPN: Asian Leadership for an Inclusive World
 https://feeds.acast.com/public/shows/6a072dcb382d6c403028bf29,Foreign Policy -- After Hotel Rwanda
-https://feeds.megaphone.fm/FGP5040279877,Foreign Policy -- ProHuman: Governing the Global AI Revolution
 https://feeds.megaphone.fm/FGP7226169535,Foreign Policy -- New Rules for a Broken System
+https://feeds.megaphone.fm/FGP5040279877,Foreign Policy -- ProHuman: Governing the Global AI Revolution
 https://feeds.megaphone.fm/FGP1394259262,Foreign Policy -- Asian Innovation for Global Good
 https://anchor.fm/s/463b9f34/podcast/rss,Foreign Policy -- Princeton Foreign Policy Podcast
 https://thateurovisionsite.com/category/that-eurovision-site-podcast/feed/,Eurovision New Media -- That Eurovision Site
@@ -976,8 +978,8 @@ https://media.rss.com/the-eurovisionhq-podcast/feed.xml,Eurovision New Media -- 
 https://eurovisionusa2017.podomatic.com/rss2.xml,Eurovision New Media -- Eurovision USA's Podcast
 https://eurovisioncountdown.podomatic.com/rss2.xml,Eurovision New Media -- Joanna Ryde's Eurovision Countdown
 https://www.omnycontent.com/d/playlist/fc5ddee7-3818-43d0-ad7b-afa700ab912d/a475f97b-9b50-4fd4-95b0-b096001104e4/dd1f20ba-7933-4719-bbff-b09600117e97/podcast.rss,Eurovision New Media -- Camp Eurovision
-https://anchor.fm/s/df37f84/podcast/rss,Eurovision New Media -- Eurovision Norway
 https://anchor.fm/s/944b43b4/podcast/rss,Eurovision New Media -- Camino a Eurovisión
+https://anchor.fm/s/df37f84/podcast/rss,Eurovision New Media -- Eurovision Norway
 https://anchor.fm/s/d6e820e8/podcast/rss,Eurovision New Media -- Acesso Eurovision
 https://anchor.fm/s/114186e3c/podcast/rss,Eurovision New Media -- Green Room - Eurovision and Friends
 https://anchor.fm/s/24416e18/podcast/rss,Eurovision New Media -- Eurovision para Latinos
@@ -1033,8 +1035,8 @@ https://feeds.megaphone.fm/VMP8863223339,Vox Media Podcast Network -- Bird's Eye
 https://feeds.megaphone.fm/VMP6435993377,"Vox Media Podcast Network -- America, Actually with Astead Herndon"
 https://feeds.megaphone.fm/VMP9785691130,Vox Media Podcast Network -- That Sounds Like A Lot with Matt Buechele
 https://rss.pdrl.fm/7fd02b/feeds.megaphone.fm/WWO6859523866,Cumulus Podcast Network -- The Chris Plante Show
-https://rss.pdrl.fm/51e092/feeds.megaphone.fm/bob-and-tom,Cumulus Podcast Network -- The BOB & TOM Show Free Podcast
 https://feeds.megaphone.fm/mark-levin-podcast,Cumulus Podcast Network -- Mark Levin Podcast
+https://rss.pdrl.fm/51e092/feeds.megaphone.fm/bob-and-tom,Cumulus Podcast Network -- The BOB & TOM Show Free Podcast
 https://rss.pdrl.fm/258cf2/feeds.megaphone.fm/WWO3198340993,Cumulus Podcast Network -- Red Eye Radio
 https://feeds.megaphone.fm/WWO1500570782,Cumulus Podcast Network -- The Jim Rome Show
 https://feeds.megaphone.fm/BENNYMED7549931483,Cumulus Podcast Network -- The Benny Show
@@ -1185,8 +1187,8 @@ https://feeds.feedburner.com/TheCelticsPodWithErikVandenbossche,Townsquare Media
 https://feeds.megaphone.fm/WMHY1886903044,WBD / HBO Podcasts -- Real Time with Bill Maher
 https://feeds.megaphone.fm/theofficialwatchmenpodcast,WBD / HBO Podcasts -- The Official Watchmen Podcast
 https://feeds.megaphone.fm/WMHY6020782158,WBD / HBO Podcasts -- DC Studios Showcase: The Official Podcast
-https://rss.introcast.io/1801207070/feeds.acast.com/public/shows/67cee57ed64d9d8e86db08e1,WBD / HBO Podcasts -- The Official Big Bang Theory Podcast
 https://feeds.megaphone.fm/WMHY4437141605,WBD / HBO Podcasts -- Truest Blood
+https://rss.introcast.io/1801207070/feeds.acast.com/public/shows/67cee57ed64d9d8e86db08e1,WBD / HBO Podcasts -- The Official Big Bang Theory Podcast
 https://feeds.megaphone.fm/WMHY9427820236,WBD / HBO Podcasts -- The Official Game of Thrones Podcast: House of the Dragon
 https://feeds.megaphone.fm/WMHY8133739428,WBD / HBO Podcasts -- Hard Knocks Podcast
 https://feeds.megaphone.fm/WMHY7111527496,WBD / HBO Podcasts -- Talking Pictures
@@ -1197,16 +1199,16 @@ https://feeds.megaphone.fm/WMHY2423791438,WBD / HBO Podcasts -- The White Lotus 
 https://feeds.megaphone.fm/WMHY3005782945,WBD / HBO Podcasts -- HBO's The Last of Us Podcast
 https://feeds.megaphone.fm/WMHY5546539939,WBD / HBO Podcasts -- The Pitt Podcast
 https://feeds.megaphone.fm/WMHY4266495144,WBD / HBO Podcasts -- The Official Jinx Podcast
-https://feeds.megaphone.fm/WMHY9459724676,WBD / HBO Podcasts -- Harry Potter: The Official Film Podcast
 https://feeds.megaphone.fm/lovecraft-country-radio,WBD / HBO Podcasts -- Lovecraft Country Radio
+https://feeds.megaphone.fm/WMHY9459724676,WBD / HBO Podcasts -- Harry Potter: The Official Film Podcast
 https://feeds.megaphone.fm/WMHY9073747420,WBD / HBO Podcasts -- Band of Brothers Podcast
-https://feeds.megaphone.fm/WMHY8466258550,WBD / HBO Podcasts -- Murder in Boston Podcast
 https://www.spreaker.com/show/4696006/episodes/feed,WBD / HBO Podcasts -- Euphoria: O Podcast
+https://feeds.megaphone.fm/WMHY8466258550,WBD / HBO Podcasts -- Murder in Boston Podcast
 https://feeds.megaphone.fm/thechernobylpodcast,WBD / HBO Podcasts -- The Chernobyl Podcast
 https://feeds.megaphone.fm/WMHY2669044599,WBD / HBO Podcasts -- Station Eleven: The Podcast
-https://feeds.megaphone.fm/WMHY9842844972,WBD / HBO Podcasts -- The Wire at 20
 https://feeds.megaphone.fm/WMHY1522224382,WBD / HBO Podcasts -- IT: Welcome to Derry The Official Podcast
 https://feeds.megaphone.fm/hbos-ill-be-gone-in-the-dark,WBD / HBO Podcasts -- HBO's I'll Be Gone In The Dark Podcast
+https://feeds.megaphone.fm/WMHY9842844972,WBD / HBO Podcasts -- The Wire at 20
 https://feeds.megaphone.fm/WMHY7948356611,WBD / HBO Podcasts -- The Comeback Official Podcast
 https://feeds.megaphone.fm/WMHY9760727056,WBD / HBO Podcasts -- Dune: Prophecy The Official Podcast
 https://feeds.megaphone.fm/WMHY2325001292,WBD / HBO Podcasts -- HBO Docs Club
@@ -1216,8 +1218,8 @@ https://feeds.megaphone.fm/WMHY5143457608,WBD / HBO Podcasts -- Behind The Inves
 https://feeds.megaphone.fm/WMHY5268368459,WBD / HBO Podcasts -- We Own This City Podcast
 https://feeds.megaphone.fm/WMHY7420259586,WBD / HBO Podcasts -- HBO’s Between The World And Me Podcast
 https://feeds.megaphone.fm/WMHY3577996025,WBD / HBO Podcasts -- 100 Foot Wave Podcast
-https://feeds.megaphone.fm/the-plot-against-america,WBD / HBO Podcasts -- The Plot Against America Podcast
 https://feeds.megaphone.fm/WMHY3393408140,WBD / HBO Podcasts -- The True Detective: Night Country Podcast
+https://feeds.megaphone.fm/the-plot-against-america,WBD / HBO Podcasts -- The Plot Against America Podcast
 https://feeds.megaphone.fm/WMHY6959398931,WBD / HBO Podcasts -- White House Plumbers Podcast
 https://feeds.megaphone.fm/WMHY8842815793,WBD / HBO Podcasts -- Allen v. Farrow Podcast
 https://feeds.megaphone.fm/WMHY2203774704,WBD / HBO Podcasts -- The Landscapers Podcast
@@ -1243,8 +1245,8 @@ https://feeds.simplecast.com/Y8V5qO1V,Yahoo Sports -- Yahoo Sports NFL
 https://feeds.simplecast.com/T15cXQd0,Yahoo Sports -- The Cooligans
 https://feeds.simplecast.com/9Unh1yK9,Yahoo Sports -- College Football Enquirer
 https://feeds.simplecast.com/_VN3RDrT,Yahoo Sports -- The Ariel Helwani Show
-https://feeds.simplecast.com/Lj5JhCEG,Yahoo Sports -- Yahoo Fantasy Football with Josh & Hayden
 https://feeds.simplecast.com/A9Qn_Eje,Yahoo Sports -- Yahoo Sports NBA
+https://feeds.simplecast.com/Lj5JhCEG,Yahoo Sports -- Yahoo Fantasy Football with Josh & Hayden
 https://feeds.simplecast.com/tZ75G3mD,Yahoo Sports -- Baseball Bar-B-Cast
 https://feeds.simplecast.com/E6_xetdE,Yahoo Sports -- The Dunker Spot
 https://feeds.simplecast.com/9coXRx_y,Yahoo Sports -- Inside Boxing
@@ -1256,3 +1258,491 @@ https://feeds.simplecast.com/N_dMn39K,Yahoo Sports -- The Big Number
 https://feeds.simplecast.com/0jNGJ2ul,Yahoo Sports -- Hoops 360
 https://feeds.simplecast.com/HdZ8XIvS,Yahoo Sports -- The Uncrowned Wrestling Show
 https://feeds.simplecast.com/IJjq9g6N,Yahoo Sports -- Network with Rich Kleiman
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/39e934d7-2ddc-4b3e-bc73-ae2b00156363/ab6037f4-9a9a-449b-915d-ae2b00156375/podcast.rss,iHeartPodcasts -- The Daily Zeitgeist
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2e824128-fbd5-4c9e-9a57-ae2f0056b0c4/66d98a23-900c-44b0-a40b-ae2f0056b0db/podcast.rss,iHeartPodcasts -- Stuff They Don't Want You To Know
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/fa4da4b1-6500-4550-a0ed-ae2d0142ad16/2442b355-5ab7-45d4-92db-ae2d0142ad24/podcast.rss,iHeartPodcasts -- The Steve Harvey Morning Show
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cfb428ef-eafc-44d0-9d09-ae2701747e6f/fb626e1f-112c-4246-a40d-ae2701747e7d/podcast.rss,iHeartPodcasts -- Stuff You Missed in History Class
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/68466af8-84dd-421f-99de-b0b20155ece0/cfc84027-3a4f-421d-901d-b0b201563f9f/podcast.rss,iHeartPodcasts -- Amy & T.J.
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/17515599-8cd7-442b-bd89-b24800ef12bf/5d344b80-8a14-47a1-8a84-b24800ef12d7/podcast.rss,iHeartPodcasts -- ok storytime
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/edfce6b3-c206-4832-8816-ae2c007cfc84/06ea0549-dbc2-4d82-a8e2-ae2c007cfc9b/podcast.rss,iHeartPodcasts -- Naughty But Nice with Rob Shuter
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e7fd5ae7-7621-4e41-9b85-b0ab0164b634/4c1a5135-4197-47c9-b19b-b0ab0164b667/podcast.rss,iHeartPodcasts -- Breaking Points with Krystal and Saagar
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/dca0d8ad-e0b8-4a52-a2a8-ae300188d1e2/fe9400d8-dd2a-489f-82d9-ae300188d1eb/podcast.rss,iHeartPodcasts -- Ridiculous History
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/157e8639-07ec-4df5-ad25-ae3c0021f36d/d4804613-0c6f-4bde-9b7a-ae3c0021f37b/podcast.rss,iHeartPodcasts -- Whine Down with Jana Kramer
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9a432e8b-a377-4f7f-9474-aeb500ed9e5b/38417d40-704e-4842-92f3-aeb500ee2aba/podcast.rss,iHeartPodcasts -- Pod Meets World
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/5900456b-1613-453b-b072-af1201655554/e44eee4e-0508-4c4d-bca4-af120165bf69/podcast.rss,iHeartPodcasts -- Fast Politics with Molly Jong-Fast
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/009b23ef-9bd1-4caf-a592-ae3101631380/7e804438-d6f3-48a0-9de8-ae310163138e/podcast.rss,iHeartPodcasts -- Scrubbing In with Becca Tilley & Tanya Rad
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c4d5247b-874a-40bb-a201-b12500ec6f12/743baaf0-fd7c-49ce-b056-b12500ec6f46/podcast.rss,iHeartPodcasts -- X-Ray Vision
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cbb40a38-726f-4243-a86e-b0ed01477640/ff9164b2-aa64-410d-9ee1-b0ed0147765c/podcast.rss,iHeartPodcasts -- Elevation with Steven Furtick
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/86918ee4-4aa4-497b-995a-ae32006cd4b7/ee132490-ba24-4965-b558-ae32006cd4c0/podcast.rss,iHeartPodcasts -- The Questlove Show
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bc44988a-a82a-4291-ab8b-afdd01187fa8/39e2f432-53df-43b8-a7b9-afdd01187fc4/podcast.rss,iHeartPodcasts -- The Psychology of your 20s
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/cca17ef5-974c-4e61-997c-ae3300346e3b/podcast.rss,iHeartPodcasts -- Dear Chelsea
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a41bd365-c6bc-4966-9ac2-ae28005326f5/6097c5b8-233a-45bf-8f11-ae2800532703/podcast.rss,iHeartPodcasts -- This Is Important
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/093f40b6-4fc3-4e40-88f5-b03700fd2413/858ff671-e1bd-44d8-8421-b03700fd821f/podcast.rss,"iHeartPodcasts -- How Rude, Tanneritos!"
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f26e11c6-16b5-455f-8a26-af6a01329c1b/1203cc91-c8f3-4af1-9a96-af6a0133b1ab/podcast.rss,iHeartPodcasts -- Zone 7 with Sheryl McCollum
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0965295f-dd3d-4599-8cb8-ae280186f611/412d9032-c796-4b65-b148-ae280186f628/podcast.rss,iHeartPodcasts -- Ellis Ever After
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/9216806a-7cf2-4ebe-b68b-ae2d0173cb71/4d305889-aa33-49d9-bee7-ae2d0173cb7b/podcast.rss,iHeartPodcasts -- Family Secrets
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d66e7972-b1e6-48f3-8338-b2430113ec49/c211735a-87bd-4e43-81a7-b2430113ef06/podcast.rss,iHeartPodcasts -- Are You A Charlotte?
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/485bef61-b08e-4849-88be-b0fa0111de37/93e2b79d-acec-404d-abfe-b0fa01125f97/podcast.rss,iHeartPodcasts -- Mission Implausible
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1b36bef5-b515-4e5a-a41c-affa00ea1bed/5791c797-eaca-40d3-bc1b-affa00ead276/podcast.rss,iHeartPodcasts -- Grown-Up Stuff: How to Adult
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8fe44848-18fc-4272-b132-b01901550c40/8b5560dc-e973-4d2b-bc98-b01901558d7b/podcast.rss,iHeartPodcasts -- Untold Stories: Life with a Severe Autoimmune Condition
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/21fad3fc-d494-424f-9dec-b1920128ba62/a6578695-21bf-40cc-a75a-b192012bc541/podcast.rss,iHeartPodcasts -- Rebel Spirit
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/76706e7e-1b94-44fa-957f-afe8014e361d/3ab2d890-120f-47f1-b3c1-afe8014e8ace/podcast.rss,iHeartPodcasts -- The Head Start: Embracing the Journey
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/52219137-49f5-4741-aae2-b4740111ef6e/c30c1aa6-79cd-4d46-8cb9-b4740111f3b4/podcast.rss,iHeartPodcasts -- Waking Up With Ryan
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/02f4a153-b4d0-49be-b01d-ae280186f65c/49d712c5-9116-49e8-a57e-ae280186f66a/podcast.rss,iHeartPodcasts -- We're Having a Moment
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/376cc748-244a-4e11-9961-b3690112ea56/4bfb3d6a-6a44-4103-b877-b3690112ee63/podcast.rss,iHeartPodcasts -- Laugh But Not Least
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/466ab532-01a3-4b54-a82a-b47b00e7f6f1/70c5563e-a32a-4103-bdb4-b47b00e7fb2f/podcast.rss,iHeartPodcasts -- You’re The Problem... with Yamaneika
+https://rss.art19.com/armchair-expert,Wondery -- Armchair Expert with Dax Shepard
+https://rss.art19.com/how-i-built-this,Wondery -- How I Built This with Guy Raz
+https://rss.art19.com/the-old-man-and-the-three,Wondery -- The Old Man and the Three
+https://rss.art19.com/new-heights,Wondery -- New Heights with Jason & Travis Kelce
+https://rss.art19.com/baby-this-is-keke-palmer,"Wondery -- Baby, this is Keke Palmer"
+https://rss.art19.com/we-playin-spades,Wondery -- We Playin' Spades
+https://rss.art19.com/moms-car,Wondery -- Mom's Car
+https://feeds.npr.org/510309/podcast.xml,NPR -- Bullseye with Jesse Thorn
+https://feeds.npr.org/510299/podcast.xml,NPR -- Ask Me Another
+https://feeds.npr.org/510324/podcast.xml,NPR -- Rough Translation
+https://feeds.npr.org/510307/podcast.xml,NPR -- Invisibilia
+https://feeds.npr.org/510051/podcast.xml,NPR -- Here & Now Anytime
+https://feeds.npr.org/510200/podcast.xml,NPR -- StoryCorps
+https://feeds.npr.org/510372/podcast.xml,NPR -- Black Stories. Black Truths.
+https://feeds.npr.org/510354/podcast.xml,NPR -- The Students' Podcast
+https://feeds.npr.org/510357/podcast.xml,NPR -- Louder Than A Riot
+https://feeds.npr.org/510375/podcast.xml,NPR -- Body Electric
+https://feeds.npr.org/g-s1-114952/podcast.xml,NPR -- NPR's Newsmakers
+https://feeds.npr.org/510326/podcast.xml,NPR -- Believed
+https://feeds.npr.org/510356/podcast.xml,NPR -- No Compromise
+https://feeds.acast.com/public/shows/67587e77c705e441797aff96,TED Audio Collective -- TED Talks Daily
+https://feeds.acast.com/public/shows/67572f5f7205a5bc68e9792a,TED Audio Collective -- Design Matters with Debbie Millman
+https://feeds.acast.com/public/shows/670459d91a3de581c685a700,TED Audio Collective -- TEDx Shorts
+https://feeds.acast.com/public/shows/67572b3b2dd88df13220eb3b,TED Audio Collective -- How to Be a Better Human
+https://feeds.acast.com/public/shows/675727607205a5bc68e57057,TED Audio Collective -- TED Business
+https://feeds.acast.com/public/shows/67585b08102e6d4448d360b1,TED Audio Collective -- TED Health
+https://feeds.acast.com/public/shows/67585d9cc705e441796ddaf6,TED Audio Collective -- Worklife with Molly Graham
+https://feeds.acast.com/public/shows/67585c62102e6d4448d44969,TED Audio Collective -- TED Tech
+https://feeds.acast.com/public/shows/c7c8d4c1-dcdb-4ed7-95e9-1aade928b5f9,TED Audio Collective -- TED en Español
+https://feeds.acast.com/public/shows/675858676d1777b3683ec351,TED Audio Collective -- ReThinking
+https://feeds.acast.com/public/shows/67573202e417dbfb211f744a,TED Audio Collective -- After Hours
+https://feeds.acast.com/public/shows/67572068d59c6635eea1c5fc,TED Audio Collective -- Fixable
+https://feeds.acast.com/public/shows/64f74dde9a04ce0011863833,TED Audio Collective -- TED中文
+https://feeds.acast.com/public/shows/67045b43aa9d704b1e952e88,TED Audio Collective -- The TED Interview
+https://feeds.acast.com/public/shows/6737ba65efa89af0b58e854e,TED Audio Collective -- TED en Français
+https://feeds.acast.com/public/shows/6704588fa77002bfdd05b1a0,TED Audio Collective -- Speed & Scale
+https://feeds.acast.com/public/shows/670453211a3de581c6843802,TED Audio Collective -- Conversations with People Who Hate Me
+https://feeds.acast.com/public/shows/6758564a102e6d4448d19589,TED Audio Collective -- The TED AI Show
+https://feeds.acast.com/public/shows/670454296f369dd035d56571,TED Audio Collective -- Far Flung with Saleem Reshamwala
+https://feeds.acast.com/public/shows/67045002c88f09c3e013b3e9,TED Audio Collective -- Body Stuff with Dr. Jen Gunter
+https://feeds.acast.com/public/shows/67043f1cc88f09c3e00f0a0f,TED Audio Collective -- Am I Normal? with Mona Chalabi
+https://feeds.acast.com/public/shows/670455086f369dd035d58c2d,TED Audio Collective -- Good Sport
+https://feeds.acast.com/public/shows/67045a4aaa9d704b1e94f29b,TED Audio Collective -- The Redemption of Jar Jar Binks
+https://feeds.megaphone.fm/LEME9795629446,Lemonada Media -- Happier with Gretchen Rubin
+https://feeds.megaphone.fm/LEME5450832048,Lemonada Media -- Pantsuit Politics
+https://feeds.megaphone.fm/LEME1276237086,Lemonada Media -- You Made It Weird with Pete Holmes
+https://feeds.megaphone.fm/LEME3032179732,Lemonada Media -- Happier in Hollywood
+https://feeds.megaphone.fm/LEME2975027092,Lemonada Media -- Ask Iliza Anything
+https://feeds.megaphone.fm/LEME6759780462,Lemonada Media -- Pulling The Thread with Elise Loehnen
+https://feeds.megaphone.fm/LEME2638527632,Lemonada Media -- The Deep Dive with Jessica St. Clair and June Diane Raphael
+https://feeds.megaphone.fm/LEME6986128900,Lemonada Media -- Everything Happens with Kate Bowler
+https://feeds.megaphone.fm/LEME9794886861,Lemonada Media -- PANTS with Kate and Leisha
+https://feeds.megaphone.fm/LEME5992234394,Lemonada Media -- Attitudes!
+https://feeds.megaphone.fm/LEME6121056853,Lemonada Media -- Podcrushed
+https://feeds.megaphone.fm/LEME1560835092,Lemonada Media -- Threedom
+https://feeds.megaphone.fm/LEME1350073476,Lemonada Media -- LOVERS by Shan
+https://feeds.megaphone.fm/LEME9724073142,Lemonada Media -- Hasan Minhaj Doesn't Know
+https://feeds.megaphone.fm/LEME2226086440,Lemonada Media -- Wiser Than Me with Julia Louis-Dreyfus
+https://feeds.megaphone.fm/LEME4270137199,Lemonada Media -- The Dough
+https://feeds.megaphone.fm/LEME8170808443,Lemonada Media -- The Dan Buettner Podcast
+https://feeds.megaphone.fm/LEME9422943817,Lemonada Media -- That Can't Be True with Chelsea Clinton
+https://feeds.megaphone.fm/LEME2778257496,Lemonada Media -- Don't Listen To Us with Mandy Patinkin and Kathryn Grody
+https://feeds.megaphone.fm/LEME9395267617,Lemonada Media -- Alive with Steve Burns
+https://feeds.megaphone.fm/LEME5991934995,Lemonada Media -- Talkaboutable with Dr. Susan Swick
+https://feeds.megaphone.fm/LEME7490448611,Lemonada Media -- Since You Asked with Lori Gottlieb and Gretchen Rubin
+https://feeds.megaphone.fm/LEME1593096556,Lemonada Media -- No Magic Pill with Blake Mycoskie
+https://feeds.megaphone.fm/LEME1366284683,Lemonada Media -- Discarded
+https://podcastfeeds.nbcnews.com/yf3E6y7x,NBC News -- Meet the Press
+https://podcastfeeds.nbcnews.com/l7QocwtX,NBC News -- Top Story with Tom Llamas
+https://podcastfeeds.nbcnews.com/l7jK75d0,NBC News -- NBC Nightly News with Tom Llamas
+https://podcastfeeds.nbcnews.com/7JV9rBeH,NBC News -- Meet the Press Archive
+https://feeds.simplecast.com/u8MC4WkR,NBC News -- Here's the Scoop
+https://podcastfeeds.nbcnews.com/36oQxM5T,NBC News -- Article II: Inside Impeachment
+https://podcastfeeds.nbcnews.com/5eE3p4Rg,NBC News -- Southlake
+https://feeds.simplecast.com/HC1RIAgS,NBC News -- Dead Certain: The Martha Moxley Murder
+https://podcastfeeds.nbcnews.com/W7BLhfnU,NBC News -- Letters from Sing Sing
+https://podcastfeeds.nbcnews.com/e8NiyqbF,NBC News -- Grapevine
+https://feeds.simplecast.com/wrpRw8Ak,NBC News -- The Drink with Kate Snow
+https://podcastfeeds.nbcnews.com/LKIzo4FW,NBC News -- Byers Market
+https://podcastfeeds.nbcnews.com/f9khfBWM,NBC News -- Truthers: Tiffany Dover Is Dead*
+https://podcastfeeds.nbcnews.com/1AywjwHN,NBC News -- In Their Court
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/8e6865a3-daf5-49de-ab9f-b3df013312cd/bc6b5015-6def-4f8d-aee5-b3df013312d5/podcast.rss,NBC Sports -- PFT Live with Mike Florio
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/78bf40ca-35a9-4977-bef5-b3df0134b699/170962aa-f18f-494e-a969-b3df0134b6a2/podcast.rss,NBC Sports -- Rotoworld Football Show – Fantasy Football
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/f3b09715-6de9-4fc5-9441-b3df0134b61f/6b10fd14-873c-4c54-9a31-b3df0134b625/podcast.rss,NBC Sports -- PFT PM
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/272f2dfc-84c0-481c-9d0d-b3df013312b6/14e105a3-7def-4d65-b2f1-b3df013312bd/podcast.rss,NBC Sports -- Rotoworld Basketball Show – Fantasy Basketball
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/e527da65-b065-4c4d-8ece-b3df0134b3d0/3d3a3c3f-3b87-4713-a596-b3df0134b3d7/podcast.rss,NBC Sports -- Bet The Edge
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/02686249-75b3-40ce-b58f-b3df0134b685/89df2a40-d377-4495-87df-b3df0134b68b/podcast.rss,NBC Sports -- Chris Simms Unbuttoned
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/c10b9dfe-5733-449c-8d2b-b3df0133129b/d7567ff3-c90f-4e8a-be14-b3df013312a5/podcast.rss,NBC Sports -- The 2 Robbies
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/d32664f0-cc73-4337-a7b3-b3df0134b636/1e9e6b14-8e28-4c06-a358-b3df0134b63e/podcast.rss,NBC Sports -- Rotoworld Baseball Show – Fantasy Baseball
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/1da8327e-c2fe-4a62-aded-b3df01331269/c5e0799c-f02c-47bc-ac46-b3df01331270/podcast.rss,NBC Sports -- NASCAR on NBC podcast
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/abca8ab4-52fa-42a6-b48b-b3df0134b5e5/1b3e1524-6aab-4504-983e-b3df0134b5ec/podcast.rss,NBC Sports -- Title 24
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/318bd42e-728d-415f-920c-b3df0134b584/591791ec-7ff6-4918-bf88-b3df0134b590/podcast.rss,NBC Sports -- The Podium
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/28564684-36c8-4677-a23b-b3df01331280/c851c10b-e677-4b05-a0cd-b3df01331288/podcast.rss,NBC Sports -- For the Love of Sport
+https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/2814bbb2-2b6c-427e-beec-b3df0134b4d9/0edfccc9-ed27-4329-819e-b3df0134b4e3/podcast.rss,NBC Sports -- In The Village
+https://feeds.simplecast.com/_5Ij1sXp,NBC Sports -- Spill the Tee with Amy & Anna
+https://mcsorleys.barstoolsports.com/feed/chicago-dog-walk,Barstool Sports -- The Dog Walk
+https://mcsorleys.barstoolsports.com/feed/pardon-my-take,Barstool Sports -- Pardon My Take
+https://mcsorleys.barstoolsports.com/feed/the-yak,Barstool Sports -- The Yak
+https://mcsorleys.barstoolsports.com/feed/chicks-in-the-office,Barstool Sports -- Chicks in the Office
+https://mcsorleys.barstoolsports.com/feed/the-kirk-minihane-show,Barstool Sports -- The Kirk Minihane Show
+https://mcsorleys.barstoolsports.com/feed/fore-play,Barstool Sports -- Fore Play
+https://mcsorleys.barstoolsports.com/podcasts/prPvJHG2VIlkl2YQGY4SAwgx/feed.xml,Barstool Sports -- Mostly Sports With Mark Titus and Brandon Walker
+https://mcsorleys.barstoolsports.com/feed/red-line-radio,Barstool Sports -- The Stretch
+https://mcsorleys.barstoolsports.com/feed/spittin-chiclets,Barstool Sports -- Spittin Chiclets
+https://mcsorleys.barstoolsports.com/feed/comeback-szn,Barstool Sports -- Brandon Walker College Football Show
+https://mcsorleys.barstoolsports.com/feed/barstool-podcast-8,Barstool Sports -- Macrodosing: Arian Foster and PFT Commenter
+https://mcsorleys.barstoolsports.com/feed/million-dollaz-worth-of-game,Barstool Sports -- Million Dollaz Worth Of Game
+https://mcsorleys.barstoolsports.com/podcasts/380590e1/feed.xml,Barstool Sports -- Son of a Boy Dad
+https://mcsorleys.barstoolsports.com/feed/planbri-uncut,Barstool Sports -- PlanBri Uncut
+https://mcsorleys.barstoolsports.com/feed/a-new-untold-story,Barstool Sports -- A New Untold Story
+https://mcsorleys.barstoolsports.com/podcasts/NnvIqnmjUVydvarVDfN4mNFV/feed.xml,Barstool Sports -- Wake Up Barstool
+https://mcsorleys.barstoolsports.com/feed/ryen-russillo-show,Barstool Sports -- The Ryen Russillo Show
+https://mcsorleys.barstoolsports.com/podcasts/mvloXgt2iqPS30Flt5VfcE4M/feed.xml,Barstool Sports -- Drop A Pin
+https://mcsorleys.barstoolsports.com/feed/lights-camera-barstool,Barstool Sports -- Project Big Screen
+https://mcsorleys.barstoolsports.com/podcasts/CEBl8wX2vcm02pxMbGpzB5Pw/feed.xml,Barstool Sports -- Big Boys Club
+https://feeds.megaphone.fm/WMHY2007701094,CNN -- CNN 5 Things
+https://feeds.megaphone.fm/WMHY6124370245,CNN -- Chasing Life with Dr. Sanjay Gupta
+https://feeds.megaphone.fm/WMHY5177234123,CNN -- CNN One Thing
+https://feeds.megaphone.fm/WMHY7631189553,CNN -- Engagement Party
+https://feeds.megaphone.fm/WMHY4379076087,CNN -- CNN 5 Good Things
+https://feeds.megaphone.fm/WMHY2747256551,CNN -- Terms of Service with Clare Duffy
+https://feeds.megaphone.fm/WMHY5503481559,CNN -- Have I Got News For Your Ears
+https://feeds.megaphone.fm/WMHY6497875466,CNN -- All There Is with Anderson Cooper
+https://feeds.megaphone.fm/WMHY4968101609,CNN -- CNN Presents
+https://feeds.megaphone.fm/ESP5342806866,"ESPN -- UnSportsmanLike with Evan, Canty and Michelle"
+https://feeds.megaphone.fm/WWO9698947413,ESPN -- The Rich Eisen Show
+https://feeds.megaphone.fm/ESP7297553965,ESPN -- The Pat McAfee Show
+https://feeds.megaphone.fm/ESP2444858295,"ESPN -- Don, Hahn & Rosenberg"
+https://feeds.megaphone.fm/ESP3294406270,ESPN -- The Domonique Foxworth Show
+https://feeds.megaphone.fm/ESP4886579461,ESPN -- DiPietro & Rothenberg
+https://feeds.megaphone.fm/ESP4333500438,ESPN -- Mason & Ireland
+https://feeds.megaphone.fm/ESP9520742908,ESPN -- ESPN FC
+https://feeds.megaphone.fm/ESP1539938155,ESPN -- First Take
+https://feeds.megaphone.fm/ESP2870920494,ESPN -- Get Up
+https://feeds.megaphone.fm/ESP6037677737,ESPN -- The Michael Kay Show
+https://feeds.megaphone.fm/ESP1723897648,ESPN -- Baseball Tonight with Buster Olney
+https://feeds.megaphone.fm/ESP7239282233,ESPN -- PTI
+https://feeds.megaphone.fm/ESP3620980398,ESPN -- The Adam Schefter Podcast
+https://feeds.megaphone.fm/ESP7699980268,ESPN -- Fantasy Focus Football
+https://feeds.megaphone.fm/ESP4033296397,ESPN -- Brian Windhorst & The Hoop Collective
+https://feeds.megaphone.fm/ESP9238227703,ESPN -- SVPod
+https://feeds.megaphone.fm/ESP8957020927,ESPN -- The Mina Kimes Show featuring Lenny
+https://feeds.megaphone.fm/ESP5765452710,ESPN -- 30 for 30 Podcasts
+https://feeds.megaphone.fm/ESP1426703566,ESPN -- This Was SportsCenter
+https://feeds.megaphone.fm/ESP8023498749,ESPN -- Ball Up Top
+https://feeds.megaphone.fm/ESP9190963905,ESPN -- The Betrayal of Shohei Ohtani
+https://feeds.megaphone.fm/ESP4070128464,ESPN -- ESPN SportsCenter Update
+https://feeds.simplecast.com/VYCXJ_UH,The Wall Street Journal -- WSJ Your Money Briefing
+https://feeds.simplecast.com/1GoCgj5h,The Wall Street Journal -- WSJ Minute Briefing
+https://feeds.simplecast.com/BA5QWI2p,The Wall Street Journal -- WSJ What’s News
+https://feeds.simplecast.com/ui_HbBma,The Wall Street Journal -- WSJ Tech News Briefing
+https://feeds.simplecast.com/uvLfx5GI,The Wall Street Journal -- WSJ Opinion: Potomac Watch
+https://video-api.wsj.com/podcast/rss/wsj/the-journal,The Wall Street Journal -- The Journal.
+https://feeds.simplecast.com/zJQEz425,The Wall Street Journal -- Bold Names
+https://feeds.simplecast.com/ZUlGgswh,The Wall Street Journal -- WSJ Opinion: Free Expression
+https://feeds.simplecast.com/4LDzav57,The Wall Street Journal -- WSJ's Take On the Week
+https://feeds.simplecast.com/Q_mRyt3T,The Wall Street Journal -- As We Work
+https://feeds.simplecast.com/_hS2b6eO,The Wall Street Journal -- Bad Bets
+https://rss.pdrl.fm/2d6447/thisday.feed.electionhistory.show/,Radiotopia -- This Day (An America 250 History Show)
+https://feed.songexploder.net/SongExploder,Radiotopia -- Song Exploder
+http://feeds.thememorypalace.us/thememorypalace,Radiotopia -- the memory palace
+https://feeds.fugitivewaves.org/fugitivewaves,Radiotopia -- The Kitchen Sisters Present
+https://feeds.feedburner.com/MortifiedPod,Radiotopia -- The Mortified Podcast
+https://feed.radiodiaries.org/radio-diaries,Radiotopia -- Radio Diaries
+https://feeds.feedburner.com/TOE,Radiotopia -- Benjamen Walker's Theory of Everything
+https://feeds.thewestwingweekly.com/westwingweekly,Radiotopia -- The West Wing Weekly
+https://rss.pdrl.fm/13579d/feeds.feedburner.com/radiotopia-showcase,Radiotopia -- Radiotopia Presents: We're Doing the Wiz
+http://feeds.theheartradio.org/TheHeartRadio,Radiotopia -- The Heart
+https://feed.neverpo.st,Radiotopia -- Never Post
+https://feed.articlesofinterest.club/,Radiotopia -- Articles of Interest
+https://feeds.feedburner.com/everythingisalive,Radiotopia -- Everything is Alive
+https://rss.pdrl.fm/cd4580/feed.therecipepodcast.com/,Radiotopia -- The Recipe with Kenji and Deb
+https://feed.proxypodcast.com/,Radiotopia -- Proxy with Yowei Shaw
+https://feed.homecooking.show/,Radiotopia -- Home Cooking
+https://feed.passengerlist.org/,Radiotopia -- Passenger List
+https://publicfeeds.net/f/15471/feed-rss.xml,Radiotopia -- Amityvilleville
+https://publicfeeds.net/f/12468/Try-Hard,Radiotopia -- Try Hard
+https://publicfeeds.net/f/13062/Only-If-You-Get-Caught,Radiotopia -- Only If You Get Caught
+https://rss.libsyn.com/shows/19152/destinations/15269.xml,Maximum Fun -- Stop Podcasting Yourself
+https://feeds.simplecast.com/NDAi3mtz,"Maximum Fun -- Jordan, Jesse, GO!"
+https://feeds.simplecast.com/wjQvYtdl,"Maximum Fun -- My Brother, My Brother And Me"
+https://feeds.simplecast.com/q8x9cVws,Maximum Fun -- Judge John Hodgman
+https://feeds.simplecast.com/EOAFriME,Maximum Fun -- The Flop House
+https://feeds.simplecast.com/y1LF_sn2,Maximum Fun -- Sawbones: A Marital Tour of Misguided Medicine
+https://feeds.simplecast.com/w1teXNny,Maximum Fun -- Wonderful!
+https://feeds.simplecast.com/rRcaqFt4,Maximum Fun -- Shmanners
+https://feeds.simplecast.com/SMcNunjG,Maximum Fun -- Reading Glasses
+https://feeds.simplecast.com/ftB6Gihc,"Maximum Fun -- Oh No, Ross and Carrie"
+https://feeds.simplecast.com/cYQVc__c,Maximum Fun -- The Adventure Zone
+https://feeds.simplecast.com/m3TgdnAm,Maximum Fun -- Just the Zoo of Us
+https://feeds.simplecast.com/6WD3bDj7,Maximum Fun -- Triple Click
+https://feeds.simplecast.com/Hq3igj9D,Maximum Fun -- Depresh Mode with John Moe
+https://feeds.simplecast.com/FeofiXhA,Maximum Fun -- Go Fact Yourself
+https://feeds.simplecast.com/ebjiDp6h,Maximum Fun -- Sleeping with Celebrities
+https://feeds.simplecast.com/4NOSW3hj,Maximum Fun -- Beef And Dairy Network
+https://feeds.simplecast.com/ZWAVsnMi,Maximum Fun -- Free With Ads
+https://feeds.simplecast.com/YwW7C_3h,Maximum Fun -- E Pluribus Motto
+https://feeds.simplecast.com/kKMR_wuB,Maximum Fun -- Valley Heat
+https://feeds.simplecast.com/m5n1Ookx,SiriusXM Podcasts -- The Bonfire with Big Jay Oakerson and Robert Kelly
+https://feeds.simplecast.com/dCXMIpJz,SiriusXM Podcasts -- Last Podcast On The Left
+https://feeds.simplecast.com/4T39_jAj,SiriusXM Podcasts -- StarTalk Radio
+https://feeds.simplecast.com/Y8lFbOT4,SiriusXM Podcasts -- Freakonomics Radio
+https://feeds.simplecast.com/ohmVlJZQ,SiriusXM Podcasts -- Morbid
+https://feeds.simplecast.com/BqbsxVfO,SiriusXM Podcasts -- 99% Invisible
+https://feeds.simplecast.com/dHoohVNH,SiriusXM Podcasts -- Conan O’Brien Needs A Friend
+https://feeds.simplecast.com/hEYNk1fd,SiriusXM Podcasts -- The Read
+https://feeds.simplecast.com/mKn_QmLS,SiriusXM Podcasts -- Call Her Daddy
+https://feeds.simplecast.com/6Qp23t6h,SiriusXM Podcasts -- Rotten Mango
+https://feeds.simplecast.com/dloY8UYJ,"SiriusXM Podcasts -- MrBallen Podcast: Strange, Dark & Mysterious Stories"
+https://feeds.simplecast.com/FO6kxYGj,SiriusXM Podcasts -- Ologies with Alie Ward
+https://feeds.simplecast.com/RMlFaH7b,SiriusXM Podcasts -- Jeff Lewis Has Issues
+https://feeds.simplecast.com/UCwaTX1J,SiriusXM Podcasts -- The Mel Robbins Podcast
+https://feeds.simplecast.com/Fa0PP4fl,SiriusXM Podcasts -- Stavvy's World
+https://feeds.simplecast.com/Ao0C24M8,SiriusXM Podcasts -- How Did This Get Made?
+https://rss.pdrl.fm/aad407/feeds.simplecast.com/WnxY0J_V,SiriusXM Podcasts -- VIEWS with David Dobrik & Jason Nash
+https://feeds.simplecast.com/hNaFxXpO,SiriusXM Podcasts -- SmartLess
+https://feeds.simplecast.com/S57ZtFwC,SiriusXM Podcasts -- The Rewatcher
+https://feeds.simplecast.com/A1EGvXFD,SiriusXM Podcasts -- Andy Cohen’s Daddy Diaries Podcast
+https://feeds.simplecast.com/byb4nhvN,SiriusXM Podcasts -- Comedy Bang Bang: The Podcast
+https://feeds.simplecast.com/LNIsL2kT,SiriusXM Podcasts -- What Now? with Trevor Noah
+https://feeds.simplecast.com/Oz29Kj0e,SiriusXM Podcasts -- CHEERS! with Avery Woods
+https://feeds.simplecast.com/4BXWTuuN,SiriusXM Podcasts -- Aussie Football Rules America with Eddie McGuire
+https://feeds.simplecast.com/BbxEWNSo,SiriusXM Podcasts -- The Morgan Stewart Show
+https://feeds.megaphone.fm/BMLLC6545780571,Betches -- American Fever Dream
+https://feeds.megaphone.fm/BMLLC8471039145,Betches -- Mention It All
+https://feeds.megaphone.fm/BMLLC5542353992,Betches -- @Betches
+https://feeds.megaphone.fm/BMLLC7294929424,Betches -- Good Bodies
+https://feeds.megaphone.fm/BMLLC6047375108,Betches -- The Betchelor
+https://feeds.megaphone.fm/BMLLC2510958821,Betches -- Pop Alarm
+https://feeds.megaphone.fm/BMLLC4100531281,Betches -- Betches Brides
+https://feeds.megaphone.fm/BMLLC2549370746,Betches -- Betches Moms
+https://feeds.megaphone.fm/BMLLC5200038178,Betches -- Ask Men Anything
+https://feeds.megaphone.fm/BMLLC4644301573,Betches -- Pop Crime
+https://feeds.megaphone.fm/BMLLC1090860501,Betches -- Call Waiting
+https://feeds.megaphone.fm/BMLLC3709233855,Betches -- Crown Jewels
+https://feeds.megaphone.fm/BMLLC7156619191,Betches -- Money Please
+https://feeds.megaphone.fm/RM6151564048,Ramsey Network -- The Ramsey Show Highlights
+https://feeds.megaphone.fm/RM4031649020,Ramsey Network -- The Ramsey Show
+https://feeds.megaphone.fm/RM6294791149,Ramsey Network -- The Dr. John Delony Show
+https://feeds.megaphone.fm/RM3649708894,Ramsey Network -- Ramsey Everyday Millionaires
+https://feeds.megaphone.fm/RM6855404952,Ramsey Network -- EntreLeadership
+https://feeds.megaphone.fm/georgekamel,Ramsey Network -- George Kamel
+https://feeds.megaphone.fm/RM5627096399,Ramsey Network -- The Rachel Cruze Show
+https://feeds.megaphone.fm/smartmoneyhappyhour,Ramsey Network -- Smart Money Happy Hour with Rachel Cruze and George Kamel
+https://feeds.megaphone.fm/RM3196914209,Ramsey Network -- Front Row Seat with Ken Coleman
+https://feeds.megaphone.fm/realestatetheramseyway,Ramsey Network -- Real Estate the Ramsey Way
+https://feeds.megaphone.fm/RM6455888271,Ramsey Network -- The Fine Print with George Kamel
+https://feeds.megaphone.fm/RM1336580306,Ramsey Network -- Borrowed Future
+https://feeds.simplecast.com/C8a1jmw4,WNYC Studios -- The Brian Lehrer Show
+https://feeds.simplecast.com/kyG_uojt,WNYC Studios -- All Of It with Alison Stewart
+https://feeds.simplecast.com/ysE9ORt_,WNYC Studios -- NYC NOW
+https://feeds.simplecast.com/_q7f604D,WNYC Studios -- Brian Lehrer: A Daily Politics Podcast
+https://feeds.simplecast.com/h18ZIZD_,WNYC Studios -- Science Friday
+https://feeds.simplecast.com/cUAB56sw,WNYC Studios -- Notes from America with Kai Wright
+https://feeds.simplecast.com/cm6JkB2i,WNYC Studios -- 10 Things That Scare Me
+https://feeds.simplecast.com/6bO7pkNF,WNYC Studios -- Nancy
+https://feeds.simplecast.com/10jzt1tO,"WNYC Studios -- Trump, Inc."
+https://feeds.simplecast.com/0gOGlZsI,WNYC Studios -- 2 Dope Queens
+https://feeds.simplecast.com/xWZglpA_,WNYC Studios -- The Experiment
+https://feeds.simplecast.com/SMV_Gckn,WNYC Studios -- Sooo Many White Guys
+https://feeds.simplecast.com/lQwwDIs1,WNYC Studios -- More Perfect
+https://feeds.simplecast.com/P9diF5IW,WNYC Studios -- Blindspot
+https://feeds.simplecast.com/ErCmj16D,WNYC Studios -- Classical Music Happy Hour
+https://feeds.simplecast.com/6viiA6GP,WNYC Studios -- Late Night Whenever
+https://feeds.simplecast.com/xaAbEh9E,WNYC Studios -- Dead End: Crime and Politics
+https://feeds.simplecast.com/93bEBtXA,WNYC Studios -- American Fiasco
+https://feeds.simplecast.com/msH5aH4R,WNYC Studios -- A Piece of Work
+https://feeds.simplecast.com/Dmc8FDtL,WNYC Studios -- Our Common Nature
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7c892d84-801f-4c0b-b0e9-ae2b0012ff5f/91224201-26a6-429d-ac3c-ae2b0012ff6d/podcast.rss,Bloomberg -- Bloomberg Law
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3b082bbf-691d-443b-bc59-ae2b0012ff93/9222076a-d22a-4a9f-9d26-ae2b0012ffb4/podcast.rss,Bloomberg -- Bloomberg Businessweek
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7f534b8c-9e91-429a-b102-ae3c00090c6d/0ad812bf-fd15-4012-a18c-ae3c00090c76/podcast.rss,Bloomberg -- Bloomberg Intelligence
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8e704079-ca57-4eac-9741-ae27003e2b7f/9739700c-72c3-4176-ae55-ae27003e2b96/podcast.rss,Bloomberg -- Bloomberg Surveillance
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/6b40fb94-6e91-42bd-98be-ae3c00026970/58a5265a-1a4d-4e78-861f-ae3c0002697e/podcast.rss,Bloomberg -- Balance of Power
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d15648c4-cee0-4e99-a5ca-af80014d921d/65ce2954-d8a8-4c66-9f42-af80014d923e/podcast.rss,Bloomberg -- Bloomberg Daybreak: US Edition
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss,Bloomberg -- Odd Lots
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/podcast.rss,Bloomberg -- Bloomberg Tech
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d9566f78-0464-4367-9dcc-b05700aeec6f/7f880b3c-7f67-4b4b-b520-b05700af9172/podcast.rss,Bloomberg -- Bloomberg News Now
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/825d4e29-b616-46f4-afd7-ae2b0013005c/8b1dd624-a026-43e9-8b57-ae2b00130066/podcast.rss,Bloomberg -- Big Take
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/5873a3cb-298f-40bc-b71f-ae2b0013000d/podcast.rss,Bloomberg -- Masters in Business
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/84f3c095-964f-4994-9d24-ae2b00130029/c9553948-bc39-4871-8989-ae2b00130032/podcast.rss,Bloomberg -- Trumponomics
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1742e0df-336e-4798-9bdf-af4d00f3c918/b65f5d94-dd18-419c-9276-af4d00f43c32/podcast.rss,Bloomberg -- Merryn Talks Money
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/3441857d-10f0-47c5-991f-ae3c0021f233/9040f928-9636-419d-8ac6-ae3c0021f241/podcast.rss,Bloomberg -- Wall Street Week
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ee08231b-2e0c-40d0-afa9-ae3c0021f0dc/ab3c08b0-6606-450f-a60c-ae3c0021f0e6/podcast.rss,Bloomberg -- Trillions
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cd5cf225-1048-4e9f-a0d9-ae3900816de7/deca4b1d-c7f4-4e8a-9b8f-ae3900816df5/podcast.rss,Bloomberg -- Prognosis: Misconception
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/37c6caa7-d377-4c08-b479-af9d012ed5ad/a7faefb0-28ec-4b1d-85f3-af9d012ed5c9/podcast.rss,Bloomberg -- Zero: The Climate Race
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/eb445b2f-243f-4db6-9062-ae2b0012ff27/17082071-db1a-4132-8640-ae2b0012ff3a/podcast.rss,Bloomberg -- Foundering
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0bb17e05-3d21-4db5-aa7a-b0a700ff16a7/fd28ae17-29c3-48d0-9899-b0a700ff9555/podcast.rss,"Bloomberg -- Elon, Inc."
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ee4336cb-155f-4488-90e0-b1400134e40e/77e6a3a7-290d-4a82-8164-b14001353ef2/podcast.rss,Bloomberg -- Money Stuff: The Podcast
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/92687887-1579-4735-82a3-b111010ae02e/bc3f3409-f4d9-4fca-be2a-b111010b5c5f/podcast.rss,Bloomberg -- The Deal with Alex Rodriguez and Jason Kelly
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f541f9b4-77cb-45aa-bf94-b1d300e5d357/1d448cb7-e0fc-45b8-b51f-b1d300e623a7/podcast.rss,Bloomberg -- Everybody's Business
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d4afad24-707c-42c5-afc3-b36200ef6fe2/16eda0d4-f4e8-48ea-8fbb-b36200ef73d1/podcast.rss,Bloomberg -- The Mishal Husain Show
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e76c966d-d567-47fc-ae4d-b29e0145a347/9934178f-d915-4089-bde9-b29e0145a756/podcast.rss,Bloomberg -- The Sixth Bureau
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/78c568d8-9bfe-4c04-a5d3-ae39003762ea/172dde7b-76de-41a1-88d5-ae39003762f3/podcast.rss,Bloomberg -- Blood River
+https://feeds.megaphone.fm/BLM5614510035,Bloomberg -- Into the Metaverse
+https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/52867e9a-91f7-42c6-8553-b37800ff5dfb/4cfad03b-3a6c-4b80-9626-b37800ff61ce/podcast.rss,Bloomberg -- Disclosure
+https://rss.pdrl.fm/3f8a3d/feeds.megaphone.fm/BVDWV8747925072,The Daily Wire -- Morning Wire
+https://rss.pdrl.fm/1fc256/feeds.megaphone.fm/BVDWV7762869899,The Daily Wire -- The Matt Walsh Show
+https://rss.pdrl.fm/34758b/feeds.megaphone.fm/BVDWV5810064903,The Daily Wire -- The Michael Knowles Show
+https://feeds.megaphone.fm/BVDWV4977994734,The Daily Wire -- The Andrew Klavan Show
+https://feeds.megaphone.fm/BVDWV6444647327,The Daily Wire -- The Jordan B. Peterson Podcast
+https://feeds.megaphone.fm/BVDWV5810187551,The Daily Wire -- Candace Owens
+https://rss.pdrl.fm/324212/feeds.megaphone.fm/BVDWV3145419038,The Daily Wire -- The Isabel Brown Show
+https://feeds.megaphone.fm/BVDWV5728600983,The Daily Wire -- Another Kingdom
+https://feeds.megaphone.fm/BVDWV7570906776,The Daily Wire -- That's So Criminal
+https://feeds.megaphone.fm/BVDWV1098100644,The Daily Wire -- Office Hours with Georgia Howe
+https://feeds.megaphone.fm/BVDWV9288665287,The Daily Wire -- Reagan Conrad
+https://feeds.megaphone.fm/BVDWV6036206771,The Daily Wire -- Debunked
+https://feeds.megaphone.fm/BVDWV6201904241,The Daily Wire -- Friendly Fire
+https://feeds.megaphone.fm/BVDWV1828240207,The Daily Wire -- The Cold War: Prelude To The Present
+https://feeds.megaphone.fm/BVDWV9269809114,The Daily Wire -- America's Forgotten Heroes
+https://feeds.megaphone.fm/BVDWV6938041307,The Daily Wire -- Enough
+https://feeds.megaphone.fm/FOXM1880458659,Fox News -- The Fox News Rundown
+https://feeds.megaphone.fm/FOXM6147354586,Fox News -- Fox Across America w/ Jimmy Failla
+https://feeds.megaphone.fm/FOXM7347044097,Fox News -- Brian Kilmeade Show
+https://feeds.megaphone.fm/FOXM5038087669,Fox News -- Guy Benson Show
+https://feeds.megaphone.fm/FOXM9510386551,Fox News -- MEDIA BUZZmeter
+https://feeds.megaphone.fm/FOXM9748295414,Fox News -- Kennedy Saves the World
+https://feeds.megaphone.fm/FOXM3493988099,Fox News -- Will Cain Country
+https://feeds.megaphone.fm/FOXM5682704106,Fox News -- Don't @ Me with Dan Dakich
+https://feeds.megaphone.fm/FOXM5568185733,Fox News -- Gutfeld! Monologues
+https://feeds.megaphone.fm/FOXM4950090031,Fox News -- Tomi Lahren is Fearless
+https://feeds.megaphone.fm/FOXM5131996932,Fox News -- The FOX True Crime Podcast
+https://feeds.megaphone.fm/FOXM9459947004,Fox News -- The Trey Gowdy Podcast
+https://feeds.megaphone.fm/FOXM4144806612,Fox News -- The Bret Baier Podcast
+https://feeds.megaphone.fm/FOXM9972001196,Fox News -- The Untold Story with Martha MacCallum
+https://feeds.megaphone.fm/FOXM3143392547,Fox News -- Livin' The Bream Podcast
+https://feeds.megaphone.fm/FOXM4930787114,Fox News -- The Big Ben Show
+https://feeds.megaphone.fm/FOXM1155607994,Fox News -- The Five
+https://feeds.megaphone.fm/FOXM3195099430,Fox News -- Jesse Watters Primetime Monologues
+https://feeds.megaphone.fm/FOXM9334079337,Fox News -- The Riley Gaines Show
+https://feeds.megaphone.fm/FOXM8305830891,Fox News -- Fox News Sunday Audio
+https://feeds.megaphone.fm/FOXM2251224043,Fox News -- Perino on Politics
+https://feeds.megaphone.fm/FOXM5852327230,"Fox News -- Life, Liberty & Levin Podcast"
+https://feeds.megaphone.fm/FOXM9611742632,Fox News -- Planet Tyrus
+https://rss.libsyn.com/shows/615750/destinations/5370830.xml,Fox News -- Hang Out with Sean Hannity
+https://feeds.megaphone.fm/FOXM1663069657,Fox News -- 250 Most Impactful Moments in American History
+https://feeds.megaphone.fm/FOXM4954412168,Fox News -- House of Broken Dreams: The Jennifer Kesse Story
+https://feeds.megaphone.fm/radioatlantic,The Atlantic -- Radio Atlantic
+https://feeds.megaphone.fm/socialdistance,The Atlantic -- Social Distance
+https://feeds.megaphone.fm/thedavidfrumshow,The Atlantic -- The David Frum Show
+https://feeds.megaphone.fm/howto,The Atlantic -- How to Touch Grass
+https://feeds.megaphone.fm/atlanticgoodonpaper,The Atlantic -- Good on Paper
+https://feeds.megaphone.fm/galaxybrain,The Atlantic -- Galaxy Brain
+https://feeds.megaphone.fm/thereview,The Atlantic -- The Review
+https://feeds.megaphone.fm/autocracyinamerica,The Atlantic -- Autocracy in America
+https://feeds.megaphone.fm/theinterview,The Atlantic -- The Atlantic Interview
+https://feeds.megaphone.fm/atlantic-onstage,The Atlantic -- The Atlantic Onstage
+https://feeds.megaphone.fm/floodlines,The Atlantic -- Floodlines
+https://feeds.megaphone.fm/holyweek,The Atlantic -- Holy Week
+https://feeds.megaphone.fm/weliveherenow,The Atlantic -- We Live Here Now
+https://feeds.megaphone.fm/the-ringer-nba-show,The Ringer -- The Ringer NBA Show
+https://feeds.megaphone.fm/the-bill-simmons-podcast,The Ringer -- The Bill Simmons Podcast
+https://feeds.megaphone.fm/the-ringer-nfl-show,The Ringer -- The Ringer NFL Show
+https://feeds.megaphone.fm/the-press-box,The Ringer -- The Press Box
+https://feeds.megaphone.fm/the-watch,The Ringer -- The Watch
+https://feeds.megaphone.fm/ringer-gambling-show,The Ringer -- The Ringer Gambling Show
+https://feeds.megaphone.fm/the-big-picture,The Ringer -- The Big Picture
+https://feeds.megaphone.fm/ringer-dish,The Ringer -- Jam Session
+https://feeds.megaphone.fm/the-ryen-russillo-podcast,The Ringer -- The Ryen Russillo Podcast
+https://feeds.megaphone.fm/ringer-fantasy-football-show,The Ringer -- The Ringer Fantasy Football Show
+https://feeds.megaphone.fm/the-ringer-verse,The Ringer -- The Ringer-Verse
+https://feeds.megaphone.fm/ringer-reality-tv,The Ringer -- Morally Corrupt
+https://feeds.megaphone.fm/bachelor-party,The Ringer -- Reality Hangover
+https://feeds.megaphone.fm/off-the-pike,The Ringer -- Off The Pike with Brian Barrett
+https://feeds.megaphone.fm/the-dave-chang-show,The Ringer -- The Dave Chang Show
+https://feeds.megaphone.fm/the-town-with-matthew-belloni,The Ringer -- The Town with Matthew Belloni
+https://feeds.megaphone.fm/tvconcierge,The Ringer -- The Prestige TV Podcast
+https://feeds.megaphone.fm/higherlearning,The Ringer -- Higher Learning with Van Lathan and Rachel Lindsay
+https://feeds.megaphone.fm/philly-sports-podcast,The Ringer -- The Ringer's Philly Special
+https://feeds.megaphone.fm/the-jj-redick-podcast,The Ringer -- The Mismatch
+https://feeds.megaphone.fm/the-rewatchables,The Ringer -- The Rewatchables
+https://feeds.megaphone.fm/GLT6069920566,The Ringer -- Fozcast - The Ben Foster Podcast
+https://feeds.megaphone.fm/house-of-r,The Ringer -- House of R
+https://feeds.megaphone.fm/fairway-rollin,The Ringer -- Fairway Rollin'
+https://feeds.megaphone.fm/plain-english,The Ringer -- Plain English with Derek Thompson
+https://feeds.megaphone.fm/counter-pressed,The Ringer -- Counter Pressed with Flo Lloyd-Hughes and Friends
+https://feeds.megaphone.fm/ripple-effect,The Ringer -- The Ripple Effect with James Lawrence Allcott
+https://feeds.megaphone.fm/GLT3365274141,The Ringer -- Bandsplain
+https://feeds.megaphone.fm/todd-mcshay,The Ringer -- The McShay Show
+https://feeds.megaphone.fm/paddock-pass,The Ringer -- The Ringer F1 Show
+https://feeds.megaphone.fm/every-single-album,The Ringer -- Every Single Album
+https://feeds.megaphone.fm/hottest-take,The Ringer -- The Hottest Take
+https://feeds.megaphone.fm/zach-lowe,The Ringer -- The Zach Lowe Show
+https://feeds.megaphone.fm/ringer-wnba-show,The Ringer -- The Ringer WNBA Show
+https://feeds.megaphone.fm/GLT6765190022,The Ringer -- Game Over with Max Kellerman and  Rich Paul
+https://feeds.megaphone.fm/were-obsessed,The Ringer -- We're Obsessed
+https://feeds.megaphone.fm/good-hang-with-amy-poehler,The Ringer -- Good Hang with Amy Poehler
+https://feeds.megaphone.fm/GLT4074129955,The Ringer -- Ringer Tailgate
+https://feeds.megaphone.fm/none-of-my-business,The Ringer -- None of My Business
+https://feeds.megaphone.fm/la-gata,The Ringer -- La Gata
+https://feeds.publicradio.org/public_feeds/the-splendid-table,American Public Media -- The Splendid Table: Conversations & Recipes For Curious Cooks & Eaters
+https://legacyfeeds.publicradio.org/dinner-party-download/rss.xml,American Public Media -- The Dinner Party Download
+https://feeds.publicradio.org/public_feeds/the-slowdown,American Public Media -- The Slowdown: Poetry & Reflection Daily
+https://legacyfeeds.publicradio.org/live-from-here/highlights/rss.xml,American Public Media -- Live from Here Highlights
+https://feeds.publicradio.org/public_feeds/dont-ask-tig,American Public Media -- Don't Ask Tig
+https://feeds.publicradio.org/public_feeds/the-hilarious-world-of-depression,American Public Media -- The Hilarious World of Depression
+https://feeds.publicradio.org/public_feeds/the-one-recipe,American Public Media -- The One Recipe
+https://feeds.publicradio.org/public_feeds/truth-be-told,American Public Media -- Truth Be Told: Time to Thrive
+https://feeds.publicradio.org/public_feeds/classical-kids-storytime,American Public Media -- YourClassical Storytime
+https://feeds.publicradio.org/public_feeds/this-old-house-radio-hour,American Public Media -- This Old House Radio Hour
+https://feeds.publicradio.org/public_feeds/new-classical-tracks,American Public Media -- New Classical Tracks with Julie Amacher
+https://feeds.publicradio.org/public_feeds/daily-download,American Public Media -- YourClassical Daily Download
+https://feeds.publicradio.org/public_feeds/composers-datebook,American Public Media -- Composers Datebook
+https://feeds.publicradio.org/public_feeds/classical-kids-corner,American Public Media -- YourClassical Adventures
+https://legacyfeeds.publicradio.org/marketplace/wealth-poverty-from-marketplace-apm/rss.xml,American Public Media -- Wealth & Poverty from Marketplace APM
+https://feeds.publicradio.org/public_feeds/spectacular-failures,American Public Media -- Spectacular Failures
+https://legacyfeeds.publicradio.org/performance-today/music-is-music/rss.xml,American Public Media -- Music is Music
+https://feeds.publicradio.org/public_feeds/mood-ring,American Public Media -- Mood Ring
+https://feeds.publicradio.org/public_feeds/julies-library,American Public Media -- Julie’s Library
+https://legacyfeeds.publicradio.org/splendid-table/how-to-eat-weekends/rss.xml,"American Public Media -- How to Eat Weekends, from The Splendid Table"
+https://feeds.publicradio.org/public_feeds/what-happened-in-alabama,American Public Media -- What Happened In Alabama?
+https://feeds.publicradio.org/public_feeds/in-deep,American Public Media -- In Deep
+https://legacyfeeds.publicradio.org/splendid-table/key3/rss.xml,"American Public Media -- The Key 3, from The Splendid Table"
+https://feeds.publicradio.org/public_feeds/weeknight-kitchen-with-melissa-clark,American Public Media -- Weeknight Kitchen with Melissa Clark
+https://feeds.publicradio.org/public_feeds/must-be-the-money,American Public Media -- Must Be The Money
+https://feeds.publicradio.org/public_feeds/ripple,American Public Media -- Ripple
+https://legacyfeeds.publicradio.org/word-for-word/rss.xml,American Public Media -- APM: Word for Word
+https://feeds.publicradio.org/public_feeds/piano-puzzler,American Public Media -- Piano Puzzler
+https://feeds.publicradio.org/public_feeds/call-to-mind,American Public Media -- Call to Mind: Fostering New Conversations About Mental Health
+https://feeds.publicradio.org/public_feeds/tremendous-upside,American Public Media -- Tremendous Upside
+https://feeds.publicradio.org/public_feeds/classically-training,American Public Media -- Classically Training
+https://feeds.publicradio.org/public_feeds/decomposed,American Public Media -- Decomposed with Jade Simmons
+http://feeds.americanpublicmedia.org/MarketplaceAfterTheBell,American Public Media -- APM: Marketplace — After The Bell
+https://legacyfeeds.publicradio.org/ideas-from-aspen/rss.xml,American Public Media -- APM: Ideas from Aspen
+https://legacyfeeds.publicradio.org/performance-today/parker-quartet/rss.xml,"American Public Media -- APM: The Parker Quartet, Performance Today's 2010 artists-in-residence"
+https://legacyfeeds.publicradio.org/performance-today/beaux-arts-trio/rss.xml,American Public Media -- APM: Beaux Arts Trio - Tanglewood 2008
+https://feed.cdnstream1.com/zjb/feed/download/b3/f8/62/b3f8626a-1422-43f6-b2c4-4ffc5d982c97.xml,Kast Media -- The Dershow
+https://feeds.redcircle.com/fd08bf76-15dc-40af-aeba-8a4083ed79ca,Kast Media -- Women On Top
+https://feed.cdnstream1.com/zjb/feed/download/c5/38/f9/c538f90e-d7fb-4751-8933-7307075ab58a.xml,Kast Media -- LaunchLeft
+https://feed.cdnstream1.com/zjb/feed/download/61/83/60/618360da-61b7-4552-b9ed-21be746ec68e.xml,Kast Media -- Nervous Rex
+https://feed.cdnstream1.com/zjb/feed/download/55/ff/01/55ff0119-dcf9-4251-80e0-fb0d06c2932d.xml,Kast Media -- The Friendship Onion
+https://feed.cdnstream1.com/zjb/feed/download/d0/09/6b/d0096b92-ec10-45b5-97ea-b7b91265df9e.xml,Kast Media -- Suspect Convictions
+https://feed.cdnstream1.com/zjb/feed/download/54/26/d6/5426d679-8365-4e3f-8d6b-9470c84a707e.xml,Kast Media -- Crash On My Couch
+https://feed.cdnstream1.com/zjb/feed/download/71/bd/99/71bd99c7-1bf8-4ce1-87ea-77457ddf7a7f.xml,Kast Media -- The Antony Gordon Show | Lessons for life I did not learn at Harvard
+https://feed.cdnstream1.com/zjb/feed/download/67/c6/de/67c6deda-3883-4293-8e39-c87f645a64b6.xml,Kast Media -- Lightning Bugs: Conversations with Ben Folds
+https://feed.cdnstream1.com/zjb/feed/download/d9/8a/71/d98a71ac-d1a3-4d92-ab64-64b4ff3192d1.xml,Kast Media -- The Portal
+https://feed.cdnstream1.com/zjb/feed/download/01/54/75/015475e2-b664-452e-afb1-5fd891c36686.xml,Kast Media -- Survivor Pool Podcast
+https://feed.cdnstream1.com/zjb/feed/download/ed/4a/b5/ed4ab51a-d94b-4efe-9885-a444d06c3042.xml,Kast Media -- Fear & Malding
+https://feed.cdnstream1.com/zjb/feed/download/ca/0c/07/ca0c0763-d734-4fad-a233-eef801531f52.xml,Kast Media -- Scoundrel: History's Forgotten Villains
+https://feed.cdnstream1.com/zjb/feed/download/2f/dc/b3/2fdcb305-dc23-410c-b795-be6f73e32b7a.xml,Kast Media -- Was it Real? The Hills Rewatch
+https://feed.cdnstream1.com/zjb/feed/download/e4/17/bb/e417bb99-f81b-4263-a1d0-14e6685ee00f.xml,Kast Media -- The Shine Strategy with Heather Burgett
+https://feed.cdnstream1.com/zjb/feed/download/8e/76/03/8e760364-dd2d-45a9-9cfe-e3e3ef497397.xml,Kast Media -- Curious Questions with Ricky Williams Podcast
+https://feed.cdnstream1.com/zjb/feed/download/ec/ab/0c/ecab0ca9-822a-462d-809f-2e81f90700bd.xml,Kast Media -- Revealing Your Secrets with Alyx Weiss
+https://feed.cdnstream1.com/zjb/feed/download/88/84/87/888487be-38e1-480a-b8d8-06c0ebc55ccb.xml,Kast Media -- Greenlit
+https://feed.cdnstream1.com/zjb/feed/download/eb/5c/e3/eb5ce337-02e5-46d9-822e-afaf4968a2ed.xml,Kast Media -- Slumber Party Podcast
+https://feed.cdnstream1.com/zjb/feed/download/09/a9/35/09a9350d-22d9-49b6-87a2-bf5944c993ab.xml,Kast Media -- Life Uncharted
+https://feed.cdnstream1.com/zjb/feed/download/75/0d/ca/750dca86-dace-44ea-9218-cfa206b3846e.xml,Kast Media -- G'Day MMA Podcast
+https://feed.cdnstream1.com/zjb/feed/download/2b/15/bd/2b15bd1a-8906-4b63-a39f-1c42c8020787.xml,Kast Media -- Flow Sessions with Jason Silva
+https://feed.cdnstream1.com/zjb/feed/download/f2/50/40/f2504072-d288-4edd-b3ab-8861f1e4fe21.xml,Kast Media -- The Twilight Effect
+https://anchor.fm/s/8dd22638/podcast/rss,A24 -- A24 On The Rocks
+https://anchor.fm/s/40560b4/podcast/rss,A24 -- The A24 Podcast
+https://feeds.megaphone.fm/544days,A24 -- 544 Days
+https://rss.buzzsprout.com/2589753.rss,A24 -- A24k Gold
+https://feed.podbean.com/poda24loveletter/feed.xml,A24 -- The A24: A Love Letter Podcast
+https://anchor.fm/s/dfbd3e9c/podcast/rss,A24 -- The A24 Community Podcast
