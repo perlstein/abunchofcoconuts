@@ -63,7 +63,8 @@ UA = {"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
 
 WORKERS = 8             # feed fetches in flight; networks are small, so this is
                         # plenty and stays polite to each host.
-MAX_CHANNEL_SHOWS = 500  # backstop on ids scraped from one channel page.
+MAX_CHANNEL_SHOWS = 40   # keep big channels (iHeart, NPR, ESPN) representative
+                         # and the scan bounded; top-listed shows are kept.
 SEARCH_LIMIT = 200      # iTunes search results pulled per name-search network.
 PER_NETWORK = 40        # cap on name-search shows kept per network.
 
