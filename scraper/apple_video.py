@@ -63,6 +63,7 @@ from scrape import HEADERS, LEADERBOARD_PATH, ROOT, TIMEOUT, log
 
 STATE_PATH = ROOT / "data" / "apple_video_state.json"
 SHOWS_PATH = ROOT / "data" / "apple_video_shows.json"
+HISTORY_PATH = ROOT / "data" / "apple_video_history.json"
 SEED_PATH = ROOT / "data" / "apple_video_seed.csv"
 SHOW_URL = "https://podcasts.apple.com/us/podcast/id{itunes_id}"
 LOOKUP_URL = "https://itunes.apple.com/lookup?id={itunes_id}&entity=podcast"
@@ -178,6 +179,27 @@ def build_shows_file(state: dict, board: dict) -> int:
     return len(out)
 
 
+def append_video_history(entry: dict) -> int:
+    """Append one daily Apple-video snapshot to apple_video_history.json,
+    replacing any entry with the same date (a same-day rerun updates, not
+    duplicates). Shape mirrors history.json so the frontend can chart it.
+
+    Fields: video_total/checked_total (whole rotating corpus, coverage-limited
+    early on) and chart_video/chart_total (video adoption among the shows
+    charting *this* run -- a stable denominator for a real growth rate)."""
+    try:
+        hist = json.loads(HISTORY_PATH.read_text())
+    except Exception:
+        hist = {"schema_version": 1, "entries": []}
+    entries = [e for e in hist.get("entries", []) if e.get("date") != entry["date"]]
+    entries.append(entry)
+    entries.sort(key=lambda e: e["date"])
+    hist["entries"] = entries
+    hist["schema_version"] = 1
+    HISTORY_PATH.write_text(json.dumps(hist, indent=2, ensure_ascii=False))
+    return len(entries)
+
+
 def main() -> int:
     try:
         board = json.loads(LEADERBOARD_PATH.read_text())
@@ -227,10 +249,14 @@ def main() -> int:
                     # bump checked so a persistently broken page doesn't hog the rotation
                     state.setdefault(iid, {"video": False})["checked"] = scan_date
                 else:
-                    state[iid] = {"video": v, "checked": scan_date}
+                    entry = {"video": v, "checked": scan_date}
                     if v:
+                        # keep the first date this show was ever confirmed video,
+                        # so cumulative opt-in-over-time can be reconstructed
+                        entry["since"] = state.get(iid, {}).get("since") or scan_date
                         found += 1
                         log(f"apple_video: VIDEO: {titles.get(iid, '')[:50] or iid}")
+                    state[iid] = entry
                 done += 1
             elapsed = time.monotonic() - start
             # deadline can only stop us after the seed wave (seed < WAVE_SIZE)
@@ -258,9 +284,24 @@ def main() -> int:
     shows_written = build_shows_file(state, board)
 
     total_video = sum(1 for v in state.values() if v.get("video"))
+
+    # Daily growth snapshot: raw corpus count + video adoption among this run's
+    # charting shows (the stable denominator, unaffected by scan coverage).
+    chart_ids = {iid for iid, _ in chart_shows}
+    chart_video = sum(1 for iid in chart_ids if state.get(iid, {}).get("video"))
+    n_hist = append_video_history({
+        "date": scan_date,
+        "video_total": total_video,
+        "checked_total": len(state),
+        "chart_video": chart_video,
+        "chart_total": len(chart_ids),
+    })
+
     log(f"apple_video: batch found {found} new ({errors} errors); "
         f"{total_video} video shows known of {len(state)} checked; "
-        f"stamped {stamped} on board; wrote {shows_written} to apple_video_shows.json")
+        f"{chart_video}/{len(chart_ids)} of the chart is video; "
+        f"stamped {stamped} on board; wrote {shows_written} to apple_video_shows.json; "
+        f"{n_hist} history entries")
     return 0
 
 

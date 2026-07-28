@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "date": "2026-07-21",
+      "video_total": 81,
+      "checked_total": 2072,
+      "chart_video": 68,
+      "chart_total": 1708,
+      "backfill": true
+    },
+    {
+      "date": "2026-07-22",
+      "video_total": 84,
+      "checked_total": 2169,
+      "chart_video": 63,
+      "chart_total": 1706,
+      "backfill": true
+    },
+    {
+      "date": "2026-07-23",
+      "video_total": 87,
+      "checked_total": 2257,
+      "chart_video": 63,
+      "chart_total": 1706,
+      "backfill": true
+    },
+    {
+      "date": "2026-07-24",
+      "video_total": 90,
+      "checked_total": 2298,
+      "chart_video": 64,
+      "chart_total": 1707,
+      "backfill": true
+    },
+    {
+      "date": "2026-07-25",
+      "video_total": 91,
+      "checked_total": 2332,
+      "chart_video": 68,
+      "chart_total": 1706,
+      "backfill": true
+    },
+    {
+      "date": "2026-07-26",
+      "video_total": 92,
+      "checked_total": 2368,
+      "chart_video": 67,
+      "chart_total": 1706,
+      "backfill": true
+    },
+    {
+      "date": "2026-07-27",
+      "video_total": 93,
+      "checked_total": 2400,
+      "chart_video": 63,
+      "chart_total": 1707,
+      "backfill": true
+    },
+    {
+      "date": "2026-07-28",
+      "video_total": 95,
+      "checked_total": 2435,
+      "chart_video": 69,
+      "chart_total": 1707,
+      "backfill": true
+    }
+  ]
+}
