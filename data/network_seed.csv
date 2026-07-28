@@ -1,32 +1,104 @@
 # Networks tracked as first-class groups by scraper/networks.py.
-# One row per network. networks.py resolves every show to its RSS feed via the
-# iTunes lookup API, detects the delivery host, and writes:
+# One row per network. networks.py resolves each network's shows to their RSS
+# feed via the iTunes API, detects the delivery host, and writes:
 #   data/network_feeds.csv  (always-checked watchlist feeds, read by cumulative.py)
-#   data/networks.json      (per-network roster + host breakdown)
+#   data/networks.json      (per-network roster + host breakdown; the site reads this)
 #
 # Columns:
 #   label       display name of the network
-#   channel_id  Apple Podcasts channel id(s) -- the /id number in a
-#               podcasts.apple.com/.../channel/.../id<N> URL. May be a
-#               ;-separated list to pull one network from several Apple
-#               channels (e.g. a label with sub-channels). Blank if none.
-#               Every show a channel page lists is discovered automatically
-#               (disable with NETWORKS_NO_CHANNEL_SCRAPE=1).
-#   extra_ids   ;-separated Apple Podcasts SHOW ids always included on top of
-#               channel discovery -- for back catalog, or networks with no
-#               Apple channel (give ids, leave channel_id blank).
+#   channel_id  Apple Podcasts channel id(s), ;-separated (blank if none). Every
+#               show the channel page lists is discovered automatically.
+#   extra_ids   ;-separated Apple SHOW ids always included (back catalog, etc.)
 #   homepage    reference URL only (not fetched)
+#   search      iTunes name-search term (artistTerm); keeps only shows whose
+#               author credits the network. Used for networks with no Apple
+#               channel. If channel_id/extra_ids/search are all blank, the label
+#               is used as the search term.
 #
-# NOTE ON RESOLUTION: feed URLs and hosts are filled in by networks.py, which
-# needs outbound network access, so it runs in GitHub Actions (see
-# .github/workflows/networks.yml), not from a locked-down dev box.
-label,channel_id,extra_ids,homepage
-The Washington Post,6442482183,1444873564;1652580979;1734654238;1143265842;1692384254;1738047797;1532219705;1072170823;1254001472;1342503128;1709740516;1451109634,https://podcasts.apple.com/us/channel/the-washington-post/id6442482183
-The Boston Globe,6444069262,,https://podcasts.apple.com/us/channel/the-boston-globe/id6444069262
-Higher Ground,6446299158,,https://podcasts.apple.com/us/channel/higher-ground/id6446299158
-Campside Media,6757933785,,https://podcasts.apple.com/us/channel/campside-media/id6757933785
-Understood.org,6448918883,,https://podcasts.apple.com/us/channel/understood-org/id6448918883
-DCP Entertainment,6442455235,,https://podcasts.apple.com/us/channel/dcp-entertainment/id6442455235
-Macmillan Podcasts,6442568515,,https://podcasts.macmillan.com/
-Defector,,1525039108;1597761181,https://defector.com/defector-podcasts
-Sony Music,6442475215,1676536478;1197924737,https://www.sonymusic.com/podcasts/
+# Feed URLs + hosts are filled in by networks.py, which needs outbound network
+# access, so it runs in GitHub Actions (.github/workflows/networks.yml).
+label,channel_id,extra_ids,homepage,search
+The Washington Post,6442482183,1444873564;1652580979;1734654238;1143265842;1692384254;1738047797;1532219705;1072170823;1254001472;1342503128;1709740516;1451109634,https://podcasts.apple.com/us/channel/the-washington-post/id6442482183,
+The Boston Globe,6444069262,,https://podcasts.apple.com/us/channel/the-boston-globe/id6444069262,
+Higher Ground,6446299158,,https://podcasts.apple.com/us/channel/higher-ground/id6446299158,
+Campside Media,6757933785,,https://podcasts.apple.com/us/channel/campside-media/id6757933785,
+Understood.org,6448918883,,https://podcasts.apple.com/us/channel/understood-org/id6448918883,
+DCP Entertainment,6442455235,,https://podcasts.apple.com/us/channel/dcp-entertainment/id6442455235,
+Macmillan Podcasts,6442568515,,https://podcasts.macmillan.com/,
+Defector,,1525039108;1597761181,https://defector.com/defector-podcasts,
+Sony Music,6442475215,1676536478;1197924737,https://www.sonymusic.com/podcasts/,
+Red Seat Ventures,,,,Red Seat
+QCODE,,,,QCODE
+Dear Media,,,,Dear Media
+Impact Theory,,,,Impact Theory
+Bleav,,,,Bleav
+Headgum,,,,Headgum
+PAVE Studios,,,,PAVE Studios
+Studio71,,,,Studio71
+Forever Dog,,,,Forever Dog
+Goat Rodeo,,,,Goat Rodeo
+The Podglomerate,,,,Podglomerate
+Starburns Audio,,,,Starburns
+Snarled Entertainment,,,,Snarled
+reVolver Podcasts,,,,reVolver
+Rhapsody Voices,,,,Rhapsody Voices
+Amaze Media Labs,,,,Amaze Media
+Talkhouse,,,,Talkhouse
+PodX Group,,,,PodX
+Resonate Media Group,,,,Resonate Media
+MoonBeam Media,,,,Moonbeam
+YMH Studios,,,,YMH Studios
+TWiT.tv,,,,TWiT
+True Native Media,,,,True Native
+AdLarge Media,,,,AdLarge
+Podtrac / Authentic,,,,Authentic Podcasts
+DAZN,,,,DAZN
+Axios,,,,Axios
+Run-A-Muck,,,,Run A Muck
+Nevermind Media,,,,Nevermind Media
+Glassbox Media,,,,Glassbox
+Pushkin Industries,,,,Pushkin
+Wavland,,,,Wavland
+Gen-Z Media,,,,Gen-Z Media
+GoKidGo,,,,GoKidGo
+Starglow Media,,,,Starglow
+Treefort Media,,,,Treefort
+Prologue Projects,,,,Prologue Projects
+Paper Kite Productions,,,,Paper Kite
+WaitWhat,,,,WaitWhat
+Snap Studios,,,,Snap Studios
+Gemini XIII,,,,Gemini XIII
+Believe Entertainment Group,,,,Believe Entertainment
+PodcastOne,,,,PodcastOne
+VAULT Studios,,,,VAULT Studios
+Youth Inc.,,,,Youth Inc
+Big Ten Network,,,,Big Ten
+Penguin Random House Audio,,,,Penguin Random House
+Frequency Media,,,,Frequency Media
+ABF Creative,,,,ABF Creative
+Immigrantly Media,,,,Immigrantly
+CAKE MEDIA,,,,Cake Media
+Ginni Media,,,,Ginni Media
+editaudio,,,,editaudio
+Cosmic Standard,,,,Cosmic Standard
+iM Media,,,,iM Media
+Platform Media,,,,Platform Media
+ohitsBigRon Studios,,,,ohitsBigRon
+Multitude Productions,,,,Multitude
+Fixated,,,,Fixated
+Engine Room Media,,,,Engine Room
+Tumble Media,,,,Tumble Media
+Foreign Policy,,,,Foreign Policy
+Eurovision New Media,,,,Eurovision
+Public Media Marketing,,,,Public Media Marketing
+Gamut Podcast Network,,,,Gamut
+Vox Media Podcast Network,,,,Vox Media
+Cumulus Podcast Network,,,,Cumulus
+The Athletic (NYT),,,,The Athletic
+New York Times,,,,New York Times
+Audacy,,,,Audacy
+Crooked Media,,,,Crooked Media
+Slate,,,,Slate
+Townsquare Media,,,,Townsquare
+WBD / HBO Podcasts,,,,HBO
+AARP,,,,AARP

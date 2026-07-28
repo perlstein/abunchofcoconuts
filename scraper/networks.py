@@ -14,13 +14,16 @@ the iTunes lookup API, detects the feed's delivery host, and writes two things:
     host, episode count, latest episode per show) -- the queryable "who hosts
     this network" artifact.
 
-Where the show ids come from, per network:
+Where a network's shows come from (any combination, unioned + deduped):
   1. channel_id  -> the Apple channel page is fetched and every show it lists is
      discovered (same public-page technique as apple_video.py). Optional; set
      NETWORKS_NO_CHANNEL_SCRAPE=1 to skip and trust only the curated ids.
   2. extra_ids   -> curated show ids from the seed, always included. Use these
      for back-catalog shows the channel page no longer lists, or for networks
      that have no Apple channel at all (declare ids, no channel_id).
+  3. search      -> an iTunes name-search (artistTerm), keeping only shows whose
+     author credits the network. This is how networks that have no Apple channel
+     are resolved by name; the label is used as the term when none is given.
 
 Limited / scoped scan: this script only ever touches the seeded networks'
 feeds, never the whole corpus, so running it *is* a limited scan. Narrow it
@@ -52,6 +55,7 @@ NETWORKS_JSON_PATH = ROOT / "data" / "networks.json"
 
 CHANNEL_URL = "https://podcasts.apple.com/us/channel/id{channel_id}"
 LOOKUP_URL = "https://itunes.apple.com/lookup?id={itunes_id}&entity=podcast"
+SEARCH_API = "https://itunes.apple.com/search"
 # Safari UA for the channel-page fetch: podcasts.apple.com serves the full
 # serialized page to a browser UA (same trick apple_video.py relies on).
 UA = {"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -60,16 +64,76 @@ UA = {"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
 WORKERS = 8             # feed fetches in flight; networks are small, so this is
                         # plenty and stays polite to each host.
 MAX_CHANNEL_SHOWS = 500  # backstop on ids scraped from one channel page.
+SEARCH_LIMIT = 200      # iTunes search results pulled per name-search network.
+PER_NETWORK = 40        # cap on name-search shows kept per network.
 
 # A show link on an Apple page: /podcast/<slug>/id<digits> (episode links carry
 # the same show adamId, then ?i=...). Captures the show adamId.
 SHOW_ID_RE = re.compile(r"/podcast/[^\"'\\ ]*?/id(\d+)")
 
+# Generic words dropped when reducing a network name to its match tokens, so a
+# name-search keeps only shows whose iTunes author actually credits the network
+# (e.g. "PAVE Studios" -> token "pave"; a show by "PAVE Studios" matches).
+_GENERIC = {"media", "network", "networks", "podcast", "podcasts", "inc", "the",
+            "studios", "studio", "co", "productions", "production", "group",
+            "audio", "entertainment", "labs", "original", "originals", "llc",
+            "company", "and", "a"}
+
+
+def _tokens(name: str) -> list:
+    """Distinctive lowercase tokens of a network name (generic words removed)."""
+    words = [w for w in re.sub(r"[^a-z0-9]+", " ", name.lower()).split()
+             if w not in _GENERIC]
+    return words or [re.sub(r"[^a-z0-9]+", "", name.lower())]
+
+
+def _artist_matches(artist: str, tokens: list) -> bool:
+    """True when every distinctive token appears in the show's iTunes author."""
+    a = (artist or "").lower()
+    return bool(tokens) and all(t in a for t in tokens)
+
+
+def itunes_search(term: str) -> list:
+    """Name-search a network via the iTunes Search API's artistTerm attribute,
+    keeping only results whose author credits the network. Returns show metas
+    (same shape as itunes_meta), best-effort: any failure yields []."""
+    tokens = _tokens(term)
+    try:
+        r = requests.get(SEARCH_API, params={
+            "term": term, "entity": "podcast",
+            "attribute": "artistTerm", "limit": SEARCH_LIMIT,
+        }, headers=HEADERS, timeout=TIMEOUT)
+        res = r.json().get("results", [])
+    except Exception as exc:
+        log(f"networks: search '{term}' failed: {exc}")
+        return []
+    out = []
+    for x in res:
+        feed = x.get("feedUrl")
+        if not feed or not _artist_matches(x.get("artistName"), tokens):
+            continue
+        last = x.get("releaseDate")
+        out.append({
+            "itunes_id": str(x.get("collectionId") or ""),
+            "title": x.get("collectionName") or x.get("trackName") or "Untitled",
+            "artwork": x.get("artworkUrl600") or x.get("artworkUrl100") or "",
+            "feed_url": feed,
+            "episode_count": x.get("trackCount"),
+            "last_published": last[:10] if last else None,
+        })
+        if len(out) >= PER_NETWORK:
+            break
+    return out
+
 
 def load_seed():
     """Parse data/network_seed.csv into a list of network dicts. Tolerant of
     blank lines, #-comments and a header row. Columns:
-    label, channel_id, extra_ids (;-separated), homepage."""
+    label, channel_id, extra_ids (;-separated), homepage, search.
+
+    A network resolves from any combination of: its Apple channel(s), curated
+    show ids, and an iTunes name-search term. If a row gives none of channel /
+    ids / search, the label itself is used as the search term."""
     out = []
     if not SEED_PATH.exists():
         return out
@@ -78,17 +142,21 @@ def load_seed():
         if not line or line.startswith("#"):
             continue
         parts = next(csv.reader([line]))
-        parts += [""] * (4 - len(parts))  # pad to 4 columns
-        label, channel, extra_ids, homepage = (p.strip() for p in parts[:4])
+        parts += [""] * (5 - len(parts))  # pad to 5 columns
+        label, channel, extra_ids, homepage, search = (p.strip() for p in parts[:5])
         if not label or label.lower() == "label":  # skips the header row
             continue
         ids = [i.strip() for i in extra_ids.split(";") if i.strip().isdigit()]
         channel_ids = [c.strip() for c in channel.split(";") if c.strip().isdigit()]
+        # Fall back to the label as the search term only when nothing else is given.
+        if not search and not channel_ids and not ids:
+            search = label
         out.append({
             "label": label,
             "channel_ids": channel_ids,  # 0+ Apple channel ids (;-separated)
             "extra_ids": ids,
             "homepage": homepage or None,
+            "search": search or None,
         })
     return out
 
@@ -140,19 +208,20 @@ def itunes_meta(itunes_id: str) -> "dict | None":
     }
 
 
+def _host_for_meta(meta: dict) -> dict:
+    """Attach a resolved delivery host to an already-fetched show meta."""
+    feed = meta.get("feed_url")
+    meta["host"] = fetch_show_feed(feed)[0] if feed else "Unknown"
+    return meta
+
+
 def resolve_show(itunes_id: str) -> "dict | None":
     """Full record for one show: metadata + resolved delivery host."""
     meta = itunes_meta(itunes_id)
     time.sleep(0.2)
     if not meta:
         return None
-    feed = meta["feed_url"]
-    if feed:
-        host, _fm = fetch_show_feed(feed)
-    else:
-        host = "Unknown"
-    meta["host"] = host
-    return meta
+    return _host_for_meta(meta)
 
 
 def resolve_network(net: dict) -> dict:
@@ -171,10 +240,6 @@ def resolve_network(net: dict) -> dict:
             seen.add(iid)
             ids.append(iid)
 
-    log(f"networks: {net['label']}: {len(ids)} shows "
-        f"({len(net['extra_ids'])} curated, {len(discovered)} from "
-        f"{len(net['channel_ids'])} channel(s))")
-
     shows = []
     if ids:
         with ThreadPoolExecutor(max_workers=WORKERS) as pool:
@@ -186,6 +251,30 @@ def resolve_network(net: dict) -> dict:
                     rec = None
                 if rec:
                     shows.append(rec)
+
+    # Name-search phase: fold in shows the iTunes author credits to this network,
+    # deduped against everything already resolved by id/channel.
+    searched = 0
+    if net.get("search"):
+        have_ids = {s.get("itunes_id") for s in shows}
+        have_feeds = {s.get("feed_url") for s in shows}
+        metas = [m for m in itunes_search(net["search"])
+                 if m["itunes_id"] not in have_ids and m["feed_url"] not in have_feeds]
+        searched = len(metas)
+        if metas:
+            with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+                futures = {pool.submit(_host_for_meta, m): m for m in metas}
+                for fut in as_completed(futures):
+                    try:
+                        rec = fut.result()
+                    except Exception:
+                        rec = None
+                    if rec:
+                        shows.append(rec)
+
+    log(f"networks: {net['label']}: {len(shows)} shows "
+        f"({len(net['extra_ids'])} curated, {len(discovered)} channel, "
+        f"{searched} search)")
     shows.sort(key=lambda s: (s.get("episode_count") or 0), reverse=True)
 
     # Host breakdown across shows with a confidently-resolved host.
@@ -207,8 +296,11 @@ def resolve_network(net: dict) -> dict:
         "hosts": hosts,
         "shows": shows,
     }
-    if not ids:
-        entry["note"] = "no channel_id or extra_ids in seed -- add one to resolve feeds"
+    if not shows:
+        if net.get("search"):
+            entry["note"] = f"name-search '{net['search']}' matched no author-credited shows"
+        elif not ids:
+            entry["note"] = "no channel_id, extra_ids, or search term in seed"
     return entry
 
 
