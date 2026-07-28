@@ -65,7 +65,7 @@ WORKERS = 8             # feed fetches in flight; networks are small, so this is
                         # plenty and stays polite to each host.
 MAX_CHANNEL_SHOWS = 500  # backstop on ids scraped from one channel page.
 SEARCH_LIMIT = 200      # iTunes search results pulled per name-search network.
-PER_NETWORK = 20        # cap on name-search shows kept per network (10-20 is plenty).
+PER_NETWORK = 40        # cap on name-search shows kept per network.
 
 # A show link on an Apple page: /podcast/<slug>/id<digits> (episode links carry
 # the same show adamId, then ?i=...). Captures the show adamId.
