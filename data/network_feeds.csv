@@ -1,0 +1,100 @@
+# Auto-built by scraper/networks.py from data/network_seed.csv.
+# feed_url,label -- read by cumulative.py as always-checked watchlist feeds.
+feed_url,label
+https://podcast.posttv.com/itunes/post-reports.xml,The Washington Post -- Post Reports
+https://d2twjzbevf8hdx.cloudfront.net/itunes/the-7.xml,The Washington Post -- The 7
+https://feeds.npr.org/510333/podcast.xml,The Washington Post -- Throughline
+https://podcast.posttv.com/itunes/retropod.xml,The Washington Post -- Retropod
+https://podcast.posttv.com/itunes/capital-weather-gang.xml,The Washington Post -- Capital Weather Gang
+http://podcast.posttv.com/itunes-57ace050e4b0dcfde8dfbe97.xml,The Washington Post -- Capehart
+http://podcast.posttv.com/itunes-58861635e4b039a652877de6.xml,The Washington Post -- Sidebar
+https://podcast.posttv.com/itunes/impromptu.xml,The Washington Post -- Reasonably Optimistic
+https://podcast.posttv.com/itunes/the-campaign-moment.xml,The Washington Post -- The Campaign Moment
+https://podcast.posttv.com/itunes/please-go-on.xml,"The Washington Post -- Please, Go On with James Hohmann"
+http://podcast.posttv.com/itunes-5682a6c9e4b0d623714f2a3b.xml,The Washington Post -- Presidential
+https://podcast.posttv.com/itunes/try-this.xml,The Washington Post -- Try This
+http://podcast.posttv.com/itunes-5951e18ce4b056ae8fa8e4b2.xml,The Washington Post -- Constitutional
+https://podcast.posttv.com/itunes/the-sports-moment.xml,The Washington Post -- The Sports Moment
+https://podcast.posttv.com/itunes/moonrise.xml,The Washington Post -- Moonrise
+https://podcast.posttv.com/itunes/canary.xml,The Washington Post -- Canary: The Washington Post Investigates
+https://podcast.posttv.com/itunes/broken-doors.xml,The Washington Post -- Broken Doors
+https://podcast.posttv.com/itunes/the-empty-grave-of-comrade-bishop.xml,The Washington Post -- The Empty Grave of Comrade Bishop
+https://podcast.posttv.com/itunes/field-trip.xml,The Washington Post -- Field Trip
+https://rss.art19.com/rhode-island-report,The Boston Globe -- Rhode Island Report
+https://rss.introcast.io/1354140820/feeds.megaphone.fm/TPG3393929278,The Boston Globe -- Love Letters
+https://feeds.megaphone.fm/TPG4149271018,The Boston Globe -- Say More
+https://feeds.megaphone.fm/TPG8950945426,The Boston Globe -- The Globe
+https://feeds.megaphone.fm/TPG7349510722,The Boston Globe -- Spotlight: Snitch City
+https://feeds.megaphone.fm/TPG9134337434,The Boston Globe -- Mr 80 Percent
+https://rss.art19.com/talk-easy-with-sam-fragoso,Higher Ground -- Talk Easy with Sam Fragoso
+https://rss.art19.com/hga-imo,Higher Ground -- IMO with Michelle Obama and Craig Robinson
+https://rss.art19.com/your-mamas-kitchen,Higher Ground -- Your Mama’s Kitchen
+https://rss.art19.com/lemme-say,Higher Ground -- Lemme Say This
+https://rss.art19.com/the-second-opinion,Higher Ground -- The Second Opinion with Dr. Sharon
+https://rss.art19.com/the-big-hit-show,Higher Ground -- The Big Hit Show
+https://rss.art19.com/fela-kuti-fear-no-man,Higher Ground -- Fela Kuti: Fear No Man
+https://rss.art19.com/renegades-born-in-the-usa,Higher Ground -- Renegades: Born in the USA
+https://rss.art19.com/the-wonder-of-stevie,Higher Ground -- The Wonder of Stevie
+https://rss.art19.com/the-sum-of-us,Higher Ground -- The Sum of Us
+https://api.substack.com/feed/podcast/2734084.rss,Campside Media -- Inside the Tent with Campside Media
+https://rss.art19.com/origin-stories,Campside Media -- Origin Stories
+https://feeds.acast.com/public/shows/6a273c6f6642088a106c73e4,Campside Media -- David Greene is Obsessed
+https://feeds.acast.com/public/shows/682ddf8310ca442d5fd16cf7,Campside Media -- White Devil
+https://feeds.acast.com/public/shows/6a27471cec7c103dca6acd3c,Campside Media -- Fallen Angel
+https://feeds.simplecast.com/60WJALk_,Understood.org -- The ADHD Channel for Women (formerly MissUnderstood)
+https://feeds.simplecast.com/yjHKUkkH,Understood.org -- ADHD Aha!
+https://feeds.simplecast.com/7Xt67Rje,Understood.org -- In It: Raising Kids Who Learn Differently
+https://feeds.simplecast.com/lQ_ZyOl0,Understood.org -- Opportunity Gap: For Families Navigating Special Education
+https://feeds.simplecast.com/xF5Cl7lM,"Understood.org -- Sorry, I Missed This: The Everything Guide to ADHD and Relationships with Cate Osborn"
+https://feeds.simplecast.com/rovQkSeI,Understood.org -- Hyperfocus with Rae Jacobson
+https://feeds.simplecast.com/12xLllUp,Understood.org -- How'd You Get THAT Job?!
+https://feeds.simplecast.com/9efKLj0g,Understood.org -- Parenting Behavior with Dr. Andy Kahn: Your Guide to Getting Through the Hard Times
+https://feeds.simplecast.com/oj4014ln,Understood.org -- Understood Explains
+https://feeds.simplecast.com/_vQxhxdR,Understood.org -- Minds at Work: How Neurodiversity Fuels Business and Belonging
+https://feeds.simplecast.com/iDH3Gtpk,Understood.org -- Everyone Gets a Juice Box: For Parents of Neurodivergent Kids
+https://feeds.simplecast.com/j7LvUpOf,Understood.org -- Understood Explica
+https://feeds.simplecast.com/xXnZeZ8J,Understood.org -- Climbing the Walls
+https://feeds.megaphone.fm/spearsandsteinberg,DCP Entertainment -- Spears & Steinberg
+https://feeds.megaphone.fm/DCP6638374085,DCP Entertainment -- Toure Show
+https://feeds.megaphone.fm/DCP8838199002,DCP Entertainment -- TruSons Powered by TPL
+https://feeds.megaphone.fm/DCP9987298326,DCP Entertainment -- TPL Georgia
+https://feeds.megaphone.fm/DCP7907121992,DCP Entertainment -- Why Did They Break Up?
+https://feeds.megaphone.fm/DCP5056871475,DCP Entertainment -- Round Up On Rocky by TPL Tennessee
+https://feeds.megaphone.fm/DCP8344115585,DCP Entertainment -- Who Was Prince?
+https://feeds.megaphone.fm/MAC9638490105,Macmillan Podcasts -- But That's Another Story
+https://feeds.megaphone.fm/MAC8459905535,Macmillan Podcasts -- Case Closed
+https://feeds.acast.com/public/shows/69bb11a76071e3bfbdf09b78,Macmillan Podcasts -- One True Pairing
+https://feeds.megaphone.fm/stealthestars,Macmillan Podcasts -- Stories from Among the Stars
+https://feeds.acast.com/public/shows/69bb17dc723e626074236117,Macmillan Podcasts -- Time To Parent
+https://feeds.acast.com/public/shows/69bb0df86cb58679e800d3d8,Macmillan Podcasts -- Driving the Green Book
+https://feeds.acast.com/public/shows/69bb125d723e626074218686,Macmillan Podcasts -- The Astro Poets Podcast
+https://feeds.megaphone.fm/thegirls,Macmillan Podcasts -- The Girls: Find Sadie
+https://feeds.acast.com/public/shows/69bb09b9c4b9c3b6f4f75852,Macmillan Podcasts -- Better at Everything
+https://feeds.megaphone.fm/iloveyoubut,"Macmillan Podcasts -- I Love You, But I Hate Your Politics"
+https://feeds.acast.com/public/shows/69bb0a489f7cc5ed03a2e1b2,Macmillan Podcasts -- Knowing: Robin Williams
+https://feeds.acast.com/public/shows/69bb12019f7cc5ed03a55792,Macmillan Podcasts -- Rossen to the Rescue
+https://rss.art19.com/the-distraction,Defector -- The Distraction: A Defector Podcast
+https://publicfeeds.net/f/3492/feed-rss.xml,Defector -- Normal Gossip
+https://rss.pdrl.fm/c6e873/feeds.megaphone.fm/fakepriest,Sony Music -- The Binge Cases: U R NEXT
+https://rss.pdrl.fm/2d1ab9/feeds.megaphone.fm/infamous,Sony Music -- Infamous
+https://rss.pdrl.fm/ca33ec/feeds.megaphone.fm/witnessed,Sony Music -- The Binge Crimes: The Poet
+https://feeds.acast.com/public/shows/05db9598-9baf-443a-ab69-21a77284c034,Sony Music -- And The Writer Is...with Ross Golan
+https://rss.pdrl.fm/aa51fa/feeds.megaphone.fm/fringenetwork,Sony Music -- Crime Scene
+https://feeds.megaphone.fm/blink,Sony Music -- Blink | Jake Haendel's Story
+https://feeds.megaphone.fm/seeking,Sony Music -- Seeking
+https://rss.pdrl.fm/df583a/feeds.megaphone.fm/chameleonconqueen,Sony Music -- Chameleon: Hollywood Con Queen
+https://rss.pdrl.fm/a940de/feeds.megaphone.fm/firebug,Sony Music -- Firebug
+https://rss.pdrl.fm/ab27f9/feeds.megaphone.fm/chameleonwildboys,Sony Music -- Wild Boys
+https://rss.pdrl.fm/22d4f3/feeds.megaphone.fm/justenough,Sony Music -- The Just Enough Family
+https://feeds.megaphone.fm/thegreatestscameverwritten,Sony Music -- The Greatest Scam Ever Written
+https://feeds.megaphone.fm/evaporatedgwtg,Sony Music -- Evaporated: Gone with the Gods
+https://feeds.megaphone.fm/19days,Sony Music -- 19 Days
+https://feeds.megaphone.fm/fadetoblack,Sony Music -- Fade to Black
+https://rss.pdrl.fm/053ca0/feeds.megaphone.fm/devilintheditch,Sony Music -- Devil in the Ditch
+https://feeds.megaphone.fm/fatalbeauty,Sony Music -- Fatal Beauty
+https://rss.pdrl.fm/3bd901/feeds.megaphone.fm/myfugitivedad,Sony Music -- My Fugitive Dad
+https://feeds.megaphone.fm/cutcolorkill,"Sony Music -- Cut, Color, Kill"
+https://feeds.megaphone.fm/mymotherslies,Sony Music -- My Mother's Lies
+https://feeds.megaphone.fm/margofreshwater,Sony Music -- The Crimes of Margo Freshwater
+https://feeds.megaphone.fm/watchingyou,Sony Music -- Watching You
+https://feeds.megaphone.fm/fatalfantasy,Sony Music -- Fatal Fantasy
