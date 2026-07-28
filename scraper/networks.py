@@ -80,6 +80,25 @@ _GENERIC = {"media", "network", "networks", "podcast", "podcasts", "inc", "the",
             "company", "and", "a"}
 
 
+# Pinned rosters for sales-rep / agency networks that don't credit themselves
+# in each show's iTunes author, so name-search can't find them. Keyed by the
+# seed label -> [(feed_url, title), ...]. Resolved to hosts like any other feed.
+EXPLICIT_FEEDS = {
+    "True Native Media": [
+        ("https://feeds.megaphone.fm/QCD2921626995", "The History Chicks"),
+        ("https://feeds.megaphone.fm/ARML9966973519", "The Box of Oddities"),
+        ("https://rss.art19.com/i-have-adhd", "I Have ADHD Podcast"),
+        ("https://rss.pdrl.fm/353ca0/rss.art19.com/reality-life-with-kate-casey", "Reality Life with Kate Casey"),
+        ("https://feeds.megaphone.fm/really-very-crunchy", "The Really Very Crunchy Podcast"),
+        ("https://rss.art19.com/post-wrestling", "POST Wrestling"),
+        ("https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/976825e3-37d8-4387-a0cd-b24b002d91e5/3df02c7c-f75a-4bea-abe8-b24b002d91ff/podcast.rss", "Buried Bones"),
+        ("https://feeds.megaphone.fm/ARML7840024233", "The Conspirators Podcast"),
+        ("https://feeds.megaphone.fm/WFH5218810446", "The 1000 Hours Outside Podcast"),
+        ("https://rss.pdrl.fm/bddf6c/feeds.megaphone.fm/RNMG7301081241", "Book Riot - The Podcast"),
+    ],
+}
+
+
 def _tokens(name: str) -> list:
     """Distinctive lowercase tokens of a network name (generic words removed)."""
     words = [w for w in re.sub(r"[^a-z0-9]+", " ", name.lower()).split()
@@ -272,9 +291,26 @@ def resolve_network(net: dict) -> dict:
                     if rec:
                         shows.append(rec)
 
+    # Pinned-roster phase: explicit (feed, title) pairs for rep networks that
+    # name-search can't credit. Resolved to hosts, deduped against the rest.
+    pinned = 0
+    roster = EXPLICIT_FEEDS.get(net["label"], [])
+    if roster:
+        have_feeds = {s.get("feed_url") for s in shows}
+        for feed, title in roster:
+            if feed in have_feeds:
+                continue
+            shows.append({
+                "itunes_id": "", "title": title, "artwork": "", "feed_url": feed,
+                "episode_count": None, "last_published": None,
+                "host": fetch_show_feed(feed)[0],
+            })
+            have_feeds.add(feed)
+            pinned += 1
+
     log(f"networks: {net['label']}: {len(shows)} shows "
         f"({len(net['extra_ids'])} curated, {len(discovered)} channel, "
-        f"{searched} search)")
+        f"{searched} search, {pinned} pinned)")
     shows.sort(key=lambda s: (s.get("episode_count") or 0), reverse=True)
 
     # Host breakdown across shows with a confidently-resolved host.
