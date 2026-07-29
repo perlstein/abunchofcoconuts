@@ -1,8 +1,8 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-07-28",
+  "last_scanned": "2026-07-29",
   "total_unique_shows": 800,
-  "resolved_rate": 98.2,
+  "resolved_rate": 98.1,
   "platforms": [
     {
       "name": "Megaphone",
@@ -731,7 +731,20 @@
           "cadence": "Weekly",
           "episode_count": 78,
           "last_published": "2026-06-24",
-          "schedule": null,
+          "schedule": {
+            "days": [
+              0,
+              0,
+              23,
+              0,
+              0,
+              0,
+              1
+            ],
+            "label": "Weekly · Wednesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -6782,7 +6795,7 @@
         {
           "title": "The Bill Simmons Podcast",
           "id": "spotify:show:07SjDmKb9iliEzpNcN2xGD",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fff1473cef0b2a86cab106bb8",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb054906f15b0e0d1b1b06d29",
           "categories": [
             "Sports"
           ],
@@ -22760,8 +22773,8 @@
     },
     {
       "name": "Unresolved (Spotify-only)",
-      "count": 14,
-      "share": 1.8,
+      "count": 15,
+      "share": 1.9,
       "shows": [
         {
           "title": "snorple & jay",
@@ -22989,6 +23002,30 @@
           "publisher": "BeckBroPlays",
           "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "aCookieGod",
+          "id": "spotify:show:4hxkyLG4onhzK9VFoxgfHE",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f97cfb21e982888a084b3adf4",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "aCookieSoldier",
+          "chart_move": "DOWN",
+          "host_since": "2026-07-27",
           "prev_host": null,
           "moved_on": null,
           "feed_url": null,
@@ -23466,330 +23503,6 @@
       "rank": 12
     },
     {
-      "name": "Spreaker",
-      "count": 11,
-      "share": 1.4,
-      "shows": [
-        {
-          "title": "Estoicismo Filosofia",
-          "id": "spotify:show:2rvGjOgeyQTtl5ZgXzUXoQ",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fca838f294e8cbd41903db624",
-          "categories": [
-            "Education"
-          ],
-          "publisher": "Estoicismo Filosofia",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-25",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/6146778/episodes/feed",
-          "owner_name": "Estoicismo Filosofia",
-          "owner_email": "businessmanpodcast82@gmail.com",
-          "itunes_author": "Estoicismo Filosofia",
-          "website": "https://www.spreaker.com/podcast/estoicismo-filosofia--6146778",
-          "description": "Descubre el poder del estoicismo con \"Lecciones Estoicas\", tu podcast para la sabiduría práctica y la paz interior. Únete a nosotros mientras exploramos las enseñanzas estoicas atemporales, aplicando antiguas perspectivas a la vida moderna. Desde enfrentar desafíos diarios hasta cultivar resiliencia…",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "CreepsMcPasta Creepypasta Radio",
-          "id": "spotify:show:7l0iRPdyi5UcHtDVWStxl4",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f25278fe25295ac956e9944f8",
-          "categories": [
-            "Fiction"
-          ],
-          "publisher": "Creeps McPasta",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/4253631/episodes/feed",
-          "owner_name": "Creeps McPasta",
-          "owner_email": "creepsmcpasta@gmail.com",
-          "itunes_author": "Creeps McPasta",
-          "website": "https://www.spreaker.com/show/creepsmcpasta-creepypasta-radio",
-          "description": "'Creepypastas' are the urban legends of the internet. A new age of horror told through digital word of mouth.",
-          "cadence": "~2×/week",
-          "episode_count": 1011,
-          "last_published": "2026-06-02",
-          "schedule": {
-            "days": [
-              5,
-              3,
-              2,
-              4,
-              3,
-              3,
-              4
-            ],
-            "label": "Daily",
-            "eps_year": 362,
-            "trend": "slowing"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Stromedy",
-          "id": "spotify:show:0iYIZmzPi0ysxYqEg5TFDR",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ffb91af1c72ff34cc8ffbf2b5",
-          "categories": [
-            "Fiction"
-          ],
-          "publisher": "Stromedy",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/4468661/episodes/feed",
-          "owner_name": "Michael McCrudden",
-          "owner_email": "mccrudden_michael@hotmail.com",
-          "itunes_author": "Michael McCrudden",
-          "website": "https://www.youtube.com/user/MrMccruddenmichael/featured",
-          "description": "Based on the popular YouTube Channel 'Before They Were Famous' with over 3 Million YouTube Subscribers & nearly 1 Billion views. This is the audio version of those recordings documenting the rise to fame of both traditional stars but mainly internet stars. Artists in rap, comedy, instagram models &…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The Team House",
-          "id": "spotify:show:3Qn9VjM5ioPrPFvjkuSjvb",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f9a45bcd9b24b5f204aaebc3b",
-          "categories": [
-            "History"
-          ],
-          "publisher": "dee takos",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-07-01",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/5960890/episodes/feed",
-          "owner_name": "dee takos",
-          "owner_email": "feeds@spreaker.com",
-          "itunes_author": "dee takos",
-          "website": "https://www.spreaker.com/show/the-team-house_2",
-          "description": "The Team House is a long-form, fiercely apolitical national security podcast hosted by Jack Murphy, featuring special operations veterans, intelligence professionals, frontline reporters, and guests who have never spoken publicly before. It delivers deep-dive conversations on conflict, tradecraft, a…",
-          "cadence": "~3×/week",
-          "episode_count": 612,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              6,
-              2,
-              0,
-              7,
-              2,
-              6,
-              1
-            ],
-            "label": "~3×/week",
-            "eps_year": 182,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Investigate Earth Conspiracy Podcast",
-          "id": "spotify:show:6GOuwDqjEy8rJAR7Js6AUn",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f217237334978ac17e4e99dc5",
-          "categories": [
-            "History"
-          ],
-          "publisher": "Do Without Fear Media",
-          "chart_move": "UP",
-          "host_since": "2026-06-25",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/3294569/episodes/feed",
-          "owner_name": "Do Without Fear Media",
-          "owner_email": "investigateearthpodcast@protonmail.com",
-          "itunes_author": "Do Without Fear Media",
-          "website": "https://investigateearthpodcast.com",
-          "description": "Join Chad and Sheri for Season 6 of the Investigate Earth Conspiracy Podcast! Dive deep into the world’s most intriguing conspiracy theories as we uncover new information and insights. We love hearing from our listeners, so share your thoughts and opinions for a chance to be featured on the show. Ma…",
-          "cadence": "~2×/week",
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Flamingo, but on Spotify",
-          "id": "spotify:show:22liXjcrpAA2DQrwlfd4vv",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f07100540b20e8e44d47deeb8",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "caged",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-25",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/4196214/episodes/feed",
-          "owner_name": "Richmond Productions",
-          "owner_email": "survivingrocklahoma@gmail.com",
-          "itunes_author": "Adam Richmond",
-          "website": "http://www.survivingrocklahoma.com",
-          "description": "Welcome to Surviving Rocklahoma , the official podcast of the ROKLAHOMA community! Hosted by Adam Richmond, this is more than just a show—it's your ultimate guide to the rock scene in Northeast Oklahoma and beyond. We bring you the latest news on the legendary Rocklahoma Festival , dive deep into th…",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Making Sense with Sam Harris - Subscriber Content",
-          "id": "spotify:show:6GSnbFz5qzNuKnLmGzQbPc",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f283cd19ef96ad43449d7af8b",
-          "categories": [
-            "Science"
-          ],
-          "publisher": "Sam Harris",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/6178255/episodes/feed",
-          "owner_name": "Michał Cz",
-          "owner_email": "feeds@spreaker.com",
-          "itunes_author": "Michał Cz",
-          "website": "https://www.spreaker.com/podcast/making-sense-with-sam-harris-subscriber-content--6178255",
-          "description": "Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important and controversial questions about the human mind, society, and current events. Sam Harris is the author of five New York Times bestsellers. His books include The End of Faith, Letter to a Christian Nation,…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Paranormal Mysteries",
-          "id": "spotify:show:1ynLtXtrIRpTuYSE6KEF96",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f89a07bae9dd09829a1b805c7",
-          "categories": [
-            "Science"
-          ],
-          "publisher": "Nic Ryan | Paranormal Mysteries Podcast",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/2321086/episodes/feed",
-          "owner_name": "Nic Ryan",
-          "owner_email": "paranormalmysteriespodcast@gmail.com",
-          "itunes_author": "Nic Ryan | Paranormal Mysteries Podcast",
-          "website": "https://www.paranormalmysteriespodcast.com",
-          "description": "Join me on a weekly journey down the path of high strangeness, as I explore Hauntings, Supernatural Creatures, Extraterrestrials, Folklore, Missing People, and many other unexplained phenomena. The unknown awaits. Share your experience at www.ParanormalMysteriesPodcast.com",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Sword and Scale",
-          "id": "spotify:show:2dzMey4yRYKX5NWKp8zPrd",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fca4cdbd3d00e196e35f01347",
-          "categories": [
-            "Society & Culture"
-          ],
-          "publisher": "Sword and Scale",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/5895676/episodes/feed",
-          "owner_name": "Incongruity",
-          "owner_email": "feedback@swordandscale.com",
-          "itunes_author": "Sword and Scale",
-          "website": "https://swordandscale.com",
-          "description": "Sword and Scale is a weekly true crime podcast covering the dark underworld of crime and the criminal justice system’s response to it. The first episode launched January 1st, 2014 and feature stories of murder, abduction, rape, and even more bizarre forms of crime. It’s the purest form of true-crime…",
-          "cadence": "Biweekly",
-          "episode_count": 366,
-          "last_published": "2026-06-17",
-          "schedule": {
-            "days": [
-              2,
-              2,
-              4,
-              1,
-              2,
-              6,
-              7
-            ],
-            "label": "Biweekly",
-            "eps_year": 36,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Spooky Scary Storytime",
-          "id": "spotify:show:5jL7pzrfzMczbkYtgncyTH",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ff0c10b9526df9fa7687fde01",
-          "categories": [
-            "Society & Culture"
-          ],
-          "publisher": "ashleeinc",
-          "chart_move": "UP",
-          "host_since": "2026-07-17",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.spreaker.com/show/3577322/episodes/feed",
-          "owner_name": "Spooky Boo's Scary Story Time",
-          "owner_email": "spookyboo@scarystorytime.com",
-          "itunes_author": "Spooky Boo's Scary Story Time",
-          "website": "https://www.scarystorytime.com",
-          "description": "The original Spooky Boo's Scary Story Time telling spooky, scary stories since 2016. Here you'll find true scary stories, horror fiction stories, urban legends, true heinous and nefarious crime, and other tall tales from the darkest corners of the internet. Call in your own true scary story at the n…",
-          "cadence": "Daily",
-          "episode_count": null,
-          "last_published": "2026-06-24",
-          "schedule": {
-            "days": [
-              1,
-              1,
-              7,
-              4,
-              4,
-              3,
-              4
-            ],
-            "label": "Daily",
-            "eps_year": 334,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Royalty Family ",
-          "id": "spotify:show:5PJAKCxOsNYxyNNxe7KmsE",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fb8640312d1b45c5a5ae0b6db",
-          "categories": [
-            "TV & Film"
-          ],
-          "publisher": "The Royalty Family",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.pdrl.fm/c7e33b/www.spreaker.com/show/4522904/episodes/feed",
-          "owner_name": "Caloroga Shark Media",
-          "owner_email": "calorogashark@gmail.com",
-          "itunes_author": "Caloroga Shark Media / The Daily Royal Family Podcast",
-          "website": "https://www.podpage.com/palace-intrigue-meghan-markle-kate-middleton-and-the-royal-family/",
-          "description": "Every day the British royal family makes news. Palace Intrigue gives you the real story — the politics, the feuds, the scandals, and the moments the Palace press office hopes you'll miss. Hosted by John McDermott, Palace Intrigue covers King Charles, Queen Camilla, Prince William, Kate Middleton, Pr…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        }
-      ],
-      "rank": 13
-    },
-    {
       "name": "AmperWave (Audacy)",
       "count": 10,
       "share": 1.2,
@@ -24165,7 +23878,7 @@
           "rss_video": null
         }
       ],
-      "rank": 14
+      "rank": 13
     },
     {
       "name": "Barstool Sports",
@@ -24540,6 +24253,306 @@
             "eps_year": 366,
             "trend": "steady"
           },
+          "rss_video": null
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "name": "Spreaker",
+      "count": 10,
+      "share": 1.2,
+      "shows": [
+        {
+          "title": "Estoicismo Filosofia",
+          "id": "spotify:show:2rvGjOgeyQTtl5ZgXzUXoQ",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fca838f294e8cbd41903db624",
+          "categories": [
+            "Education"
+          ],
+          "publisher": "Estoicismo Filosofia",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-25",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/6146778/episodes/feed",
+          "owner_name": "Estoicismo Filosofia",
+          "owner_email": "businessmanpodcast82@gmail.com",
+          "itunes_author": "Estoicismo Filosofia",
+          "website": "https://www.spreaker.com/podcast/estoicismo-filosofia--6146778",
+          "description": "Descubre el poder del estoicismo con \"Lecciones Estoicas\", tu podcast para la sabiduría práctica y la paz interior. Únete a nosotros mientras exploramos las enseñanzas estoicas atemporales, aplicando antiguas perspectivas a la vida moderna. Desde enfrentar desafíos diarios hasta cultivar resiliencia…",
+          "cadence": "Weekly",
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "CreepsMcPasta Creepypasta Radio",
+          "id": "spotify:show:7l0iRPdyi5UcHtDVWStxl4",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f25278fe25295ac956e9944f8",
+          "categories": [
+            "Fiction"
+          ],
+          "publisher": "Creeps McPasta",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/4253631/episodes/feed",
+          "owner_name": "Creeps McPasta",
+          "owner_email": "creepsmcpasta@gmail.com",
+          "itunes_author": "Creeps McPasta",
+          "website": "https://www.spreaker.com/show/creepsmcpasta-creepypasta-radio",
+          "description": "'Creepypastas' are the urban legends of the internet. A new age of horror told through digital word of mouth.",
+          "cadence": "~2×/week",
+          "episode_count": 1011,
+          "last_published": "2026-06-02",
+          "schedule": {
+            "days": [
+              5,
+              3,
+              2,
+              4,
+              3,
+              3,
+              4
+            ],
+            "label": "Daily",
+            "eps_year": 362,
+            "trend": "slowing"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Stromedy",
+          "id": "spotify:show:0iYIZmzPi0ysxYqEg5TFDR",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ffb91af1c72ff34cc8ffbf2b5",
+          "categories": [
+            "Fiction"
+          ],
+          "publisher": "Stromedy",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/4468661/episodes/feed",
+          "owner_name": "Michael McCrudden",
+          "owner_email": "mccrudden_michael@hotmail.com",
+          "itunes_author": "Michael McCrudden",
+          "website": "https://www.youtube.com/user/MrMccruddenmichael/featured",
+          "description": "Based on the popular YouTube Channel 'Before They Were Famous' with over 3 Million YouTube Subscribers & nearly 1 Billion views. This is the audio version of those recordings documenting the rise to fame of both traditional stars but mainly internet stars. Artists in rap, comedy, instagram models &…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "The Team House",
+          "id": "spotify:show:3Qn9VjM5ioPrPFvjkuSjvb",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f9a45bcd9b24b5f204aaebc3b",
+          "categories": [
+            "History"
+          ],
+          "publisher": "dee takos",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-07-01",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/5960890/episodes/feed",
+          "owner_name": "dee takos",
+          "owner_email": "feeds@spreaker.com",
+          "itunes_author": "dee takos",
+          "website": "https://www.spreaker.com/show/the-team-house_2",
+          "description": "The Team House is a long-form, fiercely apolitical national security podcast hosted by Jack Murphy, featuring special operations veterans, intelligence professionals, frontline reporters, and guests who have never spoken publicly before. It delivers deep-dive conversations on conflict, tradecraft, a…",
+          "cadence": "~3×/week",
+          "episode_count": 612,
+          "last_published": "2026-06-26",
+          "schedule": {
+            "days": [
+              6,
+              2,
+              0,
+              7,
+              2,
+              6,
+              1
+            ],
+            "label": "~3×/week",
+            "eps_year": 182,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Investigate Earth Conspiracy Podcast",
+          "id": "spotify:show:6GOuwDqjEy8rJAR7Js6AUn",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f217237334978ac17e4e99dc5",
+          "categories": [
+            "History"
+          ],
+          "publisher": "Do Without Fear Media",
+          "chart_move": "UP",
+          "host_since": "2026-06-25",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/3294569/episodes/feed",
+          "owner_name": "Do Without Fear Media",
+          "owner_email": "investigateearthpodcast@protonmail.com",
+          "itunes_author": "Do Without Fear Media",
+          "website": "https://investigateearthpodcast.com",
+          "description": "Join Chad and Sheri for Season 6 of the Investigate Earth Conspiracy Podcast! Dive deep into the world’s most intriguing conspiracy theories as we uncover new information and insights. We love hearing from our listeners, so share your thoughts and opinions for a chance to be featured on the show. Ma…",
+          "cadence": "~2×/week",
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Making Sense with Sam Harris - Subscriber Content",
+          "id": "spotify:show:6GSnbFz5qzNuKnLmGzQbPc",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f283cd19ef96ad43449d7af8b",
+          "categories": [
+            "Science"
+          ],
+          "publisher": "Sam Harris",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/6178255/episodes/feed",
+          "owner_name": "Michał Cz",
+          "owner_email": "feeds@spreaker.com",
+          "itunes_author": "Michał Cz",
+          "website": "https://www.spreaker.com/podcast/making-sense-with-sam-harris-subscriber-content--6178255",
+          "description": "Join neuroscientist, philosopher, and best-selling author Sam Harris as he explores important and controversial questions about the human mind, society, and current events. Sam Harris is the author of five New York Times bestsellers. His books include The End of Faith, Letter to a Christian Nation,…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Paranormal Mysteries",
+          "id": "spotify:show:1ynLtXtrIRpTuYSE6KEF96",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f89a07bae9dd09829a1b805c7",
+          "categories": [
+            "Science"
+          ],
+          "publisher": "Nic Ryan | Paranormal Mysteries Podcast",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/2321086/episodes/feed",
+          "owner_name": "Nic Ryan",
+          "owner_email": "paranormalmysteriespodcast@gmail.com",
+          "itunes_author": "Nic Ryan | Paranormal Mysteries Podcast",
+          "website": "https://www.paranormalmysteriespodcast.com",
+          "description": "Join me on a weekly journey down the path of high strangeness, as I explore Hauntings, Supernatural Creatures, Extraterrestrials, Folklore, Missing People, and many other unexplained phenomena. The unknown awaits. Share your experience at www.ParanormalMysteriesPodcast.com",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Sword and Scale",
+          "id": "spotify:show:2dzMey4yRYKX5NWKp8zPrd",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fca4cdbd3d00e196e35f01347",
+          "categories": [
+            "Society & Culture"
+          ],
+          "publisher": "Sword and Scale",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/5895676/episodes/feed",
+          "owner_name": "Incongruity",
+          "owner_email": "feedback@swordandscale.com",
+          "itunes_author": "Sword and Scale",
+          "website": "https://swordandscale.com",
+          "description": "Sword and Scale is a weekly true crime podcast covering the dark underworld of crime and the criminal justice system’s response to it. The first episode launched January 1st, 2014 and feature stories of murder, abduction, rape, and even more bizarre forms of crime. It’s the purest form of true-crime…",
+          "cadence": "Biweekly",
+          "episode_count": 366,
+          "last_published": "2026-06-17",
+          "schedule": {
+            "days": [
+              2,
+              2,
+              4,
+              1,
+              2,
+              6,
+              7
+            ],
+            "label": "Biweekly",
+            "eps_year": 36,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Spooky Scary Storytime",
+          "id": "spotify:show:5jL7pzrfzMczbkYtgncyTH",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ff0c10b9526df9fa7687fde01",
+          "categories": [
+            "Society & Culture"
+          ],
+          "publisher": "ashleeinc",
+          "chart_move": "UP",
+          "host_since": "2026-07-17",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/3577322/episodes/feed",
+          "owner_name": "Spooky Boo's Scary Story Time",
+          "owner_email": "spookyboo@scarystorytime.com",
+          "itunes_author": "Spooky Boo's Scary Story Time",
+          "website": "https://www.scarystorytime.com",
+          "description": "The original Spooky Boo's Scary Story Time telling spooky, scary stories since 2016. Here you'll find true scary stories, horror fiction stories, urban legends, true heinous and nefarious crime, and other tall tales from the darkest corners of the internet. Call in your own true scary story at the n…",
+          "cadence": "Daily",
+          "episode_count": null,
+          "last_published": "2026-06-24",
+          "schedule": {
+            "days": [
+              1,
+              1,
+              7,
+              4,
+              4,
+              3,
+              4
+            ],
+            "label": "Daily",
+            "eps_year": 334,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "The Royalty Family ",
+          "id": "spotify:show:5PJAKCxOsNYxyNNxe7KmsE",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb8640312d1b45c5a5ae0b6db",
+          "categories": [
+            "TV & Film"
+          ],
+          "publisher": "The Royalty Family",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.pdrl.fm/c7e33b/www.spreaker.com/show/4522904/episodes/feed",
+          "owner_name": "Caloroga Shark Media",
+          "owner_email": "calorogashark@gmail.com",
+          "itunes_author": "Caloroga Shark Media / The Daily Royal Family Podcast",
+          "website": "https://www.podpage.com/palace-intrigue-meghan-markle-kate-middleton-and-the-royal-family/",
+          "description": "Every day the British royal family makes news. Palace Intrigue gives you the real story — the politics, the feuds, the scandals, and the moments the Palace press office hopes you'll miss. Hosted by John McDermott, Palace Intrigue covers King Charles, Queen Camilla, Prince William, Kate Middleton, Pr…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
           "rss_video": null
         }
       ],
@@ -27115,7 +27128,20 @@
               "cadence": "Weekly",
               "episode_count": 78,
               "last_published": "2026-06-24",
-              "schedule": null,
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  23,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "label": "Weekly · Wednesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
               "rss_video": null
             },
             {
@@ -37510,8 +37536,8 @@
         },
         {
           "name": "Unresolved (Spotify-only)",
-          "count": 6,
-          "share": 12.0,
+          "count": 7,
+          "share": 14.0,
           "shows": [
             {
               "title": "Slime Glitterz",
@@ -37643,6 +37669,30 @@
               "publisher": "BeckBroPlays",
               "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": null,
+              "owner_name": null,
+              "owner_email": null,
+              "itunes_author": null,
+              "website": null,
+              "description": null,
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "aCookieGod",
+              "id": "spotify:show:4hxkyLG4onhzK9VFoxgfHE",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f97cfb21e982888a084b3adf4",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "aCookieSoldier",
+              "chart_move": "DOWN",
+              "host_since": "2026-07-27",
               "prev_host": null,
               "moved_on": null,
               "feed_url": null,
@@ -38205,38 +38255,6 @@
           "rank": 10
         },
         {
-          "name": "Spreaker",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "Flamingo, but on Spotify",
-              "id": "spotify:show:22liXjcrpAA2DQrwlfd4vv",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f07100540b20e8e44d47deeb8",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "caged",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-25",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://www.spreaker.com/show/4196214/episodes/feed",
-              "owner_name": "Richmond Productions",
-              "owner_email": "survivingrocklahoma@gmail.com",
-              "itunes_author": "Adam Richmond",
-              "website": "http://www.survivingrocklahoma.com",
-              "description": "Welcome to Surviving Rocklahoma , the official podcast of the ROKLAHOMA community! Hosted by Adam Richmond, this is more than just a show—it's your ultimate guide to the rock scene in Northeast Oklahoma and beyond. We bring you the latest news on the legendary Rocklahoma Festival , dive deep into th…",
-              "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
-          "rank": 11
-        },
-        {
           "name": "Substack",
           "count": 1,
           "share": 2.0,
@@ -38266,7 +38284,7 @@
               "rss_video": null
             }
           ],
-          "rank": 12
+          "rank": 11
         }
       ]
     },
@@ -46879,7 +46897,7 @@
             {
               "title": "The Bill Simmons Podcast",
               "id": "spotify:show:07SjDmKb9iliEzpNcN2xGD",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fff1473cef0b2a86cab106bb8",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb054906f15b0e0d1b1b06d29",
               "categories": [
                 "Sports"
               ],
