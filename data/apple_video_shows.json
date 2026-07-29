@@ -18,7 +18,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/8af0c347-5e6e-48e2-8fae-3f4e765c84ab",
       "host": "Acast",
       "episode_count": 2000,
-      "last_published": "2026-07-27",
+      "last_published": "2026-07-29",
       "on_chart": false
     },
     {
@@ -127,8 +127,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/d6/e4/aad6e450-1ad5-4730-507d-5404244714ec/mza_4221339417551533538.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/zach-sang-show",
       "host": "Art19",
-      "episode_count": 1059,
-      "last_published": "2026-07-24",
+      "episode_count": 1060,
+      "last_published": "2026-07-27",
       "on_chart": true
     },
     {
@@ -244,12 +244,12 @@
     {
       "itunes_id": "1507190937",
       "title": "Pop Apologists",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/99/66/db99663c-3801-a4a4-419b-610bf43d2dd1/mza_5542773936536259542.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/99/66/db99663c-3801-a4a4-419b-610bf43d2dd1/mza_5542773936536259542.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/pop-apologists",
       "host": "Art19",
-      "episode_count": 514,
-      "last_published": "2026-07-22",
-      "on_chart": false
+      "episode_count": 515,
+      "last_published": "2026-07-24",
+      "on_chart": true
     },
     {
       "itunes_id": "1067020550",
@@ -317,8 +317,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c4/dc/de/c4dcdec7-fbea-749e-7a03-bbe27db17137/mza_4311127974403693339.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
       "host": "Acast",
-      "episode_count": 391,
-      "last_published": "2026-07-22",
+      "episode_count": 392,
+      "last_published": "2026-07-27",
       "on_chart": false
     },
     {
@@ -337,19 +337,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e1/b0/89/e1b0891d-d710-9a32-e280-5922b92e08bf/mza_15552391604477952012.jpg/170x170bb.png",
       "feed_url": "https://rss.libsyn.com/shows/123267/destinations/727317.xml",
       "host": "Libsyn",
-      "episode_count": 366,
-      "last_published": "2026-07-28",
+      "episode_count": 367,
+      "last_published": "2026-07-29",
       "on_chart": true
     },
     {
       "itunes_id": "1507621076",
       "title": "Tech Won't Save Us",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/70/13d770a9-15da-2cfb-1adf-eb616a8df1de/mza_7147558842617286242.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/70/13d770a9-15da-2cfb-1adf-eb616a8df1de/mza_7147558842617286242.jpg/600x600bb.jpg",
       "feed_url": "https://rss.buzzsprout.com/1004689.rss",
       "host": "Buzzsprout",
       "episode_count": 354,
       "last_published": "2026-07-16",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1494989268",
@@ -597,8 +597,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/ce/36/8cce3648-2e76-735c-f6d8-8e72febc8ed7/mza_13220543383965859061.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/hga-imo",
       "host": "Art19",
-      "episode_count": 102,
-      "last_published": "2026-07-22",
+      "episode_count": 103,
+      "last_published": "2026-07-29",
       "on_chart": true
     },
     {
@@ -657,7 +657,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/41/9e/b4419e17-b3d7-a578-7bf6-d1118d27a19c/mza_6209722495607333664.jpg/170x170bb.png",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/6d9e2ef8-e4e9-45e9-9e13-ae32006cd844/podcast.rss",
       "host": "Omny / Triton",
-      "episode_count": 55,
+      "episode_count": 56,
       "last_published": "2026-06-30",
       "on_chart": true
     },
@@ -792,6 +792,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1884146372",
+      "title": "The Morgan Stewart Show",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/84/e7/6984e772-9e27-1d7c-b641-0d1ca2208028/mza_9843280263932663127.jpg/170x170bb.png",
+      "feed_url": "https://feeds.simplecast.com/BbxEWNSo",
+      "host": "Simplecast",
+      "episode_count": 22,
+      "last_published": "2026-07-29",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1896788254",
       "title": "For Stepper's Only Podcast: Raw UnCut and Unedited",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/25/49/0f/25490ff1-b8d1-0a1f-ea28-ff01a3edb436/mza_1696035853070000244.jpg/600x600bb.jpg",
@@ -800,16 +810,6 @@
       "episode_count": 22,
       "last_published": "2026-07-28",
       "on_chart": false
-    },
-    {
-      "itunes_id": "1884146372",
-      "title": "The Morgan Stewart Show",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/84/e7/6984e772-9e27-1d7c-b641-0d1ca2208028/mza_9843280263932663127.jpg/170x170bb.png",
-      "feed_url": "https://feeds.simplecast.com/BbxEWNSo",
-      "host": "Simplecast",
-      "episode_count": 21,
-      "last_published": "2026-07-22",
-      "on_chart": true
     },
     {
       "itunes_id": "1811677507",
@@ -877,7 +877,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6c/e9/f8/6ce9f8d0-4c4a-0396-64db-f3f7f6c02efb/mza_12587564008542980407.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/69c4c11f217ea6ceb706debc",
       "host": "Acast",
-      "episode_count": 15,
+      "episode_count": 16,
       "last_published": "2026-07-22",
       "on_chart": true
     },
@@ -942,6 +942,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "1896344403",
+      "title": "Cigar Aficionado Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/a2/eb/12a2eb64-e8bf-d4ac-c58c-5c43ef9de236/mza_18406074715353457332.jpg/170x170bb.png",
+      "feed_url": "https://rss.buzzsprout.com/2616085.rss",
+      "host": "Buzzsprout",
+      "episode_count": 6,
+      "last_published": "2026-07-29",
+      "on_chart": true
+    },
+    {
       "itunes_id": "6789198595",
       "title": "Better in Person with Stephen Dubner",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/3a/cc/8c3acc05-1d0d-7ff1-121e-bc9fdb9a9705/mza_10068821893430063461.jpg/170x170bb.png",
@@ -957,8 +967,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/59/08/ac5908b9-5e25-208e-6348-aa0fb7e75cd9/mza_2601575612630893705.jpg/170x170bb.png",
       "feed_url": "https://rss.buzzsprout.com/2632331.rss",
       "host": "Buzzsprout",
-      "episode_count": 1,
-      "last_published": "2026-07-26",
+      "episode_count": 2,
+      "last_published": "2026-07-29",
       "on_chart": true
     }
   ]
