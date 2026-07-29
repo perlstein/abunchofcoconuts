@@ -1,14 +1,23 @@
 {
-  "generated": "2026-07-28",
-  "total_tracked": 25830,
+  "generated": "2026-07-29",
+  "total_tracked": 26167,
   "moves": [
+    {
+      "title": "The Influence Exchange",
+      "feed_url": "https://rss.art19.com/the-influence-exchange",
+      "from": "Buzzsprout",
+      "to": "Art19",
+      "date": "2026-07-29",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/26/4f/b3264fce-a196-9874-4bc3-281ddb2df0f8/mza_9402229219972301862.jpeg/170x170bb.png"
+    },
     {
       "title": "Yahoo Fantasy Football with Josh & Hayden",
       "feed_url": "https://feeds.simplecast.com/Lj5JhCEG",
       "from": "Megaphone",
       "to": "Simplecast",
       "date": "2026-07-28",
-      "source": "chart",
+      "source": "watchlist",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/31/c4/8431c4f1-de83-533c-dbac-154c88e14b6f/mza_3448268463126888469.jpg/170x170bb.png"
     },
     {
@@ -224,7 +233,7 @@
       "from": "Megaphone",
       "to": "Simplecast",
       "date": "2026-07-21",
-      "source": "chart",
+      "source": "watchlist",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/e6/62/87e6629b-78fa-7b76-959a-901e020bc5c7/mza_13260730044840862954.jpg/170x170bb.png"
     },
     {
