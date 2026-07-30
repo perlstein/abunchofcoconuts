@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-29",
-  "total_tracked": 26180,
+  "generated": "2026-07-30",
+  "total_tracked": 26733,
   "moves": [
     {
       "title": "The Influence Exchange",
@@ -244,6 +244,15 @@
       "date": "2026-07-21",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6a/21/3d/6a213d7f-ebeb-ed8a-1123-9350aae3fb4b/mza_9916926620382631982.jpg/170x170bb.png"
+    },
+    {
+      "title": "WSJ What’s News",
+      "feed_url": "https://video-api.shdsvc.dowjones.io/api/podcasts/feed/the%20wall%20street%20journal%20whats%20news",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-07-21",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/e6/62/87e6629b-78fa-7b76-959a-901e020bc5c7/mza_13260730044840862954.jpg/170x170bb.png"
     },
     {
       "title": "DJ LOFT Mixes",
