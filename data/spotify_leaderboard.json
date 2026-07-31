@@ -6,8 +6,8 @@
   "platforms": [
     {
       "name": "Megaphone",
-      "count": 273,
-      "share": 34.1,
+      "count": 271,
+      "share": 33.9,
       "shows": [
         {
           "title": "Financial Audit",
@@ -2128,43 +2128,6 @@
           "rss_video": null
         },
         {
-          "title": "More Life with Carl Radke",
-          "id": "spotify:show:0sKQIu1UywDpAAQRmwYzIs",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f3d197d561bdef9ae3fd4c2b9",
-          "categories": [
-            "Education"
-          ],
-          "publisher": "Sony Music Entertainment ",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/morelifewithcarlradke",
-          "owner_name": "Sony Music Entertainment",
-          "owner_email": "podcasts@sonymusic.com",
-          "itunes_author": "Sony Music Entertainment",
-          "website": null,
-          "description": "Growth isn’t a one-time event — it’s a choice we make every day. This is a show that proves that there is more life waiting for us on the other side. Each week, Carl Radke, star of Bravo’s Summer House, sits down with celebrities, thought leaders, creators, and everyday people to explore the moments…",
-          "cadence": "Weekly",
-          "episode_count": 23,
-          "last_published": "2026-06-16",
-          "schedule": {
-            "days": [
-              0,
-              24,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Tuesdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
           "title": "The Sabrina Zohar Show",
           "id": "spotify:show:2Dsp24A82JkYRXytiA2qRt",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f1527a40adec1e644347f44e5",
@@ -2172,7 +2135,7 @@
             "Education"
           ],
           "publisher": "Sabrina Zohar",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2209,7 +2172,7 @@
             "Education"
           ],
           "publisher": "Jordan Berman",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2246,7 +2209,7 @@
             "Education"
           ],
           "publisher": "Ed Mylett",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2283,7 +2246,7 @@
             "Education"
           ],
           "publisher": "Mark Manson",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2320,7 +2283,7 @@
             "Education"
           ],
           "publisher": "Clutterbug",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2357,7 +2320,7 @@
             "Education"
           ],
           "publisher": "Absolute Motivation",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-19",
           "prev_host": null,
           "moved_on": null,
@@ -3960,43 +3923,6 @@
           "rss_video": null
         },
         {
-          "title": "Trash Taste Podcast",
-          "id": "spotify:show:6i9SWtZPb30xVXWVHSKCqq",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fb6cb66e75137f9cce31e4480",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "Trash Taste Podcast",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/trashtaste",
-          "owner_name": "Trash Taste Podcast & Studio71",
-          "owner_email": "podcasts@studio71us.com",
-          "itunes_author": "Trash Taste Podcast",
-          "website": "https://trashtaste.com",
-          "description": "Trash Taste is the premiere anime podcast exploring anime, manga, and otaku culture with top anime YouTubers: Joey from The Anime Man, Garnt from Gigguk, and Connor from Cdawgva, and occasionally special guests. For advertising opportunities please email: PodcastPartnerships@Studio71us.com We wanna…",
-          "cadence": "Weekly",
-          "episode_count": 315,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              0,
-              0,
-              0,
-              0,
-              24,
-              0,
-              0
-            ],
-            "label": "Weekly · Fridays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
           "title": "Kinda Funny Games Daily: Video Games News Podcast",
           "id": "spotify:show:1hXrn6RoMMAiNGLE8jxKKf",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f741db5fed82865572425bfc0",
@@ -4004,7 +3930,7 @@
             "Leisure"
           ],
           "publisher": "Kinda Funny",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -4041,7 +3967,7 @@
             "Leisure"
           ],
           "publisher": "Grox",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -4163,7 +4089,7 @@
             "Music"
           ],
           "publisher": "Spotify Studios",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -5604,7 +5530,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "The Perrys",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -5641,7 +5567,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Lakepointe Church",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -5678,7 +5604,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Johnny Chang",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -8639,7 +8565,7 @@
         {
           "title": "The Rewatchables",
           "id": "spotify:show:1lUPomulZRPquVAOOd56EW",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1faeaffe8827e92d870857cddf",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb95ca41d64861fa2d6c5a2c7",
           "categories": [
             "TV & Film"
           ],
@@ -8824,7 +8750,7 @@
         {
           "title": "The Ringer-Verse",
           "id": "spotify:show:3z9QIZzDR4o34uBBbsxb0z",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f914b2d4a1dbd1a36acc86e1c",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fc6372cf9d39f9d4002430161",
           "categories": [
             "TV & Film"
           ],
@@ -9270,8 +9196,8 @@
     },
     {
       "name": "Spotify/Anchor",
-      "count": 117,
-      "share": 14.6,
+      "count": 116,
+      "share": 14.5,
       "shows": [
         {
           "title": "PBD Podcast",
@@ -9634,7 +9560,7 @@
             "Education"
           ],
           "publisher": "Bianca Venchiarutti",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-07-15",
           "prev_host": null,
           "moved_on": null,
@@ -10791,7 +10717,7 @@
             "Leisure"
           ],
           "publisher": "Aphmau",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -10852,7 +10778,7 @@
             "Leisure"
           ],
           "publisher": "Typical Gamer",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-21",
           "prev_host": null,
           "moved_on": null,
@@ -10930,6 +10856,30 @@
           "rss_video": null
         },
         {
+          "title": "random asmr",
+          "id": "spotify:show:0JDRzGhjvx2rLbUPUKtFBP",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f5a2a6574a79690758f12b4cf",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "🕸",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/619685c8/podcast/rss",
+          "owner_name": "MusclesnotMussles",
+          "owner_email": "podcasts60+619685c8@anchor.fm",
+          "itunes_author": "MusclesnotMussles",
+          "website": "https://podcasters.spotify.com/pod/show/musclesnotmussles",
+          "description": "Generally I'll upload ASMR I make, and I'll upload some relaxing rain and campfire stuff.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
           "title": "Spotify Presents",
           "id": "spotify:show:2K5tDp2QRuZy16KTWoWq6B",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f795c21427db40db9c71c9032",
@@ -10987,30 +10937,6 @@
           "cadence": null,
           "episode_count": null,
           "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Alofoke Songs",
-          "id": "spotify:show:033rd2sEcYLwRPgxHSYaPL",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f4b55fb5f7bf8fdd1b3702e06",
-          "categories": [
-            "Music"
-          ],
-          "publisher": "Alofoke Songs",
-          "chart_move": "UP",
-          "host_since": "2026-07-20",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://anchor.fm/s/1054d494/podcast/rss",
-          "owner_name": "SongKingRd",
-          "owner_email": "podcasts29+1054d494@anchor.fm",
-          "itunes_author": "SongKingRd",
-          "website": "https://podcasters.spotify.com/pod/show/songkingrd",
-          "description": "Que Harias Si Te Quedan 24 Horas De Vida",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": "2019-11-13",
           "schedule": null,
           "rss_video": null
         },
@@ -11582,7 +11508,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Living Lchaim",
-          "chart_move": "DOWN",
+          "chart_move": "NEW",
           "host_since": "2026-07-24",
           "prev_host": null,
           "moved_on": null,
@@ -11619,7 +11545,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Bible Beginning to End",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -11643,7 +11569,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Memorias del Alma",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -11681,43 +11607,6 @@
           "episode_count": null,
           "last_published": null,
           "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The David Ghiyam Podcast",
-          "id": "spotify:show:2w0QPVrnD1HJXqOkgH8ynS",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f9ba2727f6c34cd40b1f90578",
-          "categories": [
-            "Religion & Spirituality"
-          ],
-          "publisher": "David Ghiyam",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://anchor.fm/s/fc9d14c4/podcast/rss",
-          "owner_name": "David Ghiyam",
-          "owner_email": null,
-          "itunes_author": "David Ghiyam",
-          "website": "https://bit.ly/DG-home-pod",
-          "description": "I'm David Ghiyam, and for over 20 years, I've shared universal spiritual laws to help people reconnect with their soul's purpose, remove blocks, raise certainty, and manifest miracles in their daily life. Every Friday, I share 15–20 minutes of the most powerful insights with a guided meditation to h…",
-          "cadence": "Weekly",
-          "episode_count": 107,
-          "last_published": "2026-06-19",
-          "schedule": {
-            "days": [
-              0,
-              0,
-              0,
-              0,
-              23,
-              1,
-              0
-            ],
-            "label": "Weekly · Fridays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
           "rss_video": null
         },
         {
@@ -13559,7 +13448,7 @@
             "Leisure"
           ],
           "publisher": "Russ Frushtick, Chris Plante, Griffin McElroy, Justin McElroy",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -14101,7 +13990,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Life.Church",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -15376,8 +15265,8 @@
     },
     {
       "name": "Omny / Triton",
-      "count": 43,
-      "share": 5.4,
+      "count": 44,
+      "share": 5.5,
       "shows": [
         {
           "title": "Odd Lots",
@@ -15917,6 +15806,43 @@
             ],
             "label": "Daily",
             "eps_year": 243,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond",
+          "id": "spotify:show:6UsuhRMTD9O71DznRP8540",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ff54cb362c0270c6c68bc5b25",
+          "categories": [
+            "Music"
+          ],
+          "publisher": "Pushkin Industries",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ff0ba2f2-f33c-4193-aba2-ae32006cd633/11c188a1-cb86-4869-9c57-ae32006cd63c/podcast.rss",
+          "owner_name": "Pushkin Industries",
+          "owner_email": "feeds@pushkin.fm",
+          "itunes_author": "Pushkin Industries",
+          "website": "https://brokenrecordpodcast.com/",
+          "description": "Music and storytelling meet on Broken Record, where artists across genres and generations sit down to explore the joy, chaos, and vulnerability of creating—and what it means to devote a life to music. From legendary icons to groundbreaking new voices, each episode captures artists in conversation sh…",
+          "cadence": "Weekly",
+          "episode_count": 425,
+          "last_published": "2026-06-23",
+          "schedule": {
+            "days": [
+              0,
+              21,
+              0,
+              3,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Tuesdays",
+            "eps_year": 52,
             "trend": "steady"
           },
           "rss_video": null
@@ -16910,8 +16836,8 @@
     },
     {
       "name": "Libsyn",
-      "count": 40,
-      "share": 5.0,
+      "count": 41,
+      "share": 5.1,
       "shows": [
         {
           "title": "REAL AF with Andy Frisella",
@@ -17398,7 +17324,7 @@
             "Leisure"
           ],
           "publisher": "Super Best Friends Play",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -17435,7 +17361,7 @@
             "Leisure"
           ],
           "publisher": "CboysTV",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-25",
           "prev_host": null,
           "moved_on": null,
@@ -17446,6 +17372,30 @@
           "website": "https://www.studio71.com/us/podcasts/",
           "description": "From business tips to dating advice to behind-the-scenes of CboysTV, this weekly podcast shares the untold stories of CJ, Ben, Ryan, Ken, Evan and Micah. Tune in to Life Wide Open on Tuesdays at 9am CT. Follow us on all podcast apps, streaming platforms, and on Instagram: @lifewideopenpodcast For ad…",
           "cadence": "Weekly",
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "The Ninja Fam",
+          "id": "spotify:show:02McTVi1fD6EJ5hPjFh8cL",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fbfcf645a29cf3535babbb4b4",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "Play.Works",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://theninjababespodcast.libsyn.com/rss",
+          "owner_name": "Cara Mack",
+          "owner_email": "theninjababes@gmail.com",
+          "itunes_author": "Cara Mack; Founder of Ninjababes™ and 4x American Ninja Warrior City",
+          "website": "https://www.theninjababes.com/blog",
+          "description": "Cara Poalillo Mack, a 4x American Ninja Warrior leads a discussion about females in the sport of ninja. She interviews female athletes within the ninja world about their personal stories, performance on the ninja course, and mindset practices.",
+          "cadence": null,
           "episode_count": null,
           "last_published": null,
           "schedule": null,
@@ -17655,7 +17605,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Joyce Meyer Ministries",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -17679,7 +17629,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "PastorRick.com",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -17716,7 +17666,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Tara Brach",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -18190,8 +18140,8 @@
     },
     {
       "name": "Art19",
-      "count": 38,
-      "share": 4.8,
+      "count": 37,
+      "share": 4.6,
       "shows": [
         {
           "title": "The Tim Ferriss Show",
@@ -18349,7 +18299,7 @@
             "Education"
           ],
           "publisher": "Daily Stoic | Backyard Ventures",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -18386,7 +18336,7 @@
             "Education"
           ],
           "publisher": "Realm",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -18447,7 +18397,7 @@
             "Education"
           ],
           "publisher": "Margarita Nazarenko",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -18854,43 +18804,6 @@
             "label": "Daily",
             "eps_year": 730,
             "trend": "accelerating"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Exorcist Files",
-          "id": "spotify:show:4Rs76ZgP5iIwZCs51oHdvk",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f0adb5c18c98d40cb728a0403",
-          "categories": [
-            "Religion & Spirituality"
-          ],
-          "publisher": "Ryan Bethea, Fr. Carlos Martins",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.art19.com/the-exorcist-files",
-          "owner_name": "Ryan Bethea and Fr. Carlos Martins",
-          "owner_email": "Ryanbethea@gmail.com",
-          "itunes_author": "Ryan Bethea, Fr. Carlos Martins",
-          "website": "https://art19.com/shows/the-exorcist-files",
-          "description": "For the last several years, the Catholic Church has noted an alarming increase in the number of exorcisms performed. And for some of the most disturbing and vicious cases of possession, one priest is often summoned. With almost two decades in ministry, renowned priest Father Carlos Martins has encou…",
-          "cadence": "Weekly",
-          "episode_count": 134,
-          "last_published": "2026-06-18",
-          "schedule": {
-            "days": [
-              0,
-              2,
-              11,
-              8,
-              3,
-              0,
-              0
-            ],
-            "label": "Weekly · Wed & Thu",
-            "eps_year": 52,
-            "trend": "steady"
           },
           "rss_video": null
         },
@@ -19685,7 +19598,7 @@
             "Education"
           ],
           "publisher": "The Resilient Mind",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -19709,7 +19622,7 @@
             "Education"
           ],
           "publisher": "Immersive Spanish",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -19746,7 +19659,7 @@
             "Education"
           ],
           "publisher": "Coffee Break Languages",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -19783,7 +19696,7 @@
             "Education"
           ],
           "publisher": "TED",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -21167,7 +21080,7 @@
             "Leisure"
           ],
           "publisher": "Laurenzside Fan (Elizabeth)",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-07-25",
           "prev_host": null,
           "moved_on": null,
@@ -21389,7 +21302,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Merkel Media",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -21763,7 +21676,7 @@
             "Education"
           ],
           "publisher": "ardus",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": null,
           "prev_host": null,
           "moved_on": null,
@@ -21909,7 +21822,7 @@
             "Leisure"
           ],
           "publisher": "D.O",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": null,
           "prev_host": null,
           "moved_on": null,
@@ -22344,8 +22257,8 @@
     },
     {
       "name": "Buzzsprout",
-      "count": 17,
-      "share": 2.1,
+      "count": 18,
+      "share": 2.2,
       "shows": [
         {
           "title": "Lessons in Meme Culture",
@@ -22427,7 +22340,7 @@
             "Education"
           ],
           "publisher": "THE Truth Is",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -22610,7 +22523,7 @@
             "Leisure"
           ],
           "publisher": "Matt Slays",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -22744,6 +22657,43 @@
             ],
             "label": "Biweekly · Wednesdays",
             "eps_year": 26,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "The Daily Blade: Joby Martin & Kyle Thompson",
+          "id": "spotify:show:2aiLmk0EemmgsqvNb198Ju",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f325a2bd848a707c35d99d17d",
+          "categories": [
+            "Religion & Spirituality"
+          ],
+          "publisher": "Joby Martin & Kyle Thompson",
+          "chart_move": "UP",
+          "host_since": "2026-07-13",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.buzzsprout.com/2426656.rss",
+          "owner_name": "Joby Martin & Kyle Thompson",
+          "owner_email": null,
+          "itunes_author": "Joby Martin & Kyle Thompson",
+          "website": "http://mensconference.com",
+          "description": "The Daily Blade, hosted by Pastor Joby Martin of the Church of Eleven22 and Kyle Thompson of Undaunted.Life, is a short-form devotional show that equips Christians to apply the Word of God to their everyday lives. --- Connect with us at communication@coe22.com Want to support this podcast and other…",
+          "cadence": "Daily",
+          "episode_count": 400,
+          "last_published": "2026-07-13",
+          "schedule": {
+            "days": [
+              5,
+              4,
+              5,
+              5,
+              5,
+              0,
+              0
+            ],
+            "label": "Daily",
+            "eps_year": 365,
             "trend": "steady"
           },
           "rss_video": null
@@ -23041,7 +22991,7 @@
             "Leisure"
           ],
           "publisher": "ReffMC",
-          "chart_move": "DOWN",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -23089,7 +23039,7 @@
             "Leisure"
           ],
           "publisher": "BeckBroPlays",
-          "chart_move": "DOWN",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -23113,7 +23063,7 @@
             "Leisure"
           ],
           "publisher": "NotVixios",
-          "chart_move": "DOWN",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -23230,8 +23180,8 @@
     },
     {
       "name": "Podbean",
-      "count": 14,
-      "share": 1.8,
+      "count": 15,
+      "share": 1.9,
       "shows": [
         {
           "title": "Tyler Vitelli Stories",
@@ -23522,7 +23472,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Pastor Joby Martin",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -23559,7 +23509,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "The Church of Eleven22",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -23584,6 +23534,43 @@
             ],
             "label": "Weekly · Sundays",
             "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Bishop Barron’s Sunday Sermons - Catholic Preaching and Homilies",
+          "id": "spotify:show:5G6vtvZBIQMpQ8TLgXLBiK",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f7614f42ef3ab51720949b7c3",
+          "categories": [
+            "Religion & Spirituality"
+          ],
+          "publisher": "Bishop Robert Barron",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-25",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feed.podbean.com/wordonfire/feed.xml",
+          "owner_name": "Bishop Robert Barron",
+          "owner_email": null,
+          "itunes_author": "Bishop Robert Barron",
+          "website": "http://www.wordonfire.org/resources/homily/",
+          "description": "Weekly homilies from Bishop Robert Barron, produced by Word on Fire Catholic Ministries.",
+          "cadence": "Weekly",
+          "episode_count": 999,
+          "last_published": "2026-06-23",
+          "schedule": {
+            "days": [
+              2,
+              7,
+              11,
+              4,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Wed & Tue",
+            "eps_year": 53,
             "trend": "steady"
           },
           "rss_video": null
@@ -24433,245 +24420,6 @@
       "rank": 14
     },
     {
-      "name": "RedCircle",
-      "count": 8,
-      "share": 1.0,
-      "shows": [
-        {
-          "title": "Jocko Podcast",
-          "id": "spotify:show:7irxBvxNqGYnUdFo1c2gMc",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f0537dba138113eef7649f3d8",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Jocko DEFCOR Network",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74",
-          "owner_name": "Jocko DEFCOR Network",
-          "owner_email": "echo@flixpoint.net",
-          "itunes_author": "Jocko DEFCOR Network",
-          "website": "https://redcircle.com/shows/jocko-podcast",
-          "description": "Retired Navy SEAL, Jocko Willink and Director, Echo Charles discuss discipline and leadership in business, war, relationships and everyday life.",
-          "cadence": "Weekly",
-          "episode_count": 871,
-          "last_published": "2026-06-24",
-          "schedule": {
-            "days": [
-              11,
-              0,
-              13,
-              0,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Wed & Mon",
-            "eps_year": 74,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Scary Stories",
-          "id": "spotify:show:76CQ2xX52ZCajfF7J2wUox",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f4de473455c5ac7ca9fcdd048",
-          "categories": [
-            "Fiction"
-          ],
-          "publisher": "Scary Stories",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/0a7b8667-1a17-4708-8dd8-e935ad0ab747",
-          "owner_name": "Scary Stories",
-          "owner_email": "mickgoodfellow@yahoo.co.uk",
-          "itunes_author": "Scary Stories",
-          "website": "https://redcircle.com/shows/scary-stories",
-          "description": "Welcome to the home of Scary Stories, a collection of creepy stories, creepypasta and Urban Myths.",
-          "cadence": "Daily",
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Mr. Creeps: Scary Stories & Creepypastas",
-          "id": "spotify:show:2rdg1p3kpDgbnDzayMG5Qc",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f5c179ba02ec7f86760a06496",
-          "categories": [
-            "Fiction"
-          ],
-          "publisher": "Mr. Creeps",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/1a5a2b50-ba56-48fc-a05b-ce2a55cac801",
-          "owner_name": "Michael Crutchfield",
-          "owner_email": "mike@thescarecast.com",
-          "itunes_author": "Michael Crutchfield",
-          "website": "https://redcircle.com/shows/the-scarecast",
-          "description": "For almost a decade, The Scarecast—hosted by Michael Crutchfield—has captivated audiences with spine-tingling stories that explore the shadowy depths of real-life horror. Originally launched on YouTube as MaddMike, The Scarecast masterfully narrates true accounts of chilling encounters, from paranor…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Payton Delu",
-          "id": "spotify:show:1i8VkevO9XNHdgpKpOvTmP",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f0156642158c3b514fb8443e6",
-          "categories": [
-            "Health & Fitness"
-          ],
-          "publisher": "Play.Works",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-25",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/14e069a6-a639-4739-b0d7-d26bc2920674",
-          "owner_name": "NoleGameday",
-          "owner_email": "nolegameday@gmail.com",
-          "itunes_author": "NoleGameday",
-          "website": "https://redcircle.com/shows/hear-the-spear",
-          "description": "Hear the Spear presented by NoleGameday.com covers Florida State football, basketball, recruiting, and the latest news regarding former Seminoles hosted by Logan Robinson, Dustin Lewis, and Austin Veazey.",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The 40k Lorecast",
-          "id": "spotify:show:2Z8HKiDH3nlvFzO2H18GHI",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fa619119db630e7d1b71ba0ca",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "Warhammmer 40k",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/cc233adb-de43-49be-bb76-9720292ddc98",
-          "owner_name": "Warhammmer 40k",
-          "owner_email": "40klorecast@gmail.com",
-          "itunes_author": "Warhammmer 40k",
-          "website": "https://redcircle.com/shows/the-40k-lorecast",
-          "description": "The 40k Lorecast is a weekly dive into all the Lore that surrounds Warhammer 40k. Brad Chester and John will take you on a deep dive into everything that is the lore of the Warhammer 40k Universe. Our weekly podcast is dedicated to exploring the rich lore of the Warhammer 40k universe, diving deep i…",
-          "cadence": "Weekly",
-          "episode_count": 153,
-          "last_published": "2026-06-22",
-          "schedule": {
-            "days": [
-              18,
-              4,
-              0,
-              0,
-              2,
-              0,
-              0
-            ],
-            "label": "Weekly · Mondays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Ali-A",
-          "id": "spotify:show:2n0fAyW4rusCz5ewYcziao",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f894e7397d5ad20c722a4602f",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "Ali-A",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-07-23",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/4c231222-6ce3-4899-921c-e25cc2f95973",
-          "owner_name": "Alia Zaita & Yoni Ekoto",
-          "owner_email": "whatsthejuicepod@gmail.com",
-          "itunes_author": "Alia Zaita & Yoni Ekoto",
-          "website": "https://redcircle.com/shows/pillow-talk8618",
-          "description": "Don’t worry this is not another couple making a relationship podcast, it’s WAY more than that! Listen in on what are normally Alia and Yoni’s private, day-to-day, honest conversations about their relationship, friendships, careers, fears, feelings, and whatever else is leftover. Being different ages…",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": "2026-07-17",
-          "schedule": {
-            "days": [
-              4,
-              4,
-              5,
-              3,
-              6,
-              1,
-              1
-            ],
-            "label": "Weekly",
-            "eps_year": 59,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "WelcominTV",
-          "id": "spotify:show:0z4ahGyJ6w38yr1q0u6zyi",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f7bae982f44e0b454b01d26c6",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "WelcominTV",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/c948740c-02b4-4688-8f18-1b38e2d0d21e",
-          "owner_name": "Brian Neurauter",
-          "owner_email": "lunchboxreaction@gmail.com",
-          "itunes_author": "Brian Neurauter",
-          "website": "https://redcircle.com/shows/lunchboxreaction",
-          "description": "Talking with your friends in the school cafeteria is always something to look forward to. Join a group of teens, tweens, and adults as they gather around a virtual lunch table for a weekly discussion. If you like books, TV, movies, and games that skew toward the YA crowd, then this is the show you’v…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Analytic Dreamz: Notorious Mass Effect",
-          "id": "spotify:show:7HEe4JUdCW8qtNr1hAXqHk",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fe1631bc9bacc8ca8e3a16e38",
-          "categories": [
-            "Music"
-          ],
-          "publisher": "Analytic_Dreamz",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/48f312a0-a371-4c29-9e8c-f1a761190976",
-          "owner_name": "Analytic_Dreamz",
-          "owner_email": "analyticdreamz@gmail.com",
-          "itunes_author": "Analytic_Dreamz",
-          "website": "https://redcircle.com/shows/analytic-dreamz-notorious-mass-effect",
-          "description": "Analytic Dreamz: The Notorious Mass Effect is about covering everything Music, Gaming, & Pop Culture related while providing a passionate perspective for your entertainment! Dedicated to giving you insightful information, to not miss the latest news make sure to click the linktree in my youtube bann…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        }
-      ],
-      "rank": 15
-    },
-    {
       "name": "Spreaker",
       "count": 8,
       "share": 1.0,
@@ -24921,7 +24669,7 @@
           "rss_video": null
         }
       ],
-      "rank": 16
+      "rank": 15
     },
     {
       "name": "Transistor",
@@ -25173,7 +24921,7 @@
           "rss_video": null
         }
       ],
-      "rank": 17
+      "rank": 16
     },
     {
       "name": "Flightcast",
@@ -25401,6 +25149,208 @@
           "rss_video": null
         }
       ],
+      "rank": 17
+    },
+    {
+      "name": "RedCircle",
+      "count": 7,
+      "share": 0.9,
+      "shows": [
+        {
+          "title": "Jocko Podcast",
+          "id": "spotify:show:7irxBvxNqGYnUdFo1c2gMc",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f0537dba138113eef7649f3d8",
+          "categories": [
+            "Business"
+          ],
+          "publisher": "Jocko DEFCOR Network",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74",
+          "owner_name": "Jocko DEFCOR Network",
+          "owner_email": "echo@flixpoint.net",
+          "itunes_author": "Jocko DEFCOR Network",
+          "website": "https://redcircle.com/shows/jocko-podcast",
+          "description": "Retired Navy SEAL, Jocko Willink and Director, Echo Charles discuss discipline and leadership in business, war, relationships and everyday life.",
+          "cadence": "Weekly",
+          "episode_count": 871,
+          "last_published": "2026-06-24",
+          "schedule": {
+            "days": [
+              11,
+              0,
+              13,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Wed & Mon",
+            "eps_year": 74,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Scary Stories",
+          "id": "spotify:show:76CQ2xX52ZCajfF7J2wUox",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f4de473455c5ac7ca9fcdd048",
+          "categories": [
+            "Fiction"
+          ],
+          "publisher": "Scary Stories",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.redcircle.com/0a7b8667-1a17-4708-8dd8-e935ad0ab747",
+          "owner_name": "Scary Stories",
+          "owner_email": "mickgoodfellow@yahoo.co.uk",
+          "itunes_author": "Scary Stories",
+          "website": "https://redcircle.com/shows/scary-stories",
+          "description": "Welcome to the home of Scary Stories, a collection of creepy stories, creepypasta and Urban Myths.",
+          "cadence": "Daily",
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Mr. Creeps: Scary Stories & Creepypastas",
+          "id": "spotify:show:2rdg1p3kpDgbnDzayMG5Qc",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f5c179ba02ec7f86760a06496",
+          "categories": [
+            "Fiction"
+          ],
+          "publisher": "Mr. Creeps",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.redcircle.com/1a5a2b50-ba56-48fc-a05b-ce2a55cac801",
+          "owner_name": "Michael Crutchfield",
+          "owner_email": "mike@thescarecast.com",
+          "itunes_author": "Michael Crutchfield",
+          "website": "https://redcircle.com/shows/the-scarecast",
+          "description": "For almost a decade, The Scarecast—hosted by Michael Crutchfield—has captivated audiences with spine-tingling stories that explore the shadowy depths of real-life horror. Originally launched on YouTube as MaddMike, The Scarecast masterfully narrates true accounts of chilling encounters, from paranor…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Payton Delu",
+          "id": "spotify:show:1i8VkevO9XNHdgpKpOvTmP",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f0156642158c3b514fb8443e6",
+          "categories": [
+            "Health & Fitness"
+          ],
+          "publisher": "Play.Works",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-25",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.redcircle.com/14e069a6-a639-4739-b0d7-d26bc2920674",
+          "owner_name": "NoleGameday",
+          "owner_email": "nolegameday@gmail.com",
+          "itunes_author": "NoleGameday",
+          "website": "https://redcircle.com/shows/hear-the-spear",
+          "description": "Hear the Spear presented by NoleGameday.com covers Florida State football, basketball, recruiting, and the latest news regarding former Seminoles hosted by Logan Robinson, Dustin Lewis, and Austin Veazey.",
+          "cadence": "Weekly",
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "The 40k Lorecast",
+          "id": "spotify:show:2Z8HKiDH3nlvFzO2H18GHI",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fa619119db630e7d1b71ba0ca",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "Warhammmer 40k",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.redcircle.com/cc233adb-de43-49be-bb76-9720292ddc98",
+          "owner_name": "Warhammmer 40k",
+          "owner_email": "40klorecast@gmail.com",
+          "itunes_author": "Warhammmer 40k",
+          "website": "https://redcircle.com/shows/the-40k-lorecast",
+          "description": "The 40k Lorecast is a weekly dive into all the Lore that surrounds Warhammer 40k. Brad Chester and John will take you on a deep dive into everything that is the lore of the Warhammer 40k Universe. Our weekly podcast is dedicated to exploring the rich lore of the Warhammer 40k universe, diving deep i…",
+          "cadence": "Weekly",
+          "episode_count": 153,
+          "last_published": "2026-06-22",
+          "schedule": {
+            "days": [
+              18,
+              4,
+              0,
+              0,
+              2,
+              0,
+              0
+            ],
+            "label": "Weekly · Mondays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "WelcominTV",
+          "id": "spotify:show:0z4ahGyJ6w38yr1q0u6zyi",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f7bae982f44e0b454b01d26c6",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "WelcominTV",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.redcircle.com/c948740c-02b4-4688-8f18-1b38e2d0d21e",
+          "owner_name": "Brian Neurauter",
+          "owner_email": "lunchboxreaction@gmail.com",
+          "itunes_author": "Brian Neurauter",
+          "website": "https://redcircle.com/shows/lunchboxreaction",
+          "description": "Talking with your friends in the school cafeteria is always something to look forward to. Join a group of teens, tweens, and adults as they gather around a virtual lunch table for a weekly discussion. If you like books, TV, movies, and games that skew toward the YA crowd, then this is the show you’v…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Analytic Dreamz: Notorious Mass Effect",
+          "id": "spotify:show:7HEe4JUdCW8qtNr1hAXqHk",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fe1631bc9bacc8ca8e3a16e38",
+          "categories": [
+            "Music"
+          ],
+          "publisher": "Analytic_Dreamz",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.redcircle.com/48f312a0-a371-4c29-9e8c-f1a761190976",
+          "owner_name": "Analytic_Dreamz",
+          "owner_email": "analyticdreamz@gmail.com",
+          "itunes_author": "Analytic_Dreamz",
+          "website": "https://redcircle.com/shows/analytic-dreamz-notorious-mass-effect",
+          "description": "Analytic Dreamz: The Notorious Mass Effect is about covering everything Music, Gaming, & Pop Culture related while providing a passionate perspective for your entertainment! Dedicated to giving you insightful information, to not miss the latest news make sure to click the linktree in my youtube bann…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        }
+      ],
       "rank": 18
     },
     {
@@ -25618,7 +25568,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Ascension",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -25655,7 +25605,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Ascension",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -25692,7 +25642,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Ascension",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -26053,7 +26003,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Desiring God",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-07-15",
           "prev_host": null,
           "moved_on": null,
@@ -26123,6 +26073,88 @@
       "rank": 24
     },
     {
+      "name": "Captivate",
+      "count": 2,
+      "share": 0.2,
+      "shows": [
+        {
+          "title": "A Changed Mind | Mindset That Matters",
+          "id": "spotify:show:5zmdjuDWOk3saOeD8qmydI",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fc14400fa0548445c248945d6",
+          "categories": [
+            "Education"
+          ],
+          "publisher": "David Bayer",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.captivate.fm/a-changed-mind/",
+          "owner_name": "David Bayer",
+          "owner_email": null,
+          "itunes_author": "David Bayer",
+          "website": "https://davidbayer.com/podcast",
+          "description": "A Changed Mind takes listeners on a deep personal journey into the topics that matter most - from the neuroscience and spirituality of mindset and personal growth to groundbreaking strategies for health, wealth and relationships, to open and honest conversations about pressing global issues such as…",
+          "cadence": "~2×/week",
+          "episode_count": 260,
+          "last_published": "2026-07-13",
+          "schedule": {
+            "days": [
+              12,
+              0,
+              0,
+              12,
+              0,
+              0,
+              0
+            ],
+            "label": "~2×/week · Mon & Thu",
+            "eps_year": 117,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Love Island: The Debrief",
+          "id": "spotify:show:1Z3J2eVU1xJi2vaveABzK9",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fbcaeeff5ab8823bbde3eaf7e",
+          "categories": [
+            "TV & Film"
+          ],
+          "publisher": "Lifted Entertainment part of ITV Studios",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-07-17",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.captivate.fm/love-island-the-morning-after/",
+          "owner_name": "Lifted Entertainment part of ITV Studios",
+          "owner_email": null,
+          "itunes_author": "Lifted Entertainment part of ITV Studios",
+          "website": "https://www.itv.com/loveisland",
+          "description": "Love Island fans, welcome to The Debrief. Shakira Khan, Toni Laites, & Yasmin Pettet bring Villa gossip, hot takes, dumped Islander interviews and chaotic group chat energy, every day. Love Island & Love Island: The Debrief is produced by Lifted Entertainment.",
+          "cadence": "Daily",
+          "episode_count": 150,
+          "last_published": "2026-07-16",
+          "schedule": {
+            "days": [
+              5,
+              5,
+              5,
+              5,
+              4,
+              0,
+              0
+            ],
+            "label": "Daily",
+            "eps_year": 364,
+            "trend": "steady"
+          },
+          "rss_video": null
+        }
+      ],
+      "rank": 25
+    },
+    {
       "name": "BBC",
       "count": 1,
       "share": 0.1,
@@ -26160,51 +26192,6 @@
             ],
             "label": "Weekly · Fridays",
             "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        }
-      ],
-      "rank": 25
-    },
-    {
-      "name": "Captivate",
-      "count": 1,
-      "share": 0.1,
-      "shows": [
-        {
-          "title": "Love Island: The Debrief",
-          "id": "spotify:show:1Z3J2eVU1xJi2vaveABzK9",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fbcaeeff5ab8823bbde3eaf7e",
-          "categories": [
-            "TV & Film"
-          ],
-          "publisher": "Lifted Entertainment part of ITV Studios",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-07-17",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.captivate.fm/love-island-the-morning-after/",
-          "owner_name": "Lifted Entertainment part of ITV Studios",
-          "owner_email": null,
-          "itunes_author": "Lifted Entertainment part of ITV Studios",
-          "website": "https://www.itv.com/loveisland",
-          "description": "Love Island fans, welcome to The Debrief. Shakira Khan, Toni Laites, & Yasmin Pettet bring Villa gossip, hot takes, dumped Islander interviews and chaotic group chat energy, every day. Love Island & Love Island: The Debrief is produced by Lifted Entertainment.",
-          "cadence": "Daily",
-          "episode_count": 150,
-          "last_published": "2026-07-16",
-          "schedule": {
-            "days": [
-              5,
-              5,
-              5,
-              5,
-              4,
-              0,
-              0
-            ],
-            "label": "Daily",
-            "eps_year": 364,
             "trend": "steady"
           },
           "rss_video": null
@@ -26366,7 +26353,7 @@
             "Religion & Spirituality"
           ],
           "publisher": "Harris Creek Baptist Church",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -30134,8 +30121,8 @@
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 11,
-          "share": 22.0,
+          "count": 10,
+          "share": 20.0,
           "shows": [
             {
               "title": "The Jordan B. Peterson Podcast",
@@ -30286,43 +30273,6 @@
               "rss_video": null
             },
             {
-              "title": "More Life with Carl Radke",
-              "id": "spotify:show:0sKQIu1UywDpAAQRmwYzIs",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f3d197d561bdef9ae3fd4c2b9",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Sony Music Entertainment ",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/morelifewithcarlradke",
-              "owner_name": "Sony Music Entertainment",
-              "owner_email": "podcasts@sonymusic.com",
-              "itunes_author": "Sony Music Entertainment",
-              "website": null,
-              "description": "Growth isn’t a one-time event — it’s a choice we make every day. This is a show that proves that there is more life waiting for us on the other side. Each week, Carl Radke, star of Bravo’s Summer House, sits down with celebrities, thought leaders, creators, and everyday people to explore the moments…",
-              "cadence": "Weekly",
-              "episode_count": 23,
-              "last_published": "2026-06-16",
-              "schedule": {
-                "days": [
-                  0,
-                  24,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Tuesdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
               "title": "The Sabrina Zohar Show",
               "id": "spotify:show:2Dsp24A82JkYRXytiA2qRt",
               "artwork": "https://i.scdn.co/image/ab67656300005f1f1527a40adec1e644347f44e5",
@@ -30330,7 +30280,7 @@
                 "Education"
               ],
               "publisher": "Sabrina Zohar",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30367,7 +30317,7 @@
                 "Education"
               ],
               "publisher": "Jordan Berman",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30404,7 +30354,7 @@
                 "Education"
               ],
               "publisher": "Ed Mylett",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30441,7 +30391,7 @@
                 "Education"
               ],
               "publisher": "Mark Manson",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30478,7 +30428,7 @@
                 "Education"
               ],
               "publisher": "Clutterbug",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30515,7 +30465,7 @@
                 "Education"
               ],
               "publisher": "Absolute Motivation",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-19",
               "prev_host": null,
               "moved_on": null,
@@ -30645,7 +30595,7 @@
                 "Education"
               ],
               "publisher": "Bianca Venchiarutti",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-07-15",
               "prev_host": null,
               "moved_on": null,
@@ -30812,7 +30762,7 @@
                 "Education"
               ],
               "publisher": "The Resilient Mind",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30836,7 +30786,7 @@
                 "Education"
               ],
               "publisher": "Immersive Spanish",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30873,7 +30823,7 @@
                 "Education"
               ],
               "publisher": "Coffee Break Languages",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30910,7 +30860,7 @@
                 "Education"
               ],
               "publisher": "TED",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31016,7 +30966,7 @@
                 "Education"
               ],
               "publisher": "Daily Stoic | Backyard Ventures",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31053,7 +31003,7 @@
                 "Education"
               ],
               "publisher": "Realm",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31114,7 +31064,7 @@
                 "Education"
               ],
               "publisher": "Margarita Nazarenko",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31268,7 +31218,7 @@
                 "Education"
               ],
               "publisher": "THE Truth Is",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31348,7 +31298,7 @@
                 "Education"
               ],
               "publisher": "ardus",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": null,
               "prev_host": null,
               "moved_on": null,
@@ -31700,6 +31650,51 @@
           "rank": 11
         },
         {
+          "name": "Captivate",
+          "count": 1,
+          "share": 2.0,
+          "shows": [
+            {
+              "title": "A Changed Mind | Mindset That Matters",
+              "id": "spotify:show:5zmdjuDWOk3saOeD8qmydI",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fc14400fa0548445c248945d6",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "David Bayer",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.captivate.fm/a-changed-mind/",
+              "owner_name": "David Bayer",
+              "owner_email": null,
+              "itunes_author": "David Bayer",
+              "website": "https://davidbayer.com/podcast",
+              "description": "A Changed Mind takes listeners on a deep personal journey into the topics that matter most - from the neuroscience and spirituality of mindset and personal growth to groundbreaking strategies for health, wealth and relationships, to open and honest conversations about pressing global issues such as…",
+              "cadence": "~2×/week",
+              "episode_count": 260,
+              "last_published": "2026-07-13",
+              "schedule": {
+                "days": [
+                  12,
+                  0,
+                  0,
+                  12,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "~2×/week · Mon & Thu",
+                "eps_year": 117,
+                "trend": "steady"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 12
+        },
+        {
           "name": "Podbean",
           "count": 1,
           "share": 2.0,
@@ -31729,7 +31724,7 @@
               "rss_video": null
             }
           ],
-          "rank": 12
+          "rank": 13
         },
         {
           "name": "RSS.com",
@@ -31761,7 +31756,7 @@
               "rss_video": null
             }
           ],
-          "rank": 13
+          "rank": 14
         },
         {
           "name": "Spreaker",
@@ -31793,7 +31788,7 @@
               "rss_video": null
             }
           ],
-          "rank": 14
+          "rank": 15
         }
       ]
     },
@@ -36831,8 +36826,8 @@
       "platforms": [
         {
           "name": "Spotify/Anchor",
-          "count": 13,
-          "share": 26.0,
+          "count": 14,
+          "share": 28.0,
           "shows": [
             {
               "title": "RoyalPear",
@@ -37099,7 +37094,7 @@
                 "Leisure"
               ],
               "publisher": "Aphmau",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -37160,7 +37155,7 @@
                 "Leisure"
               ],
               "publisher": "Typical Gamer",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-21",
               "prev_host": null,
               "moved_on": null,
@@ -37236,14 +37231,38 @@
                 "trend": "accelerating"
               },
               "rss_video": null
+            },
+            {
+              "title": "random asmr",
+              "id": "spotify:show:0JDRzGhjvx2rLbUPUKtFBP",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f5a2a6574a79690758f12b4cf",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "🕸",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/619685c8/podcast/rss",
+              "owner_name": "MusclesnotMussles",
+              "owner_email": "podcasts60+619685c8@anchor.fm",
+              "itunes_author": "MusclesnotMussles",
+              "website": "https://podcasters.spotify.com/pod/show/musclesnotmussles",
+              "description": "Generally I'll upload ASMR I make, and I'll upload some relaxing rain and campfire stuff.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
             }
           ],
           "rank": 1
         },
         {
           "name": "Megaphone",
-          "count": 10,
-          "share": 20.0,
+          "count": 9,
+          "share": 18.0,
           "shows": [
             {
               "title": "BENOFTHEWEEK",
@@ -37479,43 +37498,6 @@
               "rss_video": null
             },
             {
-              "title": "Trash Taste Podcast",
-              "id": "spotify:show:6i9SWtZPb30xVXWVHSKCqq",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fb6cb66e75137f9cce31e4480",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "Trash Taste Podcast",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/trashtaste",
-              "owner_name": "Trash Taste Podcast & Studio71",
-              "owner_email": "podcasts@studio71us.com",
-              "itunes_author": "Trash Taste Podcast",
-              "website": "https://trashtaste.com",
-              "description": "Trash Taste is the premiere anime podcast exploring anime, manga, and otaku culture with top anime YouTubers: Joey from The Anime Man, Garnt from Gigguk, and Connor from Cdawgva, and occasionally special guests. For advertising opportunities please email: PodcastPartnerships@Studio71us.com We wanna…",
-              "cadence": "Weekly",
-              "episode_count": 315,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  24,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Fridays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
               "title": "Kinda Funny Games Daily: Video Games News Podcast",
               "id": "spotify:show:1hXrn6RoMMAiNGLE8jxKKf",
               "artwork": "https://i.scdn.co/image/ab67656300005f1f741db5fed82865572425bfc0",
@@ -37523,7 +37505,7 @@
                 "Leisure"
               ],
               "publisher": "Kinda Funny",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -37560,7 +37542,7 @@
                 "Leisure"
               ],
               "publisher": "Grox",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -37664,7 +37646,7 @@
                 "Leisure"
               ],
               "publisher": "ReffMC",
-              "chart_move": "DOWN",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -37712,7 +37694,7 @@
                 "Leisure"
               ],
               "publisher": "BeckBroPlays",
-              "chart_move": "DOWN",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -37736,7 +37718,7 @@
                 "Leisure"
               ],
               "publisher": "NotVixios",
-              "chart_move": "DOWN",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -37754,6 +37736,123 @@
             }
           ],
           "rank": 3
+        },
+        {
+          "name": "Libsyn",
+          "count": 4,
+          "share": 8.0,
+          "shows": [
+            {
+              "title": "Drew Dirksen",
+              "id": "spotify:show:75ue9zTuLTuOES75QR7ddy",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ff7e8af9d124d515034c18e18",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "Drew Dirksen",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.libsyn.com/shows/123869/destinations/732794.xml",
+              "owner_name": "Chase Crawford",
+              "owner_email": "thechaunceycrawford@gmail.com",
+              "itunes_author": "Chase Crawford",
+              "website": "http://chsecrwfrd.libsyn.com/website",
+              "description": "Chase Crawford and friends talk pop culture, politics, sports and anything else that the internet is talking about.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Castle Super Beast",
+              "id": "spotify:show:2rxzR7PgTFmqbiuIVNDLt7",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f9c815b4e4a3ef13feadb45dd",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "Super Best Friends Play",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.libsyn.com/shows/46822/destinations/156361.xml",
+              "owner_name": "Woolie",
+              "owner_email": "superbestfriendcast@gmail.com",
+              "itunes_author": "Super Best Friends Play",
+              "website": "http://superbestfriendcast.libsyn.com",
+              "description": "Every week, the creators of Super Best Friends Play discuss the best and worst of the videogame industry, pop culture and get excessively hyped about things for no reason.",
+              "cadence": "Weekly",
+              "episode_count": 652,
+              "last_published": "2026-06-17",
+              "schedule": {
+                "days": [
+                  0,
+                  2,
+                  21,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Wednesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "CboysTV",
+              "id": "spotify:show:1Yyj0g7IFVtFVsNMwcn8nn",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ff2566d20836430b2a97a05c0",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "CboysTV",
+              "chart_move": "UP",
+              "host_since": "2026-06-25",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.libsyn.com/shows/604715/destinations/5265500.xml",
+              "owner_name": "CboysTV",
+              "owner_email": "podcasts@studio71us.com",
+              "itunes_author": "CboysTV",
+              "website": "https://www.studio71.com/us/podcasts/",
+              "description": "From business tips to dating advice to behind-the-scenes of CboysTV, this weekly podcast shares the untold stories of CJ, Ben, Ryan, Ken, Evan and Micah. Tune in to Life Wide Open on Tuesdays at 9am CT. Follow us on all podcast apps, streaming platforms, and on Instagram: @lifewideopenpodcast For ad…",
+              "cadence": "Weekly",
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "The Ninja Fam",
+              "id": "spotify:show:02McTVi1fD6EJ5hPjFh8cL",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fbfcf645a29cf3535babbb4b4",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "Play.Works",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://theninjababespodcast.libsyn.com/rss",
+              "owner_name": "Cara Mack",
+              "owner_email": "theninjababes@gmail.com",
+              "itunes_author": "Cara Mack; Founder of Ninjababes™ and 4x American Ninja Warrior City",
+              "website": "https://www.theninjababes.com/blog",
+              "description": "Cara Poalillo Mack, a 4x American Ninja Warrior leads a discussion about females in the sport of ninja. She interviews female athletes within the ninja world about their personal stories, performance on the ninja course, and mindset practices.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            }
+          ],
+          "rank": 4
         },
         {
           "name": "Audioboom",
@@ -37816,7 +37915,7 @@
                 "Leisure"
               ],
               "publisher": "Laurenzside Fan (Elizabeth)",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-07-25",
               "prev_host": null,
               "moved_on": null,
@@ -37846,7 +37945,7 @@
               "rss_video": null
             }
           ],
-          "rank": 4
+          "rank": 5
         },
         {
           "name": "Buzzsprout",
@@ -37922,7 +38021,7 @@
                 "Leisure"
               ],
               "publisher": "Matt Slays",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -37939,206 +38038,7 @@
               "rss_video": null
             }
           ],
-          "rank": 5
-        },
-        {
-          "name": "Libsyn",
-          "count": 3,
-          "share": 6.0,
-          "shows": [
-            {
-              "title": "Drew Dirksen",
-              "id": "spotify:show:75ue9zTuLTuOES75QR7ddy",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ff7e8af9d124d515034c18e18",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "Drew Dirksen",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.libsyn.com/shows/123869/destinations/732794.xml",
-              "owner_name": "Chase Crawford",
-              "owner_email": "thechaunceycrawford@gmail.com",
-              "itunes_author": "Chase Crawford",
-              "website": "http://chsecrwfrd.libsyn.com/website",
-              "description": "Chase Crawford and friends talk pop culture, politics, sports and anything else that the internet is talking about.",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "Castle Super Beast",
-              "id": "spotify:show:2rxzR7PgTFmqbiuIVNDLt7",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f9c815b4e4a3ef13feadb45dd",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "Super Best Friends Play",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.libsyn.com/shows/46822/destinations/156361.xml",
-              "owner_name": "Woolie",
-              "owner_email": "superbestfriendcast@gmail.com",
-              "itunes_author": "Super Best Friends Play",
-              "website": "http://superbestfriendcast.libsyn.com",
-              "description": "Every week, the creators of Super Best Friends Play discuss the best and worst of the videogame industry, pop culture and get excessively hyped about things for no reason.",
-              "cadence": "Weekly",
-              "episode_count": 652,
-              "last_published": "2026-06-17",
-              "schedule": {
-                "days": [
-                  0,
-                  2,
-                  21,
-                  1,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Wednesdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "CboysTV",
-              "id": "spotify:show:1Yyj0g7IFVtFVsNMwcn8nn",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ff2566d20836430b2a97a05c0",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "CboysTV",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-25",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.libsyn.com/shows/604715/destinations/5265500.xml",
-              "owner_name": "CboysTV",
-              "owner_email": "podcasts@studio71us.com",
-              "itunes_author": "CboysTV",
-              "website": "https://www.studio71.com/us/podcasts/",
-              "description": "From business tips to dating advice to behind-the-scenes of CboysTV, this weekly podcast shares the untold stories of CJ, Ben, Ryan, Ken, Evan and Micah. Tune in to Life Wide Open on Tuesdays at 9am CT. Follow us on all podcast apps, streaming platforms, and on Instagram: @lifewideopenpodcast For ad…",
-              "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
           "rank": 6
-        },
-        {
-          "name": "RedCircle",
-          "count": 3,
-          "share": 6.0,
-          "shows": [
-            {
-              "title": "The 40k Lorecast",
-              "id": "spotify:show:2Z8HKiDH3nlvFzO2H18GHI",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fa619119db630e7d1b71ba0ca",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "Warhammmer 40k",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.redcircle.com/cc233adb-de43-49be-bb76-9720292ddc98",
-              "owner_name": "Warhammmer 40k",
-              "owner_email": "40klorecast@gmail.com",
-              "itunes_author": "Warhammmer 40k",
-              "website": "https://redcircle.com/shows/the-40k-lorecast",
-              "description": "The 40k Lorecast is a weekly dive into all the Lore that surrounds Warhammer 40k. Brad Chester and John will take you on a deep dive into everything that is the lore of the Warhammer 40k Universe. Our weekly podcast is dedicated to exploring the rich lore of the Warhammer 40k universe, diving deep i…",
-              "cadence": "Weekly",
-              "episode_count": 153,
-              "last_published": "2026-06-22",
-              "schedule": {
-                "days": [
-                  18,
-                  4,
-                  0,
-                  0,
-                  2,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Mondays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Ali-A",
-              "id": "spotify:show:2n0fAyW4rusCz5ewYcziao",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f894e7397d5ad20c722a4602f",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "Ali-A",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-07-23",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.redcircle.com/4c231222-6ce3-4899-921c-e25cc2f95973",
-              "owner_name": "Alia Zaita & Yoni Ekoto",
-              "owner_email": "whatsthejuicepod@gmail.com",
-              "itunes_author": "Alia Zaita & Yoni Ekoto",
-              "website": "https://redcircle.com/shows/pillow-talk8618",
-              "description": "Don’t worry this is not another couple making a relationship podcast, it’s WAY more than that! Listen in on what are normally Alia and Yoni’s private, day-to-day, honest conversations about their relationship, friendships, careers, fears, feelings, and whatever else is leftover. Being different ages…",
-              "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": "2026-07-17",
-              "schedule": {
-                "days": [
-                  4,
-                  4,
-                  5,
-                  3,
-                  6,
-                  1,
-                  1
-                ],
-                "label": "Weekly",
-                "eps_year": 59,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "WelcominTV",
-              "id": "spotify:show:0z4ahGyJ6w38yr1q0u6zyi",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f7bae982f44e0b454b01d26c6",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "WelcominTV",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.redcircle.com/c948740c-02b4-4688-8f18-1b38e2d0d21e",
-              "owner_name": "Brian Neurauter",
-              "owner_email": "lunchboxreaction@gmail.com",
-              "itunes_author": "Brian Neurauter",
-              "website": "https://redcircle.com/shows/lunchboxreaction",
-              "description": "Talking with your friends in the school cafeteria is always something to look forward to. Join a group of teens, tweens, and adults as they gather around a virtual lunch table for a weekly discussion. If you like books, TV, movies, and games that skew toward the YA crowd, then this is the show you’v…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
-          "rank": 7
         },
         {
           "name": "Simplecast",
@@ -38190,7 +38090,7 @@
                 "Leisure"
               ],
               "publisher": "Russ Frushtick, Chris Plante, Griffin McElroy, Justin McElroy",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -38257,7 +38157,7 @@
               "rss_video": null
             }
           ],
-          "rank": 8
+          "rank": 7
         },
         {
           "name": "Other/Self-Hosted",
@@ -38272,7 +38172,7 @@
                 "Leisure"
               ],
               "publisher": "D.O",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": null,
               "prev_host": null,
               "moved_on": null,
@@ -38323,6 +38223,75 @@
                 "eps_year": 9,
                 "trend": "slowing"
               },
+              "rss_video": null
+            }
+          ],
+          "rank": 8
+        },
+        {
+          "name": "RedCircle",
+          "count": 2,
+          "share": 4.0,
+          "shows": [
+            {
+              "title": "The 40k Lorecast",
+              "id": "spotify:show:2Z8HKiDH3nlvFzO2H18GHI",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fa619119db630e7d1b71ba0ca",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "Warhammmer 40k",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.redcircle.com/cc233adb-de43-49be-bb76-9720292ddc98",
+              "owner_name": "Warhammmer 40k",
+              "owner_email": "40klorecast@gmail.com",
+              "itunes_author": "Warhammmer 40k",
+              "website": "https://redcircle.com/shows/the-40k-lorecast",
+              "description": "The 40k Lorecast is a weekly dive into all the Lore that surrounds Warhammer 40k. Brad Chester and John will take you on a deep dive into everything that is the lore of the Warhammer 40k Universe. Our weekly podcast is dedicated to exploring the rich lore of the Warhammer 40k universe, diving deep i…",
+              "cadence": "Weekly",
+              "episode_count": 153,
+              "last_published": "2026-06-22",
+              "schedule": {
+                "days": [
+                  18,
+                  4,
+                  0,
+                  0,
+                  2,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Mondays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "WelcominTV",
+              "id": "spotify:show:0z4ahGyJ6w38yr1q0u6zyi",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f7bae982f44e0b454b01d26c6",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "WelcominTV",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.redcircle.com/c948740c-02b4-4688-8f18-1b38e2d0d21e",
+              "owner_name": "Brian Neurauter",
+              "owner_email": "lunchboxreaction@gmail.com",
+              "itunes_author": "Brian Neurauter",
+              "website": "https://redcircle.com/shows/lunchboxreaction",
+              "description": "Talking with your friends in the school cafeteria is always something to look forward to. Join a group of teens, tweens, and adults as they gather around a virtual lunch table for a weekly discussion. If you like books, TV, movies, and games that skew toward the YA crowd, then this is the show you’v…",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
               "rss_video": null
             }
           ],
@@ -38539,7 +38508,7 @@
                 "Music"
               ],
               "publisher": "Spotify Studios",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -38893,8 +38862,8 @@
         },
         {
           "name": "Spotify/Anchor",
-          "count": 11,
-          "share": 22.0,
+          "count": 10,
+          "share": 20.0,
           "shows": [
             {
               "title": "Spotify Presents",
@@ -38954,30 +38923,6 @@
               "cadence": null,
               "episode_count": null,
               "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "Alofoke Songs",
-              "id": "spotify:show:033rd2sEcYLwRPgxHSYaPL",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f4b55fb5f7bf8fdd1b3702e06",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Alofoke Songs",
-              "chart_move": "UP",
-              "host_since": "2026-07-20",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/1054d494/podcast/rss",
-              "owner_name": "SongKingRd",
-              "owner_email": "podcasts29+1054d494@anchor.fm",
-              "itunes_author": "SongKingRd",
-              "website": "https://podcasters.spotify.com/pod/show/songkingrd",
-              "description": "Que Harias Si Te Quedan 24 Horas De Vida",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": "2019-11-13",
               "schedule": null,
               "rss_video": null
             },
@@ -39217,8 +39162,8 @@
         },
         {
           "name": "Omny / Triton",
-          "count": 7,
-          "share": 14.0,
+          "count": 8,
+          "share": 16.0,
           "shows": [
             {
               "title": "New Rory & MAL",
@@ -39475,6 +39420,43 @@
                 ],
                 "label": "Daily",
                 "eps_year": 243,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond",
+              "id": "spotify:show:6UsuhRMTD9O71DznRP8540",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ff54cb362c0270c6c68bc5b25",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Pushkin Industries",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ff0ba2f2-f33c-4193-aba2-ae32006cd633/11c188a1-cb86-4869-9c57-ae32006cd63c/podcast.rss",
+              "owner_name": "Pushkin Industries",
+              "owner_email": "feeds@pushkin.fm",
+              "itunes_author": "Pushkin Industries",
+              "website": "https://brokenrecordpodcast.com/",
+              "description": "Music and storytelling meet on Broken Record, where artists across genres and generations sit down to explore the joy, chaos, and vulnerability of creating—and what it means to devote a life to music. From legendary icons to groundbreaking new voices, each episode captures artists in conversation sh…",
+              "cadence": "Weekly",
+              "episode_count": 425,
+              "last_published": "2026-06-23",
+              "schedule": {
+                "days": [
+                  0,
+                  21,
+                  0,
+                  3,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Tuesdays",
+                "eps_year": 52,
                 "trend": "steady"
               },
               "rss_video": null
@@ -42000,8 +41982,8 @@
       "platforms": [
         {
           "name": "Spotify/Anchor",
-          "count": 14,
-          "share": 28.0,
+          "count": 13,
+          "share": 26.0,
           "shows": [
             {
               "title": "The Bryce Crawford Podcast",
@@ -42255,7 +42237,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Living Lchaim",
-              "chart_move": "DOWN",
+              "chart_move": "NEW",
               "host_since": "2026-07-24",
               "prev_host": null,
               "moved_on": null,
@@ -42292,7 +42274,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Bible Beginning to End",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -42316,7 +42298,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Memorias del Alma",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -42354,43 +42336,6 @@
               "episode_count": null,
               "last_published": null,
               "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "The David Ghiyam Podcast",
-              "id": "spotify:show:2w0QPVrnD1HJXqOkgH8ynS",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f9ba2727f6c34cd40b1f90578",
-              "categories": [
-                "Religion & Spirituality"
-              ],
-              "publisher": "David Ghiyam",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/fc9d14c4/podcast/rss",
-              "owner_name": "David Ghiyam",
-              "owner_email": null,
-              "itunes_author": "David Ghiyam",
-              "website": "https://bit.ly/DG-home-pod",
-              "description": "I'm David Ghiyam, and for over 20 years, I've shared universal spiritual laws to help people reconnect with their soul's purpose, remove blocks, raise certainty, and manifest miracles in their daily life. Every Friday, I share 15–20 minutes of the most powerful insights with a guided meditation to h…",
-              "cadence": "Weekly",
-              "episode_count": 107,
-              "last_published": "2026-06-19",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  23,
-                  1,
-                  0
-                ],
-                "label": "Weekly · Fridays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
               "rss_video": null
             },
             {
@@ -42655,7 +42600,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "The Perrys",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -42692,7 +42637,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Lakepointe Church",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -42729,7 +42674,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Johnny Chang",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -42848,7 +42793,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Joyce Meyer Ministries",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -42872,7 +42817,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "PastorRick.com",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -42909,7 +42854,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Tara Brach",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -42979,165 +42924,9 @@
           "rank": 3
         },
         {
-          "name": "Fireside",
-          "count": 4,
-          "share": 8.0,
-          "shows": [
-            {
-              "title": "The Bible in a Year (with Fr. Mike Schmitz)",
-              "id": "spotify:show:4Pppt42NPK2XzKwNIoW7BR",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fcd07cdd9424be93c0941a043",
-              "categories": [
-                "Religion & Spirituality"
-              ],
-              "publisher": "Ascension",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.fireside.fm/bibleinayear/rss",
-              "owner_name": "Ascension",
-              "owner_email": "podcasts@ascensionpress.com",
-              "itunes_author": "Ascension",
-              "website": "https://bibleinayear.fireside.fm",
-              "description": "In The Bible in a Year podcast, Fr. Mike Schmitz walks you through the entire Bible in 365 episodes, providing commentary, reflection, and prayer along the way. Unlike any other Bible podcast, Ascension’s Bible in a Year podcast follows a reading plan inspired by The Great Adventure Bible Timeline,…",
-              "cadence": "Daily",
-              "episode_count": 1727,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  3,
-                  3,
-                  4,
-                  4,
-                  4,
-                  3,
-                  3
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Sunday Homilies with Fr. Mike Schmitz",
-              "id": "spotify:show:1CK5AHgLneCo2sE17UOfdV",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f725eb19617e594741727ceaf",
-              "categories": [
-                "Religion & Spirituality"
-              ],
-              "publisher": "Ascension",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.fireside.fm/fathermikehomilies/rss",
-              "owner_name": "Ascension",
-              "owner_email": "podcasts@ascensionpress.com",
-              "itunes_author": "Ascension",
-              "website": "https://fathermikehomilies.fireside.fm",
-              "description": "Every week, Catholic priest Fr. Mike Schmitz delivers powerful homilies based on the Sunday Mass Scripture readings, inviting you to live more fully as the person God created you to be. Engaging and motivating, these 20-30 minute homilies will help ground your faith, fortify your heart, and transfor…",
-              "cadence": "Weekly",
-              "episode_count": 416,
-              "last_published": "2026-06-20",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  0,
-                  1,
-                  1,
-                  21,
-                  1
-                ],
-                "label": "Weekly · Saturdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Catechism in a Year (with Fr. Mike Schmitz)",
-              "id": "spotify:show:3CjutriXszixd0ssjSkx72",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fad384d56c19848e4342233fe",
-              "categories": [
-                "Religion & Spirituality"
-              ],
-              "publisher": "Ascension",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.fireside.fm/catechisminayear/rss",
-              "owner_name": "Ascension",
-              "owner_email": "podcasts@ascensionpress.com",
-              "itunes_author": "Ascension",
-              "website": "https://catechisminayear.fireside.fm",
-              "description": "In Ascension’s The Catechism in a Year podcast, Fr. Mike Schmitz guides you through the entire Catechism of the Catholic Church in 365 episodes, providing explanation, insight, and encouragement along the way. Unlike any other Catechism podcast, The Catechism in a Year (with Fr. Mike Schmitz) podcas…",
-              "cadence": "Daily",
-              "episode_count": 1285,
-              "last_published": "2026-06-27",
-              "schedule": {
-                "days": [
-                  3,
-                  4,
-                  4,
-                  4,
-                  3,
-                  3,
-                  3
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Fr. Mike Schmitz Catholic Podcast",
-              "id": "spotify:show:2oQATctoAaFiS8bT596v9G",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f155b040ba046ec360553f237",
-              "categories": [
-                "Religion & Spirituality"
-              ],
-              "publisher": "Ascension",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.fireside.fm/thefrmikepodcast/rss",
-              "owner_name": "Ascension",
-              "owner_email": "podcasts@ascensionpress.com",
-              "itunes_author": "Ascension",
-              "website": "https://thefrmikepodcast.fireside.fm",
-              "description": "Faith, pop culture, and headline reflections from Fr. Mike Schmitz.",
-              "cadence": "Weekly",
-              "episode_count": 583,
-              "last_published": "2026-06-18",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  0,
-                  24,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Thursdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 4
-        },
-        {
           "name": "Podbean",
-          "count": 4,
-          "share": 8.0,
+          "count": 5,
+          "share": 10.0,
           "shows": [
             {
               "title": "The Bible Recap",
@@ -43221,7 +43010,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Pastor Joby Martin",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -43258,7 +43047,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "The Church of Eleven22",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -43282,6 +43071,199 @@
                   15
                 ],
                 "label": "Weekly · Sundays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Bishop Barron’s Sunday Sermons - Catholic Preaching and Homilies",
+              "id": "spotify:show:5G6vtvZBIQMpQ8TLgXLBiK",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f7614f42ef3ab51720949b7c3",
+              "categories": [
+                "Religion & Spirituality"
+              ],
+              "publisher": "Bishop Robert Barron",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-25",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feed.podbean.com/wordonfire/feed.xml",
+              "owner_name": "Bishop Robert Barron",
+              "owner_email": null,
+              "itunes_author": "Bishop Robert Barron",
+              "website": "http://www.wordonfire.org/resources/homily/",
+              "description": "Weekly homilies from Bishop Robert Barron, produced by Word on Fire Catholic Ministries.",
+              "cadence": "Weekly",
+              "episode_count": 999,
+              "last_published": "2026-06-23",
+              "schedule": {
+                "days": [
+                  2,
+                  7,
+                  11,
+                  4,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Wed & Tue",
+                "eps_year": 53,
+                "trend": "steady"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Fireside",
+          "count": 4,
+          "share": 8.0,
+          "shows": [
+            {
+              "title": "The Bible in a Year (with Fr. Mike Schmitz)",
+              "id": "spotify:show:4Pppt42NPK2XzKwNIoW7BR",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fcd07cdd9424be93c0941a043",
+              "categories": [
+                "Religion & Spirituality"
+              ],
+              "publisher": "Ascension",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.fireside.fm/bibleinayear/rss",
+              "owner_name": "Ascension",
+              "owner_email": "podcasts@ascensionpress.com",
+              "itunes_author": "Ascension",
+              "website": "https://bibleinayear.fireside.fm",
+              "description": "In The Bible in a Year podcast, Fr. Mike Schmitz walks you through the entire Bible in 365 episodes, providing commentary, reflection, and prayer along the way. Unlike any other Bible podcast, Ascension’s Bible in a Year podcast follows a reading plan inspired by The Great Adventure Bible Timeline,…",
+              "cadence": "Daily",
+              "episode_count": 1727,
+              "last_published": "2026-06-26",
+              "schedule": {
+                "days": [
+                  3,
+                  3,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3
+                ],
+                "label": "Daily",
+                "eps_year": 365,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Sunday Homilies with Fr. Mike Schmitz",
+              "id": "spotify:show:1CK5AHgLneCo2sE17UOfdV",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f725eb19617e594741727ceaf",
+              "categories": [
+                "Religion & Spirituality"
+              ],
+              "publisher": "Ascension",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.fireside.fm/fathermikehomilies/rss",
+              "owner_name": "Ascension",
+              "owner_email": "podcasts@ascensionpress.com",
+              "itunes_author": "Ascension",
+              "website": "https://fathermikehomilies.fireside.fm",
+              "description": "Every week, Catholic priest Fr. Mike Schmitz delivers powerful homilies based on the Sunday Mass Scripture readings, inviting you to live more fully as the person God created you to be. Engaging and motivating, these 20-30 minute homilies will help ground your faith, fortify your heart, and transfor…",
+              "cadence": "Weekly",
+              "episode_count": 416,
+              "last_published": "2026-06-20",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  0,
+                  1,
+                  1,
+                  21,
+                  1
+                ],
+                "label": "Weekly · Saturdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Catechism in a Year (with Fr. Mike Schmitz)",
+              "id": "spotify:show:3CjutriXszixd0ssjSkx72",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fad384d56c19848e4342233fe",
+              "categories": [
+                "Religion & Spirituality"
+              ],
+              "publisher": "Ascension",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.fireside.fm/catechisminayear/rss",
+              "owner_name": "Ascension",
+              "owner_email": "podcasts@ascensionpress.com",
+              "itunes_author": "Ascension",
+              "website": "https://catechisminayear.fireside.fm",
+              "description": "In Ascension’s The Catechism in a Year podcast, Fr. Mike Schmitz guides you through the entire Catechism of the Catholic Church in 365 episodes, providing explanation, insight, and encouragement along the way. Unlike any other Catechism podcast, The Catechism in a Year (with Fr. Mike Schmitz) podcas…",
+              "cadence": "Daily",
+              "episode_count": 1285,
+              "last_published": "2026-06-27",
+              "schedule": {
+                "days": [
+                  3,
+                  4,
+                  4,
+                  4,
+                  3,
+                  3,
+                  3
+                ],
+                "label": "Daily",
+                "eps_year": 365,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Fr. Mike Schmitz Catholic Podcast",
+              "id": "spotify:show:2oQATctoAaFiS8bT596v9G",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f155b040ba046ec360553f237",
+              "categories": [
+                "Religion & Spirituality"
+              ],
+              "publisher": "Ascension",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.fireside.fm/thefrmikepodcast/rss",
+              "owner_name": "Ascension",
+              "owner_email": "podcasts@ascensionpress.com",
+              "itunes_author": "Ascension",
+              "website": "https://thefrmikepodcast.fireside.fm",
+              "description": "Faith, pop culture, and headline reflections from Fr. Mike Schmitz.",
+              "cadence": "Weekly",
+              "episode_count": 583,
+              "last_published": "2026-06-18",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  0,
+                  24,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Thursdays",
                 "eps_year": 52,
                 "trend": "steady"
               },
@@ -43377,7 +43359,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Life.Church",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -43435,8 +43417,8 @@
         },
         {
           "name": "Buzzsprout",
-          "count": 2,
-          "share": 4.0,
+          "count": 3,
+          "share": 6.0,
           "shows": [
             {
               "title": "followHIM",
@@ -43508,6 +43490,43 @@
                 ],
                 "label": "Biweekly · Wednesdays",
                 "eps_year": 26,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Daily Blade: Joby Martin & Kyle Thompson",
+              "id": "spotify:show:2aiLmk0EemmgsqvNb198Ju",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f325a2bd848a707c35d99d17d",
+              "categories": [
+                "Religion & Spirituality"
+              ],
+              "publisher": "Joby Martin & Kyle Thompson",
+              "chart_move": "UP",
+              "host_since": "2026-07-13",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.buzzsprout.com/2426656.rss",
+              "owner_name": "Joby Martin & Kyle Thompson",
+              "owner_email": null,
+              "itunes_author": "Joby Martin & Kyle Thompson",
+              "website": "http://mensconference.com",
+              "description": "The Daily Blade, hosted by Pastor Joby Martin of the Church of Eleven22 and Kyle Thompson of Undaunted.Life, is a short-form devotional show that equips Christians to apply the Word of God to their everyday lives. --- Connect with us at communication@coe22.com Want to support this podcast and other…",
+              "cadence": "Daily",
+              "episode_count": 400,
+              "last_published": "2026-07-13",
+              "schedule": {
+                "days": [
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  0,
+                  0
+                ],
+                "label": "Daily",
+                "eps_year": 365,
                 "trend": "steady"
               },
               "rss_video": null
@@ -43598,51 +43617,6 @@
           "rank": 8
         },
         {
-          "name": "Art19",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "The Exorcist Files",
-              "id": "spotify:show:4Rs76ZgP5iIwZCs51oHdvk",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f0adb5c18c98d40cb728a0403",
-              "categories": [
-                "Religion & Spirituality"
-              ],
-              "publisher": "Ryan Bethea, Fr. Carlos Martins",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/the-exorcist-files",
-              "owner_name": "Ryan Bethea and Fr. Carlos Martins",
-              "owner_email": "Ryanbethea@gmail.com",
-              "itunes_author": "Ryan Bethea, Fr. Carlos Martins",
-              "website": "https://art19.com/shows/the-exorcist-files",
-              "description": "For the last several years, the Catholic Church has noted an alarming increase in the number of exorcisms performed. And for some of the most disturbing and vicious cases of possession, one priest is often summoned. With almost two decades in ministry, renowned priest Father Carlos Martins has encou…",
-              "cadence": "Weekly",
-              "episode_count": 134,
-              "last_published": "2026-06-18",
-              "schedule": {
-                "days": [
-                  0,
-                  2,
-                  11,
-                  8,
-                  3,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Wed & Thu",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 9
-        },
-        {
           "name": "Audioboom",
           "count": 1,
           "share": 2.0,
@@ -43655,7 +43629,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Merkel Media",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -43685,7 +43659,7 @@
               "rss_video": null
             }
           ],
-          "rank": 10
+          "rank": 9
         },
         {
           "name": "Blubrry",
@@ -43700,7 +43674,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Desiring God",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-07-15",
               "prev_host": null,
               "moved_on": null,
@@ -43730,7 +43704,7 @@
               "rss_video": null
             }
           ],
-          "rank": 11
+          "rank": 10
         },
         {
           "name": "Pinecast",
@@ -43762,7 +43736,7 @@
               "rss_video": null
             }
           ],
-          "rank": 12
+          "rank": 11
         },
         {
           "name": "Subsplash",
@@ -43777,7 +43751,7 @@
                 "Religion & Spirituality"
               ],
               "publisher": "Harris Creek Baptist Church",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -43807,7 +43781,7 @@
               "rss_video": null
             }
           ],
-          "rank": 13
+          "rank": 12
         }
       ]
     },
@@ -52563,7 +52537,7 @@
             {
               "title": "The Rewatchables",
               "id": "spotify:show:1lUPomulZRPquVAOOd56EW",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1faeaffe8827e92d870857cddf",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb95ca41d64861fa2d6c5a2c7",
               "categories": [
                 "TV & Film"
               ],
@@ -52748,7 +52722,7 @@
             {
               "title": "The Ringer-Verse",
               "id": "spotify:show:3z9QIZzDR4o34uBBbsxb0z",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f914b2d4a1dbd1a36acc86e1c",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fc6372cf9d39f9d4002430161",
               "categories": [
                 "TV & Film"
               ],
