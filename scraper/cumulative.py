@@ -74,8 +74,10 @@ TRENDING_PATH = ROOT / "data" / "trending.json"
 DEADLINE_SECONDS = int(os.environ.get("CUMULATIVE_DEADLINE_SECONDS", 35 * 60))
 WAVE_SIZE = 500         # feeds submitted per wave; the clock is checked between
                         # waves, so this is the granularity of the deadline.
-HARD_CAP = 15000        # absolute ceiling on feeds/run, backstop only -- the
-                        # deadline stops us long before this in practice.
+HARD_CAP = 30000        # absolute ceiling on feeds/run, backstop only -- the
+                        # deadline stops us first in practice. Kept above the
+                        # ~21k corpus so a full-sweep run (see the 55-min
+                        # deadline in scrape.yml) is never capped short.
 WORKERS = 16            # concurrent feed fetches; spread across hundreds of
                         # distinct hosts in this corpus, so ~16 in flight is
                         # a couple connections per host at most, not a hammer.

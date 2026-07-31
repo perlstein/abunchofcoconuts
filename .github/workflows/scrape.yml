@@ -1,13 +1,17 @@
 name: Daily Chart Sync
 on:
   schedule:
-    # 2:30 AM PT: third stage of the pipeline, after corpus.yml (private repo)
-    # has pushed corpus_feeds.csv, which the cumulative job below reads. This
-    # is a PUBLIC repo, so Actions minutes are unlimited; the five jobs below
-    # run every day. Split into stages so a runner hiccup or a bug in one
-    # stage never loses data the others already produced.
+    # Runs twice a day, 2:30 AM and 2:30 PM PT, so the cumulative host-move
+    # re-check sweeps the corpus twice daily (migrations caught within ~12h).
+    # The 2:30 AM run is the third stage of the overnight pipeline, after
+    # corpus.yml (private repo) has pushed corpus_feeds.csv, which the
+    # cumulative job below reads. This is a PUBLIC repo, so Actions minutes are
+    # unlimited; the five jobs below run each time. Split into stages so a
+    # runner hiccup or a bug in one stage never loses data the others produced.
     - cron: '30 9 * 3-10 *'        # 2:30 AM PDT (Mar-Oct)
     - cron: '30 10 * 11,12,1,2 *'  # 2:30 AM PST (Nov-Feb)
+    - cron: '30 21 * 3-10 *'       # 2:30 PM PDT (Mar-Oct)
+    - cron: '30 22 * 11,12,1,2 *'  # 2:30 PM PST (Nov-Feb)
   workflow_dispatch:         # allow manual trigger from GitHub UI
 
 permissions:
@@ -190,8 +194,13 @@ jobs:
       - name: Update cumulative host tracker
         # Re-checks a rolling budget of previously-seen feeds plus the blended
         # corpus_feeds.csv for host changes, so migrations are caught even after
-        # a show leaves the charts.
+        # a show leaves the charts. 55-min deadline (under the 90-min job cap)
+        # is enough to sweep the full ~21k corpus in a single run, so no feed
+        # waits a cycle; paired with the twice-daily schedule, every show is
+        # re-checked ~twice a day.
         continue-on-error: true
+        env:
+          CUMULATIVE_DEADLINE_SECONDS: '3300'
         run: python scraper/cumulative.py
       - name: Commit and push cumulative tracker data
         run: |
