@@ -10253,18 +10253,18 @@
     },
     {
       "date": "2026-08-01",
-      "total_shows": 1708,
+      "total_shows": 1707,
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 448,
-          "share": 26.2,
+          "count": 445,
+          "share": 26.1,
           "rank": 1
         },
         {
           "name": "Simplecast",
-          "count": 203,
-          "share": 11.9,
+          "count": 206,
+          "share": 12.1,
           "rank": 2
         },
         {
@@ -10275,8 +10275,8 @@
         },
         {
           "name": "Art19",
-          "count": 130,
-          "share": 7.6,
+          "count": 128,
+          "share": 7.5,
           "rank": 4
         },
         {
@@ -10287,8 +10287,8 @@
         },
         {
           "name": "Acast",
-          "count": 94,
-          "share": 5.5,
+          "count": 95,
+          "share": 5.6,
           "rank": 6
         },
         {
@@ -10304,69 +10304,69 @@
           "rank": 8
         },
         {
-          "name": "Podbean",
-          "count": 54,
-          "share": 3.2,
+          "name": "Buzzsprout",
+          "count": 53,
+          "share": 3.1,
           "rank": 9
         },
         {
-          "name": "Buzzsprout",
-          "count": 51,
-          "share": 3.0,
+          "name": "Podbean",
+          "count": 49,
+          "share": 2.9,
           "rank": 10
         },
         {
           "name": "AmperWave (Audacy)",
-          "count": 40,
-          "share": 2.3,
+          "count": 41,
+          "share": 2.4,
           "rank": 11
         },
         {
           "name": "Other/Self-Hosted",
-          "count": 36,
-          "share": 2.1,
+          "count": 38,
+          "share": 2.2,
           "rank": 12
         },
         {
           "name": "Spreaker",
-          "count": 30,
+          "count": 31,
           "share": 1.8,
           "rank": 13
         },
         {
-          "name": "Transistor",
+          "name": "Blubrry",
           "count": 24,
           "share": 1.4,
           "rank": 14
         },
         {
-          "name": "Blubrry",
-          "count": 23,
+          "name": "Transistor",
+          "count": 22,
           "share": 1.3,
           "rank": 15
         },
         {
           "name": "PRX",
-          "count": 19,
-          "share": 1.1,
+          "count": 17,
+          "share": 1.0,
           "rank": 16
         },
         {
           "name": "RedCircle",
-          "count": 16,
-          "share": 0.9,
+          "count": 17,
+          "share": 1.0,
           "rank": 17
         },
         {
           "name": "BBC",
-          "count": 14,
-          "share": 0.8,
+          "count": 16,
+          "share": 0.9,
           "rank": 18
         },
         {
           "name": "Barstool Sports",
-          "count": 14,
-          "share": 0.8,
+          "count": 15,
+          "share": 0.9,
           "rank": 19
         },
         {
@@ -10377,13 +10377,13 @@
         },
         {
           "name": "Captivate",
-          "count": 13,
-          "share": 0.8,
+          "count": 12,
+          "share": 0.7,
           "rank": 21
         },
         {
-          "name": "American Public Media",
-          "count": 8,
+          "name": "Substack",
+          "count": 9,
           "share": 0.5,
           "rank": 22
         },
@@ -10400,15 +10400,15 @@
           "rank": 24
         },
         {
-          "name": "Substack",
+          "name": "Xiaoyuzhou FM",
           "count": 8,
           "share": 0.5,
           "rank": 25
         },
         {
-          "name": "Xiaoyuzhou FM",
-          "count": 8,
-          "share": 0.5,
+          "name": "American Public Media",
+          "count": 7,
+          "share": 0.4,
           "rank": 26
         },
         {
@@ -10448,37 +10448,37 @@
           "rank": 32
         },
         {
-          "name": "iHeart / Triton",
-          "count": 3,
-          "share": 0.2,
-          "rank": 33
-        },
-        {
           "name": "Fountain",
           "count": 2,
           "share": 0.1,
-          "rank": 34
+          "rank": 33
         },
         {
           "name": "FuturiMedia",
           "count": 2,
           "share": 0.1,
-          "rank": 35
+          "rank": 34
         },
         {
           "name": "StreamGuys",
           "count": 2,
           "share": 0.1,
-          "rank": 36
+          "rank": 35
         },
         {
           "name": "Subsplash",
           "count": 2,
           "share": 0.1,
-          "rank": 37
+          "rank": 36
         },
         {
           "name": "This Is Distorted",
+          "count": 2,
+          "share": 0.1,
+          "rank": 37
+        },
+        {
+          "name": "iHeart / Triton",
           "count": 2,
           "share": 0.1,
           "rank": 38
