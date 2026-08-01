@@ -1,14 +1,23 @@
 {
-  "generated": "2026-07-31",
-  "total_tracked": 26996,
+  "generated": "2026-08-01",
+  "total_tracked": 27236,
   "moves": [
+    {
+      "title": "Mick Unplugged",
+      "feed_url": "https://feeds.megaphone.fm/YAP1844984381",
+      "from": "Art19",
+      "to": "Megaphone",
+      "date": "2026-08-01",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/74/19/29/74192951-09b2-66b8-7d49-06615b23449e/mza_18375274195889500513.jpeg/170x170bb.png"
+    },
     {
       "title": "The Bald and the Beautiful with Trixie and Katya",
       "feed_url": "https://feeds.simplecast.com/GPFA1MaB",
       "from": "Megaphone",
       "to": "Simplecast",
       "date": "2026-07-31",
-      "source": "chart",
+      "source": "watchlist",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c2/df/47/c2df47b1-f58f-5db8-107e-100b845dce52/mza_674816396704544050.jpg/170x170bb.png"
     },
     {
