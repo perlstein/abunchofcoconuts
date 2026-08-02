@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01",
-  "total_tracked": 27238,
+  "generated": "2026-08-02",
+  "total_tracked": 27421,
   "moves": [
     {
       "title": "Mick Unplugged",
@@ -95,6 +95,15 @@
     {
       "title": "Barron's Streetwise",
       "feed_url": "https://feeds.simplecast.com/zuVCxwR_",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-07-26",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/29/e0/ef29e033-3872-12c1-cccd-0fef2e98b6cd/mza_4071859176951875770.jpg/170x170bb.png"
+    },
+    {
+      "title": "Barron's Streetwise",
+      "feed_url": "https://video-api.shdsvc.dowjones.io/api/podcasts/feed/streetwise",
       "from": "Megaphone",
       "to": "Simplecast",
       "date": "2026-07-26",
