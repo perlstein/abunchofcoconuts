@@ -11513,7 +11513,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-29",
           "prev_host": null,
           "moved_on": null
@@ -12701,7 +12701,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -13372,7 +13372,7 @@
           "last_published": "2026-07-31",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -22838,7 +22838,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -22910,7 +22910,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -22982,7 +22982,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -26994,7 +26994,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-23",
           "prev_host": null,
           "moved_on": null
@@ -27714,7 +27714,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null
@@ -27894,7 +27894,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -28074,7 +28074,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -43447,7 +43447,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -43555,7 +43555,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-07-05",
           "prev_host": null,
           "moved_on": null
@@ -45193,7 +45193,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -46473,7 +46473,7 @@
           "last_published": "2026-07-30",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -48847,7 +48847,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-27",
           "prev_host": null,
           "moved_on": null
@@ -49171,7 +49171,7 @@
             "trend": "steady"
           },
           "rss_video": "mp4",
-          "apple_video": false,
+          "apple_video": true,
           "host_since": "2026-07-27",
           "prev_host": "SoundCloud",
           "moved_on": "2026-07-27"
@@ -50263,7 +50263,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -51497,7 +51497,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": null,
           "prev_host": null,
           "moved_on": null
@@ -54176,7 +54176,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-29",
           "prev_host": null,
           "moved_on": null
@@ -54752,7 +54752,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
@@ -58353,7 +58353,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-19",
           "prev_host": null,
           "moved_on": null
@@ -58389,7 +58389,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-03",
           "prev_host": null,
           "moved_on": null
