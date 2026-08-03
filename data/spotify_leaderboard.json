@@ -2,12 +2,12 @@
   "source": "Spotify Podcast Charts",
   "last_scanned": "2026-08-03",
   "total_unique_shows": 800,
-  "resolved_rate": 98.2,
+  "resolved_rate": 98.4,
   "platforms": [
     {
       "name": "Megaphone",
-      "count": 279,
-      "share": 34.9,
+      "count": 280,
+      "share": 35.0,
       "shows": [
         {
           "title": "Financial Audit",
@@ -959,7 +959,7 @@
         {
           "title": "The Joe Rogan Experience",
           "id": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f2e7936ee02774abeceb710f2",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f913317cdfae64a2585aa0f36",
           "categories": [
             "Comedy"
           ],
@@ -8210,6 +8210,43 @@
           "rss_video": null
         },
         {
+          "title": "No Priors: Artificial Intelligence | Technology | Startups",
+          "id": "spotify:show:0O65xhqvGVhpgdIrrdlEYk",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f3119a75ecae98c07c21110bc",
+          "categories": [
+            "Technology"
+          ],
+          "publisher": "Conviction",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/nopriors",
+          "owner_name": "Conviction",
+          "owner_email": "production@podpeople.com",
+          "itunes_author": "Conviction",
+          "website": null,
+          "description": "At this moment of inflection in technology, co-hosts Elad Gil and Sarah Guo talk to the world's leading AI engineers, researchers and founders about the biggest questions: How far away is AGI? What markets are at risk for disruption? How will commerce, culture, and society change? What’s happening i…",
+          "cadence": "Weekly",
+          "episode_count": 168,
+          "last_published": "2026-06-26",
+          "schedule": {
+            "days": [
+              1,
+              0,
+              1,
+              17,
+              5,
+              0,
+              0
+            ],
+            "label": "Weekly · Thursdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
           "title": "Crime, Conspiracy, Cults and Murder",
           "id": "spotify:show:2mClgQ5t53TqBIAxxGjvnu",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f906ec905d66f0d5eb4031191",
@@ -14939,7 +14976,7 @@
             "Technology"
           ],
           "publisher": "NPR",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -21360,9 +21397,9 @@
           "rss_video": null
         },
         {
-          "title": "The Bulwark Podcast",
+          "title": "The Bulwark Daily",
           "id": "spotify:show:0BDNfTFMPd7o5rhqmUAFz1",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f0d74c8508428b4aff6ee09a6",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f81d2b8bf1a7bd2fd1405bf6e",
           "categories": [
             "News"
           ],
@@ -23351,8 +23388,8 @@
     },
     {
       "name": "Unresolved (Spotify-only)",
-      "count": 14,
-      "share": 1.8,
+      "count": 13,
+      "share": 1.6,
       "shows": [
         {
           "title": "snorple & jay",
@@ -23628,30 +23665,6 @@
           "publisher": "leah ྀིྀིྀིྀིྀི (dont rate the pod)",
           "chart_move": "UNCHANGED",
           "host_since": "2026-06-27",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "emedop5",
-          "id": "spotify:show:033YJnZ4pGRwMAsBqeYbo6",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f14e6c13c8adc14669348b19f",
-          "categories": [
-            "Technology"
-          ],
-          "publisher": "flw me",
-          "chart_move": "UP",
-          "host_since": "2026-08-01",
           "prev_host": null,
           "moved_on": null,
           "feed_url": null,
@@ -25529,7 +25542,7 @@
             "Technology"
           ],
           "publisher": "Lenny Rachitsky",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -25866,7 +25879,7 @@
         {
           "title": "Mommy Girlfriend ASMR Roleplay – Sleep Aid & Comfort",
           "id": "spotify:show:66GvSY7H9rVRUpU5goiRzi",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fd37aab9f50021cbbdbd90575",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f5f1fdd6852cfc0d04fc3b759",
           "categories": [
             "Leisure"
           ],
@@ -28385,7 +28398,7 @@
             {
               "title": "The Joe Rogan Experience",
               "id": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f2e7936ee02774abeceb710f2",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f913317cdfae64a2585aa0f36",
               "categories": [
                 "Comedy"
               ],
@@ -38376,7 +38389,7 @@
             {
               "title": "Mommy Girlfriend ASMR Roleplay – Sleep Aid & Comfort",
               "id": "spotify:show:66GvSY7H9rVRUpU5goiRzi",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fd37aab9f50021cbbdbd90575",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f5f1fdd6852cfc0d04fc3b759",
               "categories": [
                 "Leisure"
               ],
@@ -41568,9 +41581,9 @@
               "rss_video": null
             },
             {
-              "title": "The Bulwark Podcast",
+              "title": "The Bulwark Daily",
               "id": "spotify:show:0BDNfTFMPd7o5rhqmUAFz1",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f0d74c8508428b4aff6ee09a6",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f81d2b8bf1a7bd2fd1405bf6e",
               "categories": [
                 "News"
               ],
@@ -49098,8 +49111,8 @@
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 14,
-          "share": 28.0,
+          "count": 15,
+          "share": 30.0,
           "shows": [
             {
               "title": "American Alchemy with Jesse Michels",
@@ -49605,6 +49618,43 @@
                 "trend": "steady"
               },
               "rss_video": null
+            },
+            {
+              "title": "No Priors: Artificial Intelligence | Technology | Startups",
+              "id": "spotify:show:0O65xhqvGVhpgdIrrdlEYk",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f3119a75ecae98c07c21110bc",
+              "categories": [
+                "Technology"
+              ],
+              "publisher": "Conviction",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/nopriors",
+              "owner_name": "Conviction",
+              "owner_email": "production@podpeople.com",
+              "itunes_author": "Conviction",
+              "website": null,
+              "description": "At this moment of inflection in technology, co-hosts Elad Gil and Sarah Guo talk to the world's leading AI engineers, researchers and founders about the biggest questions: How far away is AGI? What markets are at risk for disruption? How will commerce, culture, and society change? What’s happening i…",
+              "cadence": "Weekly",
+              "episode_count": 168,
+              "last_published": "2026-06-26",
+              "schedule": {
+                "days": [
+                  1,
+                  0,
+                  1,
+                  17,
+                  5,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Thursdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
             }
           ],
           "rank": 1
@@ -50011,7 +50061,7 @@
                 "Technology"
               ],
               "publisher": "NPR",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -50204,7 +50254,7 @@
                 "Technology"
               ],
               "publisher": "Lenny Rachitsky",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -50940,38 +50990,6 @@
             }
           ],
           "rank": 17
-        },
-        {
-          "name": "Unresolved (Spotify-only)",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "emedop5",
-              "id": "spotify:show:033YJnZ4pGRwMAsBqeYbo6",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f14e6c13c8adc14669348b19f",
-              "categories": [
-                "Technology"
-              ],
-              "publisher": "flw me",
-              "chart_move": "UP",
-              "host_since": "2026-08-01",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": null,
-              "owner_name": null,
-              "owner_email": null,
-              "itunes_author": null,
-              "website": null,
-              "description": null,
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
-          "rank": 18
         }
       ]
     },
