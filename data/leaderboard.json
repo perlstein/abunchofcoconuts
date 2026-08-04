@@ -5726,7 +5726,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -11651,7 +11651,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -15418,7 +15418,7 @@
           "last_published": "2026-08-25",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -15513,7 +15513,7 @@
           "last_published": "2026-08-04",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -16557,7 +16557,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -19268,7 +19268,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -21596,7 +21596,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -22928,7 +22928,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -29337,7 +29337,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
@@ -34353,7 +34353,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-19",
           "prev_host": null,
           "moved_on": null
@@ -40415,7 +40415,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-23",
           "prev_host": null,
           "moved_on": null
@@ -43310,7 +43310,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": true,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": "Podbean",
           "moved_on": "2026-08-04"
@@ -48891,7 +48891,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-07-17",
           "prev_host": null,
           "moved_on": null
@@ -53676,7 +53676,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null
@@ -58028,7 +58028,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-08-04",
           "prev_host": null,
           "moved_on": null
