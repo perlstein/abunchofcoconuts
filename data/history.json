@@ -11483,36 +11483,36 @@
     },
     {
       "date": "2026-08-05",
-      "total_shows": 1708,
+      "total_shows": 1710,
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 458,
-          "share": 26.8,
+          "count": 465,
+          "share": 27.2,
           "rank": 1
         },
         {
           "name": "Simplecast",
-          "count": 201,
-          "share": 11.8,
+          "count": 197,
+          "share": 11.5,
           "rank": 2
         },
         {
           "name": "Omny / Triton",
-          "count": 134,
-          "share": 7.8,
+          "count": 130,
+          "share": 7.6,
           "rank": 3
         },
         {
           "name": "Libsyn",
-          "count": 124,
-          "share": 7.3,
+          "count": 127,
+          "share": 7.4,
           "rank": 4
         },
         {
           "name": "Art19",
-          "count": 123,
-          "share": 7.2,
+          "count": 121,
+          "share": 7.1,
           "rank": 5
         },
         {
@@ -11523,20 +11523,20 @@
         },
         {
           "name": "Spotify/Anchor",
-          "count": 79,
-          "share": 4.6,
+          "count": 77,
+          "share": 4.5,
           "rank": 7
         },
         {
           "name": "Buzzsprout",
-          "count": 59,
-          "share": 3.5,
+          "count": 61,
+          "share": 3.6,
           "rank": 8
         },
         {
           "name": "Audioboom",
-          "count": 54,
-          "share": 3.2,
+          "count": 53,
+          "share": 3.1,
           "rank": 9
         },
         {
@@ -11547,7 +11547,7 @@
         },
         {
           "name": "AmperWave (Audacy)",
-          "count": 40,
+          "count": 39,
           "share": 2.3,
           "rank": 11
         },
@@ -11559,30 +11559,30 @@
         },
         {
           "name": "Spreaker",
-          "count": 30,
-          "share": 1.8,
+          "count": 27,
+          "share": 1.6,
           "rank": 13
         },
         {
-          "name": "Blubrry",
+          "name": "Transistor",
           "count": 20,
           "share": 1.2,
           "rank": 14
         },
         {
-          "name": "PRX",
-          "count": 17,
-          "share": 1.0,
+          "name": "Blubrry",
+          "count": 18,
+          "share": 1.1,
           "rank": 15
         },
         {
           "name": "RedCircle",
-          "count": 17,
-          "share": 1.0,
+          "count": 18,
+          "share": 1.1,
           "rank": 16
         },
         {
-          "name": "Transistor",
+          "name": "PRX",
           "count": 17,
           "share": 1.0,
           "rank": 17
@@ -11600,13 +11600,13 @@
           "rank": 19
         },
         {
-          "name": "BBC",
-          "count": 13,
+          "name": "Unknown",
+          "count": 14,
           "share": 0.8,
           "rank": 20
         },
         {
-          "name": "Unknown",
+          "name": "BBC",
           "count": 13,
           "share": 0.8,
           "rank": 21
@@ -11624,57 +11624,57 @@
           "rank": 23
         },
         {
-          "name": "Fireside",
-          "count": 8,
+          "name": "SoundStack",
+          "count": 9,
           "share": 0.5,
           "rank": 24
         },
         {
-          "name": "Xiaoyuzhou FM",
+          "name": "Podetize",
           "count": 8,
           "share": 0.5,
           "rank": 25
         },
         {
-          "name": "SoundStack",
+          "name": "Xiaoyuzhou FM",
+          "count": 8,
+          "share": 0.5,
+          "rank": 26
+        },
+        {
+          "name": "Fireside",
           "count": 7,
           "share": 0.4,
-          "rank": 26
+          "rank": 27
         },
         {
           "name": "American Public Media",
           "count": 6,
           "share": 0.4,
-          "rank": 27
+          "rank": 28
         },
         {
           "name": "SoundCloud",
           "count": 6,
           "share": 0.4,
-          "rank": 28
+          "rank": 29
         },
         {
           "name": "Substack",
           "count": 6,
           "share": 0.4,
-          "rank": 29
+          "rank": 30
         },
         {
           "name": "Riverside",
           "count": 5,
           "share": 0.3,
-          "rank": 30
+          "rank": 31
         },
         {
           "name": "TWiT",
           "count": 5,
           "share": 0.3,
-          "rank": 31
-        },
-        {
-          "name": "Podetize",
-          "count": 4,
-          "share": 0.2,
           "rank": 32
         },
         {
@@ -11696,7 +11696,7 @@
           "rank": 35
         },
         {
-          "name": "PodToo",
+          "name": "FuturiMedia",
           "count": 2,
           "share": 0.1,
           "rank": 36
@@ -11732,52 +11732,46 @@
           "rank": 41
         },
         {
-          "name": "FuturiMedia",
+          "name": "PodToo",
           "count": 1,
           "share": 0.1,
           "rank": 42
         },
         {
-          "name": "Pinecast",
+          "name": "Podcast.co",
           "count": 1,
           "share": 0.1,
           "rank": 43
         },
         {
-          "name": "Podcast.co",
+          "name": "PodcastAI",
           "count": 1,
           "share": 0.1,
           "rank": 44
         },
         {
-          "name": "PodcastAI",
+          "name": "Podcastle",
           "count": 1,
           "share": 0.1,
           "rank": 45
         },
         {
-          "name": "Podcastle",
+          "name": "SVMAudio",
           "count": 1,
           "share": 0.1,
           "rank": 46
         },
         {
-          "name": "SVMAudio",
+          "name": "StreamGuys",
           "count": 1,
           "share": 0.1,
           "rank": 47
         },
         {
-          "name": "StreamGuys",
-          "count": 1,
-          "share": 0.1,
-          "rank": 48
-        },
-        {
           "name": "Thmanyah",
           "count": 1,
           "share": 0.1,
-          "rank": 49
+          "rank": 48
         }
       ]
     }
