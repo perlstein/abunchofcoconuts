@@ -2,12 +2,12 @@
   "source": "Spotify Podcast Charts",
   "last_scanned": "2026-08-07",
   "total_unique_shows": 800,
-  "resolved_rate": 98.2,
+  "resolved_rate": 98.5,
   "platforms": [
     {
       "name": "Megaphone",
-      "count": 272,
-      "share": 34.0,
+      "count": 273,
+      "share": 34.1,
       "shows": [
         {
           "title": "Financial Audit",
@@ -583,7 +583,7 @@
             "Business"
           ],
           "publisher": "PHD Ventures",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -848,7 +848,7 @@
         {
           "title": "Animal Spirits Podcast",
           "id": "spotify:show:71siUnIMn0iQY7Kz5BQSqJ",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f1773a0fb66c2615e96dcea52",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ff1edfc561ea4b41b2d9b6591",
           "categories": [
             "Business"
           ],
@@ -904,6 +904,43 @@
           "episode_count": null,
           "last_published": null,
           "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "EverydaySpy Podcast",
+          "id": "spotify:show:2YUT5vQAGdxdsFZDq2830q",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f1f42cb36baf7b12cec6ea440",
+          "categories": [
+            "Business"
+          ],
+          "publisher": "Andrew Bustamante",
+          "chart_move": "DOWN",
+          "host_since": "2026-07-13",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/UMCME4090655970",
+          "owner_name": "Andrew Bustamante",
+          "owner_email": "andrewbustamantemedia@gmail.com",
+          "itunes_author": "Andrew Bustamante",
+          "website": "https://everydayspy.com/",
+          "description": "Hosted by former covert CIA intelligence officers Andrew Bustamante and Jihi Bustamante, the EverydaySpy Podcast gives you practical, powerful spy skills and insights you can use everyday. From parenthood fixes to career shortcuts, business hacks to geopolitical insights, this pod is for you if you…",
+          "cadence": "Daily",
+          "episode_count": 172,
+          "last_published": "2026-07-13",
+          "schedule": {
+            "days": [
+              5,
+              2,
+              4,
+              3,
+              4,
+              3,
+              3
+            ],
+            "label": "Daily",
+            "eps_year": 365,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -2011,7 +2048,7 @@
             "Education"
           ],
           "publisher": "Rich Roll",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2048,7 +2085,7 @@
             "Education"
           ],
           "publisher": "Sabrina Zohar",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2270,7 +2307,7 @@
             "Education"
           ],
           "publisher": "Clutterbug",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2307,7 +2344,7 @@
             "Education"
           ],
           "publisher": "Absolute Motivation",
-          "chart_move": "DOWN",
+          "chart_move": "UP",
           "host_since": "2026-06-19",
           "prev_host": null,
           "moved_on": null,
@@ -9272,8 +9309,8 @@
     },
     {
       "name": "Spotify/Anchor",
-      "count": 116,
-      "share": 14.5,
+      "count": 117,
+      "share": 14.6,
       "shows": [
         {
           "title": "PBD Podcast",
@@ -9660,7 +9697,7 @@
             "Education"
           ],
           "publisher": "Mario Alonso Puig",
-          "chart_move": "DOWN",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -9711,6 +9748,30 @@
             "eps_year": 52,
             "trend": "steady"
           },
+          "rss_video": null
+        },
+        {
+          "title": "Bedros Keuilian Podcast Show",
+          "id": "spotify:show:0z0lwiTEiYmk2fkhDkRqPV",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f97b939fc8090aa5fa612166d",
+          "categories": [
+            "Education"
+          ],
+          "publisher": "Bedros Keuilian",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/db43dab0/podcast/rss",
+          "owner_name": "Bedros Keuilian",
+          "owner_email": "media@keuilian.com",
+          "itunes_author": "Bedros Keuilian",
+          "website": "http://empirepodcast.libsyn.com/site",
+          "description": "The official podcast of American entrepreneur Bedros Keuilian. A show that’s unapologetically unfiltered that will make you think, make you laugh and inspire you to become an even better human.",
+          "cadence": "Weekly",
+          "episode_count": 403,
+          "last_published": "2026-06-23",
+          "schedule": null,
           "rss_video": null
         },
         {
@@ -9881,43 +9942,6 @@
           "episode_count": null,
           "last_published": null,
           "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "MiuMiu's cupcakes",
-          "id": "spotify:show:033uiWvuqjrpg1Mecm2FBD",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f023aeca159f1f91fe948ca55",
-          "categories": [
-            "Fiction"
-          ],
-          "publisher": "MiuMiu",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-07-13",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://anchor.fm/s/f210fafc/podcast/rss",
-          "owner_name": "BubbleCast Media",
-          "owner_email": "info@montanaavemedia.com",
-          "itunes_author": "BubbleCast Media",
-          "website": "https://podcasters.spotify.com/pod/show/bubblecast-media7",
-          "description": "Velkommen til Haute Mess din guide til alt som omhandler mote, stil og fashion tips. Jeg er din vert, Marianne Jemtegård, og hver torsdag vil vi utforske de nyeste trendene, jeg deler mine beste stylingtips og diskuterer alt fra runway til street style. Enten du er en moteentusiast eller bare ønsker…",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": "2024-06-21",
-          "schedule": {
-            "days": [
-              1,
-              0,
-              0,
-              15,
-              4,
-              0,
-              0
-            ],
-            "label": "Weekly · Thursdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
           "rss_video": null
         },
         {
@@ -10114,6 +10138,30 @@
             "eps_year": 122,
             "trend": "steady"
           },
+          "rss_video": null
+        },
+        {
+          "title": "Relatos de Terror del Gato",
+          "id": "spotify:show:7x0Xuiurq2dIGZuGLkaYVa",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f55ad1510ce86b02fb844f856",
+          "categories": [
+            "Fiction"
+          ],
+          "publisher": "Gato studios",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/1094a4a98/podcast/rss",
+          "owner_name": "Gato studios",
+          "owner_email": "tusrelatosdelgato@gmail.com",
+          "itunes_author": "Gato studios",
+          "website": "https://www.spreaker.com/podcast/relatos-de-terror-del-gato--5094922",
+          "description": "en este podcast seras testigo de algunos testimonios reales de la audiencia de los relatos del gato relacionados con apariciones malditas de entidades del mas allá. aquí los relatos y leyendas de terror cobran vida, mas vale que te pongas a rezar por que en este rincón, la curiosidad te llevara al m…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
           "rss_video": null
         },
         {
@@ -16126,10 +16174,23 @@
           "itunes_author": "Exactly Right and iHeartPodcasts",
           "website": "https://www.exactlyrightmedia.com/",
           "description": "This podcast might not actually kill you, but Erin Welsh and Erin Allmann Updyke cover so many things that can. In each episode, they tackle a different topic, teaching listeners about the biology, history, and epidemiology of a different disease or medical mystery. They do the scientific research,…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
+          "cadence": "Weekly",
+          "episode_count": 297,
+          "last_published": "2026-08-04",
+          "schedule": {
+            "days": [
+              0,
+              24,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Tuesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -17121,7 +17182,7 @@
             "Education"
           ],
           "publisher": "Mick Hunt",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -17195,7 +17256,7 @@
             "Education"
           ],
           "publisher": "Margarita Nazarenko",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -17256,7 +17317,7 @@
             "Education"
           ],
           "publisher": "Jordan Harbinger",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -19530,8 +19591,8 @@
     },
     {
       "name": "Acast",
-      "count": 34,
-      "share": 4.2,
+      "count": 35,
+      "share": 4.4,
       "shows": [
         {
           "title": "The Best One Yet",
@@ -19700,7 +19761,7 @@
             "Education"
           ],
           "publisher": "Coffee Break Languages",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -19762,6 +19823,43 @@
             ],
             "label": "Weekly",
             "eps_year": 51,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "How to Be a Better Human",
+          "id": "spotify:show:5KuVFavG72i7fNOZ9tEX3a",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f0cb9f8c550bbadcdf5617bd2",
+          "categories": [
+            "Education"
+          ],
+          "publisher": "TED",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.acast.com/public/shows/67572b3b2dd88df13220eb3b",
+          "owner_name": "TED",
+          "owner_email": "podcasts@ted.com",
+          "itunes_author": "TED",
+          "website": "https://play.prx.org/listen?uf=https%3A%2F%2Ffeeds.feedburner.com%2FHowToBeABetterHuman",
+          "description": "How To Be A Better Human isn’t your average self improvement podcast. Each week join Chris Duffy in conversation with guests and past speakers as they uncover sharp insights and give clear takeaways on how YOU can be a better human. From your work to your home and your head to your heart, How To Be…",
+          "cadence": "Weekly",
+          "episode_count": 391,
+          "last_published": "2026-06-22",
+          "schedule": {
+            "days": [
+              23,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Mondays",
+            "eps_year": 52,
             "trend": "steady"
           },
           "rss_video": null
@@ -21528,7 +21626,7 @@
             "Education"
           ],
           "publisher": "Aware and Aggravated",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -22291,12 +22389,12 @@
         {
           "title": "Learn Powerful Meditation Techniques",
           "id": "spotify:show:2hRIciAAriUDVrvhi0NypS",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f66f39c90fa72a87b6490b04e",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f738d608ac95d238dd6f2e4a7",
           "categories": [
             "Education"
           ],
-          "publisher": "Meditation Life Skills Podcast",
-          "chart_move": "DOWN",
+          "publisher": "Meditation Life Skills",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -22830,350 +22928,6 @@
       "rank": 10
     },
     {
-      "name": "Unresolved (Spotify-only)",
-      "count": 14,
-      "share": 1.8,
-      "shows": [
-        {
-          "title": "snorple & jay",
-          "id": "spotify:show:033SKP2kcN7KjjmZ6B72S6",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f3583b9ab418b06bddb1594b9",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "check description for 🥵🌶️",
-          "chart_move": "UP",
-          "host_since": "2026-07-23",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "snorples MAIN hub",
-          "id": "spotify:show:033VSfNKBWTPRErIEcJ4JF",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ffa8b28d46685fd9146923705",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "you already know",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-08-04",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "soundbuttonsspace",
-          "id": "spotify:show:6U6zYXkyjlaq3PkCXzNk2U",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f30f98342e962f5a11c97e812",
-          "categories": [
-            "Comedy"
-          ],
-          "publisher": "soundbuttonsspace",
-          "chart_move": "UP",
-          "host_since": "2026-07-01",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "BriannaReacts",
-          "id": "spotify:show:3RODE1zG4whez6kyONuF3A",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f43aad52e051621c40ff75688",
-          "categories": [
-            "Comedy"
-          ],
-          "publisher": "BriannaReacts",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "hxsain",
-          "id": "spotify:show:6M2rLzaArpM9X6Ctxx0K0u",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fdf8c22018436e10a6912ae71",
-          "categories": [
-            "Education"
-          ],
-          "publisher": "hxsain",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Sandeep Swadia ",
-          "id": "spotify:show:033nSSACs3S4g5NUIrXnHx",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ffc623b3e7980fb32346c484f",
-          "categories": [
-            "Education"
-          ],
-          "publisher": "Sandeep Swadia",
-          "chart_move": "DOWN",
-          "host_since": "2026-07-07",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Pluxsh is Back",
-          "id": "spotify:show:033ZYCvU1oOlzGVTBM6e3g",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f8e9554d949ac7589744908d9",
-          "categories": [
-            "Education"
-          ],
-          "publisher": "notpluxsh",
-          "chart_move": "NEW",
-          "host_since": "2026-08-07",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "I JS SHOVED A TACO UP MY BADUSSY 🫩🫩🫩🫩✌️✌️✌️✌️",
-          "id": "spotify:show:033EQGJjX2Q3dis8gWQOPJ",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f20592f23615b2fcf741b5fd3",
-          "categories": [
-            "Health & Fitness"
-          ],
-          "publisher": "leah ྀིྀིྀིྀིྀི (dont rate the pod)",
-          "chart_move": "UP",
-          "host_since": "2026-08-05",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "SoundEffectPodcast",
-          "id": "spotify:show:6aakHkxjdrrptbcJ7ICxjQ",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fa29f38609c85ee4b5fa8a1f0",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "Mr.Sound",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "BriannaPlayz",
-          "id": "spotify:show:2b6kqq5WHAD4rPmSvtXIkP",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f9d2627d87a661fe34a06f384",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "BriannaPlayz",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Slime Glitterz",
-          "id": "spotify:show:4gGwgDlJgHgsaiIh2lUwCK",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f4b9070e2cff1e52edb9836a1",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "Slime Glitterz",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "qBedwars",
-          "id": "spotify:show:3D0dCYYyiDXAUAdjbNAOHk",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fe2fc5a5125340331e5e3df73",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "qBedwars",
-          "chart_move": "DOWN",
-          "host_since": "2026-08-04",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "pop culture & music explored - mattycast",
-          "id": "spotify:show:2Mzn2CScIh1ebkDQRHkqXC",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fcb628e51ade75bb66f771999",
-          "categories": [
-            "Music"
-          ],
-          "publisher": "mattyballz",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Raiders Of The Lost Podcast",
-          "id": "spotify:show:01pm7TeM5woWGnAu4V4ryx",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fb777f4289dd1295f649e839c",
-          "categories": [
-            "TV & Film"
-          ],
-          "publisher": "Realm",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-07-31",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        }
-      ],
-      "rank": 11
-    },
-    {
       "name": "Podbean",
       "count": 13,
       "share": 1.6,
@@ -23592,6 +23346,302 @@
             "eps_year": 33,
             "trend": "steady"
           },
+          "rss_video": null
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "name": "Unresolved (Spotify-only)",
+      "count": 12,
+      "share": 1.5,
+      "shows": [
+        {
+          "title": "snorples MAIN hub",
+          "id": "spotify:show:033VSfNKBWTPRErIEcJ4JF",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ffa8b28d46685fd9146923705",
+          "categories": [
+            "Business"
+          ],
+          "publisher": "you already know",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-08-04",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "soundbuttonsspace",
+          "id": "spotify:show:6U6zYXkyjlaq3PkCXzNk2U",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f30f98342e962f5a11c97e812",
+          "categories": [
+            "Comedy"
+          ],
+          "publisher": "soundbuttonsspace",
+          "chart_move": "UP",
+          "host_since": "2026-07-01",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "BriannaReacts",
+          "id": "spotify:show:3RODE1zG4whez6kyONuF3A",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f43aad52e051621c40ff75688",
+          "categories": [
+            "Comedy"
+          ],
+          "publisher": "BriannaReacts",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "hxsain",
+          "id": "spotify:show:6M2rLzaArpM9X6Ctxx0K0u",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fdf8c22018436e10a6912ae71",
+          "categories": [
+            "Education"
+          ],
+          "publisher": "hxsain",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Sandeep Swadia ",
+          "id": "spotify:show:033nSSACs3S4g5NUIrXnHx",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ffc623b3e7980fb32346c484f",
+          "categories": [
+            "Education"
+          ],
+          "publisher": "Sandeep Swadia",
+          "chart_move": "DOWN",
+          "host_since": "2026-07-07",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "I JS SHOVED A TACO UP MY BADUSSY 🫩🫩🫩🫩✌️✌️✌️✌️",
+          "id": "spotify:show:033EQGJjX2Q3dis8gWQOPJ",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f20592f23615b2fcf741b5fd3",
+          "categories": [
+            "Health & Fitness"
+          ],
+          "publisher": "leah ྀིྀིྀིྀིྀི (dont rate the pod)",
+          "chart_move": "UP",
+          "host_since": "2026-08-05",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "SoundEffectPodcast",
+          "id": "spotify:show:6aakHkxjdrrptbcJ7ICxjQ",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fa29f38609c85ee4b5fa8a1f0",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "Mr.Sound",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "BriannaPlayz",
+          "id": "spotify:show:2b6kqq5WHAD4rPmSvtXIkP",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f9d2627d87a661fe34a06f384",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "BriannaPlayz",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Slime Glitterz",
+          "id": "spotify:show:4gGwgDlJgHgsaiIh2lUwCK",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f4b9070e2cff1e52edb9836a1",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "Slime Glitterz",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "qBedwars",
+          "id": "spotify:show:3D0dCYYyiDXAUAdjbNAOHk",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fe2fc5a5125340331e5e3df73",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "qBedwars",
+          "chart_move": "DOWN",
+          "host_since": "2026-08-04",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "pop culture & music explored - mattycast",
+          "id": "spotify:show:2Mzn2CScIh1ebkDQRHkqXC",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fcb628e51ade75bb66f771999",
+          "categories": [
+            "Music"
+          ],
+          "publisher": "mattyballz",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Raiders Of The Lost Podcast",
+          "id": "spotify:show:01pm7TeM5woWGnAu4V4ryx",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb777f4289dd1295f649e839c",
+          "categories": [
+            "TV & Film"
+          ],
+          "publisher": "Realm",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-07-31",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": null,
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
           "rss_video": null
         }
       ],
@@ -24325,11 +24375,11 @@
         {
           "title": "ASMR!!",
           "id": "spotify:show:4EU7FAb4n2mKycLh0ndWIF",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f86496e0b710b727f7f7d25c8",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f5fdca3293dc5883203dd93a0",
           "categories": [
             "TV & Film"
           ],
-          "publisher": "🫀🍷",
+          "publisher": "🗝",
           "chart_move": "UP",
           "host_since": "2026-08-07",
           "prev_host": null,
@@ -25385,7 +25435,7 @@
             "Education"
           ],
           "publisher": "Everything Professor",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-27",
           "prev_host": null,
           "moved_on": null,
@@ -26319,75 +26369,6 @@
       "rank": 26
     },
     {
-      "name": "SoundCloud",
-      "count": 2,
-      "share": 0.2,
-      "shows": [
-        {
-          "title": "hollowed's home",
-          "id": "spotify:show:0341qCJGSWa4f1yVRaihtE",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f81e5e7d1d1506bafa7d85834",
-          "categories": [
-            "Education"
-          ],
-          "publisher": "hollowed 2",
-          "chart_move": "UP",
-          "host_since": "2026-08-07",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:262321868/sounds.rss",
-          "owner_name": "#SleepyHollow Podcast",
-          "owner_email": "feeds@soundcloud.com",
-          "itunes_author": "The Commish, The PM and Erin BRO-kavich",
-          "website": "https://soundcloud.com/sleepyhollow-podcast",
-          "description": "Home of the #SleepyHollow Fantasy Football Podcast",
-          "cadence": "Occasional",
-          "episode_count": null,
-          "last_published": "2018-09-06",
-          "schedule": {
-            "days": [
-              0,
-              0,
-              0,
-              1,
-              0,
-              2,
-              0
-            ],
-            "label": "Occasional · Saturdays",
-            "eps_year": 1,
-            "trend": null
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Serena Neel",
-          "id": "spotify:show:1BUr8s70dfCAYDOOvyrBKU",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f53d48f165be3cbac517c8bd2",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "Serena Neel",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:905727934/sounds.rss",
-          "owner_name": "Créartcast",
-          "owner_email": "feeds@soundcloud.com",
-          "itunes_author": "Créartcast",
-          "website": "https://soundcloud.com/in-sisyphe",
-          "description": "Podcast by Créartcast",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        }
-      ],
-      "rank": 27
-    },
-    {
       "name": "BBC",
       "count": 1,
       "share": 0.1,
@@ -26430,7 +26411,7 @@
           "rss_video": null
         }
       ],
-      "rank": 28
+      "rank": 27
     },
     {
       "name": "Castos",
@@ -26462,7 +26443,7 @@
           "rss_video": null
         }
       ],
-      "rank": 29
+      "rank": 28
     },
     {
       "name": "Pinecast",
@@ -26487,6 +26468,38 @@
           "itunes_author": "Creedal",
           "website": "https://www.creedalpodcast.com/rosary",
           "description": "Meditate and pray with these simple recordings of the Rosary and Divine Mercy Chaplet.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "name": "SoundCloud",
+      "count": 1,
+      "share": 0.1,
+      "shows": [
+        {
+          "title": "Serena Neel",
+          "id": "spotify:show:1BUr8s70dfCAYDOOvyrBKU",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f53d48f165be3cbac517c8bd2",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "Serena Neel",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:905727934/sounds.rss",
+          "owner_name": "Créartcast",
+          "owner_email": "feeds@soundcloud.com",
+          "itunes_author": "Créartcast",
+          "website": "https://soundcloud.com/in-sisyphe",
+          "description": "Podcast by Créartcast",
           "cadence": null,
           "episode_count": null,
           "last_published": null,
@@ -26611,8 +26624,8 @@
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 26,
-          "share": 52.0,
+          "count": 27,
+          "share": 54.0,
           "shows": [
             {
               "title": "Financial Audit",
@@ -27188,7 +27201,7 @@
                 "Business"
               ],
               "publisher": "PHD Ventures",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -27453,7 +27466,7 @@
             {
               "title": "Animal Spirits Podcast",
               "id": "spotify:show:71siUnIMn0iQY7Kz5BQSqJ",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f1773a0fb66c2615e96dcea52",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ff1edfc561ea4b41b2d9b6591",
               "categories": [
                 "Business"
               ],
@@ -27509,6 +27522,43 @@
               "episode_count": null,
               "last_published": null,
               "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "EverydaySpy Podcast",
+              "id": "spotify:show:2YUT5vQAGdxdsFZDq2830q",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f1f42cb36baf7b12cec6ea440",
+              "categories": [
+                "Business"
+              ],
+              "publisher": "Andrew Bustamante",
+              "chart_move": "DOWN",
+              "host_since": "2026-07-13",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/UMCME4090655970",
+              "owner_name": "Andrew Bustamante",
+              "owner_email": "andrewbustamantemedia@gmail.com",
+              "itunes_author": "Andrew Bustamante",
+              "website": "https://everydayspy.com/",
+              "description": "Hosted by former covert CIA intelligence officers Andrew Bustamante and Jihi Bustamante, the EverydaySpy Podcast gives you practical, powerful spy skills and insights you can use everyday. From parenthood fixes to career shortcuts, business hacks to geopolitical insights, this pod is for you if you…",
+              "cadence": "Daily",
+              "episode_count": 172,
+              "last_published": "2026-07-13",
+              "schedule": {
+                "days": [
+                  5,
+                  2,
+                  4,
+                  3,
+                  4,
+                  3,
+                  3
+                ],
+                "label": "Daily",
+                "eps_year": 365,
+                "trend": "steady"
+              },
               "rss_video": null
             }
           ],
@@ -28164,62 +28214,6 @@
           "rank": 7
         },
         {
-          "name": "Unresolved (Spotify-only)",
-          "count": 2,
-          "share": 4.0,
-          "shows": [
-            {
-              "title": "snorple & jay",
-              "id": "spotify:show:033SKP2kcN7KjjmZ6B72S6",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f3583b9ab418b06bddb1594b9",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "check description for 🥵🌶️",
-              "chart_move": "UP",
-              "host_since": "2026-07-23",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": null,
-              "owner_name": null,
-              "owner_email": null,
-              "itunes_author": null,
-              "website": null,
-              "description": null,
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "snorples MAIN hub",
-              "id": "spotify:show:033VSfNKBWTPRErIEcJ4JF",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ffa8b28d46685fd9146923705",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "you already know",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-08-04",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": null,
-              "owner_name": null,
-              "owner_email": null,
-              "itunes_author": null,
-              "website": null,
-              "description": null,
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
-          "rank": 8
-        },
-        {
           "name": "Acast",
           "count": 1,
           "share": 2.0,
@@ -28262,7 +28256,7 @@
               "rss_video": null
             }
           ],
-          "rank": 9
+          "rank": 8
         },
         {
           "name": "Omny / Triton",
@@ -28307,7 +28301,7 @@
               "rss_video": null
             }
           ],
-          "rank": 10
+          "rank": 9
         },
         {
           "name": "RedCircle",
@@ -28352,7 +28346,7 @@
               "rss_video": null
             }
           ],
-          "rank": 11
+          "rank": 10
         },
         {
           "name": "Transistor",
@@ -28394,6 +28388,38 @@
                 "eps_year": 91,
                 "trend": "steady"
               },
+              "rss_video": null
+            }
+          ],
+          "rank": 11
+        },
+        {
+          "name": "Unresolved (Spotify-only)",
+          "count": 1,
+          "share": 2.0,
+          "shows": [
+            {
+              "title": "snorples MAIN hub",
+              "id": "spotify:show:033VSfNKBWTPRErIEcJ4JF",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ffa8b28d46685fd9146923705",
+              "categories": [
+                "Business"
+              ],
+              "publisher": "you already know",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-08-04",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": null,
+              "owner_name": null,
+              "owner_email": null,
+              "itunes_author": null,
+              "website": null,
+              "description": null,
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
               "rss_video": null
             }
           ],
@@ -30347,7 +30373,7 @@
                 "Education"
               ],
               "publisher": "Rich Roll",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30384,7 +30410,7 @@
                 "Education"
               ],
               "publisher": "Sabrina Zohar",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30606,7 +30632,7 @@
                 "Education"
               ],
               "publisher": "Clutterbug",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30643,7 +30669,7 @@
                 "Education"
               ],
               "publisher": "Absolute Motivation",
-              "chart_move": "DOWN",
+              "chart_move": "UP",
               "host_since": "2026-06-19",
               "prev_host": null,
               "moved_on": null,
@@ -30700,250 +30726,9 @@
           "rank": 1
         },
         {
-          "name": "Art19",
-          "count": 7,
-          "share": 14.0,
-          "shows": [
-            {
-              "title": "IMO with Michelle Obama and Craig Robinson",
-              "id": "spotify:show:71mvGXupfKcmO6jlmOJQTP",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fd15d6bfd417c8c20a0155df2",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Higher Ground",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/hga-imo",
-              "owner_name": "Higher Ground",
-              "owner_email": "podcastdistro@highergroundproductions.com",
-              "itunes_author": "Higher Ground",
-              "website": "https://art19.com/shows/hga-imo",
-              "description": "Michelle Obama and her big brother Craig Robinson bring their unique experiences and candid perspectives to a range of listeners’ personal dilemmas, from the everyday to the existential. Each week, they’re joined by special guests to tackle audience questions with practical advice, relatable anecdot…",
-              "cadence": "Weekly",
-              "episode_count": 98,
-              "last_published": "2026-06-17",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  23,
-                  0,
-                  1,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Wednesdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Mick Unplugged",
-              "id": "spotify:show:2cUp7JRzkVqunYmD2ENe4g",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fbc0376ac50ae60a6195dea77",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Mick Hunt",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/mick-unplugged",
-              "owner_name": "Mick Hunt",
-              "owner_email": "mickh@mickunplugged.com",
-              "itunes_author": "Realm",
-              "website": "https://art19.com/shows/mick-unplugged",
-              "description": "\"Mick Unplugged\" is a transformative podcast that challenges listeners to move beyond the conventional 'Why' and embrace the empowering realm of 'Because.' Hosted by Mick Hunt, the voice of Modern Leadership, this podcast is designed for leaders, doers, and anyone aspiring to create meaningful impac…",
-              "cadence": "~2×/week",
-              "episode_count": 289,
-              "last_published": "2026-06-18",
-              "schedule": {
-                "days": [
-                  8,
-                  0,
-                  0,
-                  16,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "~2×/week · Thursdays",
-                "eps_year": 91,
-                "trend": "slowing"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Daily Stoic",
-              "id": "spotify:show:7fY99FB3bNyn7nEdXCoBeB",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f8488dbb4b623f432a3b6a673",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Daily Stoic | Backyard Ventures",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/the-daily-stoic",
-              "owner_name": "Daily Stoic",
-              "owner_email": "kavan@wearebv.com",
-              "itunes_author": "Daily Stoic | Backyard Ventures",
-              "website": "https://dailystoic.com/podcast/",
-              "description": "For centuries, all sorts of people—generals and politicians, athletes and coaches, writers and leaders—have looked to the teachings of Stoicism to help guide their lives. Each day, author and speaker Ryan Holiday brings you a new lesson about life, inspired by the thoughts and writings of great Stoi…",
-              "cadence": "Daily",
-              "episode_count": 2000,
-              "last_published": "2026-06-27",
-              "schedule": {
-                "days": [
-                  3,
-                  3,
-                  6,
-                  3,
-                  3,
-                  3,
-                  3
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "BEING HER with Margarita Nazarenko",
-              "id": "spotify:show:7D9nPxiPw7gRcXuUwaVDIH",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fbb7f762d14d7de477377b3ff",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Margarita Nazarenko",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/being-her",
-              "owner_name": "Margarita Nazarenko",
-              "owner_email": "margarita.nazarenko@gmail.com",
-              "itunes_author": "Margarita Nazarenko",
-              "website": "https://www.margaritanazarenko.com/",
-              "description": "Welcome to BEING HER with Margarita Nazarenko, where we talk about womanhood, self development and the journey to BECOMING the best version of HER.",
-              "cadence": "Weekly",
-              "episode_count": 171,
-              "last_published": "2026-06-14",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  24
-                ],
-                "label": "Weekly · Sundays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Wellness Cafe",
-              "id": "spotify:show:3fcM9t1YNVh211oSkpxPoJ",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fae39cca8aafb36b6320384e0",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Trinity Tondeleir",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/the-wellness-cafe",
-              "owner_name": "Trinity Tondeleir",
-              "owner_email": "trinitytondeleir@gmail.com",
-              "itunes_author": "Trinity Tondeleir",
-              "website": "https://art19.com/shows/the-wellness-cafe",
-              "description": "Welcome to The Wellness Cafe Podcast. Your host Trinity Tondeleir who you may know from TikTok, Instagram, or Youtube is serving all things wellness, lifestyle, girl-talk and everything in between. Come hangout every Wednesday! For sponsorship inquiries, please email trinitytondeleir@gmail.com",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "The Jordan Harbinger Show",
-              "id": "spotify:show:5RVoEOIACQbBDZnGBJ7Ec2",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f5f639d6be86b5392ebcb4872",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Jordan Harbinger",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.introcast.io:443/1344999619/www.podcastone.com/podcast?categoryID2=1237",
-              "owner_name": "Jordan Harbinger",
-              "owner_email": "jordan@jordanharbinger.com",
-              "itunes_author": "Jordan Harbinger",
-              "website": "https://art19.com/shows/the-jordan-harbinger-show",
-              "description": "(Apple's Best of 2018) In-depth conversations with people at the top of their game. Jordan Harbinger unpacks guests' wisdom into practical nuggets you can use to impact your work, life, and relationships. Learn from leaders (Ray Dalio, Simon Sinek, Mark Cuban), entertainers (Moby, Tip \"T.I.\" Harris,…",
-              "cadence": "~4×/week",
-              "episode_count": 1352,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  0,
-                  7,
-                  0,
-                  4,
-                  7,
-                  0,
-                  6
-                ],
-                "label": "~4×/week",
-                "eps_year": 182,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "RealLifeLore",
-              "id": "spotify:show:06q83T0qqtzBnvg9sU47Qu",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f47f63fab00a2f5b97d28a89d",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Jellysmack",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-21",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/genesis",
-              "owner_name": "LowSpecGamer",
-              "owner_email": "alex@lowspecgamer.tv",
-              "itunes_author": "LowSpecGamer",
-              "website": "https://art19.com/shows/genesis",
-              "description": "Genesis is a show all about your favorite YouTubers' origin stories. Each episode, Alex the LowSpecGamer interviews a fellow creator about how they got started on YouTube, what interests lead them there, and what they see as the future of their videos.",
-              "cadence": "Biweekly",
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
-          "rank": 2
-        },
-        {
           "name": "Spotify/Anchor",
-          "count": 7,
-          "share": 14.0,
+          "count": 8,
+          "share": 16.0,
           "shows": [
             {
               "title": "This Is Iron Within",
@@ -31112,7 +30897,7 @@
                 "Education"
               ],
               "publisher": "Mario Alonso Puig",
-              "chart_move": "DOWN",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31164,14 +30949,279 @@
                 "trend": "steady"
               },
               "rss_video": null
+            },
+            {
+              "title": "Bedros Keuilian Podcast Show",
+              "id": "spotify:show:0z0lwiTEiYmk2fkhDkRqPV",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f97b939fc8090aa5fa612166d",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Bedros Keuilian",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/db43dab0/podcast/rss",
+              "owner_name": "Bedros Keuilian",
+              "owner_email": "media@keuilian.com",
+              "itunes_author": "Bedros Keuilian",
+              "website": "http://empirepodcast.libsyn.com/site",
+              "description": "The official podcast of American entrepreneur Bedros Keuilian. A show that’s unapologetically unfiltered that will make you think, make you laugh and inspire you to become an even better human.",
+              "cadence": "Weekly",
+              "episode_count": 403,
+              "last_published": "2026-06-23",
+              "schedule": null,
+              "rss_video": null
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Art19",
+          "count": 7,
+          "share": 14.0,
+          "shows": [
+            {
+              "title": "IMO with Michelle Obama and Craig Robinson",
+              "id": "spotify:show:71mvGXupfKcmO6jlmOJQTP",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fd15d6bfd417c8c20a0155df2",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Higher Ground",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.art19.com/hga-imo",
+              "owner_name": "Higher Ground",
+              "owner_email": "podcastdistro@highergroundproductions.com",
+              "itunes_author": "Higher Ground",
+              "website": "https://art19.com/shows/hga-imo",
+              "description": "Michelle Obama and her big brother Craig Robinson bring their unique experiences and candid perspectives to a range of listeners’ personal dilemmas, from the everyday to the existential. Each week, they’re joined by special guests to tackle audience questions with practical advice, relatable anecdot…",
+              "cadence": "Weekly",
+              "episode_count": 98,
+              "last_published": "2026-06-17",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  23,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Wednesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Mick Unplugged",
+              "id": "spotify:show:2cUp7JRzkVqunYmD2ENe4g",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fbc0376ac50ae60a6195dea77",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Mick Hunt",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.art19.com/mick-unplugged",
+              "owner_name": "Mick Hunt",
+              "owner_email": "mickh@mickunplugged.com",
+              "itunes_author": "Realm",
+              "website": "https://art19.com/shows/mick-unplugged",
+              "description": "\"Mick Unplugged\" is a transformative podcast that challenges listeners to move beyond the conventional 'Why' and embrace the empowering realm of 'Because.' Hosted by Mick Hunt, the voice of Modern Leadership, this podcast is designed for leaders, doers, and anyone aspiring to create meaningful impac…",
+              "cadence": "~2×/week",
+              "episode_count": 289,
+              "last_published": "2026-06-18",
+              "schedule": {
+                "days": [
+                  8,
+                  0,
+                  0,
+                  16,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "~2×/week · Thursdays",
+                "eps_year": 91,
+                "trend": "slowing"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Daily Stoic",
+              "id": "spotify:show:7fY99FB3bNyn7nEdXCoBeB",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f8488dbb4b623f432a3b6a673",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Daily Stoic | Backyard Ventures",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.art19.com/the-daily-stoic",
+              "owner_name": "Daily Stoic",
+              "owner_email": "kavan@wearebv.com",
+              "itunes_author": "Daily Stoic | Backyard Ventures",
+              "website": "https://dailystoic.com/podcast/",
+              "description": "For centuries, all sorts of people—generals and politicians, athletes and coaches, writers and leaders—have looked to the teachings of Stoicism to help guide their lives. Each day, author and speaker Ryan Holiday brings you a new lesson about life, inspired by the thoughts and writings of great Stoi…",
+              "cadence": "Daily",
+              "episode_count": 2000,
+              "last_published": "2026-06-27",
+              "schedule": {
+                "days": [
+                  3,
+                  3,
+                  6,
+                  3,
+                  3,
+                  3,
+                  3
+                ],
+                "label": "Daily",
+                "eps_year": 365,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "BEING HER with Margarita Nazarenko",
+              "id": "spotify:show:7D9nPxiPw7gRcXuUwaVDIH",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fbb7f762d14d7de477377b3ff",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Margarita Nazarenko",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.art19.com/being-her",
+              "owner_name": "Margarita Nazarenko",
+              "owner_email": "margarita.nazarenko@gmail.com",
+              "itunes_author": "Margarita Nazarenko",
+              "website": "https://www.margaritanazarenko.com/",
+              "description": "Welcome to BEING HER with Margarita Nazarenko, where we talk about womanhood, self development and the journey to BECOMING the best version of HER.",
+              "cadence": "Weekly",
+              "episode_count": 171,
+              "last_published": "2026-06-14",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  24
+                ],
+                "label": "Weekly · Sundays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Wellness Cafe",
+              "id": "spotify:show:3fcM9t1YNVh211oSkpxPoJ",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fae39cca8aafb36b6320384e0",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Trinity Tondeleir",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.art19.com/the-wellness-cafe",
+              "owner_name": "Trinity Tondeleir",
+              "owner_email": "trinitytondeleir@gmail.com",
+              "itunes_author": "Trinity Tondeleir",
+              "website": "https://art19.com/shows/the-wellness-cafe",
+              "description": "Welcome to The Wellness Cafe Podcast. Your host Trinity Tondeleir who you may know from TikTok, Instagram, or Youtube is serving all things wellness, lifestyle, girl-talk and everything in between. Come hangout every Wednesday! For sponsorship inquiries, please email trinitytondeleir@gmail.com",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "The Jordan Harbinger Show",
+              "id": "spotify:show:5RVoEOIACQbBDZnGBJ7Ec2",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f5f639d6be86b5392ebcb4872",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Jordan Harbinger",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.introcast.io:443/1344999619/www.podcastone.com/podcast?categoryID2=1237",
+              "owner_name": "Jordan Harbinger",
+              "owner_email": "jordan@jordanharbinger.com",
+              "itunes_author": "Jordan Harbinger",
+              "website": "https://art19.com/shows/the-jordan-harbinger-show",
+              "description": "(Apple's Best of 2018) In-depth conversations with people at the top of their game. Jordan Harbinger unpacks guests' wisdom into practical nuggets you can use to impact your work, life, and relationships. Learn from leaders (Ray Dalio, Simon Sinek, Mark Cuban), entertainers (Moby, Tip \"T.I.\" Harris,…",
+              "cadence": "~4×/week",
+              "episode_count": 1352,
+              "last_published": "2026-06-26",
+              "schedule": {
+                "days": [
+                  0,
+                  7,
+                  0,
+                  4,
+                  7,
+                  0,
+                  6
+                ],
+                "label": "~4×/week",
+                "eps_year": 182,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "RealLifeLore",
+              "id": "spotify:show:06q83T0qqtzBnvg9sU47Qu",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f47f63fab00a2f5b97d28a89d",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Jellysmack",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-21",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.art19.com/genesis",
+              "owner_name": "LowSpecGamer",
+              "owner_email": "alex@lowspecgamer.tv",
+              "itunes_author": "LowSpecGamer",
+              "website": "https://art19.com/shows/genesis",
+              "description": "Genesis is a show all about your favorite YouTubers' origin stories. Each episode, Alex the LowSpecGamer interviews a fellow creator about how they got started on YouTube, what interests lead them there, and what they see as the future of their videos.",
+              "cadence": "Biweekly",
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
             }
           ],
           "rank": 3
         },
         {
           "name": "Acast",
-          "count": 4,
-          "share": 8.0,
+          "count": 5,
+          "share": 10.0,
           "shows": [
             {
               "title": "Motivation Daily by Motiversity",
@@ -31242,7 +31292,7 @@
                 "Education"
               ],
               "publisher": "Coffee Break Languages",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31307,6 +31357,43 @@
                 "trend": "steady"
               },
               "rss_video": null
+            },
+            {
+              "title": "How to Be a Better Human",
+              "id": "spotify:show:5KuVFavG72i7fNOZ9tEX3a",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f0cb9f8c550bbadcdf5617bd2",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "TED",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.acast.com/public/shows/67572b3b2dd88df13220eb3b",
+              "owner_name": "TED",
+              "owner_email": "podcasts@ted.com",
+              "itunes_author": "TED",
+              "website": "https://play.prx.org/listen?uf=https%3A%2F%2Ffeeds.feedburner.com%2FHowToBeABetterHuman",
+              "description": "How To Be A Better Human isn’t your average self improvement podcast. Each week join Chris Duffy in conversation with guests and past speakers as they uncover sharp insights and give clear takeaways on how YOU can be a better human. From your work to your home and your head to your heart, How To Be…",
+              "cadence": "Weekly",
+              "episode_count": 391,
+              "last_published": "2026-06-22",
+              "schedule": {
+                "days": [
+                  23,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Mondays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
             }
           ],
           "rank": 4
@@ -31343,12 +31430,12 @@
             {
               "title": "Learn Powerful Meditation Techniques",
               "id": "spotify:show:2hRIciAAriUDVrvhi0NypS",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f66f39c90fa72a87b6490b04e",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f738d608ac95d238dd6f2e4a7",
               "categories": [
                 "Education"
               ],
-              "publisher": "Meditation Life Skills Podcast",
-              "chart_move": "DOWN",
+              "publisher": "Meditation Life Skills",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31578,86 +31665,6 @@
           "rank": 7
         },
         {
-          "name": "Unresolved (Spotify-only)",
-          "count": 3,
-          "share": 6.0,
-          "shows": [
-            {
-              "title": "hxsain",
-              "id": "spotify:show:6M2rLzaArpM9X6Ctxx0K0u",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fdf8c22018436e10a6912ae71",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "hxsain",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": null,
-              "owner_name": null,
-              "owner_email": null,
-              "itunes_author": null,
-              "website": null,
-              "description": null,
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "Sandeep Swadia ",
-              "id": "spotify:show:033nSSACs3S4g5NUIrXnHx",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ffc623b3e7980fb32346c484f",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "Sandeep Swadia",
-              "chart_move": "DOWN",
-              "host_since": "2026-07-07",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": null,
-              "owner_name": null,
-              "owner_email": null,
-              "itunes_author": null,
-              "website": null,
-              "description": null,
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "Pluxsh is Back",
-              "id": "spotify:show:033ZYCvU1oOlzGVTBM6e3g",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f8e9554d949ac7589744908d9",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "notpluxsh",
-              "chart_move": "NEW",
-              "host_since": "2026-08-07",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": null,
-              "owner_name": null,
-              "owner_email": null,
-              "itunes_author": null,
-              "website": null,
-              "description": null,
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
-          "rank": 8
-        },
-        {
           "name": "Libsyn",
           "count": 2,
           "share": 4.0,
@@ -31724,7 +31731,7 @@
               "rss_video": null
             }
           ],
-          "rank": 9
+          "rank": 8
         },
         {
           "name": "Transistor",
@@ -31780,6 +31787,62 @@
               "rss_video": null
             }
           ],
+          "rank": 9
+        },
+        {
+          "name": "Unresolved (Spotify-only)",
+          "count": 2,
+          "share": 4.0,
+          "shows": [
+            {
+              "title": "hxsain",
+              "id": "spotify:show:6M2rLzaArpM9X6Ctxx0K0u",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fdf8c22018436e10a6912ae71",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "hxsain",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": null,
+              "owner_name": null,
+              "owner_email": null,
+              "itunes_author": null,
+              "website": null,
+              "description": null,
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Sandeep Swadia ",
+              "id": "spotify:show:033nSSACs3S4g5NUIrXnHx",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ffc623b3e7980fb32346c484f",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Sandeep Swadia",
+              "chart_move": "DOWN",
+              "host_since": "2026-07-07",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": null,
+              "owner_name": null,
+              "owner_email": null,
+              "itunes_author": null,
+              "website": null,
+              "description": null,
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            }
+          ],
           "rank": 10
         },
         {
@@ -31795,7 +31858,7 @@
                 "Education"
               ],
               "publisher": "Aware and Aggravated",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31840,7 +31903,7 @@
                 "Education"
               ],
               "publisher": "Everything Professor",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-27",
               "prev_host": null,
               "moved_on": null,
@@ -31858,51 +31921,6 @@
             }
           ],
           "rank": 12
-        },
-        {
-          "name": "SoundCloud",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "hollowed's home",
-              "id": "spotify:show:0341qCJGSWa4f1yVRaihtE",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f81e5e7d1d1506bafa7d85834",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "hollowed 2",
-              "chart_move": "UP",
-              "host_since": "2026-08-07",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:262321868/sounds.rss",
-              "owner_name": "#SleepyHollow Podcast",
-              "owner_email": "feeds@soundcloud.com",
-              "itunes_author": "The Commish, The PM and Erin BRO-kavich",
-              "website": "https://soundcloud.com/sleepyhollow-podcast",
-              "description": "Home of the #SleepyHollow Fantasy Football Podcast",
-              "cadence": "Occasional",
-              "episode_count": null,
-              "last_published": "2018-09-06",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  0,
-                  1,
-                  0,
-                  2,
-                  0
-                ],
-                "label": "Occasional · Saturdays",
-                "eps_year": 1,
-                "trend": null
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 13
         }
       ]
     },
@@ -32081,43 +32099,6 @@
               "episode_count": null,
               "last_published": null,
               "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "MiuMiu's cupcakes",
-              "id": "spotify:show:033uiWvuqjrpg1Mecm2FBD",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f023aeca159f1f91fe948ca55",
-              "categories": [
-                "Fiction"
-              ],
-              "publisher": "MiuMiu",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-07-13",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/f210fafc/podcast/rss",
-              "owner_name": "BubbleCast Media",
-              "owner_email": "info@montanaavemedia.com",
-              "itunes_author": "BubbleCast Media",
-              "website": "https://podcasters.spotify.com/pod/show/bubblecast-media7",
-              "description": "Velkommen til Haute Mess din guide til alt som omhandler mote, stil og fashion tips. Jeg er din vert, Marianne Jemtegård, og hver torsdag vil vi utforske de nyeste trendene, jeg deler mine beste stylingtips og diskuterer alt fra runway til street style. Enten du er en moteentusiast eller bare ønsker…",
-              "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": "2024-06-21",
-              "schedule": {
-                "days": [
-                  1,
-                  0,
-                  0,
-                  15,
-                  4,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Thursdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
               "rss_video": null
             },
             {
@@ -32314,6 +32295,30 @@
                 "eps_year": 122,
                 "trend": "steady"
               },
+              "rss_video": null
+            },
+            {
+              "title": "Relatos de Terror del Gato",
+              "id": "spotify:show:7x0Xuiurq2dIGZuGLkaYVa",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f55ad1510ce86b02fb844f856",
+              "categories": [
+                "Fiction"
+              ],
+              "publisher": "Gato studios",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/1094a4a98/podcast/rss",
+              "owner_name": "Gato studios",
+              "owner_email": "tusrelatosdelgato@gmail.com",
+              "itunes_author": "Gato studios",
+              "website": "https://www.spreaker.com/podcast/relatos-de-terror-del-gato--5094922",
+              "description": "en este podcast seras testigo de algunos testimonios reales de la audiencia de los relatos del gato relacionados con apariciones malditas de entidades del mas allá. aquí los relatos y leyendas de terror cobran vida, mas vale que te pongas a rezar por que en este rincón, la curiosidad te llevara al m…",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
               "rss_video": null
             }
           ],
@@ -45444,10 +45449,23 @@
               "itunes_author": "Exactly Right and iHeartPodcasts",
               "website": "https://www.exactlyrightmedia.com/",
               "description": "This podcast might not actually kill you, but Erin Welsh and Erin Allmann Updyke cover so many things that can. In each episode, they tackle a different topic, teaching listeners about the biology, history, and epidemiology of a different disease or medical mystery. They do the scientific research,…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
+              "cadence": "Weekly",
+              "episode_count": 297,
+              "last_published": "2026-08-04",
+              "schedule": {
+                "days": [
+                  0,
+                  24,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Tuesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
               "rss_video": null
             }
           ],
@@ -54508,11 +54526,11 @@
             {
               "title": "ASMR!!",
               "id": "spotify:show:4EU7FAb4n2mKycLh0ndWIF",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f86496e0b710b727f7f7d25c8",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f5fdca3293dc5883203dd93a0",
               "categories": [
                 "TV & Film"
               ],
-              "publisher": "🫀🍷",
+              "publisher": "🗝",
               "chart_move": "UP",
               "host_since": "2026-08-07",
               "prev_host": null,
