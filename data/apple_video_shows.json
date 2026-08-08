@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-07",
+  "generated": "2026-08-08",
   "shows": [
     {
       "itunes_id": "1358187061",
       "title": "The Athletic NBA Daily",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/8f/77/628f77e5-001f-2a5f-593e-4d94b8a6855d/mza_16506403264186420502.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/8f/77/628f77e5-001f-2a5f-593e-4d94b8a6855d/mza_16506403264186420502.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/6818c192eb737caf8cadd833",
       "host": "Acast",
       "episode_count": 2001,
       "last_published": "2026-08-05",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "254078311",
@@ -37,8 +37,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/04/ea/53/04ea5351-9a69-6650-ac69-d6351bfd95da/mza_16931716041146167328.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/69545da8cb029db7575279fc",
       "host": "Acast",
-      "episode_count": 1753,
-      "last_published": "2026-08-06",
+      "episode_count": 1754,
+      "last_published": "2026-08-07",
       "on_chart": true
     },
     {
@@ -47,7 +47,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/business-game-changers",
       "host": "Art19",
-      "episode_count": 1463,
+      "episode_count": 1462,
       "last_published": "2026-08-04",
       "on_chart": false
     },
@@ -57,8 +57,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d1/ba/84/d1ba84c6-ee07-40b7-9479-32da0b4dcab0/mza_3543043232373289137.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/6114541c545d640012cfb625",
       "host": "Acast",
-      "episode_count": 1333,
-      "last_published": "2026-08-05",
+      "episode_count": 1334,
+      "last_published": "2026-08-06",
       "on_chart": true
     },
     {
@@ -104,12 +104,12 @@
     {
       "itunes_id": "1254720112",
       "title": "The Game with Alex Hormozi",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/bc/14/34bc1439-eaad-6e89-ebb4-02efde08cb10/mza_6594351863031402438.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/bc/14/34bc1439-eaad-6e89-ebb4-02efde08cb10/mza_6594351863031402438.jpg/170x170bb.png",
       "feed_url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
       "host": "Flightcast",
       "episode_count": 1141,
       "last_published": "2026-08-07",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1526634903",
@@ -127,7 +127,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/ab/5d/80ab5d28-8082-7d61-6de1-a6e1c4b9c840/mza_734485199881216612.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6818a1a4eb737caf8ca41879",
       "host": "Acast",
-      "episode_count": 1080,
+      "episode_count": 1079,
       "last_published": "2026-08-06",
       "on_chart": false
     },
@@ -137,8 +137,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/d6/e4/aad6e450-1ad5-4730-507d-5404244714ec/mza_4221339417551533538.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/zach-sang-show",
       "host": "Art19",
-      "episode_count": 1062,
-      "last_published": "2026-08-03",
+      "episode_count": 1064,
+      "last_published": "2026-08-07",
       "on_chart": true
     },
     {
@@ -197,7 +197,17 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6c/94/31/6c943113-5484-a41d-5cb7-bf606ff289ef/mza_6401313720037127611.jpeg/170x170bb.png",
       "feed_url": "https://access.acast.com/rss/f2925f7a-eb08-471a-9958-387cb5ee6353",
       "host": "Acast",
-      "episode_count": 752,
+      "episode_count": 754,
+      "last_published": "2026-08-11",
+      "on_chart": true
+    },
+    {
+      "itunes_id": "1416903369",
+      "title": "Se Regalan Dudas",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/74/d7/a574d77a-d195-db89-ef54-1e646f5865f4/mza_16463278511390909746.jpeg/170x170bb.png",
+      "feed_url": "https://feeds.acast.com/public/shows/617c0d208afe370012ddf145",
+      "host": "Acast",
+      "episode_count": 680,
       "last_published": "2026-08-06",
       "on_chart": true
     },
@@ -274,12 +284,12 @@
     {
       "itunes_id": "1507190937",
       "title": "Pop Apologists",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/99/66/db99663c-3801-a4a4-419b-610bf43d2dd1/mza_5542773936536259542.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/99/66/db99663c-3801-a4a4-419b-610bf43d2dd1/mza_5542773936536259542.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/pop-apologists",
       "host": "Art19",
       "episode_count": 518,
       "last_published": "2026-08-05",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1525795747",
@@ -362,6 +372,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1494989268",
+      "title": "Think Fast Talk Smart: Communication Techniques",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/a3/48/0ea34886-96c0-8299-e16c-d039cfaedc78/mza_5307345217675863813.jpg/170x170bb.png",
+      "feed_url": "https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques",
+      "host": "Transistor",
+      "episode_count": 357,
+      "last_published": "2026-08-10",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1507621076",
       "title": "Tech Won't Save Us",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/d7/70/13d770a9-15da-2cfb-1adf-eb616a8df1de/mza_7147558842617286242.jpg/170x170bb.png",
@@ -369,16 +389,6 @@
       "host": "Buzzsprout",
       "episode_count": 356,
       "last_published": "2026-07-30",
-      "on_chart": true
-    },
-    {
-      "itunes_id": "1494989268",
-      "title": "Think Fast Talk Smart: Communication Techniques",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/a3/48/0ea34886-96c0-8299-e16c-d039cfaedc78/mza_5307345217675863813.jpg/170x170bb.png",
-      "feed_url": "https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques",
-      "host": "Transistor",
-      "episode_count": 355,
-      "last_published": "2026-08-06",
       "on_chart": true
     },
     {
@@ -407,8 +417,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0a/29/b10a293d-31bf-0e82-dd54-50452336f4c1/mza_908601013238146456.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/780a3042-864b-40fa-ae09-4557aec621c3",
       "host": "Acast",
-      "episode_count": 335,
-      "last_published": "2026-08-04",
+      "episode_count": 336,
+      "last_published": "2026-08-07",
       "on_chart": true
     },
     {
@@ -438,7 +448,7 @@
       "feed_url": "https://rss.libsyn.com/shows/624860/destinations/5500155.xml",
       "host": "Libsyn",
       "episode_count": 300,
-      "last_published": "2026-08-03",
+      "last_published": "2026-08-05",
       "on_chart": true
     },
     {
@@ -524,12 +534,12 @@
     {
       "itunes_id": "1704206163",
       "title": "Rap Life Radio with Ebro Darden",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/170x170bb.png",
-      "feed_url": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/600x600bb.jpg",
+      "feed_url": "",
       "host": "Unknown",
       "episode_count": 223,
       "last_published": "2026-08-05",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1569049585",
@@ -557,7 +567,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/e6/8e/ade68ebd-a384-06bc-ce9b-9467d8f3a146/mza_12700451613655739902.jpg/170x170bb.png",
       "feed_url": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg",
       "host": "Fountain",
-      "episode_count": 195,
+      "episode_count": 196,
       "last_published": "2026-08-05",
       "on_chart": true
     },
@@ -654,12 +664,12 @@
     {
       "itunes_id": "1745170415",
       "title": "Lemme Say This",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/89/0c/cc890c00-c6c3-66a3-9205-a8390c5ac0aa/mza_12077434506205819624.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/89/0c/cc890c00-c6c3-66a3-9205-a8390c5ac0aa/mza_12077434506205819624.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/lemme-say",
       "host": "Art19",
       "episode_count": 91,
       "last_published": "2026-07-30",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1650419102",
@@ -694,12 +704,12 @@
     {
       "itunes_id": "1558889546",
       "title": "Smart Talks with IBM",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/41/9e/b4419e17-b3d7-a578-7bf6-d1118d27a19c/mza_6209722495607333664.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/41/9e/b4419e17-b3d7-a578-7bf6-d1118d27a19c/mza_6209722495607333664.jpg/600x600bb.jpg",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/85547dfc-49bd-4e63-a6cc-ae32006cd832/6d9e2ef8-e4e9-45e9-9e13-ae32006cd844/podcast.rss",
       "host": "Omny / Triton",
       "episode_count": 56,
       "last_published": "2026-06-30",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1785985876",
@@ -788,7 +798,7 @@
       "feed_url": "https://feeds.captivate.fm/the-zooquarium-podcast/",
       "host": "Captivate",
       "episode_count": 30,
-      "last_published": "2026-07-28",
+      "last_published": "2026-08-04",
       "on_chart": true
     },
     {
@@ -834,12 +844,12 @@
     {
       "itunes_id": "1877266132",
       "title": "The Person Who Believed In Me",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/60/15/c3601517-0586-cd0c-b08c-4ea95727da44/mza_8768441501299510340.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/60/15/c3601517-0586-cd0c-b08c-4ea95727da44/mza_8768441501299510340.jpg/600x600bb.jpg",
       "feed_url": "https://rss2.flightcast.com/au8xi1zc2nsj66h2yf2oyrkj.xml",
       "host": "Flightcast",
       "episode_count": 25,
       "last_published": "2026-08-03",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1896788254",
@@ -934,12 +944,12 @@
     {
       "itunes_id": "553604212",
       "title": "MacBreak Weekly (Video)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/10/76/5a10763f-f1b2-bfb1-b1b8-0b7a07605c80/mza_15465470930174652847.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/10/76/5a10763f-f1b2-bfb1-b1b8-0b7a07605c80/mza_15465470930174652847.jpg/170x170bb.png",
       "feed_url": "https://feeds.twit.tv/mbw_video_hd.xml",
       "host": "TWiT",
       "episode_count": 10,
       "last_published": "2026-08-04",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1896466787",
