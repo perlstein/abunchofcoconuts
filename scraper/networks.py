@@ -63,10 +63,10 @@ UA = {"User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
 
 WORKERS = 8             # feed fetches in flight; networks are small, so this is
                         # plenty and stays polite to each host.
-MAX_CHANNEL_SHOWS = 40   # keep big channels (iHeart, NPR, ESPN) representative
-                         # and the scan bounded; top-listed shows are kept.
+MAX_CHANNEL_SHOWS = 30   # per channel id; keeps big channels representative and the
+                         # scan bounded. Top-listed shows are kept.
 SEARCH_LIMIT = 200      # iTunes search results pulled per name-search network.
-PER_NETWORK = 40        # cap on name-search shows kept per network.
+PER_NETWORK = 30        # cap on name-search shows kept per network.
 
 # A show link on an Apple page: /podcast/<slug>/id<digits> (episode links carry
 # the same show adamId, then ?i=...). Captures the show adamId.
@@ -108,9 +108,15 @@ def _tokens(name: str) -> list:
 
 
 def _artist_matches(artist: str, tokens: list) -> bool:
-    """True when every distinctive token appears in the show's iTunes author."""
+    """True when every distinctive token appears in the show's iTunes author.
+
+    Matched on word boundaries, not raw substrings: a short network token would
+    otherwise swallow unrelated shows ("Ozen" inside "Frozen", "AMP" inside
+    "Champion", "PRX" inside a longer word). Tokens keep their internal
+    punctuation escaped, so "gas digital" or "a24" still match literally."""
     a = (artist or "").lower()
-    return bool(tokens) and all(t in a for t in tokens)
+    return bool(tokens) and all(
+        re.search(rf"\b{re.escape(t)}\b", a) for t in tokens)
 
 
 def itunes_search(term: str) -> list:
