@@ -122,7 +122,17 @@ def _artist_matches(artist: str, tokens: list) -> bool:
 def itunes_search(term: str) -> list:
     """Name-search a network via the iTunes Search API's artistTerm attribute,
     keeping only results whose author credits the network. Returns show metas
-    (same shape as itunes_meta), best-effort: any failure yields []."""
+    (same shape as itunes_meta), best-effort: any failure yields [].
+
+    A term prefixed with '=' switches to STRICT mode: the show's iTunes author
+    must equal the term exactly (case/whitespace-insensitive) instead of merely
+    containing its tokens. Needed for networks whose name reduces to one common
+    word -- loose matching on "DAX", "AMP", "Exchange" or "Marketing" pulls in
+    dozens of unrelated shows that merely share the word."""
+    strict = term.startswith("=")
+    if strict:
+        term = term[1:].strip()
+        want = term.lower()
     tokens = _tokens(term)
     try:
         r = requests.get(SEARCH_API, params={
@@ -136,7 +146,12 @@ def itunes_search(term: str) -> list:
     out = []
     for x in res:
         feed = x.get("feedUrl")
-        if not feed or not _artist_matches(x.get("artistName"), tokens):
+        if not feed:
+            continue
+        if strict:
+            if (x.get("artistName") or "").strip().lower() != want:
+                continue
+        elif not _artist_matches(x.get("artistName"), tokens):
             continue
         last = x.get("releaseDate")
         out.append({

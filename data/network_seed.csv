@@ -13,7 +13,10 @@
 #   search      iTunes name-search term (artistTerm); keeps only shows whose
 #               author credits the network. Used for networks with no Apple
 #               channel. If channel_id/extra_ids/search are all blank, the label
-#               is used as the search term.
+#               is used as the search term. Prefix with '=' for STRICT mode:
+#               the show's iTunes author must equal the term exactly. Use this
+#               when a network name reduces to one common word (DAX, AMP,
+#               Exchange, Marketing) or loose matching pulls in unrelated shows.
 #
 # Feed URLs + hosts are filled in by networks.py, which needs outbound network
 # access, so it runs in GitHub Actions (.github/workflows/networks.yml).
@@ -142,14 +145,14 @@ GaS Digital Network,,,https://gasdigitalnetwork.com/,GaS Digital
 All City Network,,,https://alwayscurious.com/,All City
 Crowd Network,,,https://www.crowdnetwork.co.uk/,Crowd Network
 PRX,,,https://www.prx.org/,PRX
-Rumble,,,https://rumble.com/,Rumble
+Rumble,,,https://rumble.com/,=Rumble
 KC Sports Network,,,,KC Sports
-Marketing Podcast Network,,,https://marketingpodcasts.net/shows/,Marketing Podcast Network
-DAX,,,https://dax.global/,DAX
+Marketing Podcast Network,,,https://marketingpodcasts.net/shows/,=Marketing Podcast Network
+DAX,,,https://dax.global/,=DAX
 Ozen.fm,,,https://www.ozen.fm/,Ozen
 JAMX,,,https://jamx.ai/,JAMX
-AMP Sales,,,,AMP
-The Podcast Exchange,,,https://thepodcastexchange.ca/,Podcast Exchange
+AMP Sales,,,,=AMP
+The Podcast Exchange,,,https://thepodcastexchange.ca/,=The Podcast Exchange
 Adelicious,,,https://adelicious.fm/,Adelicious
 Amplitude Media Partners,,,https://amplitudemediapartners.com/,Amplitude
 Huis Nederland BV,,,,Huis Nederland
