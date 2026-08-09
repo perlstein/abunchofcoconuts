@@ -35,6 +35,18 @@ jobs:
           cache-dependency-path: scraper/requirements.txt
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
+      - name: Pin pasted show titles onto their networks (if any)
+        # data/pinned_titles.csv holds "network,title" rows for rep networks whose
+        # rosters can't be found by name. Resolves each title to an Apple show id
+        # and merges it into that network's extra_ids, so the resolve step below
+        # picks up real feeds. No-op when the file is absent.
+        continue-on-error: true
+        run: |
+          if [ -f data/pinned_titles.csv ]; then
+            python scraper/pin_titles.py --write
+          else
+            echo "no data/pinned_titles.csv; skipping"
+          fi
       - name: Resolve tracked networks (seed -> feeds + host breakdown)
         env:
           NETWORKS_ONLY: ${{ github.event.inputs.only }}
@@ -43,7 +55,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/network_feeds.csv data/networks.json
+          git add data/network_feeds.csv data/networks.json data/network_seed.csv
           if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "Networks resolve: $(date -u +%Y-%m-%d)"
           for i in 1 2 3 4 5; do
