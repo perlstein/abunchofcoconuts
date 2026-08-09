@@ -189,8 +189,16 @@ def load_seed():
             continue
         ids = [i.strip() for i in extra_ids.split(";") if i.strip().isdigit()]
         channel_ids = [c.strip() for c in channel.split(";") if c.strip().isdigit()]
+        # A search of "-" means: do NOT auto-resolve this network by name. Used
+        # for ad-rep networks whose name collides with unrelated podcasters
+        # (an "AMP" or "DAX" that is some individual's Apple author name), where
+        # even a strict match returns the wrong shows. These resolve only from a
+        # pinned EXPLICIT_FEEDS roster, and otherwise report 0 -- which is the
+        # honest answer, not a roster of shows that aren't theirs.
+        if search == "-":
+            search = ""
         # Fall back to the label as the search term only when nothing else is given.
-        if not search and not channel_ids and not ids:
+        elif not search and not channel_ids and not ids:
             search = label
         out.append({
             "label": label,

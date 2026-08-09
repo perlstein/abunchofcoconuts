@@ -17,6 +17,7 @@
 #               the show's iTunes author must equal the term exactly. Use this
 #               when a network name reduces to one common word (DAX, AMP,
 #               Exchange, Marketing) or loose matching pulls in unrelated shows.
+#               Use '-' to disable auto-resolution entirely (pinned roster only).
 #
 # Feed URLs + hosts are filled in by networks.py, which needs outbound network
 # access, so it runs in GitHub Actions (.github/workflows/networks.yml).
@@ -148,10 +149,10 @@ PRX,,,https://www.prx.org/,PRX
 Rumble,,,https://rumble.com/,=Rumble
 KC Sports Network,,,,KC Sports
 Marketing Podcast Network,,,https://marketingpodcasts.net/shows/,=Marketing Podcast Network
-DAX,,,https://dax.global/,=DAX
+DAX,,,https://dax.global/,-
 Ozen.fm,,,https://www.ozen.fm/,Ozen
 JAMX,,,https://jamx.ai/,JAMX
-AMP Sales,,,,=AMP
+AMP Sales,,,,-
 The Podcast Exchange,,,https://thepodcastexchange.ca/,=The Podcast Exchange
 Adelicious,,,https://adelicious.fm/,Adelicious
 Amplitude Media Partners,,,https://amplitudemediapartners.com/,Amplitude
