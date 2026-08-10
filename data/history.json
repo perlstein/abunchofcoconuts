@@ -12989,18 +12989,18 @@
     },
     {
       "date": "2026-08-10",
-      "total_shows": 1707,
+      "total_shows": 1709,
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 444,
-          "share": 26.0,
+          "count": 455,
+          "share": 26.6,
           "rank": 1
         },
         {
           "name": "Simplecast",
-          "count": 208,
-          "share": 12.2,
+          "count": 204,
+          "share": 11.9,
           "rank": 2
         },
         {
@@ -13011,74 +13011,74 @@
         },
         {
           "name": "Libsyn",
-          "count": 125,
-          "share": 7.3,
+          "count": 126,
+          "share": 7.4,
           "rank": 4
         },
         {
           "name": "Art19",
-          "count": 121,
-          "share": 7.1,
+          "count": 116,
+          "share": 6.8,
           "rank": 5
         },
         {
           "name": "Acast",
-          "count": 98,
-          "share": 5.7,
+          "count": 100,
+          "share": 5.9,
           "rank": 6
         },
         {
           "name": "Spotify/Anchor",
-          "count": 75,
-          "share": 4.4,
+          "count": 77,
+          "share": 4.5,
           "rank": 7
         },
         {
-          "name": "Audioboom",
-          "count": 58,
-          "share": 3.4,
+          "name": "Buzzsprout",
+          "count": 60,
+          "share": 3.5,
           "rank": 8
         },
         {
-          "name": "Buzzsprout",
-          "count": 56,
-          "share": 3.3,
+          "name": "Audioboom",
+          "count": 53,
+          "share": 3.1,
           "rank": 9
         },
         {
           "name": "Podbean",
-          "count": 48,
-          "share": 2.8,
+          "count": 49,
+          "share": 2.9,
           "rank": 10
         },
         {
           "name": "AmperWave (Audacy)",
-          "count": 39,
-          "share": 2.3,
+          "count": 37,
+          "share": 2.2,
           "rank": 11
         },
         {
           "name": "Other/Self-Hosted",
-          "count": 36,
-          "share": 2.1,
+          "count": 35,
+          "share": 2.0,
           "rank": 12
         },
         {
           "name": "Spreaker",
-          "count": 33,
-          "share": 1.9,
+          "count": 26,
+          "share": 1.5,
           "rank": 13
         },
         {
           "name": "Blubrry",
-          "count": 21,
+          "count": 20,
           "share": 1.2,
           "rank": 14
         },
         {
           "name": "PRX",
-          "count": 21,
-          "share": 1.2,
+          "count": 19,
+          "share": 1.1,
           "rank": 15
         },
         {
@@ -13089,92 +13089,92 @@
         },
         {
           "name": "RedCircle",
-          "count": 17,
-          "share": 1.0,
+          "count": 18,
+          "share": 1.1,
           "rank": 17
         },
         {
           "name": "Transistor",
-          "count": 17,
-          "share": 1.0,
+          "count": 18,
+          "share": 1.1,
           "rank": 18
         },
         {
           "name": "BBC",
-          "count": 16,
-          "share": 0.9,
-          "rank": 19
-        },
-        {
-          "name": "Barstool Sports",
           "count": 14,
           "share": 0.8,
-          "rank": 20
+          "rank": 19
         },
         {
           "name": "Unknown",
           "count": 14,
           "share": 0.8,
+          "rank": 20
+        },
+        {
+          "name": "Barstool Sports",
+          "count": 13,
+          "share": 0.8,
           "rank": 21
         },
         {
           "name": "Xiaoyuzhou FM",
-          "count": 11,
-          "share": 0.6,
+          "count": 13,
+          "share": 0.8,
           "rank": 22
         },
         {
-          "name": "Fireside",
-          "count": 9,
-          "share": 0.5,
+          "name": "Substack",
+          "count": 10,
+          "share": 0.6,
           "rank": 23
         },
         {
           "name": "Flightcast",
-          "count": 8,
+          "count": 9,
           "share": 0.5,
           "rank": 24
         },
         {
-          "name": "Substack",
+          "name": "Fireside",
           "count": 8,
           "share": 0.5,
           "rank": 25
         },
         {
-          "name": "SoundCloud",
+          "name": "Podetize",
           "count": 7,
           "share": 0.4,
           "rank": 26
         },
         {
-          "name": "American Public Media",
-          "count": 6,
+          "name": "RSS.com",
+          "count": 7,
           "share": 0.4,
           "rank": 27
         },
         {
-          "name": "Podetize",
-          "count": 6,
+          "name": "SoundCloud",
+          "count": 7,
           "share": 0.4,
           "rank": 28
         },
         {
-          "name": "RSS.com",
-          "count": 6,
+          "name": "SoundStack",
+          "count": 7,
           "share": 0.4,
           "rank": 29
         },
         {
-          "name": "SoundStack",
-          "count": 5,
-          "share": 0.3,
+          "name": "American Public Media",
+          "count": 6,
+          "share": 0.4,
           "rank": 30
         },
         {
           "name": "Riverside",
-          "count": 4,
-          "share": 0.2,
+          "count": 5,
+          "share": 0.3,
           "rank": 31
         },
         {
@@ -13196,43 +13196,43 @@
           "rank": 34
         },
         {
-          "name": "StreamGuys",
+          "name": "Subsplash",
           "count": 2,
           "share": 0.1,
           "rank": 35
         },
         {
-          "name": "Subsplash",
-          "count": 2,
-          "share": 0.1,
-          "rank": 36
-        },
-        {
           "name": "Alitu",
           "count": 1,
           "share": 0.1,
-          "rank": 37
+          "rank": 36
         },
         {
           "name": "Beamly",
           "count": 1,
           "share": 0.1,
-          "rank": 38
+          "rank": 37
         },
         {
           "name": "Castbox",
           "count": 1,
           "share": 0.1,
-          "rank": 39
+          "rank": 38
         },
         {
           "name": "CoHost",
           "count": 1,
           "share": 0.1,
-          "rank": 40
+          "rank": 39
         },
         {
           "name": "Fountain",
+          "count": 1,
+          "share": 0.1,
+          "rank": 40
+        },
+        {
+          "name": "FuturiMedia",
           "count": 1,
           "share": 0.1,
           "rank": 41
@@ -13280,10 +13280,16 @@
           "rank": 48
         },
         {
-          "name": "Thmanyah",
+          "name": "StreamGuys",
           "count": 1,
           "share": 0.1,
           "rank": 49
+        },
+        {
+          "name": "Thmanyah",
+          "count": 1,
+          "share": 0.1,
+          "rank": 50
         }
       ]
     }
