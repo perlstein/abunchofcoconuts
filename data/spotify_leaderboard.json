@@ -2183,7 +2183,7 @@
             "Education"
           ],
           "publisher": "Sabrina Zohar",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2220,7 +2220,7 @@
             "Education"
           ],
           "publisher": "Mark Manson",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -3877,7 +3877,7 @@
         {
           "title": "BENOFTHEWEEK",
           "id": "spotify:show:6bvn2vJ02HDsUgOYeGqcfp",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fb941e438cf9f7a76f3aad4a6",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f2156e2783b804ce45a681dfe",
           "categories": [
             "Leisure"
           ],
@@ -4034,30 +4034,6 @@
           "rss_video": null
         },
         {
-          "title": "Grox",
-          "id": "spotify:show:566f4xpWX1YWGsS7e9Lyy7",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f5f403f9ea787efac8612c7f8",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "Grox",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/GLSS1938237930",
-          "owner_name": "Dumb-Dumbs & Dice",
-          "owner_email": "dumbdumbsanddice@outlook.com",
-          "itunes_author": "Dumb-Dumbs & Dice",
-          "website": "https://art19.com/shows/the-valentyne-heresy",
-          "description": "The Valentyne Heresy: A Warhammer 40K RPG is a Dumb-Dumbs & Dice live-play podcast where professional voice actors and improvisers journey into the grim darkness of the 41st millenium - playing the Genesys adaptation of Warhammer 40K's \"Dark Heresy\" TTRPG! Join Inquisitor Lucius Valentyne, and hive-…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
           "title": "Nick Eh 30",
           "id": "spotify:show:033LE9kmNjv60jLwKH9Xqf",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f0f40e230e3feb76ad36414f0",
@@ -4164,6 +4140,43 @@
             ],
             "label": "Daily",
             "eps_year": 363,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "The Command Zone",
+          "id": "spotify:show:2YzQANpNmuF24PpP1HNKT4",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb883e853ea354f7bd00ed288",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "The Command Zone",
+          "chart_move": "DOWN",
+          "host_since": "2026-07-24",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/STU7163382979",
+          "owner_name": "Collected Company & Studio71",
+          "owner_email": "podcasts@studio71us.com",
+          "itunes_author": "The Command Zone",
+          "website": "http://commandzone.collected.company",
+          "description": "Your weekly source for all things Commander (aka EDH), a multiplayer Magic: The Gathering format, with hosts Jimmy Wong and Josh Lee Kwai. Focused on all aspects of gameplay and strategy from table politics, budget builds, to deck building and more! commandzonecast@gmail.com We wanna make the podcas…",
+          "cadence": "Weekly",
+          "episode_count": 803,
+          "last_published": "2026-07-22",
+          "schedule": {
+            "days": [
+              3,
+              6,
+              5,
+              6,
+              4,
+              0,
+              0
+            ],
+            "label": "Weekly",
+            "eps_year": 61,
             "trend": "steady"
           },
           "rss_video": null
@@ -11317,7 +11330,7 @@
         {
           "title": "Spotify Live",
           "id": "spotify:show:2K5tDp2QRuZy16KTWoWq6B",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fc5c1bf1785aa99c3b9ae187d",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f6890b3826844388153a0ad0c",
           "categories": [
             "Music"
           ],
@@ -13994,7 +14007,7 @@
             "Leisure"
           ],
           "publisher": "Russ Frushtick, Chris Plante, Griffin McElroy, Justin McElroy",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -17110,13 +17123,13 @@
           "rss_video": null
         },
         {
-          "title": "The Factinate",
+          "title": "Factinate",
           "id": "spotify:show:5rftVbvsROaxL2w4q2h6B1",
           "artwork": "https://i.scdn.co/image/ab67656300005f1fae5808de83344ac4be1134fb",
           "categories": [
             "True Crime"
           ],
-          "publisher": "Factinate",
+          "publisher": "Factinate.com",
           "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
@@ -17136,7 +17149,7 @@
         {
           "title": "Law And Crime Investigations",
           "id": "spotify:show:4ji59WyduvWQkZ2wSN4WnL",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f83e7d89fa0da8a2547ee2b65",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fbf16c6afd89fcc5eedf85381",
           "categories": [
             "True Crime"
           ],
@@ -17347,8 +17360,8 @@
     },
     {
       "name": "Libsyn",
-      "count": 37,
-      "share": 4.6,
+      "count": 38,
+      "share": 4.8,
       "shows": [
         {
           "title": "REAL AF with Andy Frisella",
@@ -17557,6 +17570,43 @@
           "episode_count": null,
           "last_published": null,
           "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Conversations with Tyler",
+          "id": "spotify:show:0Z1234tGXD2hVhjFrrhJ7g",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fddba47c1c103baae10e6b258",
+          "categories": [
+            "Education"
+          ],
+          "publisher": "Mercatus Center at George Mason University",
+          "chart_move": "UP",
+          "host_since": "2026-07-13",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.libsyn.com/shows/137081/destinations/850607.xml",
+          "owner_name": "Conversations with Tyler",
+          "owner_email": "jholmes@mercatus.gmu.edu",
+          "itunes_author": "Mercatus Center at George Mason University",
+          "website": "https://www.conversationswithtyler.com",
+          "description": "Tyler Cowen engages today's deepest thinkers in wide-ranging explorations of their work, the world, and everything in between. New conversations every other Wednesday. Subscribe wherever you get your podcasts.",
+          "cadence": "Biweekly",
+          "episode_count": 293,
+          "last_published": "2026-07-08",
+          "schedule": {
+            "days": [
+              0,
+              1,
+              23,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Biweekly · Wednesdays",
+            "eps_year": 26,
+            "trend": "slowing"
+          },
           "rss_video": null
         },
         {
@@ -18701,7 +18751,7 @@
             "Education"
           ],
           "publisher": "Mick Hunt",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -21773,8 +21823,8 @@
     },
     {
       "name": "Other/Self-Hosted",
-      "count": 22,
-      "share": 2.8,
+      "count": 21,
+      "share": 2.6,
       "shows": [
         {
           "title": "Marketplace",
@@ -21879,30 +21929,6 @@
           "itunes_author": "Braillists Foundation",
           "website": "https://www.braillecast.com/series/default-podcast/",
           "description": "Celebrating braille and keeping braillists informed with exclusive interviews, independent reviews, comprehensive demonstrations, clear presentations, thought-provoking commentary and up-to-the-minute braille news.",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "David Goggins ",
-          "id": "spotify:show:6Jk1ZyJCRfGUr7wHFb44lv",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f0e5ea1046c21ebbd2217fa6e",
-          "categories": [
-            "Education"
-          ],
-          "publisher": "David Goggins ",
-          "chart_move": "DOWN",
-          "host_since": null,
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://wavlake.com/feed/music/b772f732-803f-4487-bb1e-80a058d3ddec",
-          "owner_name": "Wavlake",
-          "owner_email": "contact@wavlake.com",
-          "itunes_author": "SWM RECORDS",
-          "website": "https://wavlake.com/swm-records",
-          "description": "Isak Monkeysson",
           "cadence": null,
           "episode_count": null,
           "last_published": null,
@@ -22484,7 +22510,7 @@
           "categories": [
             "Fiction"
           ],
-          "publisher": "pepe&chema | troop audio",
+          "publisher": "Discover Entertainment",
           "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
@@ -30540,7 +30566,7 @@
                 "Education"
               ],
               "publisher": "Sabrina Zohar",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -30577,7 +30603,7 @@
                 "Education"
               ],
               "publisher": "Mark Manson",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31194,7 +31220,7 @@
                 "Education"
               ],
               "publisher": "Mick Hunt",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -31529,80 +31555,106 @@
           "rank": 4
         },
         {
-          "name": "Other/Self-Hosted",
+          "name": "Libsyn",
           "count": 3,
           "share": 6.0,
           "shows": [
             {
-              "title": "Public Speaking Foundations",
-              "id": "spotify:show:5G6iyEWlghxyAJAXtEvxmB",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f3b59e3ba98ae4c916ae658ce",
+              "title": "The Bossticks",
+              "id": "spotify:show:2kNTiKHCrrydRj0eFbrAWO",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fdd73c089de25bbbb7bcc4a84",
               "categories": [
                 "Education"
               ],
-              "publisher": "vinhgiang",
-              "chart_move": "UP",
-              "host_since": null,
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://www.braillecast.com/feed/podcast/",
-              "owner_name": "Braillists Foundation",
-              "owner_email": "help@braillists.org",
-              "itunes_author": "Braillists Foundation",
-              "website": "https://www.braillecast.com/series/default-podcast/",
-              "description": "Celebrating braille and keeping braillists informed with exclusive interviews, independent reviews, comprehensive demonstrations, clear presentations, thought-provoking commentary and up-to-the-minute braille news.",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "David Goggins ",
-              "id": "spotify:show:6Jk1ZyJCRfGUr7wHFb44lv",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f0e5ea1046c21ebbd2217fa6e",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "David Goggins ",
-              "chart_move": "DOWN",
-              "host_since": null,
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://wavlake.com/feed/music/b772f732-803f-4487-bb1e-80a058d3ddec",
-              "owner_name": "Wavlake",
-              "owner_email": "contact@wavlake.com",
-              "itunes_author": "SWM RECORDS",
-              "website": "https://wavlake.com/swm-records",
-              "description": "Isak Monkeysson",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "Daily Motivation by Ardus",
-              "id": "spotify:show:7iOBdjuKKG3NyMd0UFoznO",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f94f7d083261cb7f7e32c1fbd",
-              "categories": [
-                "Education"
-              ],
-              "publisher": "ardus",
+              "publisher": "The Bossticks",
               "chart_move": "UNCHANGED",
-              "host_since": null,
+              "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
-              "feed_url": "https://www.chabad.org/tools/rss/itunes/dailylessonrss_cdo/lesson/tanya",
-              "owner_name": "Chabad.org",
-              "owner_email": "podcast-admin@chabad.org",
-              "itunes_author": "Chabad.org: Manis Friedman",
-              "website": "https://www.chabad.org/dailystudy/tanya_cdo/jewish/Tanya.htm",
-              "description": "Chabad Chassidus is an all-embracing world outlook and way of life which sees the Jew's central purpose as a unifying link between the Creator and His world. Written by the Alter Rebbe, the founder of Chabad, Tanya is the central text of Chabad Chassidus. It shows the reader a path to realizing thei…",
+              "feed_url": "https://rss.libsyn.com/shows/101095/destinations/533704.xml",
+              "owner_name": "Dear Media",
+              "owner_email": "mgmt@theskinnyconfidential.com",
+              "itunes_author": "Lauryn Bosstick and Michael Bosstick / Dear Media",
+              "website": "https://www.tscpodcast.com",
+              "description": "The Bossticks, formerly The Skinny Confidential Him & Her Show, is hosted by Lauryn Bosstick and Michael Bosstick, the entrepreneurial duo behind The Skinny Confidential and Dear Media. For over a decade, they've sat down with some of the most interesting people in business, culture, and media, from…",
+              "cadence": "~2×/week",
+              "episode_count": 988,
+              "last_published": "2026-06-22",
+              "schedule": {
+                "days": [
+                  11,
+                  0,
+                  1,
+                  11,
+                  1,
+                  0,
+                  0
+                ],
+                "label": "~2×/week · Mon & Thu",
+                "eps_year": 122,
+                "trend": "steady"
+              },
+              "rss_video": "mp4"
+            },
+            {
+              "title": "Weekly Motivation by Ben Lionel Scott",
+              "id": "spotify:show:3ssx09faxpyVTRMHWKMdW0",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f687ddb05be83d42a2eb708dd",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Ben Lionel Scott",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.libsyn.com/shows/269135/destinations/2051288.xml",
+              "owner_name": "Ben Lionel Scott",
+              "owner_email": "benlionelscott@gmail.com",
+              "itunes_author": "Ben Lionel Scott",
+              "website": "https://benlionelscott.com",
+              "description": "Here you'll find weekly motivation from some of the most successful and high achieving people in the world to help encourage you through your journey in life. Join Video Editor/Producer Ben Lionel Scott as he shares motivating messages from the most brilliant minds and high-performing people. — Beco…",
               "cadence": null,
               "episode_count": null,
               "last_published": null,
               "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Conversations with Tyler",
+              "id": "spotify:show:0Z1234tGXD2hVhjFrrhJ7g",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fddba47c1c103baae10e6b258",
+              "categories": [
+                "Education"
+              ],
+              "publisher": "Mercatus Center at George Mason University",
+              "chart_move": "UP",
+              "host_since": "2026-07-13",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.libsyn.com/shows/137081/destinations/850607.xml",
+              "owner_name": "Conversations with Tyler",
+              "owner_email": "jholmes@mercatus.gmu.edu",
+              "itunes_author": "Mercatus Center at George Mason University",
+              "website": "https://www.conversationswithtyler.com",
+              "description": "Tyler Cowen engages today's deepest thinkers in wide-ranging explorations of their work, the world, and everything in between. New conversations every other Wednesday. Subscribe wherever you get your podcasts.",
+              "cadence": "Biweekly",
+              "episode_count": 293,
+              "last_published": "2026-07-08",
+              "schedule": {
+                "days": [
+                  0,
+                  1,
+                  23,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Biweekly · Wednesdays",
+                "eps_year": 26,
+                "trend": "slowing"
+              },
               "rss_video": null
             }
           ],
@@ -31771,65 +31823,52 @@
           "rank": 7
         },
         {
-          "name": "Libsyn",
+          "name": "Other/Self-Hosted",
           "count": 2,
           "share": 4.0,
           "shows": [
             {
-              "title": "The Bossticks",
-              "id": "spotify:show:2kNTiKHCrrydRj0eFbrAWO",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fdd73c089de25bbbb7bcc4a84",
+              "title": "Public Speaking Foundations",
+              "id": "spotify:show:5G6iyEWlghxyAJAXtEvxmB",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f3b59e3ba98ae4c916ae658ce",
               "categories": [
                 "Education"
               ],
-              "publisher": "The Bossticks",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
+              "publisher": "vinhgiang",
+              "chart_move": "UP",
+              "host_since": null,
               "prev_host": null,
               "moved_on": null,
-              "feed_url": "https://rss.libsyn.com/shows/101095/destinations/533704.xml",
-              "owner_name": "Dear Media",
-              "owner_email": "mgmt@theskinnyconfidential.com",
-              "itunes_author": "Lauryn Bosstick and Michael Bosstick / Dear Media",
-              "website": "https://www.tscpodcast.com",
-              "description": "The Bossticks, formerly The Skinny Confidential Him & Her Show, is hosted by Lauryn Bosstick and Michael Bosstick, the entrepreneurial duo behind The Skinny Confidential and Dear Media. For over a decade, they've sat down with some of the most interesting people in business, culture, and media, from…",
-              "cadence": "~2×/week",
-              "episode_count": 988,
-              "last_published": "2026-06-22",
-              "schedule": {
-                "days": [
-                  11,
-                  0,
-                  1,
-                  11,
-                  1,
-                  0,
-                  0
-                ],
-                "label": "~2×/week · Mon & Thu",
-                "eps_year": 122,
-                "trend": "steady"
-              },
-              "rss_video": "mp4"
+              "feed_url": "https://www.braillecast.com/feed/podcast/",
+              "owner_name": "Braillists Foundation",
+              "owner_email": "help@braillists.org",
+              "itunes_author": "Braillists Foundation",
+              "website": "https://www.braillecast.com/series/default-podcast/",
+              "description": "Celebrating braille and keeping braillists informed with exclusive interviews, independent reviews, comprehensive demonstrations, clear presentations, thought-provoking commentary and up-to-the-minute braille news.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
             },
             {
-              "title": "Weekly Motivation by Ben Lionel Scott",
-              "id": "spotify:show:3ssx09faxpyVTRMHWKMdW0",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f687ddb05be83d42a2eb708dd",
+              "title": "Daily Motivation by Ardus",
+              "id": "spotify:show:7iOBdjuKKG3NyMd0UFoznO",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f94f7d083261cb7f7e32c1fbd",
               "categories": [
                 "Education"
               ],
-              "publisher": "Ben Lionel Scott",
+              "publisher": "ardus",
               "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
+              "host_since": null,
               "prev_host": null,
               "moved_on": null,
-              "feed_url": "https://rss.libsyn.com/shows/269135/destinations/2051288.xml",
-              "owner_name": "Ben Lionel Scott",
-              "owner_email": "benlionelscott@gmail.com",
-              "itunes_author": "Ben Lionel Scott",
-              "website": "https://benlionelscott.com",
-              "description": "Here you'll find weekly motivation from some of the most successful and high achieving people in the world to help encourage you through your journey in life. Join Video Editor/Producer Ben Lionel Scott as he shares motivating messages from the most brilliant minds and high-performing people. — Beco…",
+              "feed_url": "https://www.chabad.org/tools/rss/itunes/dailylessonrss_cdo/lesson/tanya",
+              "owner_name": "Chabad.org",
+              "owner_email": "podcast-admin@chabad.org",
+              "itunes_author": "Chabad.org: Manis Friedman",
+              "website": "https://www.chabad.org/dailystudy/tanya_cdo/jewish/Tanya.htm",
+              "description": "Chabad Chassidus is an all-embracing world outlook and way of life which sees the Jew's central purpose as a unifying link between the Creator and His world. Written by the Alter Rebbe, the founder of Chabad, Tanya is the central text of Chabad Chassidus. It shows the reader a path to realizing thei…",
               "cadence": null,
               "episode_count": null,
               "last_published": null,
@@ -33570,7 +33609,7 @@
               "categories": [
                 "Fiction"
               ],
-              "publisher": "pepe&chema | troop audio",
+              "publisher": "Discover Entertainment",
               "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
@@ -37745,7 +37784,7 @@
             {
               "title": "BENOFTHEWEEK",
               "id": "spotify:show:6bvn2vJ02HDsUgOYeGqcfp",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fb941e438cf9f7a76f3aad4a6",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f2156e2783b804ce45a681dfe",
               "categories": [
                 "Leisure"
               ],
@@ -37902,30 +37941,6 @@
               "rss_video": null
             },
             {
-              "title": "Grox",
-              "id": "spotify:show:566f4xpWX1YWGsS7e9Lyy7",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f5f403f9ea787efac8612c7f8",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "Grox",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/GLSS1938237930",
-              "owner_name": "Dumb-Dumbs & Dice",
-              "owner_email": "dumbdumbsanddice@outlook.com",
-              "itunes_author": "Dumb-Dumbs & Dice",
-              "website": "https://art19.com/shows/the-valentyne-heresy",
-              "description": "The Valentyne Heresy: A Warhammer 40K RPG is a Dumb-Dumbs & Dice live-play podcast where professional voice actors and improvisers journey into the grim darkness of the 41st millenium - playing the Genesys adaptation of Warhammer 40K's \"Dark Heresy\" TTRPG! Join Inquisitor Lucius Valentyne, and hive-…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
               "title": "Nick Eh 30",
               "id": "spotify:show:033LE9kmNjv60jLwKH9Xqf",
               "artwork": "https://i.scdn.co/image/ab67656300005f1f0f40e230e3feb76ad36414f0",
@@ -38032,6 +38047,43 @@
                 ],
                 "label": "Daily",
                 "eps_year": 363,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Command Zone",
+              "id": "spotify:show:2YzQANpNmuF24PpP1HNKT4",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb883e853ea354f7bd00ed288",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "The Command Zone",
+              "chart_move": "DOWN",
+              "host_since": "2026-07-24",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/STU7163382979",
+              "owner_name": "Collected Company & Studio71",
+              "owner_email": "podcasts@studio71us.com",
+              "itunes_author": "The Command Zone",
+              "website": "http://commandzone.collected.company",
+              "description": "Your weekly source for all things Commander (aka EDH), a multiplayer Magic: The Gathering format, with hosts Jimmy Wong and Josh Lee Kwai. Focused on all aspects of gameplay and strategy from table politics, budget builds, to deck building and more! commandzonecast@gmail.com We wanna make the podcas…",
+              "cadence": "Weekly",
+              "episode_count": 803,
+              "last_published": "2026-07-22",
+              "schedule": {
+                "days": [
+                  3,
+                  6,
+                  5,
+                  6,
+                  4,
+                  0,
+                  0
+                ],
+                "label": "Weekly",
+                "eps_year": 61,
                 "trend": "steady"
               },
               "rss_video": null
@@ -38509,7 +38561,7 @@
                 "Leisure"
               ],
               "publisher": "Russ Frushtick, Chris Plante, Griffin McElroy, Justin McElroy",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -39292,7 +39344,7 @@
             {
               "title": "Spotify Live",
               "id": "spotify:show:2K5tDp2QRuZy16KTWoWq6B",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fc5c1bf1785aa99c3b9ae187d",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f6890b3826844388153a0ad0c",
               "categories": [
                 "Music"
               ],
@@ -52539,13 +52591,13 @@
               "rss_video": null
             },
             {
-              "title": "The Factinate",
+              "title": "Factinate",
               "id": "spotify:show:5rftVbvsROaxL2w4q2h6B1",
               "artwork": "https://i.scdn.co/image/ab67656300005f1fae5808de83344ac4be1134fb",
               "categories": [
                 "True Crime"
               ],
-              "publisher": "Factinate",
+              "publisher": "Factinate.com",
               "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
@@ -52565,7 +52617,7 @@
             {
               "title": "Law And Crime Investigations",
               "id": "spotify:show:4ji59WyduvWQkZ2wSN4WnL",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f83e7d89fa0da8a2547ee2b65",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fbf16c6afd89fcc5eedf85381",
               "categories": [
                 "True Crime"
               ],
