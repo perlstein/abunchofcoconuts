@@ -10377,11 +10377,11 @@
     },
     {
       "date": "2026-08-12",
-      "total_shows": 28444,
+      "total_shows": 28455,
       "platforms": [
         {
           "name": "Libsyn",
-          "count": 9793,
+          "count": 9794,
           "share": 34.4,
           "rank": 1
         },
@@ -10393,19 +10393,19 @@
         },
         {
           "name": "Megaphone",
-          "count": 3268,
+          "count": 3269,
           "share": 11.5,
           "rank": 3
         },
         {
           "name": "Buzzsprout",
-          "count": 1750,
+          "count": 1751,
           "share": 6.2,
           "rank": 4
         },
         {
           "name": "Simplecast",
-          "count": 1586,
+          "count": 1587,
           "share": 5.6,
           "rank": 5
         },
@@ -10435,7 +10435,7 @@
         },
         {
           "name": "Art19",
-          "count": 717,
+          "count": 721,
           "share": 2.5,
           "rank": 10
         },
@@ -10496,7 +10496,7 @@
         {
           "name": "Substack",
           "count": 128,
-          "share": 0.5,
+          "share": 0.4,
           "rank": 20
         },
         {
@@ -10507,7 +10507,7 @@
         },
         {
           "name": "BBC",
-          "count": 86,
+          "count": 87,
           "share": 0.3,
           "rank": 22
         },
@@ -10633,7 +10633,7 @@
         },
         {
           "name": "Podcastle",
-          "count": 12,
+          "count": 13,
           "share": 0.0,
           "rank": 43
         },
@@ -10732,6 +10732,12 @@
           "count": 1,
           "share": 0.0,
           "rank": 59
+        },
+        {
+          "name": "Wavlake",
+          "count": 1,
+          "share": 0.0,
+          "rank": 60
         }
       ]
     }
