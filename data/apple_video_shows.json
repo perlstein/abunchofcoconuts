@@ -34,12 +34,12 @@
     {
       "itunes_id": "1386234384",
       "title": "The Best One Yet",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/04/ea/53/04ea5351-9a69-6650-ac69-d6351bfd95da/mza_16931716041146167328.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/04/ea/53/04ea5351-9a69-6650-ac69-d6351bfd95da/mza_16931716041146167328.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/69545da8cb029db7575279fc",
       "host": "Acast",
       "episode_count": 1759,
       "last_published": "2026-08-13",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1042631089",
@@ -57,7 +57,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/business-game-changers",
       "host": "Art19",
-      "episode_count": 1467,
+      "episode_count": 1468,
       "last_published": "2026-08-13",
       "on_chart": false
     },
@@ -67,7 +67,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d1/ba/84/d1ba84c6-ee07-40b7-9479-32da0b4dcab0/mza_3543043232373289137.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/6114541c545d640012cfb625",
       "host": "Acast",
-      "episode_count": 1338,
+      "episode_count": 1339,
       "last_published": "2026-08-13",
       "on_chart": true
     },
@@ -137,7 +137,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/ab/5d/80ab5d28-8082-7d61-6de1-a6e1c4b9c840/mza_734485199881216612.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6818a1a4eb737caf8ca41879",
       "host": "Acast",
-      "episode_count": 1086,
+      "episode_count": 1087,
       "last_published": "2026-08-15",
       "on_chart": false
     },
@@ -244,12 +244,12 @@
     {
       "itunes_id": "1471270483",
       "title": "Gloss Angeles",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/03963f96-9683-5260-8377-d391301de9b7",
       "host": "Acast",
       "episode_count": 591,
       "last_published": "2026-08-11",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1092361338",
@@ -574,12 +574,12 @@
     {
       "itunes_id": "1704206163",
       "title": "Rap Life Radio with Ebro Darden",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/600x600bb.jpg",
-      "feed_url": "",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/170x170bb.png",
+      "feed_url": null,
       "host": "Unknown",
       "episode_count": 224,
       "last_published": "2026-08-13",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1569049585",
@@ -714,12 +714,12 @@
     {
       "itunes_id": "1745170415",
       "title": "Lemme Say This",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/89/0c/cc890c00-c6c3-66a3-9205-a8390c5ac0aa/mza_12077434506205819624.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/89/0c/cc890c00-c6c3-66a3-9205-a8390c5ac0aa/mza_12077434506205819624.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/lemme-say",
       "host": "Art19",
       "episode_count": 92,
       "last_published": "2026-08-13",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1650419102",
@@ -897,7 +897,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/aa/5a/2baa5aed-5eab-dc1d-95ad-5620f502b9a2/mza_2934007108515108068.jpg/170x170bb.png",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e1bf9c31-b143-4cab-9326-b435011facc4/207c15f2-8abc-4ee3-af74-b435011fb18c/podcast.rss",
       "host": "Omny / Triton",
-      "episode_count": 30,
+      "episode_count": 29,
       "last_published": "2026-08-13",
       "on_chart": true
     },
@@ -1094,12 +1094,12 @@
     {
       "itunes_id": "1896344403",
       "title": "Cigar Aficionado Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/a2/eb/12a2eb64-e8bf-d4ac-c58c-5c43ef9de236/mza_18406074715353457332.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/12/a2/eb/12a2eb64-e8bf-d4ac-c58c-5c43ef9de236/mza_18406074715353457332.jpg/170x170bb.png",
       "feed_url": "https://rss.buzzsprout.com/2616085.rss",
       "host": "Buzzsprout",
       "episode_count": 7,
       "last_published": "2026-08-12",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "6794923271",
