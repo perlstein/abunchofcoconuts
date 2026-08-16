@@ -114,12 +114,12 @@
     {
       "itunes_id": "1254720112",
       "title": "The Game with Alex Hormozi",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/bc/14/34bc1439-eaad-6e89-ebb4-02efde08cb10/mza_6594351863031402438.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/bc/14/34bc1439-eaad-6e89-ebb4-02efde08cb10/mza_6594351863031402438.jpg/600x600bb.jpg",
       "feed_url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
       "host": "Flightcast",
       "episode_count": 1142,
       "last_published": "2026-08-14",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1526634903",
@@ -127,8 +127,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/8b/42/518b42ea-1f80-ea6d-060d-2c0d437d4c1f/mza_2117943318825408843.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/66b409fbec20c36e8e2e4115",
       "host": "Acast",
-      "episode_count": 1138,
-      "last_published": "2026-08-11",
+      "episode_count": 1139,
+      "last_published": "2026-08-16",
       "on_chart": true
     },
     {
@@ -208,7 +208,7 @@
       "feed_url": "https://access.acast.com/rss/f2925f7a-eb08-471a-9958-387cb5ee6353",
       "host": "Acast",
       "episode_count": 756,
-      "last_published": "2026-08-13",
+      "last_published": "2026-08-14",
       "on_chart": true
     },
     {
@@ -217,7 +217,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/74/d7/a574d77a-d195-db89-ef54-1e646f5865f4/mza_16463278511390909746.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/617c0d208afe370012ddf145",
       "host": "Acast",
-      "episode_count": 684,
+      "episode_count": 683,
       "last_published": "2026-08-13",
       "on_chart": false
     },
@@ -287,7 +287,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/5a/0a/555a0ad4-5dbf-9f9d-b205-08e629cc35dd/mza_17473463849753207729.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/talk-easy-with-sam-fragoso",
       "host": "Art19",
-      "episode_count": 556,
+      "episode_count": 557,
       "last_published": "2026-08-09",
       "on_chart": true
     },
@@ -434,12 +434,12 @@
     {
       "itunes_id": "1590562163",
       "title": "Paranormal",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/5a/84/825a8420-ba97-a55b-98e4-323f79ea1a34/mza_10440591909348362177.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/5a/84/825a8420-ba97-a55b-98e4-323f79ea1a34/mza_10440591909348362177.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.simplecast.com/CNz6ZsPr",
       "host": "Simplecast",
       "episode_count": 340,
       "last_published": "2026-08-11",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1536352412",
@@ -567,8 +567,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/07/e4/2607e41c-330e-c1e5-45db-b529a9ee2d7d/mza_15517120161772684229.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.libsyn.com/shows/409379/destinations/3389264.xml",
       "host": "Libsyn",
-      "episode_count": 231,
-      "last_published": "2026-08-02",
+      "episode_count": 232,
+      "last_published": "2026-08-16",
       "on_chart": false
     },
     {
@@ -607,7 +607,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/e6/8e/ade68ebd-a384-06bc-ce9b-9467d8f3a146/mza_12700451613655739902.jpg/170x170bb.png",
       "feed_url": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg",
       "host": "Fountain",
-      "episode_count": 198,
+      "episode_count": 199,
       "last_published": "2026-08-14",
       "on_chart": true
     },
@@ -629,6 +629,16 @@
       "host": "Art19",
       "episode_count": 185,
       "last_published": "2026-08-04",
+      "on_chart": true
+    },
+    {
+      "itunes_id": "1103906358",
+      "title": "The GOAL Podcast - Official Podcast of Gun Owners' Action League",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c4/a9/15/c4a9155c-10ca-e018-4c61-0923de31adec/mza_9051712229384747945.png/170x170bb.png",
+      "feed_url": "https://rss.libsyn.com/shows/76359/destinations/340675.xml",
+      "host": "Libsyn",
+      "episode_count": 183,
+      "last_published": "2026-07-31",
       "on_chart": true
     },
     {
@@ -824,12 +834,12 @@
     {
       "itunes_id": "1895630609",
       "title": "Hang Out with Sean Hannity",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/600x600bb.jpg",
       "feed_url": "https://rss.libsyn.com/shows/615750/destinations/5370830.xml",
       "host": "Libsyn",
       "episode_count": 48,
       "last_published": "2026-08-13",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1808734718",
@@ -954,12 +964,12 @@
     {
       "itunes_id": "1884146372",
       "title": "The Morgan Stewart Show",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/84/e7/6984e772-9e27-1d7c-b641-0d1ca2208028/mza_9843280263932663127.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/84/e7/6984e772-9e27-1d7c-b641-0d1ca2208028/mza_9843280263932663127.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.simplecast.com/BbxEWNSo",
       "host": "Simplecast",
       "episode_count": 24,
       "last_published": "2026-08-12",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1829704095",
