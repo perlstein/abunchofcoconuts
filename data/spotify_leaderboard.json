@@ -1,1009 +1,14 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-08-16",
-  "total_unique_shows": 800,
-  "resolved_rate": 98.8,
+  "last_scanned": "2026-08-17",
+  "total_unique_shows": 750,
+  "resolved_rate": 98.7,
   "platforms": [
     {
       "name": "Megaphone",
-      "count": 279,
-      "share": 34.9,
+      "count": 250,
+      "share": 33.3,
       "shows": [
-        {
-          "title": "Financial Audit",
-          "id": "spotify:show:1Ii04MZEAoxLdHnjRtd5cG",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fba945e0d7cce7ae5b87d49d0",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Caleb Hammer",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.pdrl.fm/243632/feeds.megaphone.fm/ROOSTER4571910246",
-          "owner_name": "Caleb Hammer",
-          "owner_email": "calebhammer@creatorsagency.co",
-          "itunes_author": "Caleb Hammer",
-          "website": null,
-          "description": "Personal finance nerd at heart! Making content to entertain and educate. Want to be on the show? Email us at casting@calebhammer.com Sponsorship and business inquiries: business@calebhammer.com Get new episodes a week earlier on our YouTube channel!",
-          "cadence": "~3×/week",
-          "episode_count": 388,
-          "last_published": "2026-06-24",
-          "schedule": {
-            "days": [
-              9,
-              0,
-              7,
-              0,
-              8,
-              0,
-              0
-            ],
-            "label": "~2×/week · Mon & Fri",
-            "eps_year": 123,
-            "trend": "accelerating"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Morning Brew Daily",
-          "id": "spotify:show:7nc7OQdPTekErtFSRxOBKh",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f5a4d74133cba89107080eb15",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Morning Brew",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/MOBI8777994188",
-          "owner_name": "Morning Brew",
-          "owner_email": "morningbrewdaily@morningbrew.com",
-          "itunes_author": "Morning Brew",
-          "website": "https://mbdailyshow.com",
-          "description": "Morning Brew Daily, a daily talk show that covers the latest news on business, the economy, and everything else, with Neal Freyman and Toby Howell. Witty, informative and everything you need to start your day. Available on all podcasting platforms and Youtube.",
-          "cadence": "Daily",
-          "episode_count": 878,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              5,
-              5,
-              5,
-              5,
-              4,
-              0,
-              0
-            ],
-            "label": "Daily",
-            "eps_year": 365,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Ramsey Show",
-          "id": "spotify:show:5exfRPDNCBHmntEkJrlLmX",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ffb6a67da4acead131c6a5516",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Ramsey Network",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/RM4031649020",
-          "owner_name": "Ramsey Network",
-          "owner_email": "ask@ramseysolutions.com",
-          "itunes_author": "Ramsey Network",
-          "website": "https://www.ramseysolutions.com/shows/the-ramsey-show",
-          "description": "The Ramsey Show believes you can build wealth and take control of your life—no matter what stupid mistakes you've made with money. Join as Dave Ramsey and his team of experts answer your questions on the top problems holding you back. Listen now or ask your question live by calling 888.825.5225 week…",
-          "cadence": "Daily",
-          "episode_count": 1772,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              5,
-              5,
-              5,
-              5,
-              4,
-              0,
-              0
-            ],
-            "label": "Daily",
-            "eps_year": 365,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Prof G Markets",
-          "id": "spotify:show:7syF2ry9j6nqYc656WHBA7",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f52960336b940e96fb6c74d4c",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Vox Media Podcast Network",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/profgmarkets",
-          "owner_name": "Prof G Media & Vox Media",
-          "owner_email": "podcasting@voxmedia.com",
-          "itunes_author": "Vox Media Podcast Network",
-          "website": "https://podcasts.voxmedia.com/show/prof-g-markets",
-          "description": "Prof G Markets is your daily briefing on the news moving markets — from earnings and geopolitics, to Big Tech and AI. Hosted by Scott Galloway and Ed Elson, we cut through the noise with no-BS analysis. Tune in to understand what's happening, why it matters, and how to stay ahead. Fast takes. Clear…",
-          "cadence": "Daily",
-          "episode_count": 356,
-          "last_published": "2026-06-25",
-          "schedule": {
-            "days": [
-              4,
-              5,
-              5,
-              5,
-              4,
-              0,
-              1
-            ],
-            "label": "Daily",
-            "eps_year": 365,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "BigDeal",
-          "id": "spotify:show:6N6KqZOQeu7srMoEzSjNj2",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f90aad320fdc5fb68aca0ddb9",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Codie Sanchez",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/bigdeal",
-          "owner_name": "Codie Sanchez",
-          "owner_email": "david@contrarianthink.com",
-          "itunes_author": "Codie Sanchez",
-          "website": "https://contrarianthinking.co/",
-          "description": "You can change your life and make a dent on the world. This podcast uncovers the unfiltered lessons from the smartest minds straight to you, in conversations so honest you feel guilty listening in. We believe the current way of thinking is not working. The average person has become unhappy, unhealth…",
-          "cadence": "Weekly",
-          "episode_count": 150,
-          "last_published": "2026-06-22",
-          "schedule": {
-            "days": [
-              8,
-              4,
-              6,
-              6,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly",
-            "eps_year": 76,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Iced Coffee Hour",
-          "id": "spotify:show:5c2uoXBQkOjIiCOf60jJj7",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f3b50cfe272532295c7e1a2e0",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Graham Stephan/Jack Selby",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/IMP2294070354",
-          "owner_name": "Graham Stephan/Jack Selby",
-          "owner_email": "tmatsradio@gmail.com",
-          "itunes_author": "Graham Stephan/Jack Selby",
-          "website": "https://podcasters.spotify.com/pod/show/jack-selby4",
-          "description": "\"The Iced Coffee Hour\" is a podcast hosted by Graham Stephan and Jack Selby that explores candid conversations with a diverse collection of guests, delving into their unique life journeys, successes, finances, and insights.",
-          "cadence": "Weekly",
-          "episode_count": 343,
-          "last_published": "2026-06-28",
-          "schedule": {
-            "days": [
-              2,
-              0,
-              1,
-              3,
-              2,
-              0,
-              16
-            ],
-            "label": "Weekly · Sundays",
-            "eps_year": 56,
-            "trend": "slowing"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Behind the Business with Michelle Toh",
-          "id": "spotify:show:2JD80MedbyMp6yTXyaC3oj",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f35d4cff6008ae90073116b42",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Michelle Toh",
-          "chart_move": "DOWN",
-          "host_since": "2026-08-09",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/IMP8021675086",
-          "owner_name": "Michelle Toh",
-          "owner_email": "team@behindthebusinesspod.com",
-          "itunes_author": "Michelle Toh",
-          "website": "https://www.behindthebusinesspod.com",
-          "description": "Behind the Business is a Webby Award-winning video podcast hosted by CNN and FORTUNE alum Michelle Toh that explores the decisions and philosophies behind some of today's most influential leaders. Its new season features the leaders of Airbnb, Rivian, NYSE, Samsung, Canva, Revolve, Peloton, Poppi an…",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": "2026-08-06",
-          "schedule": {
-            "days": [
-              1,
-              1,
-              3,
-              11,
-              2,
-              0,
-              0
-            ],
-            "label": "Weekly · Thursdays",
-            "eps_year": 51,
-            "trend": "slowing"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Money Guy Show",
-          "id": "spotify:show:0W7lo4UBMghDAdrTBCTXXW",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f0d68b4f5b7fd0fda30c7b481",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Brian Preston, CPA, CFP®, PFS and Bo Hanson, CFA, CFP® | Fee-Only Fiduciary Advisors",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/moneyguyshow",
-          "owner_name": "Brian Preston, CPA, CFP®, PFS and Bo Hanson, CFA, CFP® | Fee-Only Fiduciary Advisors",
-          "owner_email": "support@moneyguy.com",
-          "itunes_author": "Brian Preston and Bo Hanson",
-          "website": "https://moneyguy.com/",
-          "description": "Bring confidence to your wealth building with simplified strategies from The Money Guy. Learn how to apply financial tactics that go beyond common sense and help you reach your money goals faster. Make your assets do the heavy lifting so you can quit worrying and start living a more fulfilled life.",
-          "cadence": "~4×/week",
-          "episode_count": 1305,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              8,
-              0,
-              8,
-              0,
-              8,
-              0,
-              0
-            ],
-            "label": "~4×/week",
-            "eps_year": 182,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Prof G Pod with Scott Galloway",
-          "id": "spotify:show:5Ob5psTjoUtIGYxKUp2QVy",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fd3e286e845a52a34c9aa65b9",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Vox Media Podcast Network",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/WWO6655869236",
-          "owner_name": "Vox Media Podcast Network",
-          "owner_email": "podcasting@voxmedia.com",
-          "itunes_author": "Vox Media Podcast Network",
-          "website": "https://profgmedia.com/",
-          "description": "Scott Galloway — bestselling author, professor, entrepreneur — doesn't pull punches on business, tech, culture, or life. New episodes every day of the week. To resist is futile… Want to get in touch? Email us at info@profgmedia.com. Want to be featured on Office Hours? Email us at officehours@profgm…",
-          "cadence": "Daily",
-          "episode_count": 1146,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              4,
-              4,
-              5,
-              5,
-              3,
-              3,
-              0
-            ],
-            "label": "Daily",
-            "eps_year": 365,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Money For Couples with Ramit Sethi",
-          "id": "spotify:show:11ktWYpzznMCpvGtXsiYxE",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f4ed2cc2e684d82c981729bdc",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Ramit Sethi",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/IWTYB6912370287/",
-          "owner_name": "Ramit Sethi",
-          "owner_email": "svcs-acct@iwt.com",
-          "itunes_author": "Ramit Sethi",
-          "website": "https://iwt.com/podcast",
-          "description": "Get Ramit's new book, Money for Couples at iwt.com/moneyforcouples. From Ramit Sethi, host of Netflix’s ‘How to Get Rich’ and author of NYT bestselling books, ‘I Will Teach You To Be Rich,’ and ‘Money for Couples’… Imagine listening in on raw, unfiltered conversations with real couples, to explore h…",
-          "cadence": "Weekly",
-          "episode_count": 268,
-          "last_published": "2026-06-16",
-          "schedule": {
-            "days": [
-              0,
-              24,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Tuesdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Invest Like the Best with Patrick O'Shaughnessy",
-          "id": "spotify:show:22fi0RqfoBACCuQDv97wFO",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f89579acf0ef2e358b97c2bf4",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Colossus | Investing & Business Podcasts",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-          "owner_name": "Colossus",
-          "owner_email": "dom@joincolossus.com",
-          "itunes_author": "Colossus | Investing & Business Podcasts",
-          "website": "https://colossus.com/",
-          "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or busines…",
-          "cadence": "Weekly",
-          "episode_count": 585,
-          "last_published": "2026-06-23",
-          "schedule": {
-            "days": [
-              0,
-              16,
-              6,
-              2,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Tuesdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Lemonade Stand",
-          "id": "spotify:show:0Yz44z9z3t8VQu4WRmsrs6",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f45219dbc5b24e2f702a56613",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Vox Media Podcast Network",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/VMP5629614579",
-          "owner_name": "Vox Media Podcast Network",
-          "owner_email": "podcasting+ls@voxmedia.com",
-          "itunes_author": "Vox Media Podcast Network",
-          "website": "http://podcasts.voxmedia.com/show/lemonade-stand",
-          "description": "Three guys with the expertise to run a lemonade stand explain the world of business. a podcast by Aiden, Atrioc, and DougDoug. Part of the Vox Media Podcast Network.",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The Compound and Friends",
-          "id": "spotify:show:5VKsKPZUtwVylxslLie36k",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f7f292b6efc32815e2166163a",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Josh Brown",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/TCP4771071679",
-          "owner_name": "Josh Brown",
-          "owner_email": "duncan@ritholtzwealth.com",
-          "itunes_author": "The Compound",
-          "website": "https://thereformedbroker.com/podcast/",
-          "description": "Join Downtown Josh Brown, Michael Batnick, and a rotation of their friends every Tuesday and Friday for expert insight and hot takes on the latest in business and investing. See our disclosures here - https://ritholtzwealth.com/podcast-youtube-disclosures/",
-          "cadence": "~3×/week",
-          "episode_count": 580,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              5,
-              9,
-              1,
-              0,
-              9,
-              0,
-              0
-            ],
-            "label": "~3×/week · Tue & Fri",
-            "eps_year": 151,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Founders",
-          "id": "spotify:show:7txiovdzPARhjm18NwMUYj",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f6e9e6f6b20ff4b7b5b0cee75",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "David Senra",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/DSLLC6297708582",
-          "owner_name": "David Senra",
-          "owner_email": "david@founderspodcast.com",
-          "itunes_author": "David Senra",
-          "website": "https://www.founderspodcast.com/",
-          "description": "Learn from history's greatest entrepreneurs. Every week I read a biography of an entrepreneur and find ideas you can use in your work. This quote explains why: \"There are thousands of years of history in which lots and lots of very smart people worked very hard and ran all types of experiments on ho…",
-          "cadence": "Biweekly",
-          "episode_count": 447,
-          "last_published": "2026-06-20",
-          "schedule": {
-            "days": [
-              2,
-              4,
-              4,
-              5,
-              1,
-              2,
-              6
-            ],
-            "label": "Weekly",
-            "eps_year": 39,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "My First Million",
-          "id": "spotify:show:3mliji9352UAk3XnWElnDV",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f35af1b9c3ee719329f85f229",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Hubspot",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/HS2300184645",
-          "owner_name": "Hubspot",
-          "owner_email": "podcasts@hubspot.com",
-          "itunes_author": "Hubspot Media",
-          "website": "https://www.mfmpod.com/",
-          "description": "Sam Parr and Shaan Puri brainstorm new business ideas based on trends & opportunities they see in the market. Sometimes they bring on famous guests to brainstorm with them.",
-          "cadence": "~2×/week",
-          "episode_count": 876,
-          "last_published": "2026-06-18",
-          "schedule": {
-            "days": [
-              2,
-              6,
-              6,
-              5,
-              5,
-              0,
-              0
-            ],
-            "label": "~2×/week",
-            "eps_year": 116,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Moonshots with Peter Diamandis",
-          "id": "spotify:show:5Y1NyT6srGx38f5LINbH6c",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f2c33a17267fd1e99d551f2b4",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "PHD Ventures",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/DVVTS2890392624",
-          "owner_name": "PHD Ventures",
-          "owner_email": "danna@diamandis.com",
-          "itunes_author": "PHD Ventures",
-          "website": "https://www.diamandis.com/podcast",
-          "description": "Tracking the future of technology and how it impacts humanity. Named by Fortune as one of the “World’s 50 Greatest Leaders,” Peter H. Diamandis, MD, is a founder, investor, advisor, and best-selling author. Join Peter on his mission to uplift humanity through technology. Follow Peter on X - https://…",
-          "cadence": "~2×/week",
-          "episode_count": 270,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              5,
-              3,
-              3,
-              5,
-              1,
-              7,
-              0
-            ],
-            "label": "~2×/week",
-            "eps_year": 113,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Motley Fool Hidden Gems Investing",
-          "id": "spotify:show:7tXRc97C1fA0epHAGQuJOE",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f30b45cc2e8dcc5a48a45da1c",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "The Motley Fool",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/ARML8165884693",
-          "owner_name": "The Motley Fool",
-          "owner_email": "radio@fool.com",
-          "itunes_author": "The Motley Fool",
-          "website": "https://www.fool.com/podcasts/motley-fool-money",
-          "description": "Motley Fool Hidden Gems Investing is a daily podcast for stock investors. Weekday episodes offer a long-term perspective on business news with The Motley Fool's investment analysts. Weekend shows are a mix of personal finance and longer-form interviews.",
-          "cadence": "Daily",
-          "episode_count": 2000,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              4,
-              4,
-              4,
-              3,
-              3,
-              3,
-              3
-            ],
-            "label": "Daily",
-            "eps_year": 365,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Smart Money Happy Hour with Rachel Cruze and George Kamel",
-          "id": "spotify:show:3nki9O2HLDgV6RB4ZvasY7",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fc986338ad1a5b093a4983d2b",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Ramsey Network",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/smartmoneyhappyhour",
-          "owner_name": "Ramsey Network",
-          "owner_email": "smhhs@ramseysolutions.com",
-          "itunes_author": "Ramsey Network",
-          "website": "https://www.ramseysolutions.com/shows?snid=shows-and-events",
-          "description": "Pull up a chair to the happy hour you wish your friends were having. Mix two money experts with some hot takes and a splash of nostalgia, and you get Rachel Cruze and George Kamel talking unfiltered about what’s going on in the world, pop culture, and how to afford a life you love.",
-          "cadence": "Weekly",
-          "episode_count": 200,
-          "last_published": "2026-06-18",
-          "schedule": {
-            "days": [
-              0,
-              0,
-              0,
-              24,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Thursdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "George Kamel",
-          "id": "spotify:show:7IoPNtknM8HfOo9F5cFJba",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f4aa9701554479b7783b1346c",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Ramsey Network",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/georgekamel",
-          "owner_name": "Ramsey Network",
-          "owner_email": "eric.cieslewicz@ramseysolutions.com",
-          "itunes_author": "Ramsey Network",
-          "website": "https://www.ramseysolutions.com/george-kamel",
-          "description": "George Kamel is a personal finance expert and co-host of The Ramsey Show and Smart Money Happy Hour. Following Ramsey’s proven money plan, George went from negative net worth to a millionaire in under 10 years. His goal is to help people spend less, save more, and avoid money traps so they can live…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The Personal Finance Podcast",
-          "id": "spotify:show:1zVBTDKimC3UoOQy59KDrR",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ff89a114548b7104b1110a793",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Andrew Giancola ",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/LLL5449685314",
-          "owner_name": "Andrew Giancola",
-          "owner_email": "giancola.andrew@gmail.com",
-          "itunes_author": "Andrew Giancola",
-          "website": "www.thepersonalfinancepodcast.com",
-          "description": "Andrew Giancola from Master Money reveals all of his personal finance, money, investing, business strategies, income sources, stock, and real estate investing tips so that you can build more wealth than you ever thought possible. Discover how to increase your income at your job and create multiple p…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Aspire with Emma Grede",
-          "id": "spotify:show:39poaGO6oBRFN6cVOIl4yL",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f3261efa7f5a261fa7ce248e7",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Emma Grede | Audacy",
-          "chart_move": "UP",
-          "host_since": "2026-07-05",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/emma-grede",
-          "owner_name": "E13 Media",
-          "owner_email": "audacystudios@audacy.com",
-          "itunes_author": "Emma Grede | Audacy",
-          "website": "https://emmagrede.me",
-          "description": "Build the life of your dreams and learn from the world’s most successful people. Emma Grede, one of America’s richest self-made women, wants you to make the most of your life. On ‘Aspire with Emma Grede', learn through thought-provoking conversations with some of the most successful and smartest min…",
-          "cadence": "Weekly",
-          "episode_count": 75,
-          "last_published": "2026-06-23",
-          "schedule": {
-            "days": [
-              0,
-              18,
-              0,
-              6,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Tuesdays",
-            "eps_year": 73,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Colin and Samir Show",
-          "id": "spotify:show:5QaSbbv2eD4SFrlFR6IyY7",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f1ca2dd0404b7b8696bec561c",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Colin and Samir",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/LI6529969937",
-          "owner_name": "Colin and Samir",
-          "owner_email": "samir@publishprojects.com",
-          "itunes_author": "Colin and Samir",
-          "website": "http://youtube.com/colinandsamir",
-          "description": "Hey, We’re Colin and Samir, YouTube creators and podcasters that break down the latest news in the creator economy from a creator's perspective. We have a long history building communities and brands through digital content. New episodes of The Colin and Samir show go live every Monday on Spotify an…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "BiggerPockets Real Estate Podcast",
-          "id": "spotify:show:23JyccHPmQ8fzmpmnvQ6hR",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fc21f40e20116b2fa83aeebc5",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "BiggerPockets",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/BIGPOC7198720365",
-          "owner_name": "BiggerPockets",
-          "owner_email": "podcast@biggerpockets.com",
-          "itunes_author": "BiggerPockets",
-          "website": "https://www.biggerpockets.com/podcasts/real-estate",
-          "description": "Want financial freedom through real estate investing? Then the BiggerPockets Real Estate Podcast is for you. Sit down every Monday, Wednesday, and Friday with Dave Meyer, the Head of Real Estate at BiggerPockets, as he uncovers tried and true tactics and shares candid conversations with real estate…",
-          "cadence": "~4×/week",
-          "episode_count": 1324,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              8,
-              0,
-              8,
-              0,
-              8,
-              0,
-              0
-            ],
-            "label": "~4×/week",
-            "eps_year": 182,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Barn Talk ",
-          "id": "spotify:show:3icVr4KWq4eUDl7Oy60YMY",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fffb54b9a49edfab98d5613d5",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Tork and Sawyer Whisler",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/TAMTD8073577965",
-          "owner_name": "Tork and Sawyer Whisler",
-          "owner_email": "barntalkshow@gmail.com",
-          "itunes_author": "Tork and Sawyer Whisler",
-          "website": "https://www.joinbarntalk.com/",
-          "description": "Barn Talk is a weekly podcast, hosted by father-son duo Sawyer & Tork Whisler. We exist to share content that educates, inspires, and makes viewers laugh out loud. From the Ag business world to investing, current events, entrepreneurship and much, much more, our vision is to promote agriculture in a…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "David Senra",
-          "id": "spotify:show:7jVjHrQJCbgruHkhrFi94A",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fcbca1385f91d269a5f541d18",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Scicomm Media",
-          "chart_move": "UP",
-          "host_since": "2026-07-11",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/david-senra",
-          "owner_name": "Scicomm Media",
-          "owner_email": "podcast-verification@scicommedia.com",
-          "itunes_author": "Scicomm Media",
-          "website": "https://www.davidsenra.com",
-          "description": "Conversations with the greatest living founders.",
-          "cadence": "Weekly",
-          "episode_count": 28,
-          "last_published": "2026-07-05",
-          "schedule": {
-            "days": [
-              0,
-              1,
-              0,
-              0,
-              0,
-              0,
-              23
-            ],
-            "label": "Weekly · Sundays",
-            "eps_year": 41,
-            "trend": "accelerating"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Animal Spirits Podcast",
-          "id": "spotify:show:71siUnIMn0iQY7Kz5BQSqJ",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ff1edfc561ea4b41b2d9b6591",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "The Compound",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/TCP6464651487",
-          "owner_name": "The Compound",
-          "owner_email": "animalspiritspod@gmail.com",
-          "itunes_author": "The Compound",
-          "website": "https://awealthofcommonsense.com/podcast/",
-          "description": "Animal Spirits is a show about markets, life, and investing. Join Michael Batnick and Ben Carlson as they talk about what they're reading, writing, listening to and watching. Look for new episodes every Wednesday morning. See our disclosures here - https://ritholtzwealth.com/podcast-youtube-disclosu…",
-          "cadence": "~4×/week",
-          "episode_count": 800,
-          "last_published": "2026-07-01",
-          "schedule": {
-            "days": [
-              12,
-              0,
-              12,
-              0,
-              0,
-              0,
-              0
-            ],
-            "label": "~4×/week · Mon & Wed",
-            "eps_year": 182,
-            "trend": "accelerating"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Level Up Podcast w/ Paul Alex",
-          "id": "spotify:show:5LcpkTtl2x1na6PGLSIY0B",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f80d62b1f379789a35c425164",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Paul Alex Espinoza",
-          "chart_move": "UP",
-          "host_since": "2026-08-12",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.pdrl.fm/0c37ea/feeds.megaphone.fm/ARML5552075612",
-          "owner_name": "Paul Alex Espinoza",
-          "owner_email": "paul@cashswipe.com",
-          "itunes_author": "Paul Alex Espinoza",
-          "website": "https://officialpaulalex.com/",
-          "description": "Welcome to The Level Up Podcast with Paul Alex, where real stories fuel real success. I’m Paul Alex, ex-Detective turned 8-figure entrepreneur. After leaving law enforcement, I built multiple businesses helping everyday people create residual income and freedom on their own terms. This podcast isn’t…",
-          "cadence": "Daily",
-          "episode_count": 1083,
-          "last_published": "2026-08-12",
-          "schedule": {
-            "days": [
-              4,
-              6,
-              5,
-              1,
-              2,
-              3,
-              3
-            ],
-            "label": "Daily",
-            "eps_year": 730,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Knowledge Project",
-          "id": "spotify:show:1VyK52NSZHaDKeMJzT4TSM",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f9a82b54e2d80acfcd553ed5f",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Shane Parrish",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/FSMI7575968096",
-          "owner_name": "Shane Parrish",
-          "owner_email": "shane@fs.blog",
-          "itunes_author": "Shane Parrish",
-          "website": "https://fs.blog/knowledge-project-podcast/",
-          "description": "Uncovering the timeless principles that drive success.",
-          "cadence": "Weekly",
-          "episode_count": 281,
-          "last_published": "2026-06-09",
-          "schedule": {
-            "days": [
-              0,
-              21,
-              1,
-              1,
-              0,
-              1,
-              0
-            ],
-            "label": "Weekly · Tuesdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Financial Tea with Mrs. Dow Jones",
-          "id": "spotify:show:58anKIbkGzd5MkI3v0BjY2",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fe4ce62ea6305bc534f817baa",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Sony Music",
-          "chart_move": "DOWN",
-          "host_since": "2026-07-01",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/financialtea",
-          "owner_name": "Sony Music",
-          "owner_email": "podcasts@sonymusic.com",
-          "itunes_author": "Sony Music Entertainment",
-          "website": null,
-          "description": "Financial Tea is your VIP ticket into the world of money, power, and culture. Every Thursday, Haley Sacks (aka Mrs. Dow Jones) breaks down the money moves, markets, and mindsets you need to build wealth and live smarter. With guests ranging from billionaires to financial rebels, you’ll leave every e…",
-          "cadence": "Weekly",
-          "episode_count": 25,
-          "last_published": "2026-06-25",
-          "schedule": null,
-          "rss_video": null
-        },
         {
           "title": "The Joe Rogan Experience",
           "id": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
@@ -1799,10 +804,23 @@
           "itunes_author": "Cash, Maverick, Kate, Harper, Kenzie",
           "website": null,
           "description": "New episodes every WEDNESDAY & SATURDAY!",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
+          "cadence": "~2×/week",
+          "episode_count": 317,
+          "last_published": "2026-08-12",
+          "schedule": {
+            "days": [
+              1,
+              0,
+              11,
+              0,
+              0,
+              12,
+              0
+            ],
+            "label": "~2×/week · Sat & Wed",
+            "eps_year": 128,
+            "trend": "accelerating"
+          },
           "rss_video": null
         },
         {
@@ -9492,131 +8510,9 @@
     },
     {
       "name": "Spotify/Anchor",
-      "count": 125,
-      "share": 15.6,
+      "count": 121,
+      "share": 16.1,
       "shows": [
-        {
-          "title": "PBD Podcast",
-          "id": "spotify:show:3FVOp5guWNV4b0S9pfuVcw",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f8acb2759f389a24949c57b2a",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "PBD Podcast",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://anchor.fm/s/2fa50a94/podcast/rss",
-          "owner_name": "PBD Podcast",
-          "owner_email": "betdavidpodcast@gmail.com",
-          "itunes_author": "PBD Podcast",
-          "website": "http://www.patrickbetdavid.com",
-          "description": "The PBD Podcast, hosted by Patrick Bet-David, delivers engaging conversations on business, entrepreneurship, current events, politics, and sports. Live every Monday, Wednesday, and Friday at 9:00 AM EST with the Home Team and special guests, the show brings real-time reactions and dynamic discussion…",
-          "cadence": "~4×/week",
-          "episode_count": 901,
-          "last_published": "2026-06-24",
-          "schedule": {
-            "days": [
-              5,
-              3,
-              6,
-              3,
-              7,
-              0,
-              0
-            ],
-            "label": "Daily",
-            "eps_year": 260,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Rich Habits Podcast",
-          "id": "spotify:show:4f0FqGtlkUStUcB6hZI6Yi",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f04c77fb7712d19fc8b26ae61",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Austin Hankwitz and Robert Croak ",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://anchor.fm/s/db1a9380/podcast/rss",
-          "owner_name": "Austin Hankwitz and Robert Croak",
-          "owner_email": "richhabitspodcast@gmail.com",
-          "itunes_author": "Austin Hankwitz and Robert Croak",
-          "website": "https://richhabitspodcast.com/",
-          "description": "Introducing the Rich Habits Podcast — a financial literacy podcast for anyone ready to take back control of their money by implementing new habits. Join Robert Croak and Austin Hankwitz every Monday, Thursday, and Friday as they demystify the financial habits of the rich, share their own mistakes an…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The Rundown",
-          "id": "spotify:show:0VYfS0q26zf0cFc5VuCjwG",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f255d2c33d86a1e5b275258c2",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Public.com",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://anchor.fm/s/f06a1be8/podcast/rss",
-          "owner_name": "Public.com",
-          "owner_email": "mike+therundown@public.com",
-          "itunes_author": "Public.com",
-          "website": "https://hoo.be/therundown",
-          "description": "Daily stock market update in under 10 minutes. Stay up to date with the companies making the biggest moves and learn about the economic news that can help you be a better investor. Hosted by Zaid Admani. Created by Public.com.",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The Koerner Office - Business Ideas and Deep Dives with Chris Koerner",
-          "id": "spotify:show:1ciAGBave5Cv9hdvB9SFAh",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f6606966c87d3c3034b14fa51",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Chris Koerner",
-          "chart_move": "UP",
-          "host_since": "2026-06-21",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://anchor.fm/s/10796c924/podcast/rss",
-          "owner_name": "Chris Koerner",
-          "owner_email": "chris@cofounders.com",
-          "itunes_author": "Chris Koerner",
-          "website": "http://tkopod.com",
-          "description": "Hey, I'm Chris Koerner - serial entrepreneur, business ideas addict, and your new ADHD business ideas best friend. I've started 75 businesses, with 10 of them being worth 7-8+ figures. I love startup ideas! Want to make money, grow a business, or just start a side hustle? You're in the right spot. T…",
-          "cadence": "~2×/week",
-          "episode_count": 400,
-          "last_published": "2026-06-23",
-          "schedule": {
-            "days": [
-              1,
-              11,
-              0,
-              0,
-              12,
-              0,
-              0
-            ],
-            "label": "~2×/week · Fri & Tue",
-            "eps_year": 104,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Petty POV with Charlotte Dobre",
           "id": "spotify:show:5F95o6WQg6fCNgauH3vour",
@@ -12915,9 +11811,22 @@
           "website": "https://thisweekinai.ai",
           "description": "An experts-only AI podcast: Think the 'All In' podcast for AI. Jason + 3 CEO-level experts breaking down the news & trends.",
           "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
+          "episode_count": 28,
+          "last_published": "2026-08-06",
+          "schedule": {
+            "days": [
+              0,
+              0,
+              12,
+              12,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Wed & Thu",
+            "eps_year": 52,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -13230,11 +12139,11 @@
         {
           "title": "Private Diary - Stories For Teen",
           "id": "spotify:show:5gS211turPsDslAmOnyo9x",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fc246f510b8f4dba381c76847",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f980cb320a878fe658570f3f1",
           "categories": [
             "TV & Film"
           ],
-          "publisher": "Private Diary",
+          "publisher": "Private Diary Podcast",
           "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
@@ -13280,157 +12189,9 @@
     },
     {
       "name": "Simplecast",
-      "count": 77,
-      "share": 9.6,
+      "count": 73,
+      "share": 9.7,
       "shows": [
-        {
-          "title": "Planet Money",
-          "id": "spotify:show:4FYpq3lSeQMAhqNI81O0Cn",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fba50e2aeaa4c75e693ad3617",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "NPR",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.npr.org/510289/podcast.xml",
-          "owner_name": "NPR",
-          "owner_email": "podcasts@npr.org",
-          "itunes_author": "NPR",
-          "website": "https://www.npr.org/podcasts/510289/planet-money",
-          "description": "Wanna see a trick? Give us any topic and we can tie it back to the economy. At Planet Money , we explore the forces that shape our lives and bring you along for the ride. Don't just understand the economy – understand the world. Wanna go deeper? Subscribe to Planet Money+ and get sponsor-free episod…",
-          "cadence": "~2×/week",
-          "episode_count": 655,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              0,
-              0,
-              12,
-              0,
-              9,
-              3,
-              0
-            ],
-            "label": "~2×/week · Wed & Fri",
-            "eps_year": 87,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Indicator from Planet Money",
-          "id": "spotify:show:4X3yDKgVTWRjSd6r0vhgo4",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f1963f756582c7b56d62c13fd",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "NPR",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.npr.org/510325/podcast.xml",
-          "owner_name": "NPR",
-          "owner_email": "podcasts@npr.org",
-          "itunes_author": "NPR",
-          "website": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
-          "description": "A bite-sized show about big ideas. From the people who make Planet Money , The Indicator helps you make sense of what's happening in today's economy. It's a quick hit of insight into money, work, and business. Monday through Friday, in 10 minutes or less. Sign up for our newsletter .",
-          "cadence": "Daily",
-          "episode_count": 1047,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              5,
-              5,
-              5,
-              5,
-              4,
-              0,
-              0
-            ],
-            "label": "Daily",
-            "eps_year": 365,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Economics of Everyday Things",
-          "id": "spotify:show:2dt6QUvLNA3B76II80Q0Dv",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fe49016c1e59867ab4b2eb4e4",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Freakonomics Network & Zachary Crockett",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.simplecast.com/ob9OSBIN",
-          "owner_name": "Freakonomics Network",
-          "owner_email": "editor@freakonomics.com",
-          "itunes_author": "Freakonomics Network & Zachary Crockett",
-          "website": "https://freakonomics.com",
-          "description": "Who decides which snacks are in your office’s vending machine? How much is a suburban elm tree worth, and to whom? How did Girl Scout Cookies become a billion-dollar business? In bite-sized episodes, journalist Zachary Crockett looks at quotidian things and finds amazing stories. To get every show i…",
-          "cadence": "~2×/week",
-          "episode_count": 194,
-          "last_published": "2026-06-25",
-          "schedule": {
-            "days": [
-              12,
-              0,
-              0,
-              12,
-              0,
-              0,
-              0
-            ],
-            "label": "~2×/week · Mon & Thu",
-            "eps_year": 122,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Finding Peak with Ryan Hanley",
-          "id": "spotify:show:5AZFuTiQsgS9hMQDDdtlOr",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f5cdc9acb34ad03f4d034bf47",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Ryan Hanley",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-07-05",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.simplecast.com/FRhlISgU",
-          "owner_name": "Ryan Hanley",
-          "owner_email": "ryan@findingpeak.com",
-          "itunes_author": "Ryan Hanley",
-          "website": "https://redcircle.com/shows/finding-peak-ryan-hanley",
-          "description": "Where unreasonable people sit down to discuss their Easy Mode, that thing they do that looks like cheating to everyone else...",
-          "cadence": "~2×/week",
-          "episode_count": 450,
-          "last_published": "2026-06-29",
-          "schedule": {
-            "days": [
-              6,
-              4,
-              2,
-              8,
-              3,
-              0,
-              1
-            ],
-            "label": "~2×/week",
-            "eps_year": 93,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Call Her Daddy",
           "id": "spotify:show:7bnjJ7Va1nM07Um4Od55dW",
@@ -16020,46 +14781,9 @@
     },
     {
       "name": "Omny / Triton",
-      "count": 42,
-      "share": 5.2,
+      "count": 41,
+      "share": 5.5,
       "shows": [
-        {
-          "title": "Odd Lots",
-          "id": "spotify:show:1te7oSFyRVekxMBJUSethH",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Bloomberg",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss",
-          "owner_name": "Bloomberg",
-          "owner_email": "mhenriksso10@bloomberg.net",
-          "itunes_author": "Bloomberg",
-          "website": "https://bloomberg.com/podcasts/odd_lots",
-          "description": "Bloomberg's Joe Weisenthal and Tracy Alloway explore the most interesting topics in finance, markets and economics. Join the conversation every Monday, Thursday, and Friday",
-          "cadence": "Daily",
-          "episode_count": 1239,
-          "last_published": "2026-06-27",
-          "schedule": {
-            "days": [
-              6,
-              1,
-              0,
-              6,
-              6,
-              5,
-              0
-            ],
-            "label": "Daily",
-            "eps_year": 243,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Relatos de la Noche",
           "id": "spotify:show:0SAv0bEYhFndhLODSzPIfL",
@@ -17517,83 +16241,9 @@
     },
     {
       "name": "Libsyn",
-      "count": 39,
+      "count": 37,
       "share": 4.9,
       "shows": [
-        {
-          "title": "REAL AF with Andy Frisella",
-          "id": "spotify:show:6KHwEnVRZmS9tmxkyfqUMD",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f4325cf1d35f33abc1abb318b",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Andy Frisella",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
-          "owner_name": "Andy Frisella",
-          "owner_email": "contact@andyfrisella.com",
-          "itunes_author": "Andy Frisella",
-          "website": "https://andyfrisella.com/blogs/realaf-podcast",
-          "description": "Entrepreneur Andy Frisella and his guests discuss, debate, and laugh their way through trending topics and hot-button issues. (This is also the home of Andy's other show, the top-ranked MFCEO Project Podcast)",
-          "cadence": "~2×/week",
-          "episode_count": 1364,
-          "last_published": "2026-06-23",
-          "schedule": {
-            "days": [
-              10,
-              6,
-              1,
-              0,
-              6,
-              1,
-              0
-            ],
-            "label": "~2×/week",
-            "eps_year": 122,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Life Wide Open with CboysTV",
-          "id": "spotify:show:7sIQ2t8MqpSq4lix18jI2I",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f780ca4c80a0cd3381c0581aa",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "CboysTV",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.libsyn.com/shows/604715/destinations/5265500.xml",
-          "owner_name": "CboysTV",
-          "owner_email": "podcasts@studio71us.com",
-          "itunes_author": "CboysTV",
-          "website": "https://www.studio71.com/us/podcasts/",
-          "description": "From business tips to dating advice to behind-the-scenes of CboysTV, this weekly podcast shares the untold stories of CJ, Ben, Ryan, Ken, Evan and Micah. Tune in to Life Wide Open on Tuesdays at 9am CT. Follow us on all podcast apps, streaming platforms, and on Instagram: @lifewideopenpodcast For ad…",
-          "cadence": "Weekly",
-          "episode_count": 226,
-          "last_published": "2026-06-30",
-          "schedule": {
-            "days": [
-              0,
-              24,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Tuesdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Small Town Murder",
           "id": "spotify:show:1fA0drEA0Tnbg6rzM43aff",
@@ -18786,46 +17436,9 @@
     },
     {
       "name": "Acast",
-      "count": 34,
-      "share": 4.2,
+      "count": 33,
+      "share": 4.4,
       "shows": [
-        {
-          "title": "The Best One Yet",
-          "id": "spotify:show:5RllMBgvDnTau8nnsCUdse",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ff73f0b82627444af15ab77cd",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Nick & Jack Studios",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.acast.com/public/shows/69545da8cb029db7575279fc",
-          "owner_name": "Nick & Jack Studios",
-          "owner_email": "info+69545da8cb029db7575279fc@mg-eu.acast.com",
-          "itunes_author": "Nick & Jack Studios",
-          "website": "https://tboypod.com/",
-          "description": "This is the best one yet (it's a TBOY). Feel brighter every day with our 20-minute pop-biz news podcast. The 3 business stories you need, with fresh takes you can pretend you came up with — Pairs perfectly with your morning oatmeal ritual. Hosted by Jack Crivici-Kramer & Nick Martell. Formerly known…",
-          "cadence": "Daily",
-          "episode_count": 1725,
-          "last_published": "2026-06-25",
-          "schedule": {
-            "days": [
-              5,
-              5,
-              5,
-              5,
-              4,
-              0,
-              0
-            ],
-            "label": "Daily",
-            "eps_year": 365,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Giggly Squad",
           "id": "spotify:show:6gAg5FDBnoBGqlz7eFrtud",
@@ -20000,83 +18613,9 @@
     },
     {
       "name": "Art19",
-      "count": 32,
+      "count": 30,
       "share": 4.0,
       "shows": [
-        {
-          "title": "The Tim Ferriss Show",
-          "id": "spotify:show:5qSUyCrk9KR69lEiXbjwXM",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1faebf288621ea86c79d44f12f",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.art19.com/tim-ferriss-show",
-          "owner_name": "Tim Ferriss",
-          "owner_email": "tim@fourhourbody.com",
-          "itunes_author": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-          "website": "https://tim.blog/podcast",
-          "description": "Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages. Newsweek calls him \"the world's best human guinea pig,\" and The New York Times calls him \"a cross between Jack Welch and a Buddhist monk.\" In this show, he dec…",
-          "cadence": "Weekly",
-          "episode_count": 875,
-          "last_published": "2026-06-16",
-          "schedule": {
-            "days": [
-              0,
-              7,
-              9,
-              8,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Wed & Thu",
-            "eps_year": 51,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "How I Built This with Guy Raz",
-          "id": "spotify:show:6E709HRH7XaiZrMfgtNCun",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f7766e182b12fd85537d3b776",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Guy Raz | Wondery",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.art19.com/how-i-built-this",
-          "owner_name": "Guy Raz | Wondery",
-          "owner_email": "iwonder@wondery.com",
-          "itunes_author": "Guy Raz | Wondery",
-          "website": "https://wondery.com/shows/how-i-built-this/?utm_source=rss",
-          "description": "Guy Raz interviews the world’s best-known entrepreneurs to learn how they built their iconic brands. In each episode, founders reveal deep, intimate moments of doubt and failure, and share insights on their eventual success. How I Built This is a master-class on innovation, creativity, leadership an…",
-          "cadence": "~2×/week",
-          "episode_count": 846,
-          "last_published": "2026-06-22",
-          "schedule": {
-            "days": [
-              12,
-              0,
-              0,
-              12,
-              0,
-              0,
-              0
-            ],
-            "label": "~2×/week · Mon & Thu",
-            "eps_year": 122,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Armchair Expert with Dax Shepard",
           "id": "spotify:show:6kAsbP8pxwaU2kPibKTuHE",
@@ -21141,7 +19680,7 @@
     {
       "name": "Audioboom",
       "count": 25,
-      "share": 3.1,
+      "share": 3.3,
       "shows": [
         {
           "title": "The Tim Dillon Show",
@@ -21995,46 +20534,9 @@
     },
     {
       "name": "Other/Self-Hosted",
-      "count": 19,
+      "count": 18,
       "share": 2.4,
       "shows": [
-        {
-          "title": "Marketplace",
-          "id": "spotify:show:6zYlX5UGEPmNCWacYUJQGD",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f35e13bb29bd59d5b4118f283",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Marketplace",
-          "chart_move": "UNCHANGED",
-          "host_since": null,
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.publicradio.org/public_feeds/marketplace",
-          "owner_name": null,
-          "owner_email": "podcasts@americanpublicmedia.org",
-          "itunes_author": "Marketplace",
-          "website": "https://www.marketplace.org/",
-          "description": "Every weekday, host Kai Ryssdal helps you make sense of the day's business and economic news — no econ degree or finance background required. \"Marketplace\" takes you beyond the numbers, bringing you context. Our team of reporters all over the world speak with CEOs, policymakers and regular people ju…",
-          "cadence": "Daily",
-          "episode_count": 301,
-          "last_published": "2026-06-25",
-          "schedule": {
-            "days": [
-              5,
-              5,
-              5,
-              4,
-              4,
-              0,
-              1
-            ],
-            "label": "Daily",
-            "eps_year": 365,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "MoreAliA",
           "id": "spotify:show:4jdSL5Hl5n5UBLiWQZUMR7",
@@ -22564,7 +21066,7 @@
     {
       "name": "Buzzsprout",
       "count": 16,
-      "share": 2.0,
+      "share": 2.1,
       "shows": [
         {
           "title": "Lessons in Meme Culture",
@@ -23072,46 +21574,9 @@
     },
     {
       "name": "Podbean",
-      "count": 13,
+      "count": 12,
       "share": 1.6,
       "shows": [
-        {
-          "title": "The Master Investor Podcast with Wilfred Frost",
-          "id": "spotify:show:1sUFmQrtoxs7n0oyEsaMU3",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f9fc06649d8c6e95f5963153a",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Paradine Productions",
-          "chart_move": "UP",
-          "host_since": "2026-08-08",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feed.podbean.com/TheMasterInvestorPodcast/feed.xml",
-          "owner_name": "Paradine Productions",
-          "owner_email": null,
-          "itunes_author": "Paradine Productions",
-          "website": "https://TheMasterInvestorPodcast.podbean.com",
-          "description": "Hosted by Wilfred Frost, The Master Investor Podcast is for anyone passionate about business and investing. We are pro ambition, celebrate success and provide you the edge. Join us and learn from the most legendary investors and business leaders in the world.",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": "2026-08-03",
-          "schedule": {
-            "days": [
-              9,
-              10,
-              3,
-              2,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Tue & Mon",
-            "eps_year": 56,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Legends of Avantris",
           "id": "spotify:show:15T8pm3JcVIxSGIebmdKDg",
@@ -23510,7 +21975,7 @@
     {
       "name": "AmperWave (Audacy)",
       "count": 11,
-      "share": 1.4,
+      "share": 1.5,
       "shows": [
         {
           "title": "History That Doesn't Suck",
@@ -23925,7 +22390,7 @@
     {
       "name": "Spreaker",
       "count": 11,
-      "share": 1.4,
+      "share": 1.5,
       "shows": [
         {
           "title": "Jung Thoughts",
@@ -24261,46 +22726,9 @@
     },
     {
       "name": "Transistor",
-      "count": 11,
-      "share": 1.4,
+      "count": 10,
+      "share": 1.3,
       "shows": [
-        {
-          "title": "Think Fast Talk Smart: Communication Techniques",
-          "id": "spotify:show:6ll0MwobDt1JW9gYaOONEo",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1feb3cad87ca9039312ea461a5",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Think Fast Talk Smart",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques",
-          "owner_name": "Think Fast Talk Smart",
-          "owner_email": "podcasts@podiumpodcastco.com",
-          "itunes_author": "Matt Abrahams, Think Fast Talk Smart",
-          "website": "https://fastersmarter.io",
-          "description": "One of the most essential ingredients to success in business and life is effective communication. Join Matt Abrahams, best-selling author and Strategic Communication lecturer at Stanford Graduate School of Business, as he interviews experts to provide actionable insights that help you communicate wi…",
-          "cadence": "~2×/week",
-          "episode_count": 344,
-          "last_published": "2026-07-02",
-          "schedule": {
-            "days": [
-              11,
-              0,
-              0,
-              13,
-              0,
-              0,
-              0
-            ],
-            "label": "~2×/week · Thu & Mon",
-            "eps_year": 91,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Let's Find Out",
           "id": "spotify:show:2CQZ9HFBil0w98Ljoubz7d",
@@ -24612,7 +23040,7 @@
     {
       "name": "Unresolved (Spotify-only)",
       "count": 10,
-      "share": 1.2,
+      "share": 1.3,
       "shows": [
         {
           "title": "soundbuttonsspace",
@@ -24860,7 +23288,7 @@
     {
       "name": "Barstool Sports",
       "count": 9,
-      "share": 1.1,
+      "share": 1.2,
       "shows": [
         {
           "title": "Son of a Boy Dad",
@@ -25441,46 +23869,9 @@
     },
     {
       "name": "RedCircle",
-      "count": 7,
-      "share": 0.9,
+      "count": 6,
+      "share": 0.8,
       "shows": [
-        {
-          "title": "Jocko Podcast",
-          "id": "spotify:show:7irxBvxNqGYnUdFo1c2gMc",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f0537dba138113eef7649f3d8",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Jocko DEFCOR Network",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74",
-          "owner_name": "Jocko DEFCOR Network",
-          "owner_email": "echo@flixpoint.net",
-          "itunes_author": "Jocko DEFCOR Network",
-          "website": "https://redcircle.com/shows/jocko-podcast",
-          "description": "Retired Navy SEAL, Jocko Willink and Director, Echo Charles discuss discipline and leadership in business, war, relationships and everyday life.",
-          "cadence": "Weekly",
-          "episode_count": 871,
-          "last_published": "2026-06-24",
-          "schedule": {
-            "days": [
-              11,
-              0,
-              13,
-              0,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Wed & Mon",
-            "eps_year": 74,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
         {
           "title": "Mr. Creeps: Scary Stories & Creepypastas",
           "id": "spotify:show:2rdg1p3kpDgbnDzayMG5Qc",
@@ -25642,213 +24033,9 @@
       "rank": 18
     },
     {
-      "name": "Flightcast",
-      "count": 6,
-      "share": 0.8,
-      "shows": [
-        {
-          "title": "The Diary Of A CEO with Steven Bartlett",
-          "id": "spotify:show:7iQXmUT7XGuZSzAMjoNWlX",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f9ad158f746c0f755d9ba5299",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "FlightStory",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
-          "owner_name": "FlightStory",
-          "owner_email": "steven@stevenbartlett.com",
-          "itunes_author": "DOAC",
-          "website": null,
-          "description": "Steven Bartlett is a British entrepreneur, investor, and author. He’s the founder of Flight Story – a media company – and Flight Fund, an investment fund backing the next generation of category-defining businesses. He created The Diary Of A CEO to share the unfiltered pages of the personal diaries o…",
-          "cadence": "~2×/week",
-          "episode_count": 856,
-          "last_published": "2026-06-25",
-          "schedule": {
-            "days": [
-              8,
-              0,
-              0,
-              8,
-              8,
-              0,
-              0
-            ],
-            "label": "~2×/week",
-            "eps_year": 122,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "The Game with Alex Hormozi",
-          "id": "spotify:show:6YNopzKDGDwf0auIpPTIID",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fc08069229b5067ad92470a8d",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "Alex Hormozi",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
-          "owner_name": "Alex Hormozi",
-          "owner_email": null,
-          "itunes_author": "Alex Hormozi",
-          "website": "https://www.acquisition.com/",
-          "description": "Welcome to The Game w/Alex Hormozi, hosted by entrepreneur, founder, investor, author, public speaker, and content creator Alex Hormozi. On this podcast you’ll hear how to get more customers, make more profit per customer, how to keep them longer, and the many failures and lessons Alex has learned o…",
-          "cadence": "~3×/week",
-          "episode_count": 1130,
-          "last_published": "2026-06-25",
-          "schedule": {
-            "days": [
-              0,
-              12,
-              1,
-              11,
-              0,
-              0,
-              0
-            ],
-            "label": "~3×/week · Tue & Thu",
-            "eps_year": 142,
-            "trend": "accelerating"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "A Bit of Optimism",
-          "id": "spotify:show:0wjYlCNxLDgFUUjZMaP6Dx",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f886f282ed75375faff7e9cb4",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "The Optimism Company from Simon Sinek",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss2.flightcast.com/mbqbwjr8ssv2vt5jgwcv3w20.xml",
-          "owner_name": "The Optimism Company from Simon Sinek",
-          "owner_email": "podcast@simonsinek.com",
-          "itunes_author": "Simon Sinek",
-          "website": "https://www.iheart.com/podcast/269-a-bit-of-optimism-63444439/",
-          "description": "My career is an accident. It started when I set out to rediscover my passion and reignite a spark I’d lost — and that journey led me to the work I do now. If you know me from my books or my speaking, you know I’m fascinated by why people do what they do. What makes someone find joy and meaning in th…",
-          "cadence": "Weekly",
-          "episode_count": 228,
-          "last_published": "2026-06-16",
-          "schedule": {
-            "days": [
-              1,
-              23,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "label": "Weekly · Tuesdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Jesser Reacts",
-          "id": "spotify:show:2i8xTHqvxfhsugMq5H8zz3",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f086ffbf85fd262ef86d80d18",
-          "categories": [
-            "Comedy"
-          ],
-          "publisher": "Jesser Reacts",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss2.flightcast.com/r9a6gund8glm2kqexvrdo9gq.xml",
-          "owner_name": "Gimbal Podcast",
-          "owner_email": "gimbal@gimbalpodcast.com",
-          "itunes_author": "Gimbal Podcast",
-          "website": null,
-          "description": "A podcast from YTJobs about the Creator Economy",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The Standup with ThePrimeagen",
-          "id": "spotify:show:01A062kejnXFkJE01bjN5J",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fbeb3d138ec4af28d3f4a0729",
-          "categories": [
-            "Technology"
-          ],
-          "publisher": "ThePrimeagen",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss2.flightcast.com/pmgqiszts7kfhopzaq8el6yw.xml",
-          "owner_name": "ThePrimeagen",
-          "owner_email": "teej@terminal.shop",
-          "itunes_author": "ThePrimeagen",
-          "website": "https://thestanduppod.com",
-          "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Bankless",
-          "id": "spotify:show:41TNnXSv5ExcQSzEGLlGhy",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fb2a777d89657b11d71e47d67",
-          "categories": [
-            "Technology"
-          ],
-          "publisher": "Bankless",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
-          "owner_name": "Bankless",
-          "owner_email": "david@banklesshq.com",
-          "itunes_author": "Bankless",
-          "website": "http://podcast.banklesshq.com/",
-          "description": "The Ultimate Guide to Crypto Finance. DeFi, NFTs, and cryptocurrencies. Level up. Go bankless.",
-          "cadence": "~4×/week",
-          "episode_count": 1281,
-          "last_published": "2026-06-23",
-          "schedule": {
-            "days": [
-              7,
-              3,
-              3,
-              4,
-              7,
-              0,
-              0
-            ],
-            "label": "~4×/week",
-            "eps_year": 182,
-            "trend": "accelerating"
-          },
-          "rss_video": null
-        }
-      ],
-      "rank": 19
-    },
-    {
       "name": "Fireside",
       "count": 5,
-      "share": 0.6,
+      "share": 0.7,
       "shows": [
         {
           "title": "The Bible in a Year (with Fr. Mike Schmitz)",
@@ -26036,12 +24223,12 @@
           "rss_video": null
         }
       ],
-      "rank": 20
+      "rank": 19
     },
     {
       "name": "Substack",
       "count": 5,
-      "share": 0.6,
+      "share": 0.7,
       "shows": [
         {
           "title": "Boho Beautiful Meditation",
@@ -26177,7 +24364,7 @@
           "rss_video": null
         }
       ],
-      "rank": 21
+      "rank": 20
     },
     {
       "name": "Blubrry",
@@ -26296,6 +24483,99 @@
           "rss_video": null
         }
       ],
+      "rank": 21
+    },
+    {
+      "name": "Flightcast",
+      "count": 3,
+      "share": 0.4,
+      "shows": [
+        {
+          "title": "Jesser Reacts",
+          "id": "spotify:show:2i8xTHqvxfhsugMq5H8zz3",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f086ffbf85fd262ef86d80d18",
+          "categories": [
+            "Comedy"
+          ],
+          "publisher": "Jesser Reacts",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss2.flightcast.com/r9a6gund8glm2kqexvrdo9gq.xml",
+          "owner_name": "Gimbal Podcast",
+          "owner_email": "gimbal@gimbalpodcast.com",
+          "itunes_author": "Gimbal Podcast",
+          "website": null,
+          "description": "A podcast from YTJobs about the Creator Economy",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "The Standup with ThePrimeagen",
+          "id": "spotify:show:01A062kejnXFkJE01bjN5J",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fbeb3d138ec4af28d3f4a0729",
+          "categories": [
+            "Technology"
+          ],
+          "publisher": "ThePrimeagen",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss2.flightcast.com/pmgqiszts7kfhopzaq8el6yw.xml",
+          "owner_name": "ThePrimeagen",
+          "owner_email": "teej@terminal.shop",
+          "itunes_author": "ThePrimeagen",
+          "website": "https://thestanduppod.com",
+          "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Bankless",
+          "id": "spotify:show:41TNnXSv5ExcQSzEGLlGhy",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb2a777d89657b11d71e47d67",
+          "categories": [
+            "Technology"
+          ],
+          "publisher": "Bankless",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
+          "owner_name": "Bankless",
+          "owner_email": "david@banklesshq.com",
+          "itunes_author": "Bankless",
+          "website": "http://podcast.banklesshq.com/",
+          "description": "The Ultimate Guide to Crypto Finance. DeFi, NFTs, and cryptocurrencies. Level up. Go bankless.",
+          "cadence": "~4×/week",
+          "episode_count": 1281,
+          "last_published": "2026-06-23",
+          "schedule": {
+            "days": [
+              7,
+              3,
+              3,
+              4,
+              7,
+              0,
+              0
+            ],
+            "label": "~4×/week",
+            "eps_year": 182,
+            "trend": "accelerating"
+          },
+          "rss_video": null
+        }
+      ],
       "rank": 22
     },
     {
@@ -26381,7 +24661,7 @@
     {
       "name": "PRX",
       "count": 2,
-      "share": 0.2,
+      "share": 0.3,
       "shows": [
         {
           "title": "Song Exploder",
@@ -26463,7 +24743,7 @@
     {
       "name": "Thmanyah",
       "count": 2,
-      "share": 0.2,
+      "share": 0.3,
       "shows": [
         {
           "title": "𐙚 𝙍𝙖𝙣𝙙𝙤𝙢 𝘼𝙪𝙙𝙞𝙤'𝙨 (𝙉𝙎𝙁𝙒)",
@@ -26808,1850 +25088,7 @@
   ],
   "by_category": {
     "Business": {
-      "platforms": [
-        {
-          "name": "Megaphone",
-          "count": 29,
-          "share": 58.0,
-          "shows": [
-            {
-              "title": "Financial Audit",
-              "id": "spotify:show:1Ii04MZEAoxLdHnjRtd5cG",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fba945e0d7cce7ae5b87d49d0",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Caleb Hammer",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.pdrl.fm/243632/feeds.megaphone.fm/ROOSTER4571910246",
-              "owner_name": "Caleb Hammer",
-              "owner_email": "calebhammer@creatorsagency.co",
-              "itunes_author": "Caleb Hammer",
-              "website": null,
-              "description": "Personal finance nerd at heart! Making content to entertain and educate. Want to be on the show? Email us at casting@calebhammer.com Sponsorship and business inquiries: business@calebhammer.com Get new episodes a week earlier on our YouTube channel!",
-              "cadence": "~3×/week",
-              "episode_count": 388,
-              "last_published": "2026-06-24",
-              "schedule": {
-                "days": [
-                  9,
-                  0,
-                  7,
-                  0,
-                  8,
-                  0,
-                  0
-                ],
-                "label": "~2×/week · Mon & Fri",
-                "eps_year": 123,
-                "trend": "accelerating"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Morning Brew Daily",
-              "id": "spotify:show:7nc7OQdPTekErtFSRxOBKh",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f5a4d74133cba89107080eb15",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Morning Brew",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/MOBI8777994188",
-              "owner_name": "Morning Brew",
-              "owner_email": "morningbrewdaily@morningbrew.com",
-              "itunes_author": "Morning Brew",
-              "website": "https://mbdailyshow.com",
-              "description": "Morning Brew Daily, a daily talk show that covers the latest news on business, the economy, and everything else, with Neal Freyman and Toby Howell. Witty, informative and everything you need to start your day. Available on all podcasting platforms and Youtube.",
-              "cadence": "Daily",
-              "episode_count": 878,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  5,
-                  5,
-                  5,
-                  5,
-                  4,
-                  0,
-                  0
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Ramsey Show",
-              "id": "spotify:show:5exfRPDNCBHmntEkJrlLmX",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ffb6a67da4acead131c6a5516",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Ramsey Network",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/RM4031649020",
-              "owner_name": "Ramsey Network",
-              "owner_email": "ask@ramseysolutions.com",
-              "itunes_author": "Ramsey Network",
-              "website": "https://www.ramseysolutions.com/shows/the-ramsey-show",
-              "description": "The Ramsey Show believes you can build wealth and take control of your life—no matter what stupid mistakes you've made with money. Join as Dave Ramsey and his team of experts answer your questions on the top problems holding you back. Listen now or ask your question live by calling 888.825.5225 week…",
-              "cadence": "Daily",
-              "episode_count": 1772,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  5,
-                  5,
-                  5,
-                  5,
-                  4,
-                  0,
-                  0
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Prof G Markets",
-              "id": "spotify:show:7syF2ry9j6nqYc656WHBA7",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f52960336b940e96fb6c74d4c",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Vox Media Podcast Network",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/profgmarkets",
-              "owner_name": "Prof G Media & Vox Media",
-              "owner_email": "podcasting@voxmedia.com",
-              "itunes_author": "Vox Media Podcast Network",
-              "website": "https://podcasts.voxmedia.com/show/prof-g-markets",
-              "description": "Prof G Markets is your daily briefing on the news moving markets — from earnings and geopolitics, to Big Tech and AI. Hosted by Scott Galloway and Ed Elson, we cut through the noise with no-BS analysis. Tune in to understand what's happening, why it matters, and how to stay ahead. Fast takes. Clear…",
-              "cadence": "Daily",
-              "episode_count": 356,
-              "last_published": "2026-06-25",
-              "schedule": {
-                "days": [
-                  4,
-                  5,
-                  5,
-                  5,
-                  4,
-                  0,
-                  1
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "BigDeal",
-              "id": "spotify:show:6N6KqZOQeu7srMoEzSjNj2",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f90aad320fdc5fb68aca0ddb9",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Codie Sanchez",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/bigdeal",
-              "owner_name": "Codie Sanchez",
-              "owner_email": "david@contrarianthink.com",
-              "itunes_author": "Codie Sanchez",
-              "website": "https://contrarianthinking.co/",
-              "description": "You can change your life and make a dent on the world. This podcast uncovers the unfiltered lessons from the smartest minds straight to you, in conversations so honest you feel guilty listening in. We believe the current way of thinking is not working. The average person has become unhappy, unhealth…",
-              "cadence": "Weekly",
-              "episode_count": 150,
-              "last_published": "2026-06-22",
-              "schedule": {
-                "days": [
-                  8,
-                  4,
-                  6,
-                  6,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly",
-                "eps_year": 76,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Iced Coffee Hour",
-              "id": "spotify:show:5c2uoXBQkOjIiCOf60jJj7",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f3b50cfe272532295c7e1a2e0",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Graham Stephan/Jack Selby",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/IMP2294070354",
-              "owner_name": "Graham Stephan/Jack Selby",
-              "owner_email": "tmatsradio@gmail.com",
-              "itunes_author": "Graham Stephan/Jack Selby",
-              "website": "https://podcasters.spotify.com/pod/show/jack-selby4",
-              "description": "\"The Iced Coffee Hour\" is a podcast hosted by Graham Stephan and Jack Selby that explores candid conversations with a diverse collection of guests, delving into their unique life journeys, successes, finances, and insights.",
-              "cadence": "Weekly",
-              "episode_count": 343,
-              "last_published": "2026-06-28",
-              "schedule": {
-                "days": [
-                  2,
-                  0,
-                  1,
-                  3,
-                  2,
-                  0,
-                  16
-                ],
-                "label": "Weekly · Sundays",
-                "eps_year": 56,
-                "trend": "slowing"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Behind the Business with Michelle Toh",
-              "id": "spotify:show:2JD80MedbyMp6yTXyaC3oj",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f35d4cff6008ae90073116b42",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Michelle Toh",
-              "chart_move": "DOWN",
-              "host_since": "2026-08-09",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/IMP8021675086",
-              "owner_name": "Michelle Toh",
-              "owner_email": "team@behindthebusinesspod.com",
-              "itunes_author": "Michelle Toh",
-              "website": "https://www.behindthebusinesspod.com",
-              "description": "Behind the Business is a Webby Award-winning video podcast hosted by CNN and FORTUNE alum Michelle Toh that explores the decisions and philosophies behind some of today's most influential leaders. Its new season features the leaders of Airbnb, Rivian, NYSE, Samsung, Canva, Revolve, Peloton, Poppi an…",
-              "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": "2026-08-06",
-              "schedule": {
-                "days": [
-                  1,
-                  1,
-                  3,
-                  11,
-                  2,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Thursdays",
-                "eps_year": 51,
-                "trend": "slowing"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Money Guy Show",
-              "id": "spotify:show:0W7lo4UBMghDAdrTBCTXXW",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f0d68b4f5b7fd0fda30c7b481",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Brian Preston, CPA, CFP®, PFS and Bo Hanson, CFA, CFP® | Fee-Only Fiduciary Advisors",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/moneyguyshow",
-              "owner_name": "Brian Preston, CPA, CFP®, PFS and Bo Hanson, CFA, CFP® | Fee-Only Fiduciary Advisors",
-              "owner_email": "support@moneyguy.com",
-              "itunes_author": "Brian Preston and Bo Hanson",
-              "website": "https://moneyguy.com/",
-              "description": "Bring confidence to your wealth building with simplified strategies from The Money Guy. Learn how to apply financial tactics that go beyond common sense and help you reach your money goals faster. Make your assets do the heavy lifting so you can quit worrying and start living a more fulfilled life.",
-              "cadence": "~4×/week",
-              "episode_count": 1305,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  8,
-                  0,
-                  8,
-                  0,
-                  8,
-                  0,
-                  0
-                ],
-                "label": "~4×/week",
-                "eps_year": 182,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Prof G Pod with Scott Galloway",
-              "id": "spotify:show:5Ob5psTjoUtIGYxKUp2QVy",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fd3e286e845a52a34c9aa65b9",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Vox Media Podcast Network",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/WWO6655869236",
-              "owner_name": "Vox Media Podcast Network",
-              "owner_email": "podcasting@voxmedia.com",
-              "itunes_author": "Vox Media Podcast Network",
-              "website": "https://profgmedia.com/",
-              "description": "Scott Galloway — bestselling author, professor, entrepreneur — doesn't pull punches on business, tech, culture, or life. New episodes every day of the week. To resist is futile… Want to get in touch? Email us at info@profgmedia.com. Want to be featured on Office Hours? Email us at officehours@profgm…",
-              "cadence": "Daily",
-              "episode_count": 1146,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  4,
-                  4,
-                  5,
-                  5,
-                  3,
-                  3,
-                  0
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Money For Couples with Ramit Sethi",
-              "id": "spotify:show:11ktWYpzznMCpvGtXsiYxE",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f4ed2cc2e684d82c981729bdc",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Ramit Sethi",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/IWTYB6912370287/",
-              "owner_name": "Ramit Sethi",
-              "owner_email": "svcs-acct@iwt.com",
-              "itunes_author": "Ramit Sethi",
-              "website": "https://iwt.com/podcast",
-              "description": "Get Ramit's new book, Money for Couples at iwt.com/moneyforcouples. From Ramit Sethi, host of Netflix’s ‘How to Get Rich’ and author of NYT bestselling books, ‘I Will Teach You To Be Rich,’ and ‘Money for Couples’… Imagine listening in on raw, unfiltered conversations with real couples, to explore h…",
-              "cadence": "Weekly",
-              "episode_count": 268,
-              "last_published": "2026-06-16",
-              "schedule": {
-                "days": [
-                  0,
-                  24,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Tuesdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Invest Like the Best with Patrick O'Shaughnessy",
-              "id": "spotify:show:22fi0RqfoBACCuQDv97wFO",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f89579acf0ef2e358b97c2bf4",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Colossus | Investing & Business Podcasts",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/CLS2859450455",
-              "owner_name": "Colossus",
-              "owner_email": "dom@joincolossus.com",
-              "itunes_author": "Colossus | Investing & Business Podcasts",
-              "website": "https://colossus.com/",
-              "description": "Conversations with the best investors and business leaders in the world. We explore their ideas, methods, and stories to help you better invest your time and money. Hear stock market and boardroom insights you can't find anywhere else. If you're a professional investor, CEO, entrepreneur, or busines…",
-              "cadence": "Weekly",
-              "episode_count": 585,
-              "last_published": "2026-06-23",
-              "schedule": {
-                "days": [
-                  0,
-                  16,
-                  6,
-                  2,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Tuesdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Lemonade Stand",
-              "id": "spotify:show:0Yz44z9z3t8VQu4WRmsrs6",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f45219dbc5b24e2f702a56613",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Vox Media Podcast Network",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/VMP5629614579",
-              "owner_name": "Vox Media Podcast Network",
-              "owner_email": "podcasting+ls@voxmedia.com",
-              "itunes_author": "Vox Media Podcast Network",
-              "website": "http://podcasts.voxmedia.com/show/lemonade-stand",
-              "description": "Three guys with the expertise to run a lemonade stand explain the world of business. a podcast by Aiden, Atrioc, and DougDoug. Part of the Vox Media Podcast Network.",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "The Compound and Friends",
-              "id": "spotify:show:5VKsKPZUtwVylxslLie36k",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f7f292b6efc32815e2166163a",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Josh Brown",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/TCP4771071679",
-              "owner_name": "Josh Brown",
-              "owner_email": "duncan@ritholtzwealth.com",
-              "itunes_author": "The Compound",
-              "website": "https://thereformedbroker.com/podcast/",
-              "description": "Join Downtown Josh Brown, Michael Batnick, and a rotation of their friends every Tuesday and Friday for expert insight and hot takes on the latest in business and investing. See our disclosures here - https://ritholtzwealth.com/podcast-youtube-disclosures/",
-              "cadence": "~3×/week",
-              "episode_count": 580,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  5,
-                  9,
-                  1,
-                  0,
-                  9,
-                  0,
-                  0
-                ],
-                "label": "~3×/week · Tue & Fri",
-                "eps_year": 151,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Founders",
-              "id": "spotify:show:7txiovdzPARhjm18NwMUYj",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f6e9e6f6b20ff4b7b5b0cee75",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "David Senra",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/DSLLC6297708582",
-              "owner_name": "David Senra",
-              "owner_email": "david@founderspodcast.com",
-              "itunes_author": "David Senra",
-              "website": "https://www.founderspodcast.com/",
-              "description": "Learn from history's greatest entrepreneurs. Every week I read a biography of an entrepreneur and find ideas you can use in your work. This quote explains why: \"There are thousands of years of history in which lots and lots of very smart people worked very hard and ran all types of experiments on ho…",
-              "cadence": "Biweekly",
-              "episode_count": 447,
-              "last_published": "2026-06-20",
-              "schedule": {
-                "days": [
-                  2,
-                  4,
-                  4,
-                  5,
-                  1,
-                  2,
-                  6
-                ],
-                "label": "Weekly",
-                "eps_year": 39,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "My First Million",
-              "id": "spotify:show:3mliji9352UAk3XnWElnDV",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f35af1b9c3ee719329f85f229",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Hubspot",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/HS2300184645",
-              "owner_name": "Hubspot",
-              "owner_email": "podcasts@hubspot.com",
-              "itunes_author": "Hubspot Media",
-              "website": "https://www.mfmpod.com/",
-              "description": "Sam Parr and Shaan Puri brainstorm new business ideas based on trends & opportunities they see in the market. Sometimes they bring on famous guests to brainstorm with them.",
-              "cadence": "~2×/week",
-              "episode_count": 876,
-              "last_published": "2026-06-18",
-              "schedule": {
-                "days": [
-                  2,
-                  6,
-                  6,
-                  5,
-                  5,
-                  0,
-                  0
-                ],
-                "label": "~2×/week",
-                "eps_year": 116,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Moonshots with Peter Diamandis",
-              "id": "spotify:show:5Y1NyT6srGx38f5LINbH6c",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f2c33a17267fd1e99d551f2b4",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "PHD Ventures",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/DVVTS2890392624",
-              "owner_name": "PHD Ventures",
-              "owner_email": "danna@diamandis.com",
-              "itunes_author": "PHD Ventures",
-              "website": "https://www.diamandis.com/podcast",
-              "description": "Tracking the future of technology and how it impacts humanity. Named by Fortune as one of the “World’s 50 Greatest Leaders,” Peter H. Diamandis, MD, is a founder, investor, advisor, and best-selling author. Join Peter on his mission to uplift humanity through technology. Follow Peter on X - https://…",
-              "cadence": "~2×/week",
-              "episode_count": 270,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  5,
-                  3,
-                  3,
-                  5,
-                  1,
-                  7,
-                  0
-                ],
-                "label": "~2×/week",
-                "eps_year": 113,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Motley Fool Hidden Gems Investing",
-              "id": "spotify:show:7tXRc97C1fA0epHAGQuJOE",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f30b45cc2e8dcc5a48a45da1c",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "The Motley Fool",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/ARML8165884693",
-              "owner_name": "The Motley Fool",
-              "owner_email": "radio@fool.com",
-              "itunes_author": "The Motley Fool",
-              "website": "https://www.fool.com/podcasts/motley-fool-money",
-              "description": "Motley Fool Hidden Gems Investing is a daily podcast for stock investors. Weekday episodes offer a long-term perspective on business news with The Motley Fool's investment analysts. Weekend shows are a mix of personal finance and longer-form interviews.",
-              "cadence": "Daily",
-              "episode_count": 2000,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  4,
-                  4,
-                  4,
-                  3,
-                  3,
-                  3,
-                  3
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Smart Money Happy Hour with Rachel Cruze and George Kamel",
-              "id": "spotify:show:3nki9O2HLDgV6RB4ZvasY7",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fc986338ad1a5b093a4983d2b",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Ramsey Network",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/smartmoneyhappyhour",
-              "owner_name": "Ramsey Network",
-              "owner_email": "smhhs@ramseysolutions.com",
-              "itunes_author": "Ramsey Network",
-              "website": "https://www.ramseysolutions.com/shows?snid=shows-and-events",
-              "description": "Pull up a chair to the happy hour you wish your friends were having. Mix two money experts with some hot takes and a splash of nostalgia, and you get Rachel Cruze and George Kamel talking unfiltered about what’s going on in the world, pop culture, and how to afford a life you love.",
-              "cadence": "Weekly",
-              "episode_count": 200,
-              "last_published": "2026-06-18",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  0,
-                  24,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Thursdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "George Kamel",
-              "id": "spotify:show:7IoPNtknM8HfOo9F5cFJba",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f4aa9701554479b7783b1346c",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Ramsey Network",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/georgekamel",
-              "owner_name": "Ramsey Network",
-              "owner_email": "eric.cieslewicz@ramseysolutions.com",
-              "itunes_author": "Ramsey Network",
-              "website": "https://www.ramseysolutions.com/george-kamel",
-              "description": "George Kamel is a personal finance expert and co-host of The Ramsey Show and Smart Money Happy Hour. Following Ramsey’s proven money plan, George went from negative net worth to a millionaire in under 10 years. His goal is to help people spend less, save more, and avoid money traps so they can live…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "The Personal Finance Podcast",
-              "id": "spotify:show:1zVBTDKimC3UoOQy59KDrR",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ff89a114548b7104b1110a793",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Andrew Giancola ",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/LLL5449685314",
-              "owner_name": "Andrew Giancola",
-              "owner_email": "giancola.andrew@gmail.com",
-              "itunes_author": "Andrew Giancola",
-              "website": "www.thepersonalfinancepodcast.com",
-              "description": "Andrew Giancola from Master Money reveals all of his personal finance, money, investing, business strategies, income sources, stock, and real estate investing tips so that you can build more wealth than you ever thought possible. Discover how to increase your income at your job and create multiple p…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "Aspire with Emma Grede",
-              "id": "spotify:show:39poaGO6oBRFN6cVOIl4yL",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f3261efa7f5a261fa7ce248e7",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Emma Grede | Audacy",
-              "chart_move": "UP",
-              "host_since": "2026-07-05",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/emma-grede",
-              "owner_name": "E13 Media",
-              "owner_email": "audacystudios@audacy.com",
-              "itunes_author": "Emma Grede | Audacy",
-              "website": "https://emmagrede.me",
-              "description": "Build the life of your dreams and learn from the world’s most successful people. Emma Grede, one of America’s richest self-made women, wants you to make the most of your life. On ‘Aspire with Emma Grede', learn through thought-provoking conversations with some of the most successful and smartest min…",
-              "cadence": "Weekly",
-              "episode_count": 75,
-              "last_published": "2026-06-23",
-              "schedule": {
-                "days": [
-                  0,
-                  18,
-                  0,
-                  6,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Tuesdays",
-                "eps_year": 73,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Colin and Samir Show",
-              "id": "spotify:show:5QaSbbv2eD4SFrlFR6IyY7",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f1ca2dd0404b7b8696bec561c",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Colin and Samir",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/LI6529969937",
-              "owner_name": "Colin and Samir",
-              "owner_email": "samir@publishprojects.com",
-              "itunes_author": "Colin and Samir",
-              "website": "http://youtube.com/colinandsamir",
-              "description": "Hey, We’re Colin and Samir, YouTube creators and podcasters that break down the latest news in the creator economy from a creator's perspective. We have a long history building communities and brands through digital content. New episodes of The Colin and Samir show go live every Monday on Spotify an…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "BiggerPockets Real Estate Podcast",
-              "id": "spotify:show:23JyccHPmQ8fzmpmnvQ6hR",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fc21f40e20116b2fa83aeebc5",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "BiggerPockets",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/BIGPOC7198720365",
-              "owner_name": "BiggerPockets",
-              "owner_email": "podcast@biggerpockets.com",
-              "itunes_author": "BiggerPockets",
-              "website": "https://www.biggerpockets.com/podcasts/real-estate",
-              "description": "Want financial freedom through real estate investing? Then the BiggerPockets Real Estate Podcast is for you. Sit down every Monday, Wednesday, and Friday with Dave Meyer, the Head of Real Estate at BiggerPockets, as he uncovers tried and true tactics and shares candid conversations with real estate…",
-              "cadence": "~4×/week",
-              "episode_count": 1324,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  8,
-                  0,
-                  8,
-                  0,
-                  8,
-                  0,
-                  0
-                ],
-                "label": "~4×/week",
-                "eps_year": 182,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Barn Talk ",
-              "id": "spotify:show:3icVr4KWq4eUDl7Oy60YMY",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fffb54b9a49edfab98d5613d5",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Tork and Sawyer Whisler",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/TAMTD8073577965",
-              "owner_name": "Tork and Sawyer Whisler",
-              "owner_email": "barntalkshow@gmail.com",
-              "itunes_author": "Tork and Sawyer Whisler",
-              "website": "https://www.joinbarntalk.com/",
-              "description": "Barn Talk is a weekly podcast, hosted by father-son duo Sawyer & Tork Whisler. We exist to share content that educates, inspires, and makes viewers laugh out loud. From the Ag business world to investing, current events, entrepreneurship and much, much more, our vision is to promote agriculture in a…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "David Senra",
-              "id": "spotify:show:7jVjHrQJCbgruHkhrFi94A",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fcbca1385f91d269a5f541d18",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Scicomm Media",
-              "chart_move": "UP",
-              "host_since": "2026-07-11",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/david-senra",
-              "owner_name": "Scicomm Media",
-              "owner_email": "podcast-verification@scicommedia.com",
-              "itunes_author": "Scicomm Media",
-              "website": "https://www.davidsenra.com",
-              "description": "Conversations with the greatest living founders.",
-              "cadence": "Weekly",
-              "episode_count": 28,
-              "last_published": "2026-07-05",
-              "schedule": {
-                "days": [
-                  0,
-                  1,
-                  0,
-                  0,
-                  0,
-                  0,
-                  23
-                ],
-                "label": "Weekly · Sundays",
-                "eps_year": 41,
-                "trend": "accelerating"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Animal Spirits Podcast",
-              "id": "spotify:show:71siUnIMn0iQY7Kz5BQSqJ",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ff1edfc561ea4b41b2d9b6591",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "The Compound",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/TCP6464651487",
-              "owner_name": "The Compound",
-              "owner_email": "animalspiritspod@gmail.com",
-              "itunes_author": "The Compound",
-              "website": "https://awealthofcommonsense.com/podcast/",
-              "description": "Animal Spirits is a show about markets, life, and investing. Join Michael Batnick and Ben Carlson as they talk about what they're reading, writing, listening to and watching. Look for new episodes every Wednesday morning. See our disclosures here - https://ritholtzwealth.com/podcast-youtube-disclosu…",
-              "cadence": "~4×/week",
-              "episode_count": 800,
-              "last_published": "2026-07-01",
-              "schedule": {
-                "days": [
-                  12,
-                  0,
-                  12,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "~4×/week · Mon & Wed",
-                "eps_year": 182,
-                "trend": "accelerating"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Level Up Podcast w/ Paul Alex",
-              "id": "spotify:show:5LcpkTtl2x1na6PGLSIY0B",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f80d62b1f379789a35c425164",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Paul Alex Espinoza",
-              "chart_move": "UP",
-              "host_since": "2026-08-12",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.pdrl.fm/0c37ea/feeds.megaphone.fm/ARML5552075612",
-              "owner_name": "Paul Alex Espinoza",
-              "owner_email": "paul@cashswipe.com",
-              "itunes_author": "Paul Alex Espinoza",
-              "website": "https://officialpaulalex.com/",
-              "description": "Welcome to The Level Up Podcast with Paul Alex, where real stories fuel real success. I’m Paul Alex, ex-Detective turned 8-figure entrepreneur. After leaving law enforcement, I built multiple businesses helping everyday people create residual income and freedom on their own terms. This podcast isn’t…",
-              "cadence": "Daily",
-              "episode_count": 1083,
-              "last_published": "2026-08-12",
-              "schedule": {
-                "days": [
-                  4,
-                  6,
-                  5,
-                  1,
-                  2,
-                  3,
-                  3
-                ],
-                "label": "Daily",
-                "eps_year": 730,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Knowledge Project",
-              "id": "spotify:show:1VyK52NSZHaDKeMJzT4TSM",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f9a82b54e2d80acfcd553ed5f",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Shane Parrish",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/FSMI7575968096",
-              "owner_name": "Shane Parrish",
-              "owner_email": "shane@fs.blog",
-              "itunes_author": "Shane Parrish",
-              "website": "https://fs.blog/knowledge-project-podcast/",
-              "description": "Uncovering the timeless principles that drive success.",
-              "cadence": "Weekly",
-              "episode_count": 281,
-              "last_published": "2026-06-09",
-              "schedule": {
-                "days": [
-                  0,
-                  21,
-                  1,
-                  1,
-                  0,
-                  1,
-                  0
-                ],
-                "label": "Weekly · Tuesdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Financial Tea with Mrs. Dow Jones",
-              "id": "spotify:show:58anKIbkGzd5MkI3v0BjY2",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fe4ce62ea6305bc534f817baa",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Sony Music",
-              "chart_move": "DOWN",
-              "host_since": "2026-07-01",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/financialtea",
-              "owner_name": "Sony Music",
-              "owner_email": "podcasts@sonymusic.com",
-              "itunes_author": "Sony Music Entertainment",
-              "website": null,
-              "description": "Financial Tea is your VIP ticket into the world of money, power, and culture. Every Thursday, Haley Sacks (aka Mrs. Dow Jones) breaks down the money moves, markets, and mindsets you need to build wealth and live smarter. With guests ranging from billionaires to financial rebels, you’ll leave every e…",
-              "cadence": "Weekly",
-              "episode_count": 25,
-              "last_published": "2026-06-25",
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
-          "rank": 1
-        },
-        {
-          "name": "Simplecast",
-          "count": 4,
-          "share": 8.0,
-          "shows": [
-            {
-              "title": "Planet Money",
-              "id": "spotify:show:4FYpq3lSeQMAhqNI81O0Cn",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fba50e2aeaa4c75e693ad3617",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "NPR",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.npr.org/510289/podcast.xml",
-              "owner_name": "NPR",
-              "owner_email": "podcasts@npr.org",
-              "itunes_author": "NPR",
-              "website": "https://www.npr.org/podcasts/510289/planet-money",
-              "description": "Wanna see a trick? Give us any topic and we can tie it back to the economy. At Planet Money , we explore the forces that shape our lives and bring you along for the ride. Don't just understand the economy – understand the world. Wanna go deeper? Subscribe to Planet Money+ and get sponsor-free episod…",
-              "cadence": "~2×/week",
-              "episode_count": 655,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  12,
-                  0,
-                  9,
-                  3,
-                  0
-                ],
-                "label": "~2×/week · Wed & Fri",
-                "eps_year": 87,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Indicator from Planet Money",
-              "id": "spotify:show:4X3yDKgVTWRjSd6r0vhgo4",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f1963f756582c7b56d62c13fd",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "NPR",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.npr.org/510325/podcast.xml",
-              "owner_name": "NPR",
-              "owner_email": "podcasts@npr.org",
-              "itunes_author": "NPR",
-              "website": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
-              "description": "A bite-sized show about big ideas. From the people who make Planet Money , The Indicator helps you make sense of what's happening in today's economy. It's a quick hit of insight into money, work, and business. Monday through Friday, in 10 minutes or less. Sign up for our newsletter .",
-              "cadence": "Daily",
-              "episode_count": 1047,
-              "last_published": "2026-06-26",
-              "schedule": {
-                "days": [
-                  5,
-                  5,
-                  5,
-                  5,
-                  4,
-                  0,
-                  0
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Economics of Everyday Things",
-              "id": "spotify:show:2dt6QUvLNA3B76II80Q0Dv",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fe49016c1e59867ab4b2eb4e4",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Freakonomics Network & Zachary Crockett",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.simplecast.com/ob9OSBIN",
-              "owner_name": "Freakonomics Network",
-              "owner_email": "editor@freakonomics.com",
-              "itunes_author": "Freakonomics Network & Zachary Crockett",
-              "website": "https://freakonomics.com",
-              "description": "Who decides which snacks are in your office’s vending machine? How much is a suburban elm tree worth, and to whom? How did Girl Scout Cookies become a billion-dollar business? In bite-sized episodes, journalist Zachary Crockett looks at quotidian things and finds amazing stories. To get every show i…",
-              "cadence": "~2×/week",
-              "episode_count": 194,
-              "last_published": "2026-06-25",
-              "schedule": {
-                "days": [
-                  12,
-                  0,
-                  0,
-                  12,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "~2×/week · Mon & Thu",
-                "eps_year": 122,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Finding Peak with Ryan Hanley",
-              "id": "spotify:show:5AZFuTiQsgS9hMQDDdtlOr",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f5cdc9acb34ad03f4d034bf47",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Ryan Hanley",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-07-05",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.simplecast.com/FRhlISgU",
-              "owner_name": "Ryan Hanley",
-              "owner_email": "ryan@findingpeak.com",
-              "itunes_author": "Ryan Hanley",
-              "website": "https://redcircle.com/shows/finding-peak-ryan-hanley",
-              "description": "Where unreasonable people sit down to discuss their Easy Mode, that thing they do that looks like cheating to everyone else...",
-              "cadence": "~2×/week",
-              "episode_count": 450,
-              "last_published": "2026-06-29",
-              "schedule": {
-                "days": [
-                  6,
-                  4,
-                  2,
-                  8,
-                  3,
-                  0,
-                  1
-                ],
-                "label": "~2×/week",
-                "eps_year": 93,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 2
-        },
-        {
-          "name": "Spotify/Anchor",
-          "count": 4,
-          "share": 8.0,
-          "shows": [
-            {
-              "title": "PBD Podcast",
-              "id": "spotify:show:3FVOp5guWNV4b0S9pfuVcw",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f8acb2759f389a24949c57b2a",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "PBD Podcast",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/2fa50a94/podcast/rss",
-              "owner_name": "PBD Podcast",
-              "owner_email": "betdavidpodcast@gmail.com",
-              "itunes_author": "PBD Podcast",
-              "website": "http://www.patrickbetdavid.com",
-              "description": "The PBD Podcast, hosted by Patrick Bet-David, delivers engaging conversations on business, entrepreneurship, current events, politics, and sports. Live every Monday, Wednesday, and Friday at 9:00 AM EST with the Home Team and special guests, the show brings real-time reactions and dynamic discussion…",
-              "cadence": "~4×/week",
-              "episode_count": 901,
-              "last_published": "2026-06-24",
-              "schedule": {
-                "days": [
-                  5,
-                  3,
-                  6,
-                  3,
-                  7,
-                  0,
-                  0
-                ],
-                "label": "Daily",
-                "eps_year": 260,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Rich Habits Podcast",
-              "id": "spotify:show:4f0FqGtlkUStUcB6hZI6Yi",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f04c77fb7712d19fc8b26ae61",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Austin Hankwitz and Robert Croak ",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/db1a9380/podcast/rss",
-              "owner_name": "Austin Hankwitz and Robert Croak",
-              "owner_email": "richhabitspodcast@gmail.com",
-              "itunes_author": "Austin Hankwitz and Robert Croak",
-              "website": "https://richhabitspodcast.com/",
-              "description": "Introducing the Rich Habits Podcast — a financial literacy podcast for anyone ready to take back control of their money by implementing new habits. Join Robert Croak and Austin Hankwitz every Monday, Thursday, and Friday as they demystify the financial habits of the rich, share their own mistakes an…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "The Rundown",
-              "id": "spotify:show:0VYfS0q26zf0cFc5VuCjwG",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f255d2c33d86a1e5b275258c2",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Public.com",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/f06a1be8/podcast/rss",
-              "owner_name": "Public.com",
-              "owner_email": "mike+therundown@public.com",
-              "itunes_author": "Public.com",
-              "website": "https://hoo.be/therundown",
-              "description": "Daily stock market update in under 10 minutes. Stay up to date with the companies making the biggest moves and learn about the economic news that can help you be a better investor. Hosted by Zaid Admani. Created by Public.com.",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "The Koerner Office - Business Ideas and Deep Dives with Chris Koerner",
-              "id": "spotify:show:1ciAGBave5Cv9hdvB9SFAh",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f6606966c87d3c3034b14fa51",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Chris Koerner",
-              "chart_move": "UP",
-              "host_since": "2026-06-21",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/10796c924/podcast/rss",
-              "owner_name": "Chris Koerner",
-              "owner_email": "chris@cofounders.com",
-              "itunes_author": "Chris Koerner",
-              "website": "http://tkopod.com",
-              "description": "Hey, I'm Chris Koerner - serial entrepreneur, business ideas addict, and your new ADHD business ideas best friend. I've started 75 businesses, with 10 of them being worth 7-8+ figures. I love startup ideas! Want to make money, grow a business, or just start a side hustle? You're in the right spot. T…",
-              "cadence": "~2×/week",
-              "episode_count": 400,
-              "last_published": "2026-06-23",
-              "schedule": {
-                "days": [
-                  1,
-                  11,
-                  0,
-                  0,
-                  12,
-                  0,
-                  0
-                ],
-                "label": "~2×/week · Fri & Tue",
-                "eps_year": 104,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 3
-        },
-        {
-          "name": "Flightcast",
-          "count": 3,
-          "share": 6.0,
-          "shows": [
-            {
-              "title": "The Diary Of A CEO with Steven Bartlett",
-              "id": "spotify:show:7iQXmUT7XGuZSzAMjoNWlX",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f9ad158f746c0f755d9ba5299",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "FlightStory",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
-              "owner_name": "FlightStory",
-              "owner_email": "steven@stevenbartlett.com",
-              "itunes_author": "DOAC",
-              "website": null,
-              "description": "Steven Bartlett is a British entrepreneur, investor, and author. He’s the founder of Flight Story – a media company – and Flight Fund, an investment fund backing the next generation of category-defining businesses. He created The Diary Of A CEO to share the unfiltered pages of the personal diaries o…",
-              "cadence": "~2×/week",
-              "episode_count": 856,
-              "last_published": "2026-06-25",
-              "schedule": {
-                "days": [
-                  8,
-                  0,
-                  0,
-                  8,
-                  8,
-                  0,
-                  0
-                ],
-                "label": "~2×/week",
-                "eps_year": 122,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "The Game with Alex Hormozi",
-              "id": "spotify:show:6YNopzKDGDwf0auIpPTIID",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fc08069229b5067ad92470a8d",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Alex Hormozi",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
-              "owner_name": "Alex Hormozi",
-              "owner_email": null,
-              "itunes_author": "Alex Hormozi",
-              "website": "https://www.acquisition.com/",
-              "description": "Welcome to The Game w/Alex Hormozi, hosted by entrepreneur, founder, investor, author, public speaker, and content creator Alex Hormozi. On this podcast you’ll hear how to get more customers, make more profit per customer, how to keep them longer, and the many failures and lessons Alex has learned o…",
-              "cadence": "~3×/week",
-              "episode_count": 1130,
-              "last_published": "2026-06-25",
-              "schedule": {
-                "days": [
-                  0,
-                  12,
-                  1,
-                  11,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "~3×/week · Tue & Thu",
-                "eps_year": 142,
-                "trend": "accelerating"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "A Bit of Optimism",
-              "id": "spotify:show:0wjYlCNxLDgFUUjZMaP6Dx",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f886f282ed75375faff7e9cb4",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "The Optimism Company from Simon Sinek",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss2.flightcast.com/mbqbwjr8ssv2vt5jgwcv3w20.xml",
-              "owner_name": "The Optimism Company from Simon Sinek",
-              "owner_email": "podcast@simonsinek.com",
-              "itunes_author": "Simon Sinek",
-              "website": "https://www.iheart.com/podcast/269-a-bit-of-optimism-63444439/",
-              "description": "My career is an accident. It started when I set out to rediscover my passion and reignite a spark I’d lost — and that journey led me to the work I do now. If you know me from my books or my speaking, you know I’m fascinated by why people do what they do. What makes someone find joy and meaning in th…",
-              "cadence": "Weekly",
-              "episode_count": 228,
-              "last_published": "2026-06-16",
-              "schedule": {
-                "days": [
-                  1,
-                  23,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Tuesdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 4
-        },
-        {
-          "name": "Art19",
-          "count": 2,
-          "share": 4.0,
-          "shows": [
-            {
-              "title": "The Tim Ferriss Show",
-              "id": "spotify:show:5qSUyCrk9KR69lEiXbjwXM",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1faebf288621ea86c79d44f12f",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/tim-ferriss-show",
-              "owner_name": "Tim Ferriss",
-              "owner_email": "tim@fourhourbody.com",
-              "itunes_author": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-              "website": "https://tim.blog/podcast",
-              "description": "Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages. Newsweek calls him \"the world's best human guinea pig,\" and The New York Times calls him \"a cross between Jack Welch and a Buddhist monk.\" In this show, he dec…",
-              "cadence": "Weekly",
-              "episode_count": 875,
-              "last_published": "2026-06-16",
-              "schedule": {
-                "days": [
-                  0,
-                  7,
-                  9,
-                  8,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Wed & Thu",
-                "eps_year": 51,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "How I Built This with Guy Raz",
-              "id": "spotify:show:6E709HRH7XaiZrMfgtNCun",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f7766e182b12fd85537d3b776",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Guy Raz | Wondery",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.art19.com/how-i-built-this",
-              "owner_name": "Guy Raz | Wondery",
-              "owner_email": "iwonder@wondery.com",
-              "itunes_author": "Guy Raz | Wondery",
-              "website": "https://wondery.com/shows/how-i-built-this/?utm_source=rss",
-              "description": "Guy Raz interviews the world’s best-known entrepreneurs to learn how they built their iconic brands. In each episode, founders reveal deep, intimate moments of doubt and failure, and share insights on their eventual success. How I Built This is a master-class on innovation, creativity, leadership an…",
-              "cadence": "~2×/week",
-              "episode_count": 846,
-              "last_published": "2026-06-22",
-              "schedule": {
-                "days": [
-                  12,
-                  0,
-                  0,
-                  12,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "~2×/week · Mon & Thu",
-                "eps_year": 122,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 5
-        },
-        {
-          "name": "Libsyn",
-          "count": 2,
-          "share": 4.0,
-          "shows": [
-            {
-              "title": "REAL AF with Andy Frisella",
-              "id": "spotify:show:6KHwEnVRZmS9tmxkyfqUMD",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f4325cf1d35f33abc1abb318b",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Andy Frisella",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.libsyn.com/shows/67940/destinations/278377.xml",
-              "owner_name": "Andy Frisella",
-              "owner_email": "contact@andyfrisella.com",
-              "itunes_author": "Andy Frisella",
-              "website": "https://andyfrisella.com/blogs/realaf-podcast",
-              "description": "Entrepreneur Andy Frisella and his guests discuss, debate, and laugh their way through trending topics and hot-button issues. (This is also the home of Andy's other show, the top-ranked MFCEO Project Podcast)",
-              "cadence": "~2×/week",
-              "episode_count": 1364,
-              "last_published": "2026-06-23",
-              "schedule": {
-                "days": [
-                  10,
-                  6,
-                  1,
-                  0,
-                  6,
-                  1,
-                  0
-                ],
-                "label": "~2×/week",
-                "eps_year": 122,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Life Wide Open with CboysTV",
-              "id": "spotify:show:7sIQ2t8MqpSq4lix18jI2I",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f780ca4c80a0cd3381c0581aa",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "CboysTV",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.libsyn.com/shows/604715/destinations/5265500.xml",
-              "owner_name": "CboysTV",
-              "owner_email": "podcasts@studio71us.com",
-              "itunes_author": "CboysTV",
-              "website": "https://www.studio71.com/us/podcasts/",
-              "description": "From business tips to dating advice to behind-the-scenes of CboysTV, this weekly podcast shares the untold stories of CJ, Ben, Ryan, Ken, Evan and Micah. Tune in to Life Wide Open on Tuesdays at 9am CT. Follow us on all podcast apps, streaming platforms, and on Instagram: @lifewideopenpodcast For ad…",
-              "cadence": "Weekly",
-              "episode_count": 226,
-              "last_published": "2026-06-30",
-              "schedule": {
-                "days": [
-                  0,
-                  24,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Tuesdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 6
-        },
-        {
-          "name": "Acast",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "The Best One Yet",
-              "id": "spotify:show:5RllMBgvDnTau8nnsCUdse",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ff73f0b82627444af15ab77cd",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Nick & Jack Studios",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.acast.com/public/shows/69545da8cb029db7575279fc",
-              "owner_name": "Nick & Jack Studios",
-              "owner_email": "info+69545da8cb029db7575279fc@mg-eu.acast.com",
-              "itunes_author": "Nick & Jack Studios",
-              "website": "https://tboypod.com/",
-              "description": "This is the best one yet (it's a TBOY). Feel brighter every day with our 20-minute pop-biz news podcast. The 3 business stories you need, with fresh takes you can pretend you came up with — Pairs perfectly with your morning oatmeal ritual. Hosted by Jack Crivici-Kramer & Nick Martell. Formerly known…",
-              "cadence": "Daily",
-              "episode_count": 1725,
-              "last_published": "2026-06-25",
-              "schedule": {
-                "days": [
-                  5,
-                  5,
-                  5,
-                  5,
-                  4,
-                  0,
-                  0
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 7
-        },
-        {
-          "name": "Omny / Triton",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "Odd Lots",
-              "id": "spotify:show:1te7oSFyRVekxMBJUSethH",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f77e76ef980ccf6174ff80c42",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Bloomberg",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss",
-              "owner_name": "Bloomberg",
-              "owner_email": "mhenriksso10@bloomberg.net",
-              "itunes_author": "Bloomberg",
-              "website": "https://bloomberg.com/podcasts/odd_lots",
-              "description": "Bloomberg's Joe Weisenthal and Tracy Alloway explore the most interesting topics in finance, markets and economics. Join the conversation every Monday, Thursday, and Friday",
-              "cadence": "Daily",
-              "episode_count": 1239,
-              "last_published": "2026-06-27",
-              "schedule": {
-                "days": [
-                  6,
-                  1,
-                  0,
-                  6,
-                  6,
-                  5,
-                  0
-                ],
-                "label": "Daily",
-                "eps_year": 243,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 8
-        },
-        {
-          "name": "Other/Self-Hosted",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "Marketplace",
-              "id": "spotify:show:6zYlX5UGEPmNCWacYUJQGD",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f35e13bb29bd59d5b4118f283",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Marketplace",
-              "chart_move": "UNCHANGED",
-              "host_since": null,
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.publicradio.org/public_feeds/marketplace",
-              "owner_name": null,
-              "owner_email": "podcasts@americanpublicmedia.org",
-              "itunes_author": "Marketplace",
-              "website": "https://www.marketplace.org/",
-              "description": "Every weekday, host Kai Ryssdal helps you make sense of the day's business and economic news — no econ degree or finance background required. \"Marketplace\" takes you beyond the numbers, bringing you context. Our team of reporters all over the world speak with CEOs, policymakers and regular people ju…",
-              "cadence": "Daily",
-              "episode_count": 301,
-              "last_published": "2026-06-25",
-              "schedule": {
-                "days": [
-                  5,
-                  5,
-                  5,
-                  4,
-                  4,
-                  0,
-                  1
-                ],
-                "label": "Daily",
-                "eps_year": 365,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 9
-        },
-        {
-          "name": "Podbean",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "The Master Investor Podcast with Wilfred Frost",
-              "id": "spotify:show:1sUFmQrtoxs7n0oyEsaMU3",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f9fc06649d8c6e95f5963153a",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Paradine Productions",
-              "chart_move": "UP",
-              "host_since": "2026-08-08",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feed.podbean.com/TheMasterInvestorPodcast/feed.xml",
-              "owner_name": "Paradine Productions",
-              "owner_email": null,
-              "itunes_author": "Paradine Productions",
-              "website": "https://TheMasterInvestorPodcast.podbean.com",
-              "description": "Hosted by Wilfred Frost, The Master Investor Podcast is for anyone passionate about business and investing. We are pro ambition, celebrate success and provide you the edge. Join us and learn from the most legendary investors and business leaders in the world.",
-              "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": "2026-08-03",
-              "schedule": {
-                "days": [
-                  9,
-                  10,
-                  3,
-                  2,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Tue & Mon",
-                "eps_year": 56,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 10
-        },
-        {
-          "name": "RedCircle",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "Jocko Podcast",
-              "id": "spotify:show:7irxBvxNqGYnUdFo1c2gMc",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f0537dba138113eef7649f3d8",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Jocko DEFCOR Network",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.redcircle.com/64a89f88-a245-4098-8d8d-496325ec4f74",
-              "owner_name": "Jocko DEFCOR Network",
-              "owner_email": "echo@flixpoint.net",
-              "itunes_author": "Jocko DEFCOR Network",
-              "website": "https://redcircle.com/shows/jocko-podcast",
-              "description": "Retired Navy SEAL, Jocko Willink and Director, Echo Charles discuss discipline and leadership in business, war, relationships and everyday life.",
-              "cadence": "Weekly",
-              "episode_count": 871,
-              "last_published": "2026-06-24",
-              "schedule": {
-                "days": [
-                  11,
-                  0,
-                  13,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Wed & Mon",
-                "eps_year": 74,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 11
-        },
-        {
-          "name": "Transistor",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "Think Fast Talk Smart: Communication Techniques",
-              "id": "spotify:show:6ll0MwobDt1JW9gYaOONEo",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1feb3cad87ca9039312ea461a5",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "Think Fast Talk Smart",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques",
-              "owner_name": "Think Fast Talk Smart",
-              "owner_email": "podcasts@podiumpodcastco.com",
-              "itunes_author": "Matt Abrahams, Think Fast Talk Smart",
-              "website": "https://fastersmarter.io",
-              "description": "One of the most essential ingredients to success in business and life is effective communication. Join Matt Abrahams, best-selling author and Strategic Communication lecturer at Stanford Graduate School of Business, as he interviews experts to provide actionable insights that help you communicate wi…",
-              "cadence": "~2×/week",
-              "episode_count": 344,
-              "last_published": "2026-07-02",
-              "schedule": {
-                "days": [
-                  11,
-                  0,
-                  0,
-                  13,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "~2×/week · Thu & Mon",
-                "eps_year": 91,
-                "trend": "steady"
-              },
-              "rss_video": null
-            }
-          ],
-          "rank": 12
-        }
-      ]
+      "platforms": []
     },
     "Comedy": {
       "platforms": [
@@ -29455,10 +25892,23 @@
               "itunes_author": "Cash, Maverick, Kate, Harper, Kenzie",
               "website": null,
               "description": "New episodes every WEDNESDAY & SATURDAY!",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
+              "cadence": "~2×/week",
+              "episode_count": 317,
+              "last_published": "2026-08-12",
+              "schedule": {
+                "days": [
+                  1,
+                  0,
+                  11,
+                  0,
+                  0,
+                  12,
+                  0
+                ],
+                "label": "~2×/week · Sat & Wed",
+                "eps_year": 128,
+                "trend": "accelerating"
+              },
               "rss_video": null
             },
             {
@@ -50386,9 +46836,22 @@
               "website": "https://thisweekinai.ai",
               "description": "An experts-only AI podcast: Think the 'All In' podcast for AI. Jason + 3 CEO-level experts breaking down the news & trends.",
               "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
+              "episode_count": 28,
+              "last_published": "2026-08-06",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  12,
+                  12,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Wed & Thu",
+                "eps_year": 52,
+                "trend": "steady"
+              },
               "rss_video": null
             },
             {
@@ -54384,11 +50847,11 @@
             {
               "title": "Private Diary - Stories For Teen",
               "id": "spotify:show:5gS211turPsDslAmOnyo9x",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fc246f510b8f4dba381c76847",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f980cb320a878fe658570f3f1",
               "categories": [
                 "TV & Film"
               ],
-              "publisher": "Private Diary",
+              "publisher": "Private Diary Podcast",
               "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
