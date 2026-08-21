@@ -1,13 +1,13 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-08-20",
+  "last_scanned": "2026-08-21",
   "total_unique_shows": 800,
   "resolved_rate": 98.6,
   "platforms": [
     {
       "name": "Megaphone",
-      "count": 274,
-      "share": 34.2,
+      "count": 275,
+      "share": 34.4,
       "shows": [
         {
           "title": "Financial Audit",
@@ -308,7 +308,7 @@
         {
           "title": "Money For Couples with Ramit Sethi",
           "id": "spotify:show:11ktWYpzznMCpvGtXsiYxE",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f4ed2cc2e684d82c981729bdc",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f6465353b4a73258729a2df7b",
           "categories": [
             "Business"
           ],
@@ -1046,7 +1046,7 @@
         {
           "title": "The Joe Rogan Experience",
           "id": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f913317cdfae64a2585aa0f36",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fa5906ae450ffdace2b4bac41",
           "categories": [
             "Comedy"
           ],
@@ -1305,7 +1305,7 @@
         {
           "title": "Therapuss with Jake Shane",
           "id": "spotify:show:1BHDdC0OVuHqZ706FobfOF",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fa689e2b7022a33fdb762c4d8",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f2bedad55465cf4108e5f37ee",
           "categories": [
             "Comedy"
           ],
@@ -7990,7 +7990,7 @@
             "Technology"
           ],
           "publisher": "Morning Brew",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -8027,7 +8027,7 @@
             "Technology"
           ],
           "publisher": "KQED",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-07-15",
           "prev_host": null,
           "moved_on": null,
@@ -8200,6 +8200,43 @@
             ],
             "label": "Weekly · Fridays",
             "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Syntax - Tasty Web Development Treats",
+          "id": "spotify:show:4kYCRYJ3yK5DQbP5tbfZby",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f022aa3738b34a57c09be1410",
+          "categories": [
+            "Technology"
+          ],
+          "publisher": "Wes Bos",
+          "chart_move": "UP",
+          "host_since": "2026-06-23",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/FSI1483080183",
+          "owner_name": "Wes Bos",
+          "owner_email": "wes@wesbos.com",
+          "itunes_author": "Wes Bos & Scott Tolinski - Full Stack JavaScript Web Developers",
+          "website": "https://syntax.fm",
+          "description": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
+          "cadence": "Weekly",
+          "episode_count": 1016,
+          "last_published": "2026-06-29",
+          "schedule": {
+            "days": [
+              12,
+              0,
+              12,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Mon & Wed",
+            "eps_year": 73,
             "trend": "steady"
           },
           "rss_video": null
@@ -12579,7 +12616,7 @@
             "Technology"
           ],
           "publisher": "Marina Mogilko",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -12603,7 +12640,7 @@
             "Technology"
           ],
           "publisher": "greyson",
-          "chart_move": "UP",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-07-26",
           "prev_host": null,
           "moved_on": null,
@@ -12640,7 +12677,7 @@
             "Technology"
           ],
           "publisher": "Jason Calacanis",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -12677,7 +12714,7 @@
             "Technology"
           ],
           "publisher": "Jason Calacanis",
-          "chart_move": "UP",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -12714,7 +12751,7 @@
             "Technology"
           ],
           "publisher": "Ryan Peterman",
-          "chart_move": "UP",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -13066,8 +13103,8 @@
     },
     {
       "name": "Simplecast",
-      "count": 79,
-      "share": 9.9,
+      "count": 78,
+      "share": 9.8,
       "shows": [
         {
           "title": "Planet Money",
@@ -15366,43 +15403,6 @@
             ],
             "label": "Weekly · Thursdays",
             "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Your Undivided Attention",
-          "id": "spotify:show:4KI3PtZaWJbAWK89vgttoU",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f236abec7229b2645a8f08850",
-          "categories": [
-            "Technology"
-          ],
-          "publisher": "The Center for Humane Technology, Tristan Harris, Aza Raskin",
-          "chart_move": "UP",
-          "host_since": "2026-06-25",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.simplecast.com/rZ0cYk12",
-          "owner_name": "Center for Humane Technology",
-          "owner_email": "undivided@humanetech.com",
-          "itunes_author": "The Center for Humane Technology, Tristan Harris, Aza Raskin",
-          "website": "https://your-undivided-attention.simplecast.com",
-          "description": "Join co-hosts Tristan Harris and every other Thursday to understand how new technologies are shaping the way we live, work, and think. Your Undivided Attention is produced by Senior Producer Julia Scott. Researcher/Producer is Joshua Lash. Sasha Fegan is our Executive Producer. We are a member of th…",
-          "cadence": "Biweekly",
-          "episode_count": 165,
-          "last_published": "2026-07-16",
-          "schedule": {
-            "days": [
-              1,
-              1,
-              1,
-              21,
-              0,
-              0,
-              0
-            ],
-            "label": "Biweekly · Thursdays",
-            "eps_year": 26,
             "trend": "steady"
           },
           "rss_video": null
@@ -21860,7 +21860,7 @@
             "Technology"
           ],
           "publisher": "Ben Thompson and John Gruber",
-          "chart_move": "UNCHANGED",
+          "chart_move": "DOWN",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -25726,174 +25726,9 @@
       "rank": 18
     },
     {
-      "name": "Substack",
+      "name": "Flightcast",
       "count": 6,
       "share": 0.8,
-      "shows": [
-        {
-          "title": "Boho Beautiful Meditation",
-          "id": "spotify:show:60UBEVwVlYmVIoFvuqcCBA",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ff0b7f2a312c74287ee6f94df",
-          "categories": [
-            "Health & Fitness"
-          ],
-          "publisher": "Boho Beautiful Meditation",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://api.substack.com/feed/podcast/1301910.rss",
-          "owner_name": "Ben Keefe",
-          "owner_email": "beingbenkeefe@substack.com",
-          "itunes_author": "Ben Keefe",
-          "website": "https://beingbenkeefe.substack.com/podcast",
-          "description": "Short, daily reflections on sobriety and running. I write weekly about running, coaching, parenting, and adventuring.",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "JudeLow",
-          "id": "spotify:show:033nFQrc1A7KtBM7PXoUYb",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fbeb0e73ab68b89914f2ecb64",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "JudeLow",
-          "chart_move": "DOWN",
-          "host_since": "2026-07-01",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://api.substack.com/feed/podcast/1035178/s/387274.rss",
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Dwarkesh Podcast",
-          "id": "spotify:show:4JH4tybY1zX6e5hjCwU6gF",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fec6420b46053b5d1786dbe05",
-          "categories": [
-            "Technology"
-          ],
-          "publisher": "Dwarkesh Patel",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
-          "owner_name": "Dwarkesh Patel",
-          "owner_email": "dwarkesh@substack.com",
-          "itunes_author": "Dwarkesh Patel",
-          "website": "https://www.dwarkesh.com/podcast",
-          "description": "Deeply researched interviews",
-          "cadence": "Weekly",
-          "episode_count": 131,
-          "last_published": "2026-06-26",
-          "schedule": {
-            "days": [
-              0,
-              6,
-              4,
-              2,
-              12,
-              0,
-              0
-            ],
-            "label": "Weekly · Fri & Tue",
-            "eps_year": 46,
-            "trend": "accelerating"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Lenny's Podcast: Product | Career | Growth",
-          "id": "spotify:show:2dR1MUZEHCOnz1LVfNac0j",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ff45f22d94c8aea326e8bf861",
-          "categories": [
-            "Technology"
-          ],
-          "publisher": "Lenny Rachitsky",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://api.substack.com/feed/podcast/10845.rss",
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": 349,
-          "last_published": "2026-06-14",
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Latent Space: The AI Engineer Podcast",
-          "id": "spotify:show:2p7zZVwVF6Yk0Zsb4QmT7t",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f59bd934a2a4c09f4967513b2",
-          "categories": [
-            "Technology"
-          ],
-          "publisher": "Latent.Space",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-21",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://api.substack.com/feed/podcast/1084089.rss",
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": 211,
-          "last_published": "2026-06-22",
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "The Pragmatic Engineer",
-          "id": "spotify:show:2Bho9xCbOQMWMJ7UKmqCzD",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ff17cbdd89e0fcee0d90bd463",
-          "categories": [
-            "Technology"
-          ],
-          "publisher": "Gergely Orosz",
-          "chart_move": "UP",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://api.substack.com/feed/podcast/458709.rss",
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": 66,
-          "last_published": "2026-06-17",
-          "schedule": null,
-          "rss_video": null
-        }
-      ],
-      "rank": 19
-    },
-    {
-      "name": "Flightcast",
-      "count": 5,
-      "share": 0.6,
       "shows": [
         {
           "title": "The Diary Of A CEO with Steven Bartlett",
@@ -26051,6 +25886,184 @@
           "cadence": null,
           "episode_count": null,
           "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Bankless",
+          "id": "spotify:show:41TNnXSv5ExcQSzEGLlGhy",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb2a777d89657b11d71e47d67",
+          "categories": [
+            "Technology"
+          ],
+          "publisher": "Bankless",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
+          "owner_name": "Bankless",
+          "owner_email": "david@banklesshq.com",
+          "itunes_author": "Bankless",
+          "website": "http://podcast.banklesshq.com/",
+          "description": "The Ultimate Guide to Crypto Finance. DeFi, NFTs, and cryptocurrencies. Level up. Go bankless.",
+          "cadence": "~4×/week",
+          "episode_count": 1281,
+          "last_published": "2026-06-23",
+          "schedule": {
+            "days": [
+              7,
+              3,
+              3,
+              4,
+              7,
+              0,
+              0
+            ],
+            "label": "~4×/week",
+            "eps_year": 182,
+            "trend": "accelerating"
+          },
+          "rss_video": null
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "name": "Substack",
+      "count": 5,
+      "share": 0.6,
+      "shows": [
+        {
+          "title": "Boho Beautiful Meditation",
+          "id": "spotify:show:60UBEVwVlYmVIoFvuqcCBA",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ff0b7f2a312c74287ee6f94df",
+          "categories": [
+            "Health & Fitness"
+          ],
+          "publisher": "Boho Beautiful Meditation",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://api.substack.com/feed/podcast/1301910.rss",
+          "owner_name": "Ben Keefe",
+          "owner_email": "beingbenkeefe@substack.com",
+          "itunes_author": "Ben Keefe",
+          "website": "https://beingbenkeefe.substack.com/podcast",
+          "description": "Short, daily reflections on sobriety and running. I write weekly about running, coaching, parenting, and adventuring.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "JudeLow",
+          "id": "spotify:show:033nFQrc1A7KtBM7PXoUYb",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fbeb0e73ab68b89914f2ecb64",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "JudeLow",
+          "chart_move": "DOWN",
+          "host_since": "2026-07-01",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://api.substack.com/feed/podcast/1035178/s/387274.rss",
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Dwarkesh Podcast",
+          "id": "spotify:show:4JH4tybY1zX6e5hjCwU6gF",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fec6420b46053b5d1786dbe05",
+          "categories": [
+            "Technology"
+          ],
+          "publisher": "Dwarkesh Patel",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
+          "owner_name": "Dwarkesh Patel",
+          "owner_email": "dwarkesh@substack.com",
+          "itunes_author": "Dwarkesh Patel",
+          "website": "https://www.dwarkesh.com/podcast",
+          "description": "Deeply researched interviews",
+          "cadence": "Weekly",
+          "episode_count": 131,
+          "last_published": "2026-06-26",
+          "schedule": {
+            "days": [
+              0,
+              6,
+              4,
+              2,
+              12,
+              0,
+              0
+            ],
+            "label": "Weekly · Fri & Tue",
+            "eps_year": 46,
+            "trend": "accelerating"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Lenny's Podcast: Product | Career | Growth",
+          "id": "spotify:show:2dR1MUZEHCOnz1LVfNac0j",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ff45f22d94c8aea326e8bf861",
+          "categories": [
+            "Technology"
+          ],
+          "publisher": "Lenny Rachitsky",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://api.substack.com/feed/podcast/10845.rss",
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": 349,
+          "last_published": "2026-06-14",
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Latent Space: The AI Engineer Podcast",
+          "id": "spotify:show:2p7zZVwVF6Yk0Zsb4QmT7t",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f59bd934a2a4c09f4967513b2",
+          "categories": [
+            "Technology"
+          ],
+          "publisher": "Latent.Space",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-21",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://api.substack.com/feed/podcast/1084089.rss",
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": 211,
+          "last_published": "2026-06-22",
           "schedule": null,
           "rss_video": null
         }
@@ -27311,7 +27324,7 @@
             {
               "title": "Money For Couples with Ramit Sethi",
               "id": "spotify:show:11ktWYpzznMCpvGtXsiYxE",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f4ed2cc2e684d82c981729bdc",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f6465353b4a73258729a2df7b",
               "categories": [
                 "Business"
               ],
@@ -28900,7 +28913,7 @@
             {
               "title": "The Joe Rogan Experience",
               "id": "spotify:show:4rOoJ6Egrf8K2IrywzwOMk",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f913317cdfae64a2585aa0f36",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fa5906ae450ffdace2b4bac41",
               "categories": [
                 "Comedy"
               ],
@@ -29159,7 +29172,7 @@
             {
               "title": "Therapuss with Jake Shane",
               "id": "spotify:show:1BHDdC0OVuHqZ706FobfOF",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fa689e2b7022a33fdb762c4d8",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f2bedad55465cf4108e5f37ee",
               "categories": [
                 "Comedy"
               ],
@@ -49940,8 +49953,8 @@
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 12,
-          "share": 24.0,
+          "count": 13,
+          "share": 26.0,
           "shows": [
             {
               "title": "American Alchemy with Jesse Michels",
@@ -50173,7 +50186,7 @@
                 "Technology"
               ],
               "publisher": "Morning Brew",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -50210,7 +50223,7 @@
                 "Technology"
               ],
               "publisher": "KQED",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-07-15",
               "prev_host": null,
               "moved_on": null,
@@ -50383,6 +50396,43 @@
                 ],
                 "label": "Weekly · Fridays",
                 "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Syntax - Tasty Web Development Treats",
+              "id": "spotify:show:4kYCRYJ3yK5DQbP5tbfZby",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f022aa3738b34a57c09be1410",
+              "categories": [
+                "Technology"
+              ],
+              "publisher": "Wes Bos",
+              "chart_move": "UP",
+              "host_since": "2026-06-23",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/FSI1483080183",
+              "owner_name": "Wes Bos",
+              "owner_email": "wes@wesbos.com",
+              "itunes_author": "Wes Bos & Scott Tolinski - Full Stack JavaScript Web Developers",
+              "website": "https://syntax.fm",
+              "description": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
+              "cadence": "Weekly",
+              "episode_count": 1016,
+              "last_published": "2026-06-29",
+              "schedule": {
+                "days": [
+                  12,
+                  0,
+                  12,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Mon & Wed",
+                "eps_year": 73,
                 "trend": "steady"
               },
               "rss_video": null
@@ -50649,7 +50699,7 @@
                 "Technology"
               ],
               "publisher": "Marina Mogilko",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -50673,7 +50723,7 @@
                 "Technology"
               ],
               "publisher": "greyson",
-              "chart_move": "UP",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-07-26",
               "prev_host": null,
               "moved_on": null,
@@ -50710,7 +50760,7 @@
                 "Technology"
               ],
               "publisher": "Jason Calacanis",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -50747,7 +50797,7 @@
                 "Technology"
               ],
               "publisher": "Jason Calacanis",
-              "chart_move": "UP",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -50784,7 +50834,7 @@
                 "Technology"
               ],
               "publisher": "Ryan Peterman",
-              "chart_move": "UP",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -50818,8 +50868,8 @@
         },
         {
           "name": "Simplecast",
-          "count": 7,
-          "share": 14.0,
+          "count": 6,
+          "share": 12.0,
           "shows": [
             {
               "title": "Hard Fork",
@@ -51042,51 +51092,14 @@
                 "trend": "steady"
               },
               "rss_video": null
-            },
-            {
-              "title": "Your Undivided Attention",
-              "id": "spotify:show:4KI3PtZaWJbAWK89vgttoU",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f236abec7229b2645a8f08850",
-              "categories": [
-                "Technology"
-              ],
-              "publisher": "The Center for Humane Technology, Tristan Harris, Aza Raskin",
-              "chart_move": "UP",
-              "host_since": "2026-06-25",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.simplecast.com/rZ0cYk12",
-              "owner_name": "Center for Humane Technology",
-              "owner_email": "undivided@humanetech.com",
-              "itunes_author": "The Center for Humane Technology, Tristan Harris, Aza Raskin",
-              "website": "https://your-undivided-attention.simplecast.com",
-              "description": "Join co-hosts Tristan Harris and every other Thursday to understand how new technologies are shaping the way we live, work, and think. Your Undivided Attention is produced by Senior Producer Julia Scott. Researcher/Producer is Joshua Lash. Sasha Fegan is our Executive Producer. We are a member of th…",
-              "cadence": "Biweekly",
-              "episode_count": 165,
-              "last_published": "2026-07-16",
-              "schedule": {
-                "days": [
-                  1,
-                  1,
-                  1,
-                  21,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Biweekly · Thursdays",
-                "eps_year": 26,
-                "trend": "steady"
-              },
-              "rss_video": null
             }
           ],
           "rank": 3
         },
         {
           "name": "Substack",
-          "count": 4,
-          "share": 8.0,
+          "count": 3,
+          "share": 6.0,
           "shows": [
             {
               "title": "Dwarkesh Podcast",
@@ -51170,30 +51183,6 @@
               "cadence": null,
               "episode_count": 211,
               "last_published": "2026-06-22",
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "The Pragmatic Engineer",
-              "id": "spotify:show:2Bho9xCbOQMWMJ7UKmqCzD",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ff17cbdd89e0fcee0d90bd463",
-              "categories": [
-                "Technology"
-              ],
-              "publisher": "Gergely Orosz",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://api.substack.com/feed/podcast/458709.rss",
-              "owner_name": null,
-              "owner_email": null,
-              "itunes_author": null,
-              "website": null,
-              "description": null,
-              "cadence": null,
-              "episode_count": 66,
-              "last_published": "2026-06-17",
               "schedule": null,
               "rss_video": null
             }
@@ -51320,6 +51309,75 @@
           "rank": 5
         },
         {
+          "name": "Flightcast",
+          "count": 2,
+          "share": 4.0,
+          "shows": [
+            {
+              "title": "The Standup with ThePrimeagen",
+              "id": "spotify:show:01A062kejnXFkJE01bjN5J",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fbeb3d138ec4af28d3f4a0729",
+              "categories": [
+                "Technology"
+              ],
+              "publisher": "ThePrimeagen",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss2.flightcast.com/pmgqiszts7kfhopzaq8el6yw.xml",
+              "owner_name": "ThePrimeagen",
+              "owner_email": "teej@terminal.shop",
+              "itunes_author": "ThePrimeagen",
+              "website": "https://thestanduppod.com",
+              "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Bankless",
+              "id": "spotify:show:41TNnXSv5ExcQSzEGLlGhy",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb2a777d89657b11d71e47d67",
+              "categories": [
+                "Technology"
+              ],
+              "publisher": "Bankless",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
+              "owner_name": "Bankless",
+              "owner_email": "david@banklesshq.com",
+              "itunes_author": "Bankless",
+              "website": "http://podcast.banklesshq.com/",
+              "description": "The Ultimate Guide to Crypto Finance. DeFi, NFTs, and cryptocurrencies. Level up. Go bankless.",
+              "cadence": "~4×/week",
+              "episode_count": 1281,
+              "last_published": "2026-06-23",
+              "schedule": {
+                "days": [
+                  7,
+                  3,
+                  3,
+                  4,
+                  7,
+                  0,
+                  0
+                ],
+                "label": "~4×/week",
+                "eps_year": 182,
+                "trend": "accelerating"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 6
+        },
+        {
           "name": "Other/Self-Hosted",
           "count": 2,
           "share": 4.0,
@@ -51386,7 +51444,7 @@
               "rss_video": null
             }
           ],
-          "rank": 6
+          "rank": 7
         },
         {
           "name": "AmperWave (Audacy)",
@@ -51431,7 +51489,7 @@
               "rss_video": null
             }
           ],
-          "rank": 7
+          "rank": 8
         },
         {
           "name": "Audioboom",
@@ -51446,7 +51504,7 @@
                 "Technology"
               ],
               "publisher": "Ben Thompson and John Gruber",
-              "chart_move": "UNCHANGED",
+              "chart_move": "DOWN",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -51463,7 +51521,7 @@
               "rss_video": null
             }
           ],
-          "rank": 8
+          "rank": 9
         },
         {
           "name": "Blubrry",
@@ -51508,7 +51566,7 @@
               "rss_video": null
             }
           ],
-          "rank": 9
+          "rank": 10
         },
         {
           "name": "Buzzsprout",
@@ -51550,38 +51608,6 @@
                 "eps_year": 365,
                 "trend": "steady"
               },
-              "rss_video": null
-            }
-          ],
-          "rank": 10
-        },
-        {
-          "name": "Flightcast",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "The Standup with ThePrimeagen",
-              "id": "spotify:show:01A062kejnXFkJE01bjN5J",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fbeb3d138ec4af28d3f4a0729",
-              "categories": [
-                "Technology"
-              ],
-              "publisher": "ThePrimeagen",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss2.flightcast.com/pmgqiszts7kfhopzaq8el6yw.xml",
-              "owner_name": "ThePrimeagen",
-              "owner_email": "teej@terminal.shop",
-              "itunes_author": "ThePrimeagen",
-              "website": "https://thestanduppod.com",
-              "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
               "rss_video": null
             }
           ],
