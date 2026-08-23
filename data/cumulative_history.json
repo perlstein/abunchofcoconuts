@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "first_entry": "2026-06-23",
-  "last_entry": "2026-08-22",
+  "last_entry": "2026-08-23",
   "entries": [
     {
       "date": "2026-06-23",
@@ -14312,6 +14312,372 @@
         {
           "name": "Audiomeans",
           "count": 8,
+          "share": 0.0,
+          "rank": 46
+        },
+        {
+          "name": "PodToo",
+          "count": 8,
+          "share": 0.0,
+          "rank": 47
+        },
+        {
+          "name": "Subsplash",
+          "count": 8,
+          "share": 0.0,
+          "rank": 48
+        },
+        {
+          "name": "Fountain",
+          "count": 7,
+          "share": 0.0,
+          "rank": 49
+        },
+        {
+          "name": "Podcastics",
+          "count": 7,
+          "share": 0.0,
+          "rank": 50
+        },
+        {
+          "name": "This Is Distorted",
+          "count": 7,
+          "share": 0.0,
+          "rank": 51
+        },
+        {
+          "name": "ZenCast",
+          "count": 7,
+          "share": 0.0,
+          "rank": 52
+        },
+        {
+          "name": "FuturiMedia",
+          "count": 6,
+          "share": 0.0,
+          "rank": 53
+        },
+        {
+          "name": "Fusebox",
+          "count": 5,
+          "share": 0.0,
+          "rank": 54
+        },
+        {
+          "name": "PodcastAI",
+          "count": 3,
+          "share": 0.0,
+          "rank": 55
+        },
+        {
+          "name": "Thmanyah",
+          "count": 3,
+          "share": 0.0,
+          "rank": 56
+        },
+        {
+          "name": "SVMAudio",
+          "count": 2,
+          "share": 0.0,
+          "rank": 57
+        },
+        {
+          "name": "Beamly",
+          "count": 1,
+          "share": 0.0,
+          "rank": 58
+        },
+        {
+          "name": "HearThis",
+          "count": 1,
+          "share": 0.0,
+          "rank": 59
+        },
+        {
+          "name": "Wavlake",
+          "count": 1,
+          "share": 0.0,
+          "rank": 60
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "total_shows": 30135,
+      "platforms": [
+        {
+          "name": "Libsyn",
+          "count": 9933,
+          "share": 33.0,
+          "rank": 1
+        },
+        {
+          "name": "Spotify/Anchor",
+          "count": 3960,
+          "share": 13.1,
+          "rank": 2
+        },
+        {
+          "name": "Megaphone",
+          "count": 3407,
+          "share": 11.3,
+          "rank": 3
+        },
+        {
+          "name": "Buzzsprout",
+          "count": 1902,
+          "share": 6.3,
+          "rank": 4
+        },
+        {
+          "name": "Simplecast",
+          "count": 1665,
+          "share": 5.5,
+          "rank": 5
+        },
+        {
+          "name": "Podbean",
+          "count": 1323,
+          "share": 4.4,
+          "rank": 6
+        },
+        {
+          "name": "Acast",
+          "count": 1123,
+          "share": 3.7,
+          "rank": 7
+        },
+        {
+          "name": "Spreaker",
+          "count": 919,
+          "share": 3.0,
+          "rank": 8
+        },
+        {
+          "name": "Omny / Triton",
+          "count": 813,
+          "share": 2.7,
+          "rank": 9
+        },
+        {
+          "name": "Art19",
+          "count": 745,
+          "share": 2.5,
+          "rank": 10
+        },
+        {
+          "name": "Captivate",
+          "count": 537,
+          "share": 1.8,
+          "rank": 11
+        },
+        {
+          "name": "RSS.com",
+          "count": 509,
+          "share": 1.7,
+          "rank": 12
+        },
+        {
+          "name": "Transistor",
+          "count": 493,
+          "share": 1.6,
+          "rank": 13
+        },
+        {
+          "name": "RedCircle",
+          "count": 360,
+          "share": 1.2,
+          "rank": 14
+        },
+        {
+          "name": "Blubrry",
+          "count": 323,
+          "share": 1.1,
+          "rank": 15
+        },
+        {
+          "name": "Audioboom",
+          "count": 262,
+          "share": 0.9,
+          "rank": 16
+        },
+        {
+          "name": "Riverside",
+          "count": 239,
+          "share": 0.8,
+          "rank": 17
+        },
+        {
+          "name": "AmperWave (Audacy)",
+          "count": 185,
+          "share": 0.6,
+          "rank": 18
+        },
+        {
+          "name": "Substack",
+          "count": 145,
+          "share": 0.5,
+          "rank": 19
+        },
+        {
+          "name": "PRX",
+          "count": 138,
+          "share": 0.5,
+          "rank": 20
+        },
+        {
+          "name": "Ximalaya",
+          "count": 120,
+          "share": 0.4,
+          "rank": 21
+        },
+        {
+          "name": "BBC",
+          "count": 94,
+          "share": 0.3,
+          "rank": 22
+        },
+        {
+          "name": "SoundCloud",
+          "count": 89,
+          "share": 0.3,
+          "rank": 23
+        },
+        {
+          "name": "Castos",
+          "count": 74,
+          "share": 0.2,
+          "rank": 24
+        },
+        {
+          "name": "SoundStack",
+          "count": 56,
+          "share": 0.2,
+          "rank": 25
+        },
+        {
+          "name": "TWiT",
+          "count": 56,
+          "share": 0.2,
+          "rank": 26
+        },
+        {
+          "name": "Flightcast",
+          "count": 54,
+          "share": 0.2,
+          "rank": 27
+        },
+        {
+          "name": "Podetize",
+          "count": 54,
+          "share": 0.2,
+          "rank": 28
+        },
+        {
+          "name": "Fireside",
+          "count": 51,
+          "share": 0.2,
+          "rank": 29
+        },
+        {
+          "name": "American Public Media",
+          "count": 50,
+          "share": 0.2,
+          "rank": 30
+        },
+        {
+          "name": "Kajabi",
+          "count": 47,
+          "share": 0.2,
+          "rank": 31
+        },
+        {
+          "name": "Pinecast",
+          "count": 47,
+          "share": 0.2,
+          "rank": 32
+        },
+        {
+          "name": "Barstool Sports",
+          "count": 39,
+          "share": 0.1,
+          "rank": 33
+        },
+        {
+          "name": "Ausha",
+          "count": 36,
+          "share": 0.1,
+          "rank": 34
+        },
+        {
+          "name": "Podigee",
+          "count": 31,
+          "share": 0.1,
+          "rank": 35
+        },
+        {
+          "name": "iHeart / Triton",
+          "count": 29,
+          "share": 0.1,
+          "rank": 36
+        },
+        {
+          "name": "Xiaoyuzhou FM",
+          "count": 26,
+          "share": 0.1,
+          "rank": 37
+        },
+        {
+          "name": "CoHost",
+          "count": 19,
+          "share": 0.1,
+          "rank": 38
+        },
+        {
+          "name": "StreamGuys",
+          "count": 18,
+          "share": 0.1,
+          "rank": 39
+        },
+        {
+          "name": "iVoox",
+          "count": 18,
+          "share": 0.1,
+          "rank": 40
+        },
+        {
+          "name": "Castbox",
+          "count": 17,
+          "share": 0.1,
+          "rank": 41
+        },
+        {
+          "name": "Podcast.co",
+          "count": 15,
+          "share": 0.0,
+          "rank": 42
+        },
+        {
+          "name": "Podcastle",
+          "count": 15,
+          "share": 0.0,
+          "rank": 43
+        },
+        {
+          "name": "ABC Australia",
+          "count": 13,
+          "share": 0.0,
+          "rank": 44
+        },
+        {
+          "name": "Alitu",
+          "count": 11,
+          "share": 0.0,
+          "rank": 45
+        },
+        {
+          "name": "Audiomeans",
+          "count": 9,
           "share": 0.0,
           "rank": 46
         },
