@@ -1,7 +1,16 @@
 {
   "generated": "2026-08-25",
-  "total_tracked": 31853,
+  "total_tracked": 31862,
   "moves": [
+    {
+      "title": "Learn Spanish",
+      "feed_url": "https://www.spreaker.com/show/7165613/episodes/feed",
+      "from": "Transistor",
+      "to": "Spreaker",
+      "date": "2026-08-25",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/2c/70/6f2c7087-a75d-367a-b2de-ed795c84ec06/mza_12402205085717259499.jpg/170x170bb.png"
+    },
     {
       "title": "Learn Spanish",
       "feed_url": "https://feeds.transistor.fm/learn-spanish",
@@ -10,6 +19,15 @@
       "date": "2026-08-25",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/79/5e/b1795e99-d6f1-f89d-56ee-ae0c20dbc28b/mza_3438470924875366980.jpg/170x170bb.png"
+    },
+    {
+      "title": "Church History Matters",
+      "feed_url": "https://anchor.fm/s/1162be938/podcast/rss",
+      "from": "Podbean",
+      "to": "Spotify/Anchor",
+      "date": "2026-08-25",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/1b/4c/d5/1b4cd549-5957-624e-81b8-ea79a2ab353d/mza_9277514839963103555.jpg/170x170bb.png"
     },
     {
       "title": "Criminology",
