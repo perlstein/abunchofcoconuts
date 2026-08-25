@@ -1,6 +1,6 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-08-24",
+  "last_scanned": "2026-08-25",
   "total_unique_shows": 800,
   "resolved_rate": 98.8,
   "platforms": [
@@ -11669,7 +11669,7 @@
         {
           "title": "STAN:A",
           "id": "spotify:show:3mNzAtzbx87dJmkrz7HtS5",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fc4fd8feebd4549e76532b694",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb9e4e8d28fd63b3677ef9f69",
           "categories": [
             "Music"
           ],
@@ -19230,10 +19230,23 @@
           "itunes_author": "Trinity Tondeleir",
           "website": "https://art19.com/shows/the-wellness-cafe",
           "description": "Welcome to The Wellness Cafe Podcast. Your host Trinity Tondeleir who you may know from TikTok, Instagram, or Youtube is serving all things wellness, lifestyle, girl-talk and everything in between. Come hangout every Wednesday! For sponsorship inquiries, please email trinitytondeleir@gmail.com",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
+          "cadence": "Weekly",
+          "episode_count": 227,
+          "last_published": "2026-08-19",
+          "schedule": {
+            "days": [
+              1,
+              0,
+              21,
+              1,
+              1,
+              0,
+              0
+            ],
+            "label": "Weekly · Wednesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -31891,10 +31904,23 @@
               "itunes_author": "Trinity Tondeleir",
               "website": "https://art19.com/shows/the-wellness-cafe",
               "description": "Welcome to The Wellness Cafe Podcast. Your host Trinity Tondeleir who you may know from TikTok, Instagram, or Youtube is serving all things wellness, lifestyle, girl-talk and everything in between. Come hangout every Wednesday! For sponsorship inquiries, please email trinitytondeleir@gmail.com",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
+              "cadence": "Weekly",
+              "episode_count": 227,
+              "last_published": "2026-08-19",
+              "schedule": {
+                "days": [
+                  1,
+                  0,
+                  21,
+                  1,
+                  1,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Wednesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
               "rss_video": null
             },
             {
@@ -40167,7 +40193,7 @@
             {
               "title": "STAN:A",
               "id": "spotify:show:3mNzAtzbx87dJmkrz7HtS5",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fc4fd8feebd4549e76532b694",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb9e4e8d28fd63b3677ef9f69",
               "categories": [
                 "Music"
               ],
