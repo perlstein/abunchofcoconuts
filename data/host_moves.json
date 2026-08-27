@@ -1,7 +1,25 @@
 {
-  "generated": "2026-08-26",
-  "total_tracked": 32045,
+  "generated": "2026-08-27",
+  "total_tracked": 32058,
   "moves": [
+    {
+      "title": "Comics Discourse 114",
+      "feed_url": "https://www.comicsdiscourse114.com/feed.xml",
+      "from": "Podbean",
+      "to": "Captivate",
+      "date": "2026-08-27",
+      "source": "subgenre",
+      "artwork": ""
+    },
+    {
+      "title": "Sidebar with Katie Phang",
+      "feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/5537203662b07a9b9672f6283a43aa54",
+      "from": "Megaphone",
+      "to": "AmperWave (Audacy)",
+      "date": "2026-08-27",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/fe/9c/6dfe9c3f-6f34-8b90-3d32-1740e6cc2170/mza_10872498205032185329.jpg/170x170bb.png"
+    },
     {
       "title": "The MeidasTouch Podcast",
       "feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/16aa3c6bf526fae9db63070c73cad09f",
