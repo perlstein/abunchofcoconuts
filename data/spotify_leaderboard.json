@@ -1,13 +1,13 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-08-27",
-  "total_unique_shows": 750,
-  "resolved_rate": 98.0,
+  "last_scanned": "2026-08-28",
+  "total_unique_shows": 800,
+  "resolved_rate": 98.1,
   "platforms": [
     {
       "name": "Megaphone",
-      "count": 259,
-      "share": 34.5,
+      "count": 275,
+      "share": 34.4,
       "shows": [
         {
           "title": "Financial Audit",
@@ -8366,6 +8366,494 @@
           "rss_video": null
         },
         {
+          "title": "Crime, Conspiracy, Cults and Murder",
+          "id": "spotify:show:2mClgQ5t53TqBIAxxGjvnu",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f906ec905d66f0d5eb4031191",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Kallmekris",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/QCD5880453128",
+          "owner_name": "Kallmekris",
+          "owner_email": "podcasts@qcodemedia.com",
+          "itunes_author": "Kallmekris | Daylight Media",
+          "website": "https://www.daylightmedia.com",
+          "description": "Hi, I'm Kallmekris, aka Kris Collins. Welcome to the audio & video version of my true crime deep dives! On this podcast, we will discuss tales of notorious figures in history, bizarre murder and conspiracy cases, and unsolved mysteries. (Anything and everything creepy and strange.) So, unbuckle your…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Murder In America",
+          "id": "spotify:show:7didcuJyAUG4B3a5RbdDEI",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f37cba122006ec0600a2ab095",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Bloody FM",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/BDA3927678471",
+          "owner_name": "Blood In The Sink Productions",
+          "owner_email": "paranormalfilescrew@gmail.com",
+          "itunes_author": "Bloody FM",
+          "website": "https://podcasts.bloody-disgusting.com/",
+          "description": "MURDER IN AMERICA is a true crime podcast that takes a state-by-state look at the most infamous homicides across the United States of America. Co-hosted by Courtney Shannon & Colin Browen (of \"The Paranormal Files\"), the two delve deep into the darkest tales of murder from each and every state, feat…",
+          "cadence": "Weekly",
+          "episode_count": 250,
+          "last_published": "2026-06-19",
+          "schedule": {
+            "days": [
+              0,
+              0,
+              0,
+              0,
+              24,
+              0,
+              0
+            ],
+            "label": "Weekly · Fridays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Murder With My Husband",
+          "id": "spotify:show:6GaodpBsSpBuUMhmEXhjK2",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f274525717637cb68c2c8bc6b",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "OH NO MEDIA",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/HSW2364749129",
+          "owner_name": "OH NO MEDIA",
+          "owner_email": "garrett@morelandacres.com",
+          "itunes_author": "OH NO MEDIA",
+          "website": "https://murderwithmyhusband.com/",
+          "description": "A true crime podcast that ventures into the darkest crimes with a wife who loves it and a husband who hates it.",
+          "cadence": "Weekly",
+          "episode_count": 468,
+          "last_published": "2026-06-22",
+          "schedule": {
+            "days": [
+              23,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Mondays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Snook",
+          "id": "spotify:show:2FH70nnKmpdV5PY0fp4F9Q",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f4e1a66770aae762c450299a0",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Snook",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/QCD5686868811",
+          "owner_name": "Snook",
+          "owner_email": "ryan.middledorf@daylightmedia.com",
+          "itunes_author": null,
+          "website": null,
+          "description": "Scary stories, crazy confessions, and unbelievable stories-all narrated by Snook. New episodes every Monday, Wednesday, and Friday! Subscribe to me on YouTube and follow me on Spotify!",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "20/20",
+          "id": "spotify:show:3ghsL8CzhRaJv0qzREZ9nU",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ffe715c2479125a40e39835aa",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "ABC News",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/ESP3456903052",
+          "owner_name": "ABC News",
+          "owner_email": "abc.podcast.support@abc.com",
+          "itunes_author": "ABC News",
+          "website": "https://abcaudio.com/podcasts/20-20/",
+          "description": "Unforgettable true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories. Now listen throughout the week with the official 20/20 After Show, the True Crime Vault, and our spotlight of true crime originals.",
+          "cadence": "Daily",
+          "episode_count": 78,
+          "last_published": "2026-06-24",
+          "schedule": {
+            "days": [
+              6,
+              6,
+              7,
+              0,
+              1,
+              4,
+              0
+            ],
+            "label": "Daily",
+            "eps_year": 283,
+            "trend": "accelerating"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Killer Stories with Harvey Guillén",
+          "id": "spotify:show:4ruq7mH0jg1sFi8KQhnGb8",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f48266cfb0edde8572625c0c4",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Spotify Studios",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/END1032105222",
+          "owner_name": "Spotify Studios",
+          "owner_email": "serialkillerstories@spotify.com",
+          "itunes_author": "Spotify Studios",
+          "website": "https://open.spotify.com/show/4ruq7mH0jg1sFi8KQhnGb8?si=c25d59cc3bb34422",
+          "description": "Welcome to your weekly journey into the darkest corners of human nature. Join Harvey Guillén every Monday as he explores crimes that seized the public’s attention, from jaw-dropping heists and devastating cons to serial murders and deadly rivalries. Each episode unfolds a single case, examining not…",
+          "cadence": "Weekly",
+          "episode_count": 613,
+          "last_published": "2026-06-29",
+          "schedule": {
+            "days": [
+              24,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Mondays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Criminal",
+          "id": "spotify:show:3ictIqfumbmEuWdt9xWQp5",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f41fc40f911e145aa270bb5e7",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Vox Media Podcast Network",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/VMP7924981569",
+          "owner_name": "Vox Media Podcast Network",
+          "owner_email": "hello@thisiscriminal.com",
+          "itunes_author": "Vox Media Podcast Network",
+          "website": "http://thisiscriminal.com/",
+          "description": "Criminal is the first of its kind. A show about people who’ve done wrong, been wronged, or gotten caught somewhere in the middle. Hosted by Phoebe Judge. Named a Best Podcast of 2023 by the New York Times. Part of the Vox Media Podcast Network.",
+          "cadence": "Weekly",
+          "episode_count": 468,
+          "last_published": "2026-06-30",
+          "schedule": {
+            "days": [
+              0,
+              1,
+              0,
+              1,
+              22,
+              0,
+              0
+            ],
+            "label": "Weekly · Fridays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Wendigoon",
+          "id": "spotify:show:2MDDT1opwKR0NF6upmhKKN",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fdee1f66c882cee83653440f1",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Wendigoon",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/creepcast",
+          "owner_name": "Wendigoon & MeatCanyon",
+          "owner_email": "sam@manatalentgroup.com",
+          "itunes_author": "Wendigoon & MeatCanyon",
+          "website": "https://www.youtube.com/@CreepPodcast",
+          "description": "Wendigoon and MeatCanyon share the scary, occult, and...creepy stories from around the internet.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Unseen",
+          "id": "spotify:show:6C6Gj58po61vFDmz8lK5Gr",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f52eef3fc70f1db9b2ac2a4f8",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Goalcast",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/CASAS9761610007",
+          "owner_name": "Goalcast",
+          "owner_email": "unseen@goalcast.com",
+          "itunes_author": null,
+          "website": "https://unseen.plus/",
+          "description": "Uncover what true crime documentaries don't show you: real cases and real people, but with a new twist. This is Unseen.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Prime Crime: Solved Murders",
+          "id": "spotify:show:4t4nuhMponRkNpX6xKFVNZ",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f71ec40e5901b1dca35b33c52",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Law & Crime",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/solvedmurders",
+          "owner_name": "Law & Crime",
+          "owner_email": "Parcast@spotify.com",
+          "itunes_author": "Spotify Studios",
+          "website": "https://www.parcast.com",
+          "description": "Hosted and executive produced by Attorney and Law&Crime anchor Jesse Weber, Prime Crime puts a spotlight on infamously controversial stories that have shocked investigators and the public alike. Jesse Weber takes a deep dive into the most high-profile and shocking criminal cases that have garnered n…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Heart Starts Pounding: Horrors, Hauntings and Mysteries",
+          "id": "spotify:show:6mbxMOHKjy7jQGl3V08rE3",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f903b3f9bc872ae35d748bdaf",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Heart Starts Pounding",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/heart-starts-pounding",
+          "owner_name": "Heart Starts Pounding: Horrors, Hauntings and Mysteries",
+          "owner_email": "audacystudios@audacy.com",
+          "itunes_author": "Heart Starts Pounding",
+          "website": "https://www.heartstartspounding.com/",
+          "description": "Horrors, hauntings and mysteries! A collection of scary stories that will have you on the edge of your seat. If you’re a fan of all things spooky, creepy, and thrilling, this is the podcast for you. Want more darkly curious content? Join the Rogue Detecting Society on Patreon (https://www.patreon.co…",
+          "cadence": "Weekly",
+          "episode_count": 237,
+          "last_published": "2026-06-18",
+          "schedule": {
+            "days": [
+              1,
+              0,
+              0,
+              22,
+              1,
+              0,
+              0
+            ],
+            "label": "Weekly · Thursdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "True Crime with Kimbyr",
+          "id": "spotify:show:2eM2kATtf2QgIKDsh4oawR",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f5b7f25722f942a6a1eb6623d",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Kimbyrleigha",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/DLERL3125581682",
+          "owner_name": "Jellysmack",
+          "owner_email": "spotifypadmin@jellysmack.com",
+          "itunes_author": null,
+          "website": null,
+          "description": "Every true crime case involves real people and real lives that are cut short, and True Crime with Kimbyr seeks to honor the victims of these unfathomable crimes by bringing facts to the forefront and sharing their stories with dignity and grace. An acclaimed storyteller on both her namesake and DARK…",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "What Lurks Beneath",
+          "id": "spotify:show:6BqFWcTY457HUsR3eJZ91a",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f12c64963f9082e7eb1abc289",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Josh Nanocchio",
+          "chart_move": "DOWN",
+          "host_since": "2026-08-01",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/darknessprevails",
+          "owner_name": "Eeriecast Network",
+          "owner_email": "deanbrenden93@gmail.com",
+          "itunes_author": "Eeriecast Network",
+          "website": "https://www.eeriecast.com/",
+          "description": "(Formerly the Darkness Prevails Podcast) Host Darkness Prevails brings you Unexplained Encounters, a podcast where everyday folk share their most terrifying and unexplained experiences. From mysterious creatures seen in national forests to supernatural events disrupting peoples' lives, prepare to ex…",
+          "cadence": "Weekly",
+          "episode_count": null,
+          "last_published": "2026-07-29",
+          "schedule": {
+            "days": [
+              0,
+              0,
+              24,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Wednesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "National Park After Dark",
+          "id": "spotify:show:5AenIJ6TA3JjWkqacYEBWL",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb1400d52f164bec2b69b6731",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Danielle LaRock & Cassandra Yahnian ",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/ADL5623813745",
+          "owner_name": "Danielle LaRock & Cassandra Yahnian",
+          "owner_email": "info@npadpocast.com",
+          "itunes_author": "National Park After Dark",
+          "website": "http://npadpodcast.com",
+          "description": "Hosted by two friends who share a passion for public lands and a fascination with what can go wrong there, each week hosts Danielle and Cassie explore the darker side of our National Parks. But it isn’t always chills and thrills. By sharing inspiring tales and their desire for protecting our planet’…",
+          "cadence": "~2×/week",
+          "episode_count": 453,
+          "last_published": "2026-06-29",
+          "schedule": {
+            "days": [
+              14,
+              1,
+              0,
+              8,
+              0,
+              0,
+              1
+            ],
+            "label": "~2×/week · Mondays",
+            "eps_year": 91,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Crime Report with Christina Randall",
+          "id": "spotify:show:6iPzkE5Rhh7mk3tByRlduS",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f4d26ff27160341cd670884cc",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Jellysmack",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/YMH5847489315",
+          "owner_name": "Tom Segura",
+          "owner_email": "salesteam@ymhstudios.com",
+          "itunes_author": "YMH Studios",
+          "website": "https://ymhstudios.com",
+          "description": "Christina Pazsitzky and Tom Segura are comedians who are also married. They are the Mommies and they welcome you to join them. Dental updates! Dudes! Stories! Wiping!",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "The Connect- with Johnny Mitchell ",
+          "id": "spotify:show:6mc4qAxpztC6D20wzeS91C",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f172374d200e8460016152b10",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Johnny Mitchell",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/BVLLC3384857265",
+          "owner_name": "Johnny Mitchell",
+          "owner_email": "kavan@wearebv.com",
+          "itunes_author": "Johnny Mitchell",
+          "website": "https://johnnymitchellcomedy.com",
+          "description": "Former drug trafficker and standup comedian Johnny Mitchell takes you inside the world of drugs, crime, prison, and the politics of the War on Drugs.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
           "title": "The Rewatchables",
           "id": "spotify:show:1lUPomulZRPquVAOOd56EW",
           "artwork": "https://i.scdn.co/image/ab67656300005f1fb95ca41d64861fa2d6c5a2c7",
@@ -8999,8 +9487,8 @@
     },
     {
       "name": "Spotify/Anchor",
-      "count": 118,
-      "share": 15.7,
+      "count": 123,
+      "share": 15.4,
       "shows": [
         {
           "title": "PBD Podcast",
@@ -12410,6 +12898,165 @@
           "rss_video": null
         },
         {
+          "title": "Just Creepy: Scary Stories",
+          "id": "spotify:show:1iBRwf9zg4O8gmn87yIGnF",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb982a02c848245f96916211d",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Just Creepy",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/cb11d70/podcast/rss",
+          "owner_name": "Just Creepy",
+          "owner_email": "david.w.coles@icloud.com",
+          "itunes_author": "Just Creepy",
+          "website": "https://justcreepy.net",
+          "description": "Just Creepy: Scary Stories to Keep You Up at Night. This is your home for terrifying stories that stay with you long after the episode ends. From Skinwalkers and Wendigos to true scary stories, creepy encounters, forest horrors, and deep woods nightmares, each episode is designed to pull you in and…",
+          "cadence": "~4×/week",
+          "episode_count": 513,
+          "last_published": "2026-06-24",
+          "schedule": {
+            "days": [
+              7,
+              0,
+              8,
+              0,
+              7,
+              2,
+              0
+            ],
+            "label": "~4×/week",
+            "eps_year": 182,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Hot On The Case ",
+          "id": "spotify:show:0AaWYylLL7euqbYSuV3hwb",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f487860d1491f27b354d620f6",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Breanna Heim",
+          "chart_move": "UP",
+          "host_since": "2026-07-30",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/ff1e7300/podcast/rss",
+          "owner_name": "Breanna Heim",
+          "owner_email": null,
+          "itunes_author": "Breanna Heim",
+          "website": "https://podcasters.spotify.com/pod/show/breanna144",
+          "description": "Hot on the Case with Breanna Heim is a true crime podcast that shines a light on unsolved mysteries and the fight for justice. Hosted by Breanna, each episode takes you on a gripping journey through mysterious disappearances, unsolved murders, and overlooked crimes. Whether it's diving into cold cas…",
+          "cadence": "Weekly",
+          "episode_count": null,
+          "last_published": "2026-07-24",
+          "schedule": {
+            "days": [
+              1,
+              0,
+              0,
+              0,
+              21,
+              2,
+              0
+            ],
+            "label": "Weekly · Fridays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "SOS - Wilderness Mysteries",
+          "id": "spotify:show:5EocRtVbfbqh9WEOfUbsjp",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f86326edf1c6e42c30df1dd0b",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Kyle Hates Hiking",
+          "chart_move": "UP",
+          "host_since": "2026-07-03",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/ff9650f0/podcast/rss",
+          "owner_name": "Kyle Hates Hiking",
+          "owner_email": "khhproductionsllc@gmail.com",
+          "itunes_author": "Kyle Hates Hiking",
+          "website": "https://podcasters.spotify.com/pod/show/kylehateshiking",
+          "description": "The most disturbing, mysterious and captivating wilderness stories on the internet. True stories, always told with compassion. A Kyle Hates Hiking podcast.",
+          "cadence": "Weekly",
+          "episode_count": 24,
+          "last_published": "2026-07-02",
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Ray William Johnson: True Story Podcast ",
+          "id": "spotify:show:2OyqGF8rokIi7K0CDwQc1Z",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f499c4dfd4938cb275bcad0d4",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Ray William Johnson",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/10074e310/podcast/rss",
+          "owner_name": "Ray William Johnson",
+          "owner_email": null,
+          "itunes_author": "Ray William Johnson",
+          "website": "https://www.youtube.com/channel/UCGt7X90Au6BV8rf49BiM6Dg",
+          "description": "The Official Podcast of Ray William Johnson, storyteller and comedian. Tune in for the best stories of True Crime and Pop Culture.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Bodycam Bear",
+          "id": "spotify:show:2kREMFdLZmTB51sufrmLoV",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f7079866fdcb57b4300ceb255",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Bodycam Bear",
+          "chart_move": "UP",
+          "host_since": "2026-07-19",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/109c59a2c/podcast/rss",
+          "owner_name": "Bodycam Bear",
+          "owner_email": "muhqadry29@gmail.com",
+          "itunes_author": "Bodycam Bear",
+          "website": "https://open.spotify.com/episode/3cjCLNLI9j1nggtJr6YML0?si=BfPHDbBMSJe6pipdnFkv6g",
+          "description": "True Crime & Police Analysis. Educational commentary using public interest footage. _ Welcome to Bodycam Bear, produces videos to inform and educate, aiming to raise awareness and contribute to public safety. Our content is not intended to shame, ridicule, or defame anyone; all individuals are presu…",
+          "cadence": "Weekly",
+          "episode_count": null,
+          "last_published": "2026-07-15",
+          "schedule": {
+            "days": [
+              1,
+              5,
+              2,
+              4,
+              5,
+              1,
+              6
+            ],
+            "label": "~2×/week",
+            "eps_year": 83,
+            "trend": "slowing"
+          },
+          "rss_video": null
+        },
+        {
           "title": "Boring History For Sleep | Gentle Storytelling And Ambient Sounds (Official)",
           "id": "spotify:show:1kVmNuglFd9xLH4k9tdSuc",
           "artwork": "https://i.scdn.co/image/ab67656300005f1fe5f5fb542508c83a420530a3",
@@ -12658,8 +13305,8 @@
     },
     {
       "name": "Simplecast",
-      "count": 64,
-      "share": 8.5,
+      "count": 75,
+      "share": 9.4,
       "shows": [
         {
           "title": "Planet Money",
@@ -14915,6 +15562,400 @@
           "rss_video": null
         },
         {
+          "title": "Crime Junkie",
+          "id": "spotify:show:3DgfoleqaW61T2amZQKINx",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fbe2cc3efd92b817b54d9bcb2",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Audiochuck",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/qm_9xx0g",
+          "owner_name": "Audiochuck",
+          "owner_email": "content@audiochuck.com",
+          "itunes_author": "Audiochuck",
+          "website": "https://audiochuck.com",
+          "description": "Does hearing about a true crime case always leave you scouring the internet for the truth behind the story? Dive into your next mystery with Crime Junkie. Every Monday, join your host Ashley Flowers as she unravels all the details of infamous and underreported true crime cases with her best friend B…",
+          "cadence": "Weekly",
+          "episode_count": 516,
+          "last_published": "2026-06-22",
+          "schedule": {
+            "days": [
+              17,
+              0,
+              2,
+              3,
+              1,
+              1,
+              0
+            ],
+            "label": "Weekly · Mondays",
+            "eps_year": 73,
+            "trend": "slowing"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Morbid",
+          "id": "spotify:show:1cpyLfDHP1cNnyOb478qrt",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f8c7c9683be7ce30817805f15",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Ash Kelley & Alaina Urquhart",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/ohmVlJZQ",
+          "owner_name": "Ash Kelley & Alaina Urquhart",
+          "owner_email": "info@morbid-podcast.com",
+          "itunes_author": "Ash Kelley & Alaina Urquhart",
+          "website": "https://morbid-53aa329e.simplecast.com",
+          "description": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor. Subscribe to SiriusXM Podcasts+ to listen to new ep…",
+          "cadence": "~2×/week",
+          "episode_count": 876,
+          "last_published": "2026-06-25",
+          "schedule": {
+            "days": [
+              12,
+              0,
+              0,
+              10,
+              2,
+              0,
+              0
+            ],
+            "label": "~2×/week · Mon & Thu",
+            "eps_year": 122,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Rotten Mango",
+          "id": "spotify:show:2DZwvzn6Z3xCFZrwZGDrbj",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fe17b81be830039041326c578",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Stephanie Soo",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/6Qp23t6h",
+          "owner_name": "Stephanie Soo",
+          "owner_email": "stephaniesooq@gmail.com",
+          "itunes_author": "Stephanie Soo",
+          "website": "https://www.rottenmangopodcast.com/",
+          "description": "Rotten but still a little sweet! Rotten Mango is a true crime + all things spooky podcast. We love doing deep dives into the darkest crimes and we tend to not leave out any details - which can get a little rotten at times. If you want deep dives in the psychology of killers, no holding back storytel…",
+          "cadence": "~2×/week",
+          "episode_count": 542,
+          "last_published": "2026-06-24",
+          "schedule": {
+            "days": [
+              1,
+              0,
+              9,
+              3,
+              0,
+              0,
+              11
+            ],
+            "label": "~2×/week · Sun & Wed",
+            "eps_year": 101,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Dateline NBC",
+          "id": "spotify:show:3MGn724Y6BOSQzfmk3TyuY",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f7078b2a29d4c74521970b24d",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "NBC News",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://podcastfeeds.nbcnews.com/HL4TzgYC",
+          "owner_name": "NBC News",
+          "owner_email": "news.podcasts@nbcuni.com",
+          "itunes_author": "NBC News",
+          "website": "https://www.nbcnews.com/dateline",
+          "description": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. Follow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com",
+          "cadence": "Daily",
+          "episode_count": 880,
+          "last_published": "2026-06-25",
+          "schedule": {
+            "days": [
+              2,
+              7,
+              7,
+              7,
+              1,
+              0,
+              0
+            ],
+            "label": "Daily",
+            "eps_year": 328,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Last Podcast On The Left",
+          "id": "spotify:show:3yZg2MCkf31pPXiG4nznrg",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fa8e9391b6707168dbc6c5c18",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "The Last Podcast Network",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/dCXMIpJz",
+          "owner_name": "The Last Podcast Network",
+          "owner_email": "thelastpodcastnetwork@gmail.com",
+          "itunes_author": "The Last Podcast Network",
+          "website": "https://www.lastpodcastnetwork.com",
+          "description": "The Last Podcast on the Left covers all the horrors our world has to offer, both imagined and real. From demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your bloodlust. Subscribe to SiriusXM Podcasts+ to listen to new episodes of Last Podcast on the Left ad…",
+          "cadence": "~3×/week",
+          "episode_count": 1184,
+          "last_published": "2026-06-26",
+          "schedule": {
+            "days": [
+              2,
+              0,
+              11,
+              0,
+              10,
+              0,
+              1
+            ],
+            "label": "~3×/week · Wed & Fri",
+            "eps_year": 146,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+          "id": "spotify:show:4NZWQf0wUsaT0tO9unlmra",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f4a3ffa85e5cb4e0eaa90254d",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Ballen Studios",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/dloY8UYJ",
+          "owner_name": "MrBallen",
+          "owner_email": "cole@mrballenpodcast.com",
+          "itunes_author": "Ballen Studios",
+          "website": "https://ballenstudios.com/",
+          "description": "MrBallen Podcast: Strange, Dark and Mysterious Stories is a true crime and mystery podcast that presents strange, dark and mysterious content delivered in story format. The program is hosted by John Allen a.k.a. MrBallen. Subscribe to SiriusXM Podcasts+ to listen to new episodes 7-days early and ad-…",
+          "cadence": "~4×/week",
+          "episode_count": 510,
+          "last_published": "2026-07-03",
+          "schedule": {
+            "days": [
+              6,
+              0,
+              6,
+              6,
+              6,
+              0,
+              0
+            ],
+            "label": "~4×/week",
+            "eps_year": 182,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "The Deck",
+          "id": "spotify:show:4tBHDbvre02vPEWMAFmzvB",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f0ff1e66cb111bf525b2a3cbf",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Audiochuck",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/ZH32N6UM",
+          "owner_name": "Audiochuck",
+          "owner_email": "content@audiochuck.com",
+          "itunes_author": "Audiochuck",
+          "website": "https://audiochuck.com",
+          "description": "For years, some law enforcement agencies have replaced the faces of traditional playing card decks with images of missing and murdered people and distributed those cards in prisons hoping inmates would come forward with information needed to crack these cold cases wide open. Now, audiochuck is deali…",
+          "cadence": "Weekly",
+          "episode_count": 239,
+          "last_published": "2026-06-17",
+          "schedule": {
+            "days": [
+              0,
+              0,
+              24,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Wednesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "The Truth About Natalie",
+          "id": "spotify:show:7n5BHdLVurP8QmLJ8B5WiL",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f36253d253db2f5b781ab5ac5",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Audiochuck",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-08-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/EByNnoqi",
+          "owner_name": "Audiochuck",
+          "owner_email": null,
+          "itunes_author": "Audiochuck",
+          "website": "https://audiochuck.com/",
+          "description": "Twenty-seven-year-old Natalie Jones vanished after a July 4th lake party in Alabama in 2020. Ninety-three days later, her car and her remains were found in a rural Georgia field. No arrest. No clear answer. No closure for the family left behind.The official theory was an accidental overdose. But a n…",
+          "cadence": "Weekly",
+          "episode_count": 15,
+          "last_published": "2026-08-17",
+          "schedule": {
+            "days": [
+              3,
+              0,
+              0,
+              2,
+              10,
+              0,
+              0
+            ],
+            "label": "Weekly · Fridays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Park Predators",
+          "id": "spotify:show:4M03qhBOIgqKezng4DSEhy",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f0824f5ca67f639c57e346aeb",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Audiochuck",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/T0BOyX6l",
+          "owner_name": "Audiochuck",
+          "owner_email": "content@audiochuck.com",
+          "itunes_author": "Audiochuck",
+          "website": "https://audiochuck.com",
+          "description": "Explore the dark side of the world’s most beautiful places with investigative journalist and park enthusiast Delia D’Ambra. Each week, Delia guides you deep into national parks and forests across the globe, uncovering stories where nature’s breathtaking beauty has masked sinister secrets. From infam…",
+          "cadence": "Weekly",
+          "episode_count": 165,
+          "last_published": "2026-06-23",
+          "schedule": {
+            "days": [
+              0,
+              23,
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Tuesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Law And Crime On The Case with Chris Stewart",
+          "id": "spotify:show:482HHqvhggQ4xKLw66gdDQ",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fd4d211cf60a4548a94cdacdb",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Law & Crime",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/XNiEM5F9",
+          "owner_name": "MK Media",
+          "owner_email": "podcasts@rsvmedia.com",
+          "itunes_author": "MK Media",
+          "website": "https://www.siriusxm.com",
+          "description": "Megyn Kelly's MK Media podcast network home for true crime shows, live trial coverage and recaps, expert legal analysis, and more.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Dark Downeast",
+          "id": "spotify:show:4MY9TeLc1XrK5bzpeb7L0K",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f809c60bf6b30e41b52b5e6da",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Audiochuck",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.simplecast.com/LqfhW4oK",
+          "owner_name": "Audiochuck",
+          "owner_email": "content@audiochuck.com",
+          "itunes_author": "Audiochuck",
+          "website": "simplecast.com",
+          "description": "Dark Downeast: Maine and New England's True Crime Podcast digs into the decades-old and modern day cases that prickle the history of Vacationland and beyond – the unsolved homicides, undetermined deaths, unexplained disappearances and other dark stories of New England. Investigative journalist and s…",
+          "cadence": "Weekly",
+          "episode_count": 278,
+          "last_published": "2026-06-18",
+          "schedule": {
+            "days": [
+              0,
+              0,
+              0,
+              24,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Thursdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
           "title": "Pop Culture Happy Hour",
           "id": "spotify:show:25auwWceZnlOEK6SwtO1y1",
           "artwork": "https://i.scdn.co/image/ab67656300005f1ff7a29d1b262e2abc5b1c1ba3",
@@ -14956,7 +15997,7 @@
     },
     {
       "name": "Omny / Triton",
-      "count": 39,
+      "count": 42,
       "share": 5.2,
       "shows": [
         {
@@ -16179,6 +17220,104 @@
           "rss_video": null
         },
         {
+          "title": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
+          "id": "spotify:show:0U9S5J2ltMaKdxIfLuEjzE",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f4a2f177477ecd05b6f5be8e0",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Exactly Right and iHeartPodcasts",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss",
+          "owner_name": "iHeartPodcasts",
+          "owner_email": "applepodcast@howstuffworks.com",
+          "itunes_author": "Exactly Right and iHeartPodcasts",
+          "website": "https://www.myfavoritemurder.com/",
+          "description": "My Favorite Murder is a true crime comedy podcast hosted by Karen Kilgariff and Georgia Hardstark. Each week, Karen and Georgia share compelling true crimes and hometown stories from friends and listeners. Since MFM launched in January of 2016, Karen and Georgia have shared their lifelong interest i…",
+          "cadence": "~4×/week",
+          "episode_count": 1181,
+          "last_published": "2026-06-25",
+          "schedule": {
+            "days": [
+              7,
+              0,
+              8,
+              8,
+              1,
+              0,
+              0
+            ],
+            "label": "~4×/week",
+            "eps_year": 182,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Factinate",
+          "id": "spotify:show:5rftVbvsROaxL2w4q2h6B1",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fae5808de83344ac4be1134fb",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Factinate.com",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.omnycontent.com/d/playlist/98042c81-0cc9-4e32-97a4-ad120137cab0/82588d06-9593-4946-97e6-ad1300fa9cde/853194cb-3faf-4c47-9f54-ad1300fa9cf0/podcast.rss",
+          "owner_name": "Factinate",
+          "owner_email": "contribute@factinate.com",
+          "itunes_author": "Factinate",
+          "website": "http://www.factinate.com",
+          "description": "Yesterday's News is a podcast dedicated to the idea that anyone who made history was probably a bit of a hot mess.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Betrayal Weekly",
+          "id": "spotify:show:2q2dQ19YSuGe5v0EeeeJGq",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fc48451a33918a4999f516c0a",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "iHeartPodcasts | Glass Podcasts",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/f1aae979-82f6-402c-8906-ae6001537b33/podcast.rss",
+          "owner_name": "iHeartPodcasts",
+          "owner_email": "applepodcast@howstuffworks.com",
+          "itunes_author": "iHeartPodcasts | Glass Podcasts",
+          "website": "https://www.iheart.com/podcast/1119-betrayal-the-perfect-husb-95632727/",
+          "description": "Betrayal Weekly is back for a new season. Every Thursday, Betrayal Weekly shares first-hand accounts of broken trust, shocking deceptions, and the trail of destruction they leave behind. Hosted by Andrea Gunning, this weekly ongoing series digs into real-life stories of betrayal and the aftermath. F…",
+          "cadence": "Weekly",
+          "episode_count": 172,
+          "last_published": "2026-06-25",
+          "schedule": {
+            "days": [
+              10,
+              0,
+              1,
+              11,
+              2,
+              0,
+              0
+            ],
+            "label": "~2×/week · Thu & Mon",
+            "eps_year": 91,
+            "trend": "slowing"
+          },
+          "rss_video": null
+        },
+        {
           "title": "Pod Meets World",
           "id": "spotify:show:11BA5Y1PBaleEjJAFAP8MG",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f1d4d4152579b21803a787a2b",
@@ -16368,8 +17507,8 @@
     },
     {
       "name": "Libsyn",
-      "count": 36,
-      "share": 4.8,
+      "count": 37,
+      "share": 4.6,
       "shows": [
         {
           "title": "Life Wide Open with CboysTV",
@@ -17485,6 +18624,43 @@
           "rss_video": null
         },
         {
+          "title": "This Feels Criminal: A True Crime Podcast (Formerly Killer Queens)",
+          "id": "spotify:show:1Jscb9OAXbbtmwpA6kCxiX",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f31941fc28d680b0504a81d4b",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "This Feels Criminal | Formerly Killer Queens",
+          "chart_move": "DOWN",
+          "host_since": "2026-08-08",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.libsyn.com/shows/619855/destinations/5408875.xml",
+          "owner_name": "This Feels Criminal | Formerly Killer Queens",
+          "owner_email": "killerqueenspodcast@gmail.com",
+          "itunes_author": "This Feels Criminal | Formerly Killer Queens",
+          "website": "https://www.thisfeelscriminal.com",
+          "description": "Dissecting the cases everyone's talking about. From true crime to celebrity courtrooms and pop culture legal drama — Tyrella and Nikita break it all down with the commentary your group chat wishes it had. New episodes every Tuesday and Thursday. Crime. Culture. Commentary. For bonus episodes and pre…",
+          "cadence": "~3×/week",
+          "episode_count": 616,
+          "last_published": "2026-08-06",
+          "schedule": {
+            "days": [
+              1,
+              10,
+              0,
+              10,
+              2,
+              1,
+              0
+            ],
+            "label": "~2×/week · Tue & Thu",
+            "eps_year": 122,
+            "trend": "accelerating"
+          },
+          "rss_video": null
+        },
+        {
           "title": "My Animated Stories",
           "id": "spotify:show:4yExGoBV4AmnY2vWOyddAa",
           "artwork": "https://i.scdn.co/image/ab67656300005f1fb9a47b5821cba21c17bf9607",
@@ -17526,8 +18702,8 @@
     },
     {
       "name": "Acast",
-      "count": 34,
-      "share": 4.5,
+      "count": 35,
+      "share": 4.4,
       "shows": [
         {
           "title": "The Best One Yet",
@@ -18464,6 +19640,43 @@
           "rss_video": null
         },
         {
+          "title": "Casefile True Crime",
+          "id": "spotify:show:4V3K3zyD0k789eaSWFXzhc",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f894f04685d071f554f2da7d5",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Casefile Presents",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.acast.com/public/shows/679acff465f74095106abfaa",
+          "owner_name": "Casefile Presents",
+          "owner_email": "info+679acff465f74095106abfaa@mg-eu.acast.com",
+          "itunes_author": "Casefile Presents",
+          "website": "https://casefilepodcast.com",
+          "description": "Fact is scarier than fiction. Subscribe to Casefile Premium to receive ad-free episodes released one week early, along with access to bonus Q&A’s, our exclusive show ‘Behind the Files’, and more. Hosted on Acast. See acast.com/privacy for more information.",
+          "cadence": "Weekly",
+          "episode_count": 497,
+          "last_published": "2026-06-20",
+          "schedule": {
+            "days": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              24,
+              0
+            ],
+            "label": "Weekly · Saturdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
           "title": "Watch What Crappens",
           "id": "spotify:show:3iSZPuQ8T8Msh0N33ZD7No",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f69f97c883ae7365a8a79b778",
@@ -18727,8 +19940,8 @@
     },
     {
       "name": "Art19",
-      "count": 30,
-      "share": 4.0,
+      "count": 33,
+      "share": 4.1,
       "shows": [
         {
           "title": "How I Built This with Guy Raz",
@@ -19556,6 +20769,117 @@
           "rss_video": null
         },
         {
+          "title": "Scandal",
+          "id": "spotify:show:7Mkk8DF2z1Anaz4Y7NJecl",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fdbbca998e907892aac1a8074",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Law & Crime",
+          "chart_move": "UP",
+          "host_since": "2026-07-11",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.art19.com/american-scandal",
+          "owner_name": "Audible",
+          "owner_email": "iwonder@wondery.com",
+          "itunes_author": "Audible",
+          "website": "https://wondery.com/shows/American-Scandal/",
+          "description": "Every scandal begins with a lie. But the truth will come out. And then comes the fallout and the outrage. Scandals have shaped America since its founding. From business and politics to sports and society, we look on aghast as corruption, deceit and ambition bring down heroes and celebrities, politic…",
+          "cadence": "Weekly",
+          "episode_count": null,
+          "last_published": "2026-07-07",
+          "schedule": {
+            "days": [
+              1,
+              23,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Tuesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "The Prosecutors",
+          "id": "spotify:show:5jE3NzCLOp9pXIcBeHuZOy",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fedb224436322c4581494de87",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "PodcastOne",
+          "chart_move": "DOWN",
+          "host_since": "2026-08-07",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.pdrl.fm/03125f/rss.art19.com/the-prosecutors",
+          "owner_name": "PodcastOne",
+          "owner_email": "info@podcastone.com",
+          "itunes_author": "PodcastOne",
+          "website": "https://art19.com/shows/the-prosecutors",
+          "description": "A true crime podcast with a different point of view. Every week, Alice and Brett bring their unique perspective as prosecutors to the most famous cold case mysteries of all time. Murder, mayhem, disappearances, you name it. If it's true crime, they're on the case. Custom case art by Hannah Hill. htt…",
+          "cadence": "Daily",
+          "episode_count": 471,
+          "last_published": "2026-08-06",
+          "schedule": {
+            "days": [
+              1,
+              13,
+              3,
+              3,
+              2,
+              1,
+              1
+            ],
+            "label": "~4×/week",
+            "eps_year": 182,
+            "trend": "accelerating"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Snapped: Women Who Murder",
+          "id": "spotify:show:6SwzIsW0OznijVpZOZlYRg",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f4ea8817ff06ce799610f84e6",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Oxygen",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.art19.com/snapped-women-who-murder",
+          "owner_name": "Snapped: Women Who Murder",
+          "owner_email": "pods@versantmedia.com",
+          "itunes_author": "Oxygen",
+          "website": "https://art19.com/shows/snapped-women-who-murder",
+          "description": "For the first time ever, full Snapped episodes are now a podcast. Subscribe to this true crime podcast for the direct audio from the original Snapped episodes that have aired on Oxygen over the last 29 seasons (and counting)! Now you can enjoy Snapped episodes in your headphones, in your car, or at…",
+          "cadence": "Weekly",
+          "episode_count": 355,
+          "last_published": "2026-06-21",
+          "schedule": {
+            "days": [
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              23
+            ],
+            "label": "Weekly · Sundays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
           "title": "Not Skinny But Not Fat",
           "id": "spotify:show:03cp5qwpSvb9two5JHIg9y",
           "artwork": "https://i.scdn.co/image/ab67656300005f1fb9ebe1dced22a0ec634da5be",
@@ -19819,8 +21143,8 @@
     },
     {
       "name": "Audioboom",
-      "count": 21,
-      "share": 2.8,
+      "count": 25,
+      "share": 3.1,
       "shows": [
         {
           "title": "The Tim Dillon Show",
@@ -20533,6 +21857,154 @@
           "last_published": null,
           "schedule": null,
           "rss_video": null
+        },
+        {
+          "title": "True Crime with Kendall Rae",
+          "id": "spotify:show:4d6RwH9XKnZ6osfNVc26eJ",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f3f5daa3fa2ffe173e2a7128f",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Mile Higher Media & Audioboom Studios",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://audioboom.com/channels/5074524.rss",
+          "owner_name": null,
+          "owner_email": "kendallrae@night.co",
+          "itunes_author": "Mile Higher Media & Audioboom Studios",
+          "website": "https://audioboom.com/channels/5074524",
+          "description": "Kendall Rae is a true-crime content creator on YouTube who has used her platform to spread awareness for victims and their families. Now she is bringing episodes of her YouTube true-crime series to podcast format, to hopefully create even more awareness around the cases she covers. Kendall's approac…",
+          "cadence": "Weekly",
+          "episode_count": 291,
+          "last_published": "2026-06-25",
+          "schedule": {
+            "days": [
+              0,
+              0,
+              0,
+              24,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Thursdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Serialously with Annie Elise",
+          "id": "spotify:show:6HdheEH8WeMTHoe5da34qU",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f40c2794693e25157184dad47",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Annie Elise & Audioboom Studios",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://audioboom.com/channels/5100770.rss",
+          "owner_name": "Audioboom",
+          "owner_email": null,
+          "itunes_author": "Annie Elise & Audioboom Studios",
+          "website": "https://audioboom.com/channels/5100770",
+          "description": "Serialously is hosted by Annie Elise, best known for her true-crime YouTube channel “10 to Life” with over 1.5M subscribers. Annie created Serialously after decades of listening to true crime and craving more than just the headlines; she wanted all the overlooked details everyone else seemed to miss…",
+          "cadence": "~2×/week",
+          "episode_count": 531,
+          "last_published": "2026-07-06",
+          "schedule": {
+            "days": [
+              10,
+              0,
+              2,
+              9,
+              3,
+              0,
+              0
+            ],
+            "label": "~2×/week · Mon & Thu",
+            "eps_year": 122,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "RedHanded",
+          "id": "spotify:show:0emVYc04B4y5UzBIvA0axo",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fb9b7c8db0737c762eb9dd3ab",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "RedHanded",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://audioboom.com/channels/5166531.rss",
+          "owner_name": "Audioboom",
+          "owner_email": null,
+          "itunes_author": "RedHanded",
+          "website": "https://audioboom.com/channels/5166531",
+          "description": "RedHanded the podcast jumps head first into all manner of macabre madness. We cover everything from big time serial killers (and those you may never have heard of), to hauntings, possessions, disturbing mysteries, bizarre whodunits and basically anything that tickles our creepy fancy. So, join us, p…",
+          "cadence": "~4×/week",
+          "episode_count": 609,
+          "last_published": "2026-06-25",
+          "schedule": {
+            "days": [
+              2,
+              7,
+              0,
+              7,
+              8,
+              0,
+              0
+            ],
+            "label": "~4×/week",
+            "eps_year": 182,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "10 to Life",
+          "id": "spotify:show:4yLKPOt94HdrzVUoqEpZVa",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f9246030356463082c3ba0e72",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Annie Elise",
+          "chart_move": "DOWN",
+          "host_since": "2026-07-13",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://audioboom.com/channels/5159889.rss",
+          "owner_name": "Audioboom",
+          "owner_email": null,
+          "itunes_author": "Annie Elise",
+          "website": "https://audioboom.com/channels/5159889",
+          "description": "Behind every crime is a victim, a perpetrator, and a story that demands to be told. With over 1.5 million subscribers and 500 million views, 10 to Life is one of YouTube’s leading true crime channels. And now, for the first time ever, you can also listen wherever you get your podcasts. From shocking…",
+          "cadence": "Weekly",
+          "episode_count": 56,
+          "last_published": "2026-07-14",
+          "schedule": {
+            "days": [
+              1,
+              22,
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Tuesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
         }
       ],
       "rank": 8
@@ -20540,7 +22012,7 @@
     {
       "name": "Other/Self-Hosted",
       "count": 20,
-      "share": 2.7,
+      "share": 2.5,
       "shows": [
         {
           "title": "Marketplace",
@@ -21131,7 +22603,7 @@
     },
     {
       "name": "Buzzsprout",
-      "count": 16,
+      "count": 17,
       "share": 2.1,
       "shows": [
         {
@@ -21660,6 +23132,30 @@
             "trend": "steady"
           },
           "rss_video": null
+        },
+        {
+          "title": "EXPLORE WITH US",
+          "id": "spotify:show:0ptmSZkQIh2BCurX0cRVAa",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ff86fab8235a3015fe2fbe389",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "EWU Crew",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.buzzsprout.com/1438009.rss",
+          "owner_name": "Explore With Us",
+          "owner_email": null,
+          "itunes_author": "Explore With Us",
+          "website": "https://www.buzzsprout.com/1438009",
+          "description": "If you love true crime and mysteries, you will love this podcast!",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
         }
       ],
       "rank": 10
@@ -21667,7 +23163,7 @@
     {
       "name": "Unresolved (Spotify-only)",
       "count": 15,
-      "share": 2.0,
+      "share": 1.9,
       "shows": [
         {
           "title": "soundbuttonsspace",
@@ -22035,7 +23531,7 @@
     {
       "name": "Podbean",
       "count": 14,
-      "share": 1.9,
+      "share": 1.8,
       "shows": [
         {
           "title": "Duncanyounot",
@@ -22495,8 +23991,8 @@
     },
     {
       "name": "AmperWave (Audacy)",
-      "count": 10,
-      "share": 1.3,
+      "count": 12,
+      "share": 1.5,
       "shows": [
         {
           "title": "History That Doesn't Suck",
@@ -22832,6 +24328,80 @@
           "rss_video": null
         },
         {
+          "title": "48 Hours",
+          "id": "spotify:show:0UetHF8bYSGBtDsjVl4GDv",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f24ab7e8eb6368f62fd70e5d4",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "CBS News",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/496099a4061493caac75b71a6c26b8fb",
+          "owner_name": "CBS News",
+          "owner_email": "podcasts@cbsnews.com",
+          "itunes_author": "CBS News",
+          "website": "https://www.cbsnews.com/48-hours/",
+          "description": "“48 Hours” uncovers the narrative behind crime and justice cases that have left a lasting mark on society. Award-winning CBS News correspondents thoughtfully examine the complexities of each crime by transporting you to the heart of the investigation through key evidence and gripping interviews with…",
+          "cadence": "Daily",
+          "episode_count": 1074,
+          "last_published": "2026-06-29",
+          "schedule": {
+            "days": [
+              5,
+              4,
+              5,
+              5,
+              5,
+              0,
+              0
+            ],
+            "label": "Daily",
+            "eps_year": 365,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "True Crime Stories",
+          "id": "spotify:show:48GaWhr2cdtOGjF3dF9rLy",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f6f26a1be3d27a21d83e7cd2f",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "True Crime Stories",
+          "chart_move": "UP",
+          "host_since": "2026-08-20",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/murdertruecrimestories",
+          "owner_name": "PAVE Studios",
+          "owner_email": "production@pavestudios.com",
+          "itunes_author": "Crime House",
+          "website": "https://www.pavestudios.com/crimehouse",
+          "description": "On Murder: True Crime Stories, host Carter Roy digs into history's most notorious murders like you've never heard them before, going beyond the crime scene to find the real story…and the lives it upended. Case closed or not, every case leaves you understanding exactly why it needed to be told. Join…",
+          "cadence": "~4×/week",
+          "episode_count": null,
+          "last_published": "2026-08-20",
+          "schedule": {
+            "days": [
+              2,
+              7,
+              0,
+              8,
+              7,
+              0,
+              0
+            ],
+            "label": "~4×/week",
+            "eps_year": 182,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
           "title": "How We Made Your Mother",
           "id": "spotify:show:0SljizgqERMCPo9Dp9IjqZ",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f0654b7e4ba4cc3df3edc67bb",
@@ -22873,7 +24443,7 @@
     },
     {
       "name": "Transistor",
-      "count": 9,
+      "count": 10,
       "share": 1.2,
       "shows": [
         {
@@ -23156,6 +24726,30 @@
             "trend": "steady"
           },
           "rss_video": null
+        },
+        {
+          "title": "Mystery Mondays",
+          "id": "spotify:show:3c5cGPSQAAEQkrdKOmk9b7",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fd43f881a3338c723e465be49",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Bella Fiori",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.transistor.fm/mystery-mondays",
+          "owner_name": "Calum Waite",
+          "owner_email": null,
+          "itunes_author": "Calum waite, Drew Armstrong, Nathaniel Warren",
+          "website": null,
+          "description": "Each Monday we bring you a fresh mystery! From Aliens to unsolved murders, we have it all. This entertaining podcast is brought to you in association with Pandora's Box Podcast and Aspen Waite Media.",
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
         }
       ],
       "rank": 14
@@ -23163,7 +24757,7 @@
     {
       "name": "Barstool Sports",
       "count": 8,
-      "share": 1.1,
+      "share": 1.0,
       "shows": [
         {
           "title": "Son of a Boy Dad",
@@ -23694,8 +25288,8 @@
     },
     {
       "name": "Spreaker",
-      "count": 6,
-      "share": 0.8,
+      "count": 7,
+      "share": 0.9,
       "shows": [
         {
           "title": "CreepsMcPasta Creepypasta Radio",
@@ -23820,6 +25414,43 @@
           "rss_video": null
         },
         {
+          "title": "Sword and Scale",
+          "id": "spotify:show:2dzMey4yRYKX5NWKp8zPrd",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fca4cdbd3d00e196e35f01347",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Sword and Scale",
+          "chart_move": "UP",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://www.spreaker.com/show/5895676/episodes/feed",
+          "owner_name": "Incongruity",
+          "owner_email": "feedback@swordandscale.com",
+          "itunes_author": "Sword and Scale",
+          "website": "https://swordandscale.com",
+          "description": "Sword and Scale is a weekly true crime podcast covering the dark underworld of crime and the criminal justice system’s response to it. The first episode launched January 1st, 2014 and feature stories of murder, abduction, rape, and even more bizarre forms of crime. It’s the purest form of true-crime…",
+          "cadence": "Biweekly",
+          "episode_count": 366,
+          "last_published": "2026-06-17",
+          "schedule": {
+            "days": [
+              2,
+              2,
+              4,
+              1,
+              2,
+              6,
+              7
+            ],
+            "label": "Biweekly",
+            "eps_year": 36,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
           "title": "ASMR!!",
           "id": "spotify:show:4EU7FAb4n2mKycLh0ndWIF",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f5b65e59169e1aa4536513300",
@@ -23871,9 +25502,213 @@
       "rank": 17
     },
     {
+      "name": "RSS.com",
+      "count": 6,
+      "share": 0.8,
+      "shows": [
+        {
+          "title": "Everything Professor",
+          "id": "spotify:show:07ZgD0ECjWPrjFgTZ4uwW6",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f218d5f6dc99d65a187cdb452",
+          "categories": [
+            "Education"
+          ],
+          "publisher": "Everything Professor",
+          "chart_move": "UP",
+          "host_since": "2026-06-27",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://media.rss.com/everything-profesor/feed.xml",
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "Hot History",
+          "id": "spotify:show:4sLQaywv4intWtRHwzpa27",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fa6293f377341bd200f4aeebe",
+          "categories": [
+            "History"
+          ],
+          "publisher": "Hot History Production",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://media.rss.com/hothistory/feed.xml",
+          "owner_name": "Ainslie Harvey",
+          "owner_email": null,
+          "itunes_author": "Ainslie Harvey",
+          "website": "https://rss.com/podcasts/hothistory",
+          "description": "Hot History is the podcast for all the things in history you probably should know, but don't.",
+          "cadence": "Weekly",
+          "episode_count": 48,
+          "last_published": "2026-06-25",
+          "schedule": {
+            "days": [
+              2,
+              0,
+              0,
+              21,
+              0,
+              0,
+              1
+            ],
+            "label": "Weekly · Thursdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "MrBeast Gaming",
+          "id": "spotify:show:033O0IOEYaoadWTX1veqrX",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f78b004d9a7f2a125cf50de4b",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "MrBeast Gaming",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-08-13",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://media.rss.com/insideminecraft/feed.xml",
+          "owner_name": "Orbitzz",
+          "owner_email": null,
+          "itunes_author": "Orbitzz",
+          "website": "https://insidemc.net",
+          "description": "A podcast branded Inside Minecraft where we talk about current topics and to your favourite creators… • Reach out if you’d like to be a guest!",
+          "cadence": "Weekly",
+          "episode_count": null,
+          "last_published": "2026-08-07",
+          "schedule": {
+            "days": [
+              5,
+              1,
+              2,
+              0,
+              16,
+              0,
+              0
+            ],
+            "label": "Weekly · Fridays",
+            "eps_year": 52,
+            "trend": "accelerating"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Bushwhack18 on Spotify",
+          "id": "spotify:show:033j5ismFOPP8cOfJ9r6yf",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f133b6be6a892d2747e1ca44a",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "Bush",
+          "chart_move": "DOWN",
+          "host_since": "2026-07-29",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://media.rss.com/bryanvsbryan/feed.xml",
+          "owner_name": "Bryan Watkins & Bryan Blake",
+          "owner_email": null,
+          "itunes_author": "Bryan Watkins & Bryan Blake",
+          "website": "https://rss.com/podcasts/bryanvsbryan",
+          "description": "Each week here on Bryan Vs Bryan we tackle anything and everything movies, games, and entertainment. We also like to squeeze in a laugh or two along the way. So please, buckle in and hangout. This is... Bryan vs Bryan",
+          "cadence": "Biweekly",
+          "episode_count": null,
+          "last_published": "2026-07-26",
+          "schedule": {
+            "days": [
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              22
+            ],
+            "label": "Biweekly · Sundays",
+            "eps_year": 26,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Real Baron Podcast",
+          "id": "spotify:show:7gGJDxfhTfMnZawXVbsO1C",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f1373e19b62ebc335461145bf",
+          "categories": [
+            "News"
+          ],
+          "publisher": "Baron Coleman",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://media.rss.com/real-baron-podcast/feed.xml",
+          "owner_name": "Baron Coleman",
+          "owner_email": null,
+          "itunes_author": "Baron Coleman",
+          "website": "https://rss.com/podcasts/real-baron-podcast",
+          "description": "Intellectually Honest. Philosophically Consistent. All Content Copyright ONE R, LLC.",
+          "cadence": "~3×/week",
+          "episode_count": 133,
+          "last_published": "2026-06-27",
+          "schedule": {
+            "days": [
+              6,
+              6,
+              0,
+              7,
+              4,
+              1,
+              0
+            ],
+            "label": "~3×/week",
+            "eps_year": 182,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Rotten Mango Video",
+          "id": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "categories": [
+            "True Crime"
+          ],
+          "publisher": "Stephanie Soo",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://media.rss.com/rotten-mango/feed.xml",
+          "owner_name": null,
+          "owner_email": null,
+          "itunes_author": null,
+          "website": null,
+          "description": null,
+          "cadence": null,
+          "episode_count": null,
+          "last_published": null,
+          "schedule": null,
+          "rss_video": null
+        }
+      ],
+      "rank": 18
+    },
+    {
       "name": "Fireside",
       "count": 5,
-      "share": 0.7,
+      "share": 0.6,
       "shows": [
         {
           "title": "The Bible in a Year (with Fr. Mike Schmitz)",
@@ -24061,12 +25896,12 @@
           "rss_video": null
         }
       ],
-      "rank": 18
+      "rank": 19
     },
     {
       "name": "Flightcast",
       "count": 5,
-      "share": 0.7,
+      "share": 0.6,
       "shows": [
         {
           "title": "The Diary Of A CEO with Steven Bartlett",
@@ -24241,192 +26076,12 @@
           "rss_video": null
         }
       ],
-      "rank": 19
-    },
-    {
-      "name": "RSS.com",
-      "count": 5,
-      "share": 0.7,
-      "shows": [
-        {
-          "title": "Everything Professor",
-          "id": "spotify:show:07ZgD0ECjWPrjFgTZ4uwW6",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f218d5f6dc99d65a187cdb452",
-          "categories": [
-            "Education"
-          ],
-          "publisher": "Everything Professor",
-          "chart_move": "UP",
-          "host_since": "2026-06-27",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://media.rss.com/everything-profesor/feed.xml",
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "Hot History",
-          "id": "spotify:show:4sLQaywv4intWtRHwzpa27",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fa6293f377341bd200f4aeebe",
-          "categories": [
-            "History"
-          ],
-          "publisher": "Hot History Production",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://media.rss.com/hothistory/feed.xml",
-          "owner_name": "Ainslie Harvey",
-          "owner_email": null,
-          "itunes_author": "Ainslie Harvey",
-          "website": "https://rss.com/podcasts/hothistory",
-          "description": "Hot History is the podcast for all the things in history you probably should know, but don't.",
-          "cadence": "Weekly",
-          "episode_count": 48,
-          "last_published": "2026-06-25",
-          "schedule": {
-            "days": [
-              2,
-              0,
-              0,
-              21,
-              0,
-              0,
-              1
-            ],
-            "label": "Weekly · Thursdays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "MrBeast Gaming",
-          "id": "spotify:show:033O0IOEYaoadWTX1veqrX",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f78b004d9a7f2a125cf50de4b",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "MrBeast Gaming",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-08-13",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://media.rss.com/insideminecraft/feed.xml",
-          "owner_name": "Orbitzz",
-          "owner_email": null,
-          "itunes_author": "Orbitzz",
-          "website": "https://insidemc.net",
-          "description": "A podcast branded Inside Minecraft where we talk about current topics and to your favourite creators… • Reach out if you’d like to be a guest!",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": "2026-08-07",
-          "schedule": {
-            "days": [
-              5,
-              1,
-              2,
-              0,
-              16,
-              0,
-              0
-            ],
-            "label": "Weekly · Fridays",
-            "eps_year": 52,
-            "trend": "accelerating"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Bushwhack18 on Spotify",
-          "id": "spotify:show:033j5ismFOPP8cOfJ9r6yf",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f133b6be6a892d2747e1ca44a",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "Bush",
-          "chart_move": "DOWN",
-          "host_since": "2026-07-29",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://media.rss.com/bryanvsbryan/feed.xml",
-          "owner_name": "Bryan Watkins & Bryan Blake",
-          "owner_email": null,
-          "itunes_author": "Bryan Watkins & Bryan Blake",
-          "website": "https://rss.com/podcasts/bryanvsbryan",
-          "description": "Each week here on Bryan Vs Bryan we tackle anything and everything movies, games, and entertainment. We also like to squeeze in a laugh or two along the way. So please, buckle in and hangout. This is... Bryan vs Bryan",
-          "cadence": "Biweekly",
-          "episode_count": null,
-          "last_published": "2026-07-26",
-          "schedule": {
-            "days": [
-              1,
-              1,
-              0,
-              0,
-              0,
-              0,
-              22
-            ],
-            "label": "Biweekly · Sundays",
-            "eps_year": 26,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
-          "title": "Real Baron Podcast",
-          "id": "spotify:show:7gGJDxfhTfMnZawXVbsO1C",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f1373e19b62ebc335461145bf",
-          "categories": [
-            "News"
-          ],
-          "publisher": "Baron Coleman",
-          "chart_move": "DOWN",
-          "host_since": "2026-06-18",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://media.rss.com/real-baron-podcast/feed.xml",
-          "owner_name": "Baron Coleman",
-          "owner_email": null,
-          "itunes_author": "Baron Coleman",
-          "website": "https://rss.com/podcasts/real-baron-podcast",
-          "description": "Intellectually Honest. Philosophically Consistent. All Content Copyright ONE R, LLC.",
-          "cadence": "~3×/week",
-          "episode_count": 133,
-          "last_published": "2026-06-27",
-          "schedule": {
-            "days": [
-              6,
-              6,
-              0,
-              7,
-              4,
-              1,
-              0
-            ],
-            "label": "~3×/week",
-            "eps_year": 182,
-            "trend": "steady"
-          },
-          "rss_video": null
-        }
-      ],
       "rank": 20
     },
     {
       "name": "Substack",
       "count": 5,
-      "share": 0.7,
+      "share": 0.6,
       "shows": [
         {
           "title": "JudeLow",
@@ -25002,7 +26657,7 @@
     {
       "name": "Captivate",
       "count": 2,
-      "share": 0.3,
+      "share": 0.2,
       "shows": [
         {
           "title": "The Dr. Gabrielle Lyon Show",
@@ -25084,7 +26739,7 @@
     {
       "name": "Thmanyah",
       "count": 2,
-      "share": 0.3,
+      "share": 0.2,
       "shows": [
         {
           "title": "𐙚 𝙍𝙖𝙣𝙙𝙤𝙢 𝘼𝙪𝙙𝙞𝙤'𝙨 (𝙉𝙎𝙁𝙒)",
@@ -50334,7 +51989,1767 @@
       ]
     },
     "True Crime": {
-      "platforms": []
+      "platforms": [
+        {
+          "name": "Megaphone",
+          "count": 16,
+          "share": 32.0,
+          "shows": [
+            {
+              "title": "Crime, Conspiracy, Cults and Murder",
+              "id": "spotify:show:2mClgQ5t53TqBIAxxGjvnu",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f906ec905d66f0d5eb4031191",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Kallmekris",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/QCD5880453128",
+              "owner_name": "Kallmekris",
+              "owner_email": "podcasts@qcodemedia.com",
+              "itunes_author": "Kallmekris | Daylight Media",
+              "website": "https://www.daylightmedia.com",
+              "description": "Hi, I'm Kallmekris, aka Kris Collins. Welcome to the audio & video version of my true crime deep dives! On this podcast, we will discuss tales of notorious figures in history, bizarre murder and conspiracy cases, and unsolved mysteries. (Anything and everything creepy and strange.) So, unbuckle your…",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Murder In America",
+              "id": "spotify:show:7didcuJyAUG4B3a5RbdDEI",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f37cba122006ec0600a2ab095",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Bloody FM",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/BDA3927678471",
+              "owner_name": "Blood In The Sink Productions",
+              "owner_email": "paranormalfilescrew@gmail.com",
+              "itunes_author": "Bloody FM",
+              "website": "https://podcasts.bloody-disgusting.com/",
+              "description": "MURDER IN AMERICA is a true crime podcast that takes a state-by-state look at the most infamous homicides across the United States of America. Co-hosted by Courtney Shannon & Colin Browen (of \"The Paranormal Files\"), the two delve deep into the darkest tales of murder from each and every state, feat…",
+              "cadence": "Weekly",
+              "episode_count": 250,
+              "last_published": "2026-06-19",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  24,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Fridays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Murder With My Husband",
+              "id": "spotify:show:6GaodpBsSpBuUMhmEXhjK2",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f274525717637cb68c2c8bc6b",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "OH NO MEDIA",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/HSW2364749129",
+              "owner_name": "OH NO MEDIA",
+              "owner_email": "garrett@morelandacres.com",
+              "itunes_author": "OH NO MEDIA",
+              "website": "https://murderwithmyhusband.com/",
+              "description": "A true crime podcast that ventures into the darkest crimes with a wife who loves it and a husband who hates it.",
+              "cadence": "Weekly",
+              "episode_count": 468,
+              "last_published": "2026-06-22",
+              "schedule": {
+                "days": [
+                  23,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Mondays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Snook",
+              "id": "spotify:show:2FH70nnKmpdV5PY0fp4F9Q",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f4e1a66770aae762c450299a0",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Snook",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/QCD5686868811",
+              "owner_name": "Snook",
+              "owner_email": "ryan.middledorf@daylightmedia.com",
+              "itunes_author": null,
+              "website": null,
+              "description": "Scary stories, crazy confessions, and unbelievable stories-all narrated by Snook. New episodes every Monday, Wednesday, and Friday! Subscribe to me on YouTube and follow me on Spotify!",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "20/20",
+              "id": "spotify:show:3ghsL8CzhRaJv0qzREZ9nU",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ffe715c2479125a40e39835aa",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "ABC News",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/ESP3456903052",
+              "owner_name": "ABC News",
+              "owner_email": "abc.podcast.support@abc.com",
+              "itunes_author": "ABC News",
+              "website": "https://abcaudio.com/podcasts/20-20/",
+              "description": "Unforgettable true crime mysteries, exclusive newsmaker interviews, hard-hitting investigative reports and in-depth coverage of high profile stories. Now listen throughout the week with the official 20/20 After Show, the True Crime Vault, and our spotlight of true crime originals.",
+              "cadence": "Daily",
+              "episode_count": 78,
+              "last_published": "2026-06-24",
+              "schedule": {
+                "days": [
+                  6,
+                  6,
+                  7,
+                  0,
+                  1,
+                  4,
+                  0
+                ],
+                "label": "Daily",
+                "eps_year": 283,
+                "trend": "accelerating"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Killer Stories with Harvey Guillén",
+              "id": "spotify:show:4ruq7mH0jg1sFi8KQhnGb8",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f48266cfb0edde8572625c0c4",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Spotify Studios",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/END1032105222",
+              "owner_name": "Spotify Studios",
+              "owner_email": "serialkillerstories@spotify.com",
+              "itunes_author": "Spotify Studios",
+              "website": "https://open.spotify.com/show/4ruq7mH0jg1sFi8KQhnGb8?si=c25d59cc3bb34422",
+              "description": "Welcome to your weekly journey into the darkest corners of human nature. Join Harvey Guillén every Monday as he explores crimes that seized the public’s attention, from jaw-dropping heists and devastating cons to serial murders and deadly rivalries. Each episode unfolds a single case, examining not…",
+              "cadence": "Weekly",
+              "episode_count": 613,
+              "last_published": "2026-06-29",
+              "schedule": {
+                "days": [
+                  24,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Mondays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Criminal",
+              "id": "spotify:show:3ictIqfumbmEuWdt9xWQp5",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f41fc40f911e145aa270bb5e7",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Vox Media Podcast Network",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/VMP7924981569",
+              "owner_name": "Vox Media Podcast Network",
+              "owner_email": "hello@thisiscriminal.com",
+              "itunes_author": "Vox Media Podcast Network",
+              "website": "http://thisiscriminal.com/",
+              "description": "Criminal is the first of its kind. A show about people who’ve done wrong, been wronged, or gotten caught somewhere in the middle. Hosted by Phoebe Judge. Named a Best Podcast of 2023 by the New York Times. Part of the Vox Media Podcast Network.",
+              "cadence": "Weekly",
+              "episode_count": 468,
+              "last_published": "2026-06-30",
+              "schedule": {
+                "days": [
+                  0,
+                  1,
+                  0,
+                  1,
+                  22,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Fridays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Wendigoon",
+              "id": "spotify:show:2MDDT1opwKR0NF6upmhKKN",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fdee1f66c882cee83653440f1",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Wendigoon",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/creepcast",
+              "owner_name": "Wendigoon & MeatCanyon",
+              "owner_email": "sam@manatalentgroup.com",
+              "itunes_author": "Wendigoon & MeatCanyon",
+              "website": "https://www.youtube.com/@CreepPodcast",
+              "description": "Wendigoon and MeatCanyon share the scary, occult, and...creepy stories from around the internet.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Unseen",
+              "id": "spotify:show:6C6Gj58po61vFDmz8lK5Gr",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f52eef3fc70f1db9b2ac2a4f8",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Goalcast",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/CASAS9761610007",
+              "owner_name": "Goalcast",
+              "owner_email": "unseen@goalcast.com",
+              "itunes_author": null,
+              "website": "https://unseen.plus/",
+              "description": "Uncover what true crime documentaries don't show you: real cases and real people, but with a new twist. This is Unseen.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Prime Crime: Solved Murders",
+              "id": "spotify:show:4t4nuhMponRkNpX6xKFVNZ",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f71ec40e5901b1dca35b33c52",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Law & Crime",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/solvedmurders",
+              "owner_name": "Law & Crime",
+              "owner_email": "Parcast@spotify.com",
+              "itunes_author": "Spotify Studios",
+              "website": "https://www.parcast.com",
+              "description": "Hosted and executive produced by Attorney and Law&Crime anchor Jesse Weber, Prime Crime puts a spotlight on infamously controversial stories that have shocked investigators and the public alike. Jesse Weber takes a deep dive into the most high-profile and shocking criminal cases that have garnered n…",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Heart Starts Pounding: Horrors, Hauntings and Mysteries",
+              "id": "spotify:show:6mbxMOHKjy7jQGl3V08rE3",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f903b3f9bc872ae35d748bdaf",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Heart Starts Pounding",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/heart-starts-pounding",
+              "owner_name": "Heart Starts Pounding: Horrors, Hauntings and Mysteries",
+              "owner_email": "audacystudios@audacy.com",
+              "itunes_author": "Heart Starts Pounding",
+              "website": "https://www.heartstartspounding.com/",
+              "description": "Horrors, hauntings and mysteries! A collection of scary stories that will have you on the edge of your seat. If you’re a fan of all things spooky, creepy, and thrilling, this is the podcast for you. Want more darkly curious content? Join the Rogue Detecting Society on Patreon (https://www.patreon.co…",
+              "cadence": "Weekly",
+              "episode_count": 237,
+              "last_published": "2026-06-18",
+              "schedule": {
+                "days": [
+                  1,
+                  0,
+                  0,
+                  22,
+                  1,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Thursdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "True Crime with Kimbyr",
+              "id": "spotify:show:2eM2kATtf2QgIKDsh4oawR",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f5b7f25722f942a6a1eb6623d",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Kimbyrleigha",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/DLERL3125581682",
+              "owner_name": "Jellysmack",
+              "owner_email": "spotifypadmin@jellysmack.com",
+              "itunes_author": null,
+              "website": null,
+              "description": "Every true crime case involves real people and real lives that are cut short, and True Crime with Kimbyr seeks to honor the victims of these unfathomable crimes by bringing facts to the forefront and sharing their stories with dignity and grace. An acclaimed storyteller on both her namesake and DARK…",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "What Lurks Beneath",
+              "id": "spotify:show:6BqFWcTY457HUsR3eJZ91a",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f12c64963f9082e7eb1abc289",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Josh Nanocchio",
+              "chart_move": "DOWN",
+              "host_since": "2026-08-01",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/darknessprevails",
+              "owner_name": "Eeriecast Network",
+              "owner_email": "deanbrenden93@gmail.com",
+              "itunes_author": "Eeriecast Network",
+              "website": "https://www.eeriecast.com/",
+              "description": "(Formerly the Darkness Prevails Podcast) Host Darkness Prevails brings you Unexplained Encounters, a podcast where everyday folk share their most terrifying and unexplained experiences. From mysterious creatures seen in national forests to supernatural events disrupting peoples' lives, prepare to ex…",
+              "cadence": "Weekly",
+              "episode_count": null,
+              "last_published": "2026-07-29",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  24,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Wednesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "National Park After Dark",
+              "id": "spotify:show:5AenIJ6TA3JjWkqacYEBWL",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb1400d52f164bec2b69b6731",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Danielle LaRock & Cassandra Yahnian ",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/ADL5623813745",
+              "owner_name": "Danielle LaRock & Cassandra Yahnian",
+              "owner_email": "info@npadpocast.com",
+              "itunes_author": "National Park After Dark",
+              "website": "http://npadpodcast.com",
+              "description": "Hosted by two friends who share a passion for public lands and a fascination with what can go wrong there, each week hosts Danielle and Cassie explore the darker side of our National Parks. But it isn’t always chills and thrills. By sharing inspiring tales and their desire for protecting our planet’…",
+              "cadence": "~2×/week",
+              "episode_count": 453,
+              "last_published": "2026-06-29",
+              "schedule": {
+                "days": [
+                  14,
+                  1,
+                  0,
+                  8,
+                  0,
+                  0,
+                  1
+                ],
+                "label": "~2×/week · Mondays",
+                "eps_year": 91,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Crime Report with Christina Randall",
+              "id": "spotify:show:6iPzkE5Rhh7mk3tByRlduS",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f4d26ff27160341cd670884cc",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Jellysmack",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/YMH5847489315",
+              "owner_name": "Tom Segura",
+              "owner_email": "salesteam@ymhstudios.com",
+              "itunes_author": "YMH Studios",
+              "website": "https://ymhstudios.com",
+              "description": "Christina Pazsitzky and Tom Segura are comedians who are also married. They are the Mommies and they welcome you to join them. Dental updates! Dudes! Stories! Wiping!",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "The Connect- with Johnny Mitchell ",
+              "id": "spotify:show:6mc4qAxpztC6D20wzeS91C",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f172374d200e8460016152b10",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Johnny Mitchell",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/BVLLC3384857265",
+              "owner_name": "Johnny Mitchell",
+              "owner_email": "kavan@wearebv.com",
+              "itunes_author": "Johnny Mitchell",
+              "website": "https://johnnymitchellcomedy.com",
+              "description": "Former drug trafficker and standup comedian Johnny Mitchell takes you inside the world of drugs, crime, prison, and the politics of the War on Drugs.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "name": "Simplecast",
+          "count": 11,
+          "share": 22.0,
+          "shows": [
+            {
+              "title": "Crime Junkie",
+              "id": "spotify:show:3DgfoleqaW61T2amZQKINx",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fbe2cc3efd92b817b54d9bcb2",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Audiochuck",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/qm_9xx0g",
+              "owner_name": "Audiochuck",
+              "owner_email": "content@audiochuck.com",
+              "itunes_author": "Audiochuck",
+              "website": "https://audiochuck.com",
+              "description": "Does hearing about a true crime case always leave you scouring the internet for the truth behind the story? Dive into your next mystery with Crime Junkie. Every Monday, join your host Ashley Flowers as she unravels all the details of infamous and underreported true crime cases with her best friend B…",
+              "cadence": "Weekly",
+              "episode_count": 516,
+              "last_published": "2026-06-22",
+              "schedule": {
+                "days": [
+                  17,
+                  0,
+                  2,
+                  3,
+                  1,
+                  1,
+                  0
+                ],
+                "label": "Weekly · Mondays",
+                "eps_year": 73,
+                "trend": "slowing"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Morbid",
+              "id": "spotify:show:1cpyLfDHP1cNnyOb478qrt",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f8c7c9683be7ce30817805f15",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Ash Kelley & Alaina Urquhart",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/ohmVlJZQ",
+              "owner_name": "Ash Kelley & Alaina Urquhart",
+              "owner_email": "info@morbid-podcast.com",
+              "itunes_author": "Ash Kelley & Alaina Urquhart",
+              "website": "https://morbid-53aa329e.simplecast.com",
+              "description": "It’s a lighthearted nightmare in here, weirdos! Morbid is a true crime, creepy history and all things spooky podcast hosted by an autopsy technician and a hairstylist. Join us for a heavy dose of research with a dash of comedy thrown in for flavor. Subscribe to SiriusXM Podcasts+ to listen to new ep…",
+              "cadence": "~2×/week",
+              "episode_count": 876,
+              "last_published": "2026-06-25",
+              "schedule": {
+                "days": [
+                  12,
+                  0,
+                  0,
+                  10,
+                  2,
+                  0,
+                  0
+                ],
+                "label": "~2×/week · Mon & Thu",
+                "eps_year": 122,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Rotten Mango",
+              "id": "spotify:show:2DZwvzn6Z3xCFZrwZGDrbj",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fe17b81be830039041326c578",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Stephanie Soo",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/6Qp23t6h",
+              "owner_name": "Stephanie Soo",
+              "owner_email": "stephaniesooq@gmail.com",
+              "itunes_author": "Stephanie Soo",
+              "website": "https://www.rottenmangopodcast.com/",
+              "description": "Rotten but still a little sweet! Rotten Mango is a true crime + all things spooky podcast. We love doing deep dives into the darkest crimes and we tend to not leave out any details - which can get a little rotten at times. If you want deep dives in the psychology of killers, no holding back storytel…",
+              "cadence": "~2×/week",
+              "episode_count": 542,
+              "last_published": "2026-06-24",
+              "schedule": {
+                "days": [
+                  1,
+                  0,
+                  9,
+                  3,
+                  0,
+                  0,
+                  11
+                ],
+                "label": "~2×/week · Sun & Wed",
+                "eps_year": 101,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Dateline NBC",
+              "id": "spotify:show:3MGn724Y6BOSQzfmk3TyuY",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f7078b2a29d4c74521970b24d",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "NBC News",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://podcastfeeds.nbcnews.com/HL4TzgYC",
+              "owner_name": "NBC News",
+              "owner_email": "news.podcasts@nbcuni.com",
+              "itunes_author": "NBC News",
+              "website": "https://www.nbcnews.com/dateline",
+              "description": "Current and classic episodes, featuring compelling true-crime mysteries, powerful documentaries and in-depth investigations. Follow now to get the latest episodes of Dateline NBC completely free, or subscribe to Dateline Premium for ad-free listening and exclusive bonus content: DatelinePremium.com",
+              "cadence": "Daily",
+              "episode_count": 880,
+              "last_published": "2026-06-25",
+              "schedule": {
+                "days": [
+                  2,
+                  7,
+                  7,
+                  7,
+                  1,
+                  0,
+                  0
+                ],
+                "label": "Daily",
+                "eps_year": 328,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Last Podcast On The Left",
+              "id": "spotify:show:3yZg2MCkf31pPXiG4nznrg",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fa8e9391b6707168dbc6c5c18",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "The Last Podcast Network",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/dCXMIpJz",
+              "owner_name": "The Last Podcast Network",
+              "owner_email": "thelastpodcastnetwork@gmail.com",
+              "itunes_author": "The Last Podcast Network",
+              "website": "https://www.lastpodcastnetwork.com",
+              "description": "The Last Podcast on the Left covers all the horrors our world has to offer, both imagined and real. From demons and slashers to cults and serial killers, The Last Podcast is guaranteed to satisfy your bloodlust. Subscribe to SiriusXM Podcasts+ to listen to new episodes of Last Podcast on the Left ad…",
+              "cadence": "~3×/week",
+              "episode_count": 1184,
+              "last_published": "2026-06-26",
+              "schedule": {
+                "days": [
+                  2,
+                  0,
+                  11,
+                  0,
+                  10,
+                  0,
+                  1
+                ],
+                "label": "~3×/week · Wed & Fri",
+                "eps_year": 146,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "MrBallen Podcast: Strange, Dark & Mysterious Stories",
+              "id": "spotify:show:4NZWQf0wUsaT0tO9unlmra",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f4a3ffa85e5cb4e0eaa90254d",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Ballen Studios",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/dloY8UYJ",
+              "owner_name": "MrBallen",
+              "owner_email": "cole@mrballenpodcast.com",
+              "itunes_author": "Ballen Studios",
+              "website": "https://ballenstudios.com/",
+              "description": "MrBallen Podcast: Strange, Dark and Mysterious Stories is a true crime and mystery podcast that presents strange, dark and mysterious content delivered in story format. The program is hosted by John Allen a.k.a. MrBallen. Subscribe to SiriusXM Podcasts+ to listen to new episodes 7-days early and ad-…",
+              "cadence": "~4×/week",
+              "episode_count": 510,
+              "last_published": "2026-07-03",
+              "schedule": {
+                "days": [
+                  6,
+                  0,
+                  6,
+                  6,
+                  6,
+                  0,
+                  0
+                ],
+                "label": "~4×/week",
+                "eps_year": 182,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Deck",
+              "id": "spotify:show:4tBHDbvre02vPEWMAFmzvB",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f0ff1e66cb111bf525b2a3cbf",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Audiochuck",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/ZH32N6UM",
+              "owner_name": "Audiochuck",
+              "owner_email": "content@audiochuck.com",
+              "itunes_author": "Audiochuck",
+              "website": "https://audiochuck.com",
+              "description": "For years, some law enforcement agencies have replaced the faces of traditional playing card decks with images of missing and murdered people and distributed those cards in prisons hoping inmates would come forward with information needed to crack these cold cases wide open. Now, audiochuck is deali…",
+              "cadence": "Weekly",
+              "episode_count": 239,
+              "last_published": "2026-06-17",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  24,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Wednesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Truth About Natalie",
+              "id": "spotify:show:7n5BHdLVurP8QmLJ8B5WiL",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f36253d253db2f5b781ab5ac5",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Audiochuck",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-08-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/EByNnoqi",
+              "owner_name": "Audiochuck",
+              "owner_email": null,
+              "itunes_author": "Audiochuck",
+              "website": "https://audiochuck.com/",
+              "description": "Twenty-seven-year-old Natalie Jones vanished after a July 4th lake party in Alabama in 2020. Ninety-three days later, her car and her remains were found in a rural Georgia field. No arrest. No clear answer. No closure for the family left behind.The official theory was an accidental overdose. But a n…",
+              "cadence": "Weekly",
+              "episode_count": 15,
+              "last_published": "2026-08-17",
+              "schedule": {
+                "days": [
+                  3,
+                  0,
+                  0,
+                  2,
+                  10,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Fridays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Park Predators",
+              "id": "spotify:show:4M03qhBOIgqKezng4DSEhy",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f0824f5ca67f639c57e346aeb",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Audiochuck",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/T0BOyX6l",
+              "owner_name": "Audiochuck",
+              "owner_email": "content@audiochuck.com",
+              "itunes_author": "Audiochuck",
+              "website": "https://audiochuck.com",
+              "description": "Explore the dark side of the world’s most beautiful places with investigative journalist and park enthusiast Delia D’Ambra. Each week, Delia guides you deep into national parks and forests across the globe, uncovering stories where nature’s breathtaking beauty has masked sinister secrets. From infam…",
+              "cadence": "Weekly",
+              "episode_count": 165,
+              "last_published": "2026-06-23",
+              "schedule": {
+                "days": [
+                  0,
+                  23,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Tuesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Law And Crime On The Case with Chris Stewart",
+              "id": "spotify:show:482HHqvhggQ4xKLw66gdDQ",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fd4d211cf60a4548a94cdacdb",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Law & Crime",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/XNiEM5F9",
+              "owner_name": "MK Media",
+              "owner_email": "podcasts@rsvmedia.com",
+              "itunes_author": "MK Media",
+              "website": "https://www.siriusxm.com",
+              "description": "Megyn Kelly's MK Media podcast network home for true crime shows, live trial coverage and recaps, expert legal analysis, and more.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Dark Downeast",
+              "id": "spotify:show:4MY9TeLc1XrK5bzpeb7L0K",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f809c60bf6b30e41b52b5e6da",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Audiochuck",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.simplecast.com/LqfhW4oK",
+              "owner_name": "Audiochuck",
+              "owner_email": "content@audiochuck.com",
+              "itunes_author": "Audiochuck",
+              "website": "simplecast.com",
+              "description": "Dark Downeast: Maine and New England's True Crime Podcast digs into the decades-old and modern day cases that prickle the history of Vacationland and beyond – the unsolved homicides, undetermined deaths, unexplained disappearances and other dark stories of New England. Investigative journalist and s…",
+              "cadence": "Weekly",
+              "episode_count": 278,
+              "last_published": "2026-06-18",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  0,
+                  24,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Thursdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "name": "Spotify/Anchor",
+          "count": 5,
+          "share": 10.0,
+          "shows": [
+            {
+              "title": "Just Creepy: Scary Stories",
+              "id": "spotify:show:1iBRwf9zg4O8gmn87yIGnF",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb982a02c848245f96916211d",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Just Creepy",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/cb11d70/podcast/rss",
+              "owner_name": "Just Creepy",
+              "owner_email": "david.w.coles@icloud.com",
+              "itunes_author": "Just Creepy",
+              "website": "https://justcreepy.net",
+              "description": "Just Creepy: Scary Stories to Keep You Up at Night. This is your home for terrifying stories that stay with you long after the episode ends. From Skinwalkers and Wendigos to true scary stories, creepy encounters, forest horrors, and deep woods nightmares, each episode is designed to pull you in and…",
+              "cadence": "~4×/week",
+              "episode_count": 513,
+              "last_published": "2026-06-24",
+              "schedule": {
+                "days": [
+                  7,
+                  0,
+                  8,
+                  0,
+                  7,
+                  2,
+                  0
+                ],
+                "label": "~4×/week",
+                "eps_year": 182,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Hot On The Case ",
+              "id": "spotify:show:0AaWYylLL7euqbYSuV3hwb",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f487860d1491f27b354d620f6",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Breanna Heim",
+              "chart_move": "UP",
+              "host_since": "2026-07-30",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/ff1e7300/podcast/rss",
+              "owner_name": "Breanna Heim",
+              "owner_email": null,
+              "itunes_author": "Breanna Heim",
+              "website": "https://podcasters.spotify.com/pod/show/breanna144",
+              "description": "Hot on the Case with Breanna Heim is a true crime podcast that shines a light on unsolved mysteries and the fight for justice. Hosted by Breanna, each episode takes you on a gripping journey through mysterious disappearances, unsolved murders, and overlooked crimes. Whether it's diving into cold cas…",
+              "cadence": "Weekly",
+              "episode_count": null,
+              "last_published": "2026-07-24",
+              "schedule": {
+                "days": [
+                  1,
+                  0,
+                  0,
+                  0,
+                  21,
+                  2,
+                  0
+                ],
+                "label": "Weekly · Fridays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "SOS - Wilderness Mysteries",
+              "id": "spotify:show:5EocRtVbfbqh9WEOfUbsjp",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f86326edf1c6e42c30df1dd0b",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Kyle Hates Hiking",
+              "chart_move": "UP",
+              "host_since": "2026-07-03",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/ff9650f0/podcast/rss",
+              "owner_name": "Kyle Hates Hiking",
+              "owner_email": "khhproductionsllc@gmail.com",
+              "itunes_author": "Kyle Hates Hiking",
+              "website": "https://podcasters.spotify.com/pod/show/kylehateshiking",
+              "description": "The most disturbing, mysterious and captivating wilderness stories on the internet. True stories, always told with compassion. A Kyle Hates Hiking podcast.",
+              "cadence": "Weekly",
+              "episode_count": 24,
+              "last_published": "2026-07-02",
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Ray William Johnson: True Story Podcast ",
+              "id": "spotify:show:2OyqGF8rokIi7K0CDwQc1Z",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f499c4dfd4938cb275bcad0d4",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Ray William Johnson",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/10074e310/podcast/rss",
+              "owner_name": "Ray William Johnson",
+              "owner_email": null,
+              "itunes_author": "Ray William Johnson",
+              "website": "https://www.youtube.com/channel/UCGt7X90Au6BV8rf49BiM6Dg",
+              "description": "The Official Podcast of Ray William Johnson, storyteller and comedian. Tune in for the best stories of True Crime and Pop Culture.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Bodycam Bear",
+              "id": "spotify:show:2kREMFdLZmTB51sufrmLoV",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f7079866fdcb57b4300ceb255",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Bodycam Bear",
+              "chart_move": "UP",
+              "host_since": "2026-07-19",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/109c59a2c/podcast/rss",
+              "owner_name": "Bodycam Bear",
+              "owner_email": "muhqadry29@gmail.com",
+              "itunes_author": "Bodycam Bear",
+              "website": "https://open.spotify.com/episode/3cjCLNLI9j1nggtJr6YML0?si=BfPHDbBMSJe6pipdnFkv6g",
+              "description": "True Crime & Police Analysis. Educational commentary using public interest footage. _ Welcome to Bodycam Bear, produces videos to inform and educate, aiming to raise awareness and contribute to public safety. Our content is not intended to shame, ridicule, or defame anyone; all individuals are presu…",
+              "cadence": "Weekly",
+              "episode_count": null,
+              "last_published": "2026-07-15",
+              "schedule": {
+                "days": [
+                  1,
+                  5,
+                  2,
+                  4,
+                  5,
+                  1,
+                  6
+                ],
+                "label": "~2×/week",
+                "eps_year": 83,
+                "trend": "slowing"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "name": "Audioboom",
+          "count": 4,
+          "share": 8.0,
+          "shows": [
+            {
+              "title": "True Crime with Kendall Rae",
+              "id": "spotify:show:4d6RwH9XKnZ6osfNVc26eJ",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f3f5daa3fa2ffe173e2a7128f",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Mile Higher Media & Audioboom Studios",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://audioboom.com/channels/5074524.rss",
+              "owner_name": null,
+              "owner_email": "kendallrae@night.co",
+              "itunes_author": "Mile Higher Media & Audioboom Studios",
+              "website": "https://audioboom.com/channels/5074524",
+              "description": "Kendall Rae is a true-crime content creator on YouTube who has used her platform to spread awareness for victims and their families. Now she is bringing episodes of her YouTube true-crime series to podcast format, to hopefully create even more awareness around the cases she covers. Kendall's approac…",
+              "cadence": "Weekly",
+              "episode_count": 291,
+              "last_published": "2026-06-25",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  0,
+                  24,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Thursdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Serialously with Annie Elise",
+              "id": "spotify:show:6HdheEH8WeMTHoe5da34qU",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f40c2794693e25157184dad47",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Annie Elise & Audioboom Studios",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://audioboom.com/channels/5100770.rss",
+              "owner_name": "Audioboom",
+              "owner_email": null,
+              "itunes_author": "Annie Elise & Audioboom Studios",
+              "website": "https://audioboom.com/channels/5100770",
+              "description": "Serialously is hosted by Annie Elise, best known for her true-crime YouTube channel “10 to Life” with over 1.5M subscribers. Annie created Serialously after decades of listening to true crime and craving more than just the headlines; she wanted all the overlooked details everyone else seemed to miss…",
+              "cadence": "~2×/week",
+              "episode_count": 531,
+              "last_published": "2026-07-06",
+              "schedule": {
+                "days": [
+                  10,
+                  0,
+                  2,
+                  9,
+                  3,
+                  0,
+                  0
+                ],
+                "label": "~2×/week · Mon & Thu",
+                "eps_year": 122,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "RedHanded",
+              "id": "spotify:show:0emVYc04B4y5UzBIvA0axo",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb9b7c8db0737c762eb9dd3ab",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "RedHanded",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://audioboom.com/channels/5166531.rss",
+              "owner_name": "Audioboom",
+              "owner_email": null,
+              "itunes_author": "RedHanded",
+              "website": "https://audioboom.com/channels/5166531",
+              "description": "RedHanded the podcast jumps head first into all manner of macabre madness. We cover everything from big time serial killers (and those you may never have heard of), to hauntings, possessions, disturbing mysteries, bizarre whodunits and basically anything that tickles our creepy fancy. So, join us, p…",
+              "cadence": "~4×/week",
+              "episode_count": 609,
+              "last_published": "2026-06-25",
+              "schedule": {
+                "days": [
+                  2,
+                  7,
+                  0,
+                  7,
+                  8,
+                  0,
+                  0
+                ],
+                "label": "~4×/week",
+                "eps_year": 182,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "10 to Life",
+              "id": "spotify:show:4yLKPOt94HdrzVUoqEpZVa",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f9246030356463082c3ba0e72",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Annie Elise",
+              "chart_move": "DOWN",
+              "host_since": "2026-07-13",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://audioboom.com/channels/5159889.rss",
+              "owner_name": "Audioboom",
+              "owner_email": null,
+              "itunes_author": "Annie Elise",
+              "website": "https://audioboom.com/channels/5159889",
+              "description": "Behind every crime is a victim, a perpetrator, and a story that demands to be told. With over 1.5 million subscribers and 500 million views, 10 to Life is one of YouTube’s leading true crime channels. And now, for the first time ever, you can also listen wherever you get your podcasts. From shocking…",
+              "cadence": "Weekly",
+              "episode_count": 56,
+              "last_published": "2026-07-14",
+              "schedule": {
+                "days": [
+                  1,
+                  22,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Tuesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "name": "Art19",
+          "count": 3,
+          "share": 6.0,
+          "shows": [
+            {
+              "title": "Scandal",
+              "id": "spotify:show:7Mkk8DF2z1Anaz4Y7NJecl",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fdbbca998e907892aac1a8074",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Law & Crime",
+              "chart_move": "UP",
+              "host_since": "2026-07-11",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.art19.com/american-scandal",
+              "owner_name": "Audible",
+              "owner_email": "iwonder@wondery.com",
+              "itunes_author": "Audible",
+              "website": "https://wondery.com/shows/American-Scandal/",
+              "description": "Every scandal begins with a lie. But the truth will come out. And then comes the fallout and the outrage. Scandals have shaped America since its founding. From business and politics to sports and society, we look on aghast as corruption, deceit and ambition bring down heroes and celebrities, politic…",
+              "cadence": "Weekly",
+              "episode_count": null,
+              "last_published": "2026-07-07",
+              "schedule": {
+                "days": [
+                  1,
+                  23,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Tuesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "The Prosecutors",
+              "id": "spotify:show:5jE3NzCLOp9pXIcBeHuZOy",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fedb224436322c4581494de87",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "PodcastOne",
+              "chart_move": "DOWN",
+              "host_since": "2026-08-07",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.pdrl.fm/03125f/rss.art19.com/the-prosecutors",
+              "owner_name": "PodcastOne",
+              "owner_email": "info@podcastone.com",
+              "itunes_author": "PodcastOne",
+              "website": "https://art19.com/shows/the-prosecutors",
+              "description": "A true crime podcast with a different point of view. Every week, Alice and Brett bring their unique perspective as prosecutors to the most famous cold case mysteries of all time. Murder, mayhem, disappearances, you name it. If it's true crime, they're on the case. Custom case art by Hannah Hill. htt…",
+              "cadence": "Daily",
+              "episode_count": 471,
+              "last_published": "2026-08-06",
+              "schedule": {
+                "days": [
+                  1,
+                  13,
+                  3,
+                  3,
+                  2,
+                  1,
+                  1
+                ],
+                "label": "~4×/week",
+                "eps_year": 182,
+                "trend": "accelerating"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Snapped: Women Who Murder",
+              "id": "spotify:show:6SwzIsW0OznijVpZOZlYRg",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f4ea8817ff06ce799610f84e6",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Oxygen",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.art19.com/snapped-women-who-murder",
+              "owner_name": "Snapped: Women Who Murder",
+              "owner_email": "pods@versantmedia.com",
+              "itunes_author": "Oxygen",
+              "website": "https://art19.com/shows/snapped-women-who-murder",
+              "description": "For the first time ever, full Snapped episodes are now a podcast. Subscribe to this true crime podcast for the direct audio from the original Snapped episodes that have aired on Oxygen over the last 29 seasons (and counting)! Now you can enjoy Snapped episodes in your headphones, in your car, or at…",
+              "cadence": "Weekly",
+              "episode_count": 355,
+              "last_published": "2026-06-21",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  23
+                ],
+                "label": "Weekly · Sundays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "name": "Omny / Triton",
+          "count": 3,
+          "share": 6.0,
+          "shows": [
+            {
+              "title": "My Favorite Murder with Karen Kilgariff and Georgia Hardstark",
+              "id": "spotify:show:0U9S5J2ltMaKdxIfLuEjzE",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f4a2f177477ecd05b6f5be8e0",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Exactly Right and iHeartPodcasts",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss",
+              "owner_name": "iHeartPodcasts",
+              "owner_email": "applepodcast@howstuffworks.com",
+              "itunes_author": "Exactly Right and iHeartPodcasts",
+              "website": "https://www.myfavoritemurder.com/",
+              "description": "My Favorite Murder is a true crime comedy podcast hosted by Karen Kilgariff and Georgia Hardstark. Each week, Karen and Georgia share compelling true crimes and hometown stories from friends and listeners. Since MFM launched in January of 2016, Karen and Georgia have shared their lifelong interest i…",
+              "cadence": "~4×/week",
+              "episode_count": 1181,
+              "last_published": "2026-06-25",
+              "schedule": {
+                "days": [
+                  7,
+                  0,
+                  8,
+                  8,
+                  1,
+                  0,
+                  0
+                ],
+                "label": "~4×/week",
+                "eps_year": 182,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Factinate",
+              "id": "spotify:show:5rftVbvsROaxL2w4q2h6B1",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fae5808de83344ac4be1134fb",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Factinate.com",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://www.omnycontent.com/d/playlist/98042c81-0cc9-4e32-97a4-ad120137cab0/82588d06-9593-4946-97e6-ad1300fa9cde/853194cb-3faf-4c47-9f54-ad1300fa9cf0/podcast.rss",
+              "owner_name": "Factinate",
+              "owner_email": "contribute@factinate.com",
+              "itunes_author": "Factinate",
+              "website": "http://www.factinate.com",
+              "description": "Yesterday's News is a podcast dedicated to the idea that anyone who made history was probably a bit of a hot mess.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Betrayal Weekly",
+              "id": "spotify:show:2q2dQ19YSuGe5v0EeeeJGq",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fc48451a33918a4999f516c0a",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "iHeartPodcasts | Glass Podcasts",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/7b1f0895-f595-4c38-afb6-ae6001531610/f1aae979-82f6-402c-8906-ae6001537b33/podcast.rss",
+              "owner_name": "iHeartPodcasts",
+              "owner_email": "applepodcast@howstuffworks.com",
+              "itunes_author": "iHeartPodcasts | Glass Podcasts",
+              "website": "https://www.iheart.com/podcast/1119-betrayal-the-perfect-husb-95632727/",
+              "description": "Betrayal Weekly is back for a new season. Every Thursday, Betrayal Weekly shares first-hand accounts of broken trust, shocking deceptions, and the trail of destruction they leave behind. Hosted by Andrea Gunning, this weekly ongoing series digs into real-life stories of betrayal and the aftermath. F…",
+              "cadence": "Weekly",
+              "episode_count": 172,
+              "last_published": "2026-06-25",
+              "schedule": {
+                "days": [
+                  10,
+                  0,
+                  1,
+                  11,
+                  2,
+                  0,
+                  0
+                ],
+                "label": "~2×/week · Thu & Mon",
+                "eps_year": 91,
+                "trend": "slowing"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "name": "AmperWave (Audacy)",
+          "count": 2,
+          "share": 4.0,
+          "shows": [
+            {
+              "title": "48 Hours",
+              "id": "spotify:show:0UetHF8bYSGBtDsjVl4GDv",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f24ab7e8eb6368f62fd70e5d4",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "CBS News",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/496099a4061493caac75b71a6c26b8fb",
+              "owner_name": "CBS News",
+              "owner_email": "podcasts@cbsnews.com",
+              "itunes_author": "CBS News",
+              "website": "https://www.cbsnews.com/48-hours/",
+              "description": "“48 Hours” uncovers the narrative behind crime and justice cases that have left a lasting mark on society. Award-winning CBS News correspondents thoughtfully examine the complexities of each crime by transporting you to the heart of the investigation through key evidence and gripping interviews with…",
+              "cadence": "Daily",
+              "episode_count": 1074,
+              "last_published": "2026-06-29",
+              "schedule": {
+                "days": [
+                  5,
+                  4,
+                  5,
+                  5,
+                  5,
+                  0,
+                  0
+                ],
+                "label": "Daily",
+                "eps_year": 365,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "True Crime Stories",
+              "id": "spotify:show:48GaWhr2cdtOGjF3dF9rLy",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f6f26a1be3d27a21d83e7cd2f",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "True Crime Stories",
+              "chart_move": "UP",
+              "host_since": "2026-08-20",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/murdertruecrimestories",
+              "owner_name": "PAVE Studios",
+              "owner_email": "production@pavestudios.com",
+              "itunes_author": "Crime House",
+              "website": "https://www.pavestudios.com/crimehouse",
+              "description": "On Murder: True Crime Stories, host Carter Roy digs into history's most notorious murders like you've never heard them before, going beyond the crime scene to find the real story…and the lives it upended. Case closed or not, every case leaves you understanding exactly why it needed to be told. Join…",
+              "cadence": "~4×/week",
+              "episode_count": null,
+              "last_published": "2026-08-20",
+              "schedule": {
+                "days": [
+                  2,
+                  7,
+                  0,
+                  8,
+                  7,
+                  0,
+                  0
+                ],
+                "label": "~4×/week",
+                "eps_year": 182,
+                "trend": "steady"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 7
+        },
+        {
+          "name": "Acast",
+          "count": 1,
+          "share": 2.0,
+          "shows": [
+            {
+              "title": "Casefile True Crime",
+              "id": "spotify:show:4V3K3zyD0k789eaSWFXzhc",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f894f04685d071f554f2da7d5",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Casefile Presents",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.acast.com/public/shows/679acff465f74095106abfaa",
+              "owner_name": "Casefile Presents",
+              "owner_email": "info+679acff465f74095106abfaa@mg-eu.acast.com",
+              "itunes_author": "Casefile Presents",
+              "website": "https://casefilepodcast.com",
+              "description": "Fact is scarier than fiction. Subscribe to Casefile Premium to receive ad-free episodes released one week early, along with access to bonus Q&A’s, our exclusive show ‘Behind the Files’, and more. Hosted on Acast. See acast.com/privacy for more information.",
+              "cadence": "Weekly",
+              "episode_count": 497,
+              "last_published": "2026-06-20",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  24,
+                  0
+                ],
+                "label": "Weekly · Saturdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 8
+        },
+        {
+          "name": "Buzzsprout",
+          "count": 1,
+          "share": 2.0,
+          "shows": [
+            {
+              "title": "EXPLORE WITH US",
+              "id": "spotify:show:0ptmSZkQIh2BCurX0cRVAa",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ff86fab8235a3015fe2fbe389",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "EWU Crew",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.buzzsprout.com/1438009.rss",
+              "owner_name": "Explore With Us",
+              "owner_email": null,
+              "itunes_author": "Explore With Us",
+              "website": "https://www.buzzsprout.com/1438009",
+              "description": "If you love true crime and mysteries, you will love this podcast!",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            }
+          ],
+          "rank": 9
+        },
+        {
+          "name": "Libsyn",
+          "count": 1,
+          "share": 2.0,
+          "shows": [
+            {
+              "title": "This Feels Criminal: A True Crime Podcast (Formerly Killer Queens)",
+              "id": "spotify:show:1Jscb9OAXbbtmwpA6kCxiX",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f31941fc28d680b0504a81d4b",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "This Feels Criminal | Formerly Killer Queens",
+              "chart_move": "DOWN",
+              "host_since": "2026-08-08",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://rss.libsyn.com/shows/619855/destinations/5408875.xml",
+              "owner_name": "This Feels Criminal | Formerly Killer Queens",
+              "owner_email": "killerqueenspodcast@gmail.com",
+              "itunes_author": "This Feels Criminal | Formerly Killer Queens",
+              "website": "https://www.thisfeelscriminal.com",
+              "description": "Dissecting the cases everyone's talking about. From true crime to celebrity courtrooms and pop culture legal drama — Tyrella and Nikita break it all down with the commentary your group chat wishes it had. New episodes every Tuesday and Thursday. Crime. Culture. Commentary. For bonus episodes and pre…",
+              "cadence": "~3×/week",
+              "episode_count": 616,
+              "last_published": "2026-08-06",
+              "schedule": {
+                "days": [
+                  1,
+                  10,
+                  0,
+                  10,
+                  2,
+                  1,
+                  0
+                ],
+                "label": "~2×/week · Tue & Thu",
+                "eps_year": 122,
+                "trend": "accelerating"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 10
+        },
+        {
+          "name": "RSS.com",
+          "count": 1,
+          "share": 2.0,
+          "shows": [
+            {
+              "title": "Rotten Mango Video",
+              "id": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Stephanie Soo",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://media.rss.com/rotten-mango/feed.xml",
+              "owner_name": null,
+              "owner_email": null,
+              "itunes_author": null,
+              "website": null,
+              "description": null,
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            }
+          ],
+          "rank": 11
+        },
+        {
+          "name": "Spreaker",
+          "count": 1,
+          "share": 2.0,
+          "shows": [
+            {
+              "title": "Sword and Scale",
+              "id": "spotify:show:2dzMey4yRYKX5NWKp8zPrd",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fca4cdbd3d00e196e35f01347",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Sword and Scale",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://www.spreaker.com/show/5895676/episodes/feed",
+              "owner_name": "Incongruity",
+              "owner_email": "feedback@swordandscale.com",
+              "itunes_author": "Sword and Scale",
+              "website": "https://swordandscale.com",
+              "description": "Sword and Scale is a weekly true crime podcast covering the dark underworld of crime and the criminal justice system’s response to it. The first episode launched January 1st, 2014 and feature stories of murder, abduction, rape, and even more bizarre forms of crime. It’s the purest form of true-crime…",
+              "cadence": "Biweekly",
+              "episode_count": 366,
+              "last_published": "2026-06-17",
+              "schedule": {
+                "days": [
+                  2,
+                  2,
+                  4,
+                  1,
+                  2,
+                  6,
+                  7
+                ],
+                "label": "Biweekly",
+                "eps_year": 36,
+                "trend": "steady"
+              },
+              "rss_video": null
+            }
+          ],
+          "rank": 12
+        },
+        {
+          "name": "Transistor",
+          "count": 1,
+          "share": 2.0,
+          "shows": [
+            {
+              "title": "Mystery Mondays",
+              "id": "spotify:show:3c5cGPSQAAEQkrdKOmk9b7",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fd43f881a3338c723e465be49",
+              "categories": [
+                "True Crime"
+              ],
+              "publisher": "Bella Fiori",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.transistor.fm/mystery-mondays",
+              "owner_name": "Calum Waite",
+              "owner_email": null,
+              "itunes_author": "Calum waite, Drew Armstrong, Nathaniel Warren",
+              "website": null,
+              "description": "Each Monday we bring you a fresh mystery! From Aliens to unsolved murders, we have it all. This entertaining podcast is brought to you in association with Pandora's Box Podcast and Aspen Waite Media.",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            }
+          ],
+          "rank": 13
+        }
+      ]
     },
     "TV & Film": {
       "platforms": [
