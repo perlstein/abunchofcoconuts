@@ -277,8 +277,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/5a/0a/555a0ad4-5dbf-9f9d-b205-08e629cc35dd/mza_17473463849753207729.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/talk-easy-with-sam-fragoso",
       "host": "Art19",
-      "episode_count": 558,
-      "last_published": "2026-08-23",
+      "episode_count": 559,
+      "last_published": "2026-08-30",
       "on_chart": true
     },
     {
@@ -294,12 +294,12 @@
     {
       "itunes_id": "178083008",
       "title": "The Audible",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/65/44/01/6544011f-2c34-4081-4f37-e256cc3e3bc8/mza_4879895822646985560.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/65/44/01/6544011f-2c34-4081-4f37-e256cc3e3bc8/mza_4879895822646985560.jpg/170x170bb.png",
       "feed_url": "https://theaudible.libsyn.com/rss",
       "host": "Libsyn",
       "episode_count": 520,
       "last_published": "2026-08-27",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1525795747",
@@ -424,12 +424,12 @@
     {
       "itunes_id": "1590562163",
       "title": "Paranormal",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/5a/84/825a8420-ba97-a55b-98e4-323f79ea1a34/mza_10440591909348362177.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/5a/84/825a8420-ba97-a55b-98e4-323f79ea1a34/mza_10440591909348362177.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.simplecast.com/CNz6ZsPr",
       "host": "Simplecast",
       "episode_count": 342,
       "last_published": "2026-08-18",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1461515071",
@@ -584,12 +584,12 @@
     {
       "itunes_id": "1103906358",
       "title": "The GOAL Podcast - Official Podcast of Gun Owners' Action League",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c4/a9/15/c4a9155c-10ca-e018-4c61-0923de31adec/mza_9051712229384747945.png/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c4/a9/15/c4a9155c-10ca-e018-4c61-0923de31adec/mza_9051712229384747945.png/600x600bb.jpg",
       "feed_url": "https://rss.libsyn.com/shows/76359/destinations/340675.xml",
       "host": "Libsyn",
       "episode_count": 184,
       "last_published": "2026-08-14",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1736593333",
@@ -639,6 +639,16 @@
       "host": "Art19",
       "episode_count": 148,
       "last_published": "2026-08-25",
+      "on_chart": true
+    },
+    {
+      "itunes_id": "1707218732",
+      "title": "Open Book with Jenna",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/8e/5d/638e5dbc-9338-d59c-ec0c-2e32eedbbf91/mza_6391172483811077609.jpg/170x170bb.png",
+      "feed_url": "https://podcastfeeds.nbcnews.com/m1_s_Er3",
+      "host": "Simplecast",
+      "episode_count": 113,
+      "last_published": "2026-08-27",
       "on_chart": true
     },
     {
