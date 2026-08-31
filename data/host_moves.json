@@ -1,7 +1,16 @@
 {
-  "generated": "2026-08-30",
-  "total_tracked": 32637,
+  "generated": "2026-08-31",
+  "total_tracked": 32638,
   "moves": [
+    {
+      "title": "SpawnCast",
+      "feed_url": "http://feeds.feedburner.com/soundcloud/QbQD",
+      "from": "Megaphone",
+      "to": "Spotify/Anchor",
+      "date": "2026-08-31",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/02/ed/8b/02ed8b7d-9989-e199-0df3-be3aab83bd38/mza_8748567534217743040.png/170x170bb.png"
+    },
     {
       "title": "Platypus Economics with Justin Wolfers",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/06f963ef-0ffb-4510-983f-b4340122d0cc/e8f0647a-7aa4-48da-8098-b4340122d0d5/podcast.rss",
@@ -406,15 +415,6 @@
       "date": "2026-07-26",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/29/e0/ef29e033-3872-12c1-cccd-0fef2e98b6cd/mza_4071859176951875770.jpg/170x170bb.png"
-    },
-    {
-      "title": "SpawnCast",
-      "feed_url": "http://feeds.feedburner.com/soundcloud/QbQD",
-      "from": "Spotify/Anchor",
-      "to": "Megaphone",
-      "date": "2026-07-25",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/02/ed/8b/02ed8b7d-9989-e199-0df3-be3aab83bd38/mza_8748567534217743040.png/170x170bb.png"
     },
     {
       "title": "Unlearned Wisdom by Johnny Chang",
