@@ -1,6 +1,6 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-09-02",
+  "last_scanned": "2026-09-03",
   "total_unique_shows": 800,
   "resolved_rate": 98.1,
   "platforms": [
@@ -4523,10 +4523,23 @@
           "itunes_author": "Mass Appeal & ORANJ",
           "website": "https://thevicmensashow.com/",
           "description": "Vic Mensa has done it all. Music with Justin Bieber, Pharrell and Jay-Z. Roles on Showtime's The Chi and Peacock's Bel-Air. And a fervor for speaking hard truths, even if the world isn't ready. What some saw as a problem turned out to be his purpose. His award-winning Orange Tree Series is now The V…",
-          "cadence": null,
+          "cadence": "Biweekly",
           "episode_count": 2,
           "last_published": "2026-08-26",
-          "schedule": null,
+          "schedule": {
+            "days": [
+              0,
+              1,
+              2,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Biweekly · Wednesdays",
+            "eps_year": 24,
+            "trend": null
+          },
           "rss_video": null
         },
         {
@@ -4865,7 +4878,7 @@
         {
           "title": "The President's Daily Brief",
           "id": "spotify:show:6VpV9ZlbQTzMngKilhJlZs",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f934b24a91aafd7536a4fec4a",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ff7858a55a8ca07f98fb48d5a",
           "categories": [
             "News"
           ],
@@ -8610,7 +8623,7 @@
         {
           "title": "The Rewatchables",
           "id": "spotify:show:1lUPomulZRPquVAOOd56EW",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fb95ca41d64861fa2d6c5a2c7",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fdc5b7fb29430c3e74d01d942",
           "categories": [
             "TV & Film"
           ],
@@ -9803,7 +9816,20 @@
           "cadence": "Weekly",
           "episode_count": 403,
           "last_published": "2026-06-23",
-          "schedule": null,
+          "schedule": {
+            "days": [
+              0,
+              22,
+              2,
+              0,
+              0,
+              0,
+              0
+            ],
+            "label": "Weekly · Tuesdays",
+            "eps_year": 52,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -16186,7 +16212,7 @@
         {
           "title": "New Rory & MAL",
           "id": "spotify:show:0PQ2BNfTrA4NlXNm94mD8H",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ff2396495998cb13d25124faa",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f786d6a374f7112fb8d6a4310",
           "categories": [
             "Music"
           ],
@@ -16728,7 +16754,7 @@
         {
           "title": "FantasyPros - Fantasy Football Podcast",
           "id": "spotify:show:1YM5ymt3vWVfdHzVAEzq2w",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f84ccc7a1ea4624d34a2344cd",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f8503a98d0ce6dc6f96085680",
           "categories": [
             "Sports"
           ],
@@ -16950,7 +16976,7 @@
         {
           "title": "The Herd with Colin Cowherd",
           "id": "spotify:show:7rq03nfUFD5KrpiBQ9fals",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f27cbc88fcb7b29edadea6d1a",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f859e7f78314485a6a02c6758",
           "categories": [
             "Sports"
           ],
@@ -17922,10 +17948,23 @@
           "itunes_author": "Rewind Studios",
           "website": "https://art19.com/shows/historys-greatest-mysteries",
           "description": "A History Channel original podcast brought to you by Rewind Studios, History's Greatest Mysteries examines the top theories surrounding the world's most enigmatic unsolved mysteries. Each episode unpacks these puzzles with contributions from top historians, authors, scientists, and researchers. From…",
-          "cadence": null,
-          "episode_count": null,
+          "cadence": "Biweekly",
+          "episode_count": 3,
           "last_published": "2026-08-26",
-          "schedule": null,
+          "schedule": {
+            "days": [
+              0,
+              0,
+              2,
+              1,
+              0,
+              0,
+              0
+            ],
+            "label": "Biweekly · Wednesdays",
+            "eps_year": 28,
+            "trend": null
+          },
           "rss_video": null
         },
         {
@@ -31443,7 +31482,20 @@
               "cadence": "Weekly",
               "episode_count": 403,
               "last_published": "2026-06-23",
-              "schedule": null,
+              "schedule": {
+                "days": [
+                  0,
+                  22,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Tuesdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
               "rss_video": null
             }
           ],
@@ -37118,10 +37170,23 @@
               "itunes_author": "Rewind Studios",
               "website": "https://art19.com/shows/historys-greatest-mysteries",
               "description": "A History Channel original podcast brought to you by Rewind Studios, History's Greatest Mysteries examines the top theories surrounding the world's most enigmatic unsolved mysteries. Each episode unpacks these puzzles with contributions from top historians, authors, scientists, and researchers. From…",
-              "cadence": null,
-              "episode_count": null,
+              "cadence": "Biweekly",
+              "episode_count": 3,
               "last_published": "2026-08-26",
-              "schedule": null,
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  2,
+                  1,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Biweekly · Wednesdays",
+                "eps_year": 28,
+                "trend": null
+              },
               "rss_video": null
             }
           ],
@@ -40138,10 +40203,23 @@
               "itunes_author": "Mass Appeal & ORANJ",
               "website": "https://thevicmensashow.com/",
               "description": "Vic Mensa has done it all. Music with Justin Bieber, Pharrell and Jay-Z. Roles on Showtime's The Chi and Peacock's Bel-Air. And a fervor for speaking hard truths, even if the world isn't ready. What some saw as a problem turned out to be his purpose. His award-winning Orange Tree Series is now The V…",
-              "cadence": null,
+              "cadence": "Biweekly",
               "episode_count": 2,
               "last_published": "2026-08-26",
-              "schedule": null,
+              "schedule": {
+                "days": [
+                  0,
+                  1,
+                  2,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Biweekly · Wednesdays",
+                "eps_year": 24,
+                "trend": null
+              },
               "rss_video": null
             },
             {
@@ -40192,7 +40270,7 @@
             {
               "title": "New Rory & MAL",
               "id": "spotify:show:0PQ2BNfTrA4NlXNm94mD8H",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ff2396495998cb13d25124faa",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f786d6a374f7112fb8d6a4310",
               "categories": [
                 "Music"
               ],
@@ -41392,7 +41470,7 @@
             {
               "title": "The President's Daily Brief",
               "id": "spotify:show:6VpV9ZlbQTzMngKilhJlZs",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f934b24a91aafd7536a4fec4a",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ff7858a55a8ca07f98fb48d5a",
               "categories": [
                 "News"
               ],
@@ -48907,7 +48985,7 @@
             {
               "title": "FantasyPros - Fantasy Football Podcast",
               "id": "spotify:show:1YM5ymt3vWVfdHzVAEzq2w",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f84ccc7a1ea4624d34a2344cd",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f8503a98d0ce6dc6f96085680",
               "categories": [
                 "Sports"
               ],
@@ -49129,7 +49207,7 @@
             {
               "title": "The Herd with Colin Cowherd",
               "id": "spotify:show:7rq03nfUFD5KrpiBQ9fals",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f27cbc88fcb7b29edadea6d1a",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f859e7f78314485a6a02c6758",
               "categories": [
                 "Sports"
               ],
@@ -53681,7 +53759,7 @@
             {
               "title": "The Rewatchables",
               "id": "spotify:show:1lUPomulZRPquVAOOd56EW",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fb95ca41d64861fa2d6c5a2c7",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fdc5b7fb29430c3e74d01d942",
               "categories": [
                 "TV & Film"
               ],
