@@ -341,6 +341,32 @@ def main() -> int:
 
         s["rec"] = empty_rec("Unresolved (Spotify-only)"); counts["unresolved"] += 1
 
+    # Cached bridge identities may persist; host evidence and public metadata
+    # must not. Reuse this run's Apple RSS observation by URL or fetch once.
+    from scrape import fetch_show_feed
+    from research import normalize_feed
+    fresh_feeds = {}
+    for platform in load_json(LEADERBOARD_PATH, {}).get('platforms', []):
+        for row in platform.get('shows', []):
+            evidence = row.get('host_evidence') or {}
+            if evidence.get('success') and evidence.get('checked_at', '')[:10] == scan_date:
+                fresh_feeds[normalize_feed(row.get('feed_url'))] = (platform['name'], row)
+    for uri, show in shows.items():
+        rec = show['rec']
+        feed = rec.get('feed_url')
+        if not feed:
+            continue
+        key = normalize_feed(feed)
+        if key not in fresh_feeds:
+            fresh_feeds[key] = fetch_show_feed(feed)
+        host, meta = fresh_feeds[key]
+        if (meta.get('host_evidence') or {}).get('success'):
+            rec['host'] = host
+            for field, value in meta.items():
+                if value is not None and field not in ('id', 'itunes_id', 'feed_url', 'categories', 'host'):
+                    rec[field] = value
+        cache[uri] = rec
+
     CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, separators=(",", ":")))
     log("resolution: " + ", ".join(f"{k}={v}" for k, v in counts.items()))
     emails = sum(1 for s in shows.values() if s["rec"].get("owner_email"))
@@ -366,7 +392,7 @@ def main() -> int:
                        "chart_move": x["move"],
                        "host_since": x.get("host_since"), "prev_host": x.get("prev_host"),
                        "moved_on": x.get("moved_on"),
-                       **{f: x["rec"].get(f) for f in CONTACT_FIELDS}} for x in m],
+                       **{f: x["rec"].get(f) for f in tuple(CONTACT_FIELDS) + ("resolved_feed_url", "host_evidence", "metadata_observed_on", "podcast_guid")}} for x in m],
         } for h, m in by_host.items()]
         plats.sort(key=lambda p: (-p["count"], p["name"]))
         for i, p in enumerate(plats, 1):

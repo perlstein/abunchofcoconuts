@@ -143,7 +143,7 @@ def append_cumulative_history(entry):
     return len(entries)
 
 
-def apply_observation(state, feed_url, host, scan_date, *, title=None, artwork=None, source=None):
+def apply_observation(state, feed_url, host, scan_date, *, title=None, artwork=None, source=None, metadata=None):
     """Fold one (feed_url, host) observation into the corpus, recording a move
     when a feed switches between two confident hosts."""
     if not feed_url:
@@ -157,6 +157,13 @@ def apply_observation(state, feed_url, host, scan_date, *, title=None, artwork=N
         st["artwork"] = artwork
     if source and st.get("source") != "watchlist":  # watchlist label is sticky
         st["source"] = source
+    if metadata:
+        # Preserve public channel metadata for off-chart research and retain the
+        # latest successful RSS evidence. A failed lookup is not a new observation.
+        from research import FIELDS
+        for key in FIELDS + ('resolved_feed_url', 'podcast_guid', 'metadata_observed_on', 'host_evidence'):
+            if metadata.get(key) is not None:
+                st[key] = metadata[key]
     st["last_checked"] = scan_date
     if _confident(host):
         if not st.get("host"):
@@ -178,12 +185,12 @@ def free_observations(scan_date):
     obs = {}          # feed_url -> [host, title, artwork, source, priority]
     known_moves = {}  # feed_url -> (prev_host, moved_on)
 
-    def add(feed_url, host, title, artwork, source, priority):
+    def add(feed_url, host, title, artwork, source, priority, metadata=None):
         if not feed_url:
             return
         cur = obs.get(feed_url)
         if cur is None or priority > cur[4]:
-            obs[feed_url] = [host, title, artwork, source, priority]
+            obs[feed_url] = [host, title, artwork, source, priority, metadata or {}]
 
     for path in (LEADERBOARD_PATH, SPOTIFY_LEADERBOARD_PATH):
         d = _load_json(path)
@@ -193,7 +200,7 @@ def free_observations(scan_date):
             host = p.get("name")
             for s in p.get("shows", []):
                 fu = s.get("feed_url")
-                add(fu, host, s.get("title"), s.get("artwork"), "chart", 2)
+                add(fu, host, s.get("title"), s.get("artwork"), "chart", 2, s)
                 if fu and s.get("prev_host") and s.get("moved_on"):
                     known_moves[fu] = (s["prev_host"], s["moved_on"])
 
@@ -265,9 +272,9 @@ def main() -> int:
 
     # 1. Apply this run's free observations (charts + trending).
     obs, known_moves = free_observations(scan_date)
-    for feed_url, (host, title, artwork, source, _) in obs.items():
+    for feed_url, (host, title, artwork, source, _, metadata) in obs.items():
         apply_observation(state, feed_url, host, scan_date,
-                          title=title, artwork=artwork, source=source)
+                          title=title, artwork=artwork, source=source, metadata=metadata)
     log(f"cumulative: {len(obs)} feeds observed free this run")
 
     # 1b. Backfill moves the per-show host-state tracking already found, so a
@@ -311,7 +318,9 @@ def main() -> int:
 
     # 3. Order the re-check candidates: watchlist first (never deferred by the
     #    deadline), then the stalest others. Feeds seen free this run are skipped.
-    fresh = set(obs)
+    fresh = {u for u, row in obs.items()
+             if row[5].get('host_evidence', {}).get('success')
+             and row[5]['host_evidence'].get('checked_at', '')[:10] == scan_date}
     candidates = [u for u in state if u not in fresh]
     must = [u for u in candidates if u in watch_urls]
     rest = [u for u in candidates if u not in watch_urls]
@@ -349,7 +358,7 @@ def main() -> int:
                     except Exception:
                         host = None  # never let one bad feed take down the run
                     if host is not None:
-                        apply_observation(state, feed_url, host, scan_date)
+                        apply_observation(state, feed_url, host, scan_date, metadata=_meta)
                     done += 1
                 elapsed = time.monotonic() - start
                 log(f"cumulative: re-checked {done}/{len(ordered)} ({elapsed / 60:.1f} min)")
@@ -383,9 +392,12 @@ def main() -> int:
                 "artwork": s.get("artwork") or "",
             })
     moves.sort(key=lambda m: m["date"], reverse=True)
-    MOVES_PATH.write_text(json.dumps(
-        {"generated": scan_date, "total_tracked": len(state), "moves": moves},
-        indent=2, ensure_ascii=False))
+    # Bootstrap the old detections once. research.py owns the move output after
+    # migration so a new scan cannot replace its confirmed event ledger.
+    if not (ROOT / "data" / "show_registry.json").exists():
+        MOVES_PATH.write_text(json.dumps(
+            {"generated": scan_date, "total_tracked": len(state), "moves": moves},
+            indent=2, ensure_ascii=False))
     log(f"cumulative: wrote {len(state)} tracked feeds, {len(moves)} total moves")
 
     # Append today's corpus-wide hosting snapshot ("All Feeds" time series).
@@ -393,6 +405,8 @@ def main() -> int:
     n = append_cumulative_history(snap)
     log(f"cumulative: corpus snapshot {snap['total_shows']} hosted feeds "
         f"across {len(snap['platforms'])} hosts ({n} history entries total)")
+    from research import main as build_research
+    build_research()
     return 0
 
 
@@ -400,5 +414,5 @@ if __name__ == "__main__":
     try:
         sys.exit(main())
     except Exception as exc:  # never block the pipeline
-        log(f"cumulative: unexpected error, skipping: {exc}")
-        sys.exit(0)
+        log(f"cumulative: failed to publish a complete research generation: {exc}")
+        sys.exit(1)

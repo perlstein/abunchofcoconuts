@@ -81,3 +81,35 @@ A show's feed-delivery domain is read from its RSS enclosure URLs (see
 `hosts.py`). Domain **changes** are detected by re-fetching feeds in
 `corpus_feeds.csv` on a rolling, time-boxed budget and comparing the current
 domain to the last seen one.
+
+## Durable research records (September 2026)
+
+`cumulative.py` now finishes by building `research.py`. The new public outputs
+are `show_index.json`, `shows/<shard>.json`, `host_moves.json` (schema 2), and
+`research_manifest.json`. `show_registry.json` is the retained state, including
+per-show chart observations, contact metadata with observation dates, identities,
+and event history. Keep this state between runs. Records are never pruned merely
+because a show leaves a chart.
+
+Identity links use directory IDs, normalized feed URLs, verified redirect
+URLs, or podcast GUIDs. Equal titles do not merge shows. Former record IDs redirect
+to the surviving record after an identity merge. `backfill_identity.py` can recover
+Apple-ID-to-feed associations from the public lookup API for archived chart IDs;
+its checked-in `identity_links.json` preserves every returned association.
+
+Hosting is detected from the final HTTP response and enclosure origin, so a
+retired Megaphone URL redirecting to a PRX feed no longer counts as Megaphone.
+Disagreeing feed/media or alias observations are flagged. Cached Spotify bridge
+records are refreshed for hosting evidence and public metadata every scan.
+
+A placement requires successful, consistent RSS observations on two distinct UTC
+dates. A migration requires both a previously confirmed placement and two-date
+confirmation of the new placement. Replaying a scan cannot confirm a move.
+Confirmation dates are observation dates, not claimed contract-effective dates.
+Every newly confirmed migration retains both observations in the event history;
+later moves do not overwrite earlier ones. Available legacy detections remain
+unverified, with same-day opposite directions labeled as conflicts. Earlier events
+already overwritten by the old tracker cannot be certified retroactively.
+
+The frontend consumes the complete checksummed research generation. Run
+`python -m unittest discover -s scraper -p 'test_*.py'` for regression coverage.
