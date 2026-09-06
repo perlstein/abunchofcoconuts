@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05",
+  "generated": "2026-09-06",
   "shows": [
     {
       "itunes_id": "1358187061",
@@ -157,8 +157,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/ab/5d/80ab5d28-8082-7d61-6de1-a6e1c4b9c840/mza_734485199881216612.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6818a1a4eb737caf8ca41879",
       "host": "Acast",
-      "episode_count": 1103,
-      "last_published": "2026-09-03",
+      "episode_count": 1105,
+      "last_published": "2026-09-05",
       "on_chart": false
     },
     {
@@ -174,12 +174,12 @@
     {
       "itunes_id": "1292381204",
       "title": "TFTC: A Bitcoin Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/84/2a/29842aec-ab2f-f4ea-720c-0a182b896001/mza_16883325139704201560.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/84/2a/29842aec-ab2f-f4ea-720c-0a182b896001/mza_16883325139704201560.jpg/170x170bb.png",
       "feed_url": "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9",
       "host": "Fountain",
       "episode_count": 1041,
       "last_published": "2026-08-31",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1093028505",
@@ -257,8 +257,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/59/3d/24593df5-3a1d-bb1e-b723-c445089853d5/mza_1203789523881052632.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/63e24225436c36001119fc66",
       "host": "Acast",
-      "episode_count": 636,
-      "last_published": "2026-09-04",
+      "episode_count": 637,
+      "last_published": "2026-09-05",
       "on_chart": false
     },
     {
@@ -814,12 +814,12 @@
     {
       "itunes_id": "1895630609",
       "title": "Hang Out with Sean Hannity",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/16/02/ef1602c0-5b22-4697-8164-76d1a61d71c3/mza_11976549683956134854.jpg/600x600bb.jpg",
       "feed_url": "https://rss.libsyn.com/shows/615750/destinations/5370830.xml",
       "host": "Libsyn",
       "episode_count": 54,
       "last_published": "2026-09-03",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1654074926",
@@ -837,8 +837,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/cf/56/29cf563d-8073-9bf6-d887-24711a7002f3/mza_561177718790263016.jpg/170x170bb.png",
       "feed_url": "https://rss2.flightcast.com/uiym43jizwzqijks42lzcfkc.xml",
       "host": "Flightcast",
-      "episode_count": 52,
-      "last_published": "2026-08-22",
+      "episode_count": 53,
+      "last_published": "2026-09-05",
       "on_chart": true
     },
     {
@@ -1219,6 +1219,16 @@
       "host": "Libsyn",
       "episode_count": 4,
       "last_published": "2026-09-03",
+      "on_chart": true
+    },
+    {
+      "itunes_id": "6807452188",
+      "title": "SPD Protect and Connect",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/20/ff/a0/20ffa0f1-85c1-530f-b750-d0dfc7093d9e/mza_8113339798112151688.jpg/170x170bb.png",
+      "feed_url": "https://rss.buzzsprout.com/2639987.rss",
+      "host": "Buzzsprout",
+      "episode_count": 2,
+      "last_published": "2026-09-01",
       "on_chart": true
     },
     {
