@@ -1,7 +1,16 @@
 {
-  "generated": "2026-09-05",
-  "total_tracked": 33537,
+  "generated": "2026-09-06",
+  "total_tracked": 33540,
   "moves": [
+    {
+      "title": "SpawnCast",
+      "feed_url": "http://feeds.feedburner.com/soundcloud/QbQD",
+      "from": "Spotify/Anchor",
+      "to": "Megaphone",
+      "date": "2026-09-06",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/02/ed/8b/02ed8b7d-9989-e199-0df3-be3aab83bd38/mza_8748567534217743040.png/170x170bb.png"
+    },
     {
       "title": "Mat Talk Podcast Network",
       "feed_url": "https://www.mattalkonline.com/feed/podcast",
@@ -109,15 +118,6 @@
       "date": "2026-09-01",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/b2/02/87b20239-9383-d427-4195-815dd720faf6/mza_9636186892769088651.jpeg/170x170bb.png"
-    },
-    {
-      "title": "SpawnCast",
-      "feed_url": "http://feeds.feedburner.com/soundcloud/QbQD",
-      "from": "Megaphone",
-      "to": "Spotify/Anchor",
-      "date": "2026-08-31",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/02/ed/8b/02ed8b7d-9989-e199-0df3-be3aab83bd38/mza_8748567534217743040.png/170x170bb.png"
     },
     {
       "title": "Platypus Economics with Justin Wolfers",
