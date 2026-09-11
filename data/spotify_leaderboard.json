@@ -1,6 +1,6 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-09-10",
+  "last_scanned": "2026-09-11",
   "total_unique_shows": 800,
   "resolved_rate": 98.0,
   "platforms": [
@@ -3890,43 +3890,6 @@
           "rss_video": null
         },
         {
-          "title": "goon podcast",
-          "id": "spotify:show:033YxYHVqmYTH2WVyXLn6y",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ffa7f0b0c62f96b54122f8d43",
-          "categories": [
-            "Leisure"
-          ],
-          "publisher": "goon",
-          "chart_move": "UNCHANGED",
-          "host_since": "2026-08-13",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://feeds.megaphone.fm/GOONSMEDIALLC6622958176",
-          "owner_name": "The Goons Podcast",
-          "owner_email": "info+61de6775afa6910012bd5f45@mg.pippa.io",
-          "itunes_author": "The Goons Podcast",
-          "website": null,
-          "description": "WE ARE GOONS!",
-          "cadence": "Weekly",
-          "episode_count": null,
-          "last_published": "2026-08-10",
-          "schedule": {
-            "days": [
-              18,
-              1,
-              0,
-              0,
-              5,
-              0,
-              0
-            ],
-            "label": "Weekly · Mondays",
-            "eps_year": 52,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
           "title": "GOONS",
           "id": "spotify:show:62V6YaK1hmkb37thGm8aFu",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f169287097ae6f625929b8fb5",
@@ -4168,6 +4131,43 @@
             ],
             "label": "Weekly · Mondays",
             "eps_year": 52,
+            "trend": "steady"
+          },
+          "rss_video": null
+        },
+        {
+          "title": "Kinda Funny Games Daily: Video Games News Podcast",
+          "id": "spotify:show:1hXrn6RoMMAiNGLE8jxKKf",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f741db5fed82865572425bfc0",
+          "categories": [
+            "Leisure"
+          ],
+          "publisher": "Kinda Funny",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-18",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://feeds.megaphone.fm/ROOSTER8838278962",
+          "owner_name": "Kinda Funny",
+          "owner_email": "tim@kindafunny.com",
+          "itunes_author": "Kinda Funny",
+          "website": "http://youtube.com/kindafunnygames",
+          "description": "The world’s most popular daily video game news podcast hosted by Greg “GameOverGreggy” Miller, Tim Gettys, and Blessing Adeoye Jr, alongside a cast of games industry veterans and guests covering the latest in PlayStation, Xbox, Nintendo and all of gaming.",
+          "cadence": "Daily",
+          "episode_count": 1775,
+          "last_published": "2026-06-26",
+          "schedule": {
+            "days": [
+              5,
+              4,
+              6,
+              5,
+              4,
+              0,
+              0
+            ],
+            "label": "Daily",
+            "eps_year": 363,
             "trend": "steady"
           },
           "rss_video": null
@@ -38104,43 +38104,6 @@
               "rss_video": null
             },
             {
-              "title": "goon podcast",
-              "id": "spotify:show:033YxYHVqmYTH2WVyXLn6y",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ffa7f0b0c62f96b54122f8d43",
-              "categories": [
-                "Leisure"
-              ],
-              "publisher": "goon",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-08-13",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://feeds.megaphone.fm/GOONSMEDIALLC6622958176",
-              "owner_name": "The Goons Podcast",
-              "owner_email": "info+61de6775afa6910012bd5f45@mg.pippa.io",
-              "itunes_author": "The Goons Podcast",
-              "website": null,
-              "description": "WE ARE GOONS!",
-              "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": "2026-08-10",
-              "schedule": {
-                "days": [
-                  18,
-                  1,
-                  0,
-                  0,
-                  5,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Mondays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
               "title": "GOONS",
               "id": "spotify:show:62V6YaK1hmkb37thGm8aFu",
               "artwork": "https://i.scdn.co/image/ab67656300005f1f169287097ae6f625929b8fb5",
@@ -38382,6 +38345,43 @@
                 ],
                 "label": "Weekly · Mondays",
                 "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Kinda Funny Games Daily: Video Games News Podcast",
+              "id": "spotify:show:1hXrn6RoMMAiNGLE8jxKKf",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f741db5fed82865572425bfc0",
+              "categories": [
+                "Leisure"
+              ],
+              "publisher": "Kinda Funny",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://feeds.megaphone.fm/ROOSTER8838278962",
+              "owner_name": "Kinda Funny",
+              "owner_email": "tim@kindafunny.com",
+              "itunes_author": "Kinda Funny",
+              "website": "http://youtube.com/kindafunnygames",
+              "description": "The world’s most popular daily video game news podcast hosted by Greg “GameOverGreggy” Miller, Tim Gettys, and Blessing Adeoye Jr, alongside a cast of games industry veterans and guests covering the latest in PlayStation, Xbox, Nintendo and all of gaming.",
+              "cadence": "Daily",
+              "episode_count": 1775,
+              "last_published": "2026-06-26",
+              "schedule": {
+                "days": [
+                  5,
+                  4,
+                  6,
+                  5,
+                  4,
+                  0,
+                  0
+                ],
+                "label": "Daily",
+                "eps_year": 363,
                 "trend": "steady"
               },
               "rss_video": null
