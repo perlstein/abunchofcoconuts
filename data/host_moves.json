@@ -1,7 +1,43 @@
 {
   "generated": "2026-09-11",
-  "total_tracked": 34349,
+  "total_tracked": 34511,
   "moves": [
+    {
+      "title": "Mat Talk Podcast Network",
+      "feed_url": "https://www.mattalkonline.com/feed/podcast",
+      "from": "Spreaker",
+      "to": "Libsyn",
+      "date": "2026-09-11",
+      "source": "subgenre",
+      "artwork": ""
+    },
+    {
+      "title": "It's Giving - Podcast",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/df9e443f-8e9a-42c7-8e50-b4ad0146b336/75bf5c72-02be-43c2-89ac-b4ad0146b34c/podcast.rss",
+      "from": "Spotify/Anchor",
+      "to": "Omny / Triton",
+      "date": "2026-09-11",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b9/23/6a/b9236a01-653d-7c6b-422b-447b60e70f7e/mza_2302419228314015284.jpg/170x170bb.png"
+    },
+    {
+      "title": "Inside AsembleAI: DeepTech, AI & Science",
+      "feed_url": "https://media.rss.com/asemble-mac-and-sam/feed.xml",
+      "from": "AmperWave (Audacy)",
+      "to": "RSS.com",
+      "date": "2026-09-11",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/53/38/2b5338ca-6121-c75c-ff25-73bd3e9fa802/mza_11480776803924298324.png/170x170bb.png"
+    },
+    {
+      "title": "Data Science With Sam",
+      "feed_url": "https://media.rss.com/data-science-with-sam-podcast/feed.xml",
+      "from": "AmperWave (Audacy)",
+      "to": "RSS.com",
+      "date": "2026-09-11",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/77/a0/5777a027-a32c-7206-fa98-25e052c8a741/mza_4502418890529186652.png/170x170bb.png"
+    },
     {
       "title": "Calm History (not A.I. & no loud ads) - Bedtime Sleep Stories for Education & Relaxation",
       "feed_url": "https://sleepwithsilk.com/category/ch/feed/",
@@ -26,17 +62,8 @@
       "from": "Megaphone",
       "to": "Omny / Triton",
       "date": "2026-09-10",
-      "source": "chart",
+      "source": "watchlist",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/b7/17/66b71714-d778-6112-5a2e-17cda7b13ef7/mza_11116607786391897002.jpg/170x170bb.png"
-    },
-    {
-      "title": "Mat Talk Podcast Network",
-      "feed_url": "https://www.mattalkonline.com/feed/podcast",
-      "from": "Libsyn",
-      "to": "Spreaker",
-      "date": "2026-09-09",
-      "source": "subgenre",
-      "artwork": ""
     },
     {
       "title": "the UNCOMMODiFiED Podcast",
