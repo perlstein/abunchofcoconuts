@@ -1,6 +1,6 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-09-12",
+  "last_scanned": "2026-09-13",
   "total_unique_shows": 800,
   "resolved_rate": 98.1,
   "platforms": [
@@ -2650,10 +2650,23 @@
           "itunes_author": "As The Raven Dreams",
           "website": "https://www.astheravendreams.com",
           "description": "The As The Raven Dreams podcast is a show where we explore the darker parts of human existence through true and harrowing stories. I cover a diverse range of scary stories: stalker stories, paranormal encounters, unsettling mysteries, glitch in the matrix experiences and even the occasional true cri…",
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
+          "cadence": "~2×/week",
+          "episode_count": 743,
+          "last_published": "2026-09-06",
+          "schedule": {
+            "days": [
+              2,
+              5,
+              5,
+              1,
+              5,
+              1,
+              5
+            ],
+            "label": "~2×/week",
+            "eps_year": 116,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -32685,10 +32698,23 @@
               "itunes_author": "As The Raven Dreams",
               "website": "https://www.astheravendreams.com",
               "description": "The As The Raven Dreams podcast is a show where we explore the darker parts of human existence through true and harrowing stories. I cover a diverse range of scary stories: stalker stories, paranormal encounters, unsettling mysteries, glitch in the matrix experiences and even the occasional true cri…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
+              "cadence": "~2×/week",
+              "episode_count": 743,
+              "last_published": "2026-09-06",
+              "schedule": {
+                "days": [
+                  2,
+                  5,
+                  5,
+                  1,
+                  5,
+                  1,
+                  5
+                ],
+                "label": "~2×/week",
+                "eps_year": 116,
+                "trend": "steady"
+              },
               "rss_video": null
             },
             {
