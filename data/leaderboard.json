@@ -42790,7 +42790,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-14",
           "prev_host": null,
           "moved_on": null
@@ -50114,7 +50114,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": null,
           "prev_host": null,
           "moved_on": null
@@ -53534,7 +53534,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-14",
           "prev_host": null,
           "moved_on": null
@@ -53614,7 +53614,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null
@@ -56815,7 +56815,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-14",
           "prev_host": null,
           "moved_on": null
@@ -56851,7 +56851,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-14",
           "prev_host": null,
           "moved_on": null
@@ -56887,7 +56887,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-14",
           "prev_host": null,
           "moved_on": null
@@ -57314,7 +57314,7 @@
           "last_published": "2026-09-11",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": null,
           "prev_host": null,
           "moved_on": null
@@ -58961,7 +58961,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-14",
           "prev_host": null,
           "moved_on": null
