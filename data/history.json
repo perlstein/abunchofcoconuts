@@ -23493,104 +23493,104 @@
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 448,
-          "share": 26.2,
+          "count": 441,
+          "share": 25.8,
           "rank": 1
         },
         {
           "name": "Simplecast",
-          "count": 204,
-          "share": 12.0,
+          "count": 202,
+          "share": 11.8,
           "rank": 2
         },
         {
           "name": "Omny / Triton",
-          "count": 138,
-          "share": 8.1,
+          "count": 136,
+          "share": 8.0,
           "rank": 3
         },
         {
-          "name": "Art19",
-          "count": 111,
-          "share": 6.5,
+          "name": "Libsyn",
+          "count": 117,
+          "share": 6.9,
           "rank": 4
         },
         {
-          "name": "Acast",
-          "count": 110,
-          "share": 6.4,
+          "name": "Art19",
+          "count": 113,
+          "share": 6.6,
           "rank": 5
         },
         {
-          "name": "Libsyn",
+          "name": "Acast",
           "count": 109,
           "share": 6.4,
           "rank": 6
         },
         {
           "name": "Spotify/Anchor",
-          "count": 79,
-          "share": 4.6,
+          "count": 85,
+          "share": 5.0,
           "rank": 7
         },
         {
           "name": "Podbean",
-          "count": 55,
+          "count": 54,
           "share": 3.2,
           "rank": 8
         },
         {
           "name": "Buzzsprout",
-          "count": 50,
-          "share": 2.9,
+          "count": 51,
+          "share": 3.0,
           "rank": 9
         },
         {
           "name": "Audioboom",
-          "count": 49,
-          "share": 2.9,
+          "count": 46,
+          "share": 2.7,
           "rank": 10
         },
         {
           "name": "AmperWave (Audacy)",
-          "count": 40,
-          "share": 2.3,
+          "count": 42,
+          "share": 2.5,
           "rank": 11
         },
         {
           "name": "Other/Self-Hosted",
-          "count": 32,
-          "share": 1.9,
+          "count": 31,
+          "share": 1.8,
           "rank": 12
         },
         {
           "name": "Transistor",
-          "count": 23,
-          "share": 1.3,
+          "count": 24,
+          "share": 1.4,
           "rank": 13
         },
         {
           "name": "RedCircle",
-          "count": 22,
+          "count": 23,
           "share": 1.3,
           "rank": 14
         },
         {
-          "name": "Spreaker",
-          "count": 22,
-          "share": 1.3,
+          "name": "Captivate",
+          "count": 21,
+          "share": 1.2,
           "rank": 15
         },
         {
-          "name": "Blubrry",
-          "count": 20,
+          "name": "Spreaker",
+          "count": 21,
           "share": 1.2,
           "rank": 16
         },
         {
-          "name": "Captivate",
-          "count": 20,
-          "share": 1.2,
+          "name": "Blubrry",
+          "count": 18,
+          "share": 1.1,
           "rank": 17
         },
         {
@@ -23600,19 +23600,19 @@
           "rank": 18
         },
         {
-          "name": "RSS.com",
-          "count": 15,
-          "share": 0.9,
+          "name": "Unknown",
+          "count": 14,
+          "share": 0.8,
           "rank": 19
         },
         {
-          "name": "BBC",
+          "name": "Barstool Sports",
           "count": 13,
           "share": 0.8,
           "rank": 20
         },
         {
-          "name": "Flightcast",
+          "name": "RSS.com",
           "count": 13,
           "share": 0.8,
           "rank": 21
@@ -23624,15 +23624,15 @@
           "rank": 22
         },
         {
-          "name": "Unknown",
-          "count": 13,
-          "share": 0.8,
+          "name": "BBC",
+          "count": 12,
+          "share": 0.7,
           "rank": 23
         },
         {
-          "name": "Barstool Sports",
-          "count": 11,
-          "share": 0.6,
+          "name": "Flightcast",
+          "count": 12,
+          "share": 0.7,
           "rank": 24
         },
         {
@@ -23649,24 +23649,24 @@
         },
         {
           "name": "Fireside",
-          "count": 9,
+          "count": 8,
           "share": 0.5,
           "rank": 27
         },
         {
           "name": "Riverside",
-          "count": 7,
-          "share": 0.4,
+          "count": 8,
+          "share": 0.5,
           "rank": 28
         },
         {
-          "name": "SoundCloud",
-          "count": 6,
-          "share": 0.4,
+          "name": "American Public Media",
+          "count": 5,
+          "share": 0.3,
           "rank": 29
         },
         {
-          "name": "American Public Media",
+          "name": "SoundCloud",
           "count": 5,
           "share": 0.3,
           "rank": 30
@@ -23690,25 +23690,25 @@
           "rank": 33
         },
         {
-          "name": "Pinecast",
-          "count": 2,
-          "share": 0.1,
+          "name": "iHeart / Triton",
+          "count": 3,
+          "share": 0.2,
           "rank": 34
         },
         {
-          "name": "StreamGuys",
+          "name": "Pinecast",
           "count": 2,
           "share": 0.1,
           "rank": 35
         },
         {
-          "name": "Subsplash",
+          "name": "StreamGuys",
           "count": 2,
           "share": 0.1,
           "rank": 36
         },
         {
-          "name": "iHeart / Triton",
+          "name": "Subsplash",
           "count": 2,
           "share": 0.1,
           "rank": 37
@@ -23772,12 +23772,6 @@
           "count": 1,
           "share": 0.1,
           "rank": 47
-        },
-        {
-          "name": "Thmanyah",
-          "count": 1,
-          "share": 0.1,
-          "rank": 48
         }
       ]
     }
