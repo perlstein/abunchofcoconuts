@@ -23807,66 +23807,66 @@
     },
     {
       "date": "2026-09-19",
-      "total_shows": 1707,
+      "total_shows": 1708,
       "platforms": [
         {
           "name": "Megaphone",
-          "count": 448,
-          "share": 26.2,
+          "count": 446,
+          "share": 26.1,
           "rank": 1
         },
         {
           "name": "Simplecast",
-          "count": 208,
-          "share": 12.2,
+          "count": 210,
+          "share": 12.3,
           "rank": 2
         },
         {
           "name": "Omny / Triton",
-          "count": 135,
-          "share": 7.9,
+          "count": 136,
+          "share": 8.0,
           "rank": 3
         },
         {
           "name": "Art19",
-          "count": 117,
+          "count": 118,
           "share": 6.9,
           "rank": 4
         },
         {
           "name": "Libsyn",
-          "count": 113,
+          "count": 112,
           "share": 6.6,
           "rank": 5
         },
         {
           "name": "Acast",
-          "count": 102,
-          "share": 6.0,
+          "count": 100,
+          "share": 5.9,
           "rank": 6
         },
         {
           "name": "Spotify/Anchor",
-          "count": 77,
-          "share": 4.5,
+          "count": 79,
+          "share": 4.6,
           "rank": 7
         },
         {
           "name": "Buzzsprout",
-          "count": 56,
+          "count": 57,
           "share": 3.3,
           "rank": 8
         },
         {
           "name": "Audioboom",
-          "count": 49,
+          "count": 50,
           "share": 2.9,
           "rank": 9
         },
         {
           "name": "Podbean",
-          "count": 49,
-          "share": 2.9,
+          "count": 44,
+          "share": 2.6,
           "rank": 10
         },
         {
@@ -23877,37 +23877,37 @@
         },
         {
           "name": "Other/Self-Hosted",
-          "count": 28,
-          "share": 1.6,
+          "count": 30,
+          "share": 1.8,
           "rank": 12
         },
         {
           "name": "Transistor",
-          "count": 23,
-          "share": 1.3,
+          "count": 24,
+          "share": 1.4,
           "rank": 13
         },
         {
           "name": "Spreaker",
-          "count": 22,
-          "share": 1.3,
+          "count": 21,
+          "share": 1.2,
           "rank": 14
         },
         {
           "name": "Blubrry",
-          "count": 19,
-          "share": 1.1,
+          "count": 20,
+          "share": 1.2,
           "rank": 15
         },
         {
-          "name": "Captivate",
-          "count": 19,
-          "share": 1.1,
+          "name": "PRX",
+          "count": 20,
+          "share": 1.2,
           "rank": 16
         },
         {
-          "name": "PRX",
-          "count": 19,
+          "name": "Captivate",
+          "count": 18,
           "share": 1.1,
           "rank": 17
         },
@@ -23930,31 +23930,31 @@
           "rank": 20
         },
         {
-          "name": "Unknown",
+          "name": "RSS.com",
           "count": 12,
           "share": 0.7,
           "rank": 21
         },
         {
-          "name": "Podetize",
-          "count": 11,
-          "share": 0.6,
+          "name": "Unknown",
+          "count": 12,
+          "share": 0.7,
           "rank": 22
         },
         {
-          "name": "Xiaoyuzhou FM",
+          "name": "BBC",
           "count": 11,
           "share": 0.6,
           "rank": 23
         },
         {
-          "name": "BBC",
-          "count": 10,
+          "name": "Podetize",
+          "count": 11,
           "share": 0.6,
           "rank": 24
         },
         {
-          "name": "RSS.com",
+          "name": "Xiaoyuzhou FM",
           "count": 10,
           "share": 0.6,
           "rank": 25
@@ -23978,19 +23978,19 @@
           "rank": 28
         },
         {
-          "name": "SoundCloud",
+          "name": "SoundStack",
           "count": 7,
           "share": 0.4,
           "rank": 29
         },
         {
-          "name": "SoundStack",
-          "count": 7,
+          "name": "American Public Media",
+          "count": 6,
           "share": 0.4,
           "rank": 30
         },
         {
-          "name": "American Public Media",
+          "name": "SoundCloud",
           "count": 6,
           "share": 0.4,
           "rank": 31
@@ -24008,19 +24008,19 @@
           "rank": 33
         },
         {
-          "name": "PodToo",
+          "name": "StreamGuys",
           "count": 3,
           "share": 0.2,
           "rank": 34
         },
         {
-          "name": "StreamGuys",
-          "count": 3,
-          "share": 0.2,
+          "name": "Pinecast",
+          "count": 2,
+          "share": 0.1,
           "rank": 35
         },
         {
-          "name": "Pinecast",
+          "name": "PodToo",
           "count": 2,
           "share": 0.1,
           "rank": 36
@@ -24038,43 +24038,43 @@
           "rank": 38
         },
         {
-          "name": "iHeart / Triton",
-          "count": 2,
-          "share": 0.1,
-          "rank": 39
-        },
-        {
           "name": "Alitu",
           "count": 1,
           "share": 0.1,
-          "rank": 40
+          "rank": 39
         },
         {
           "name": "Beamly",
           "count": 1,
           "share": 0.1,
-          "rank": 41
+          "rank": 40
         },
         {
           "name": "Castbox",
           "count": 1,
           "share": 0.1,
-          "rank": 42
+          "rank": 41
         },
         {
           "name": "CoHost",
           "count": 1,
           "share": 0.1,
-          "rank": 43
+          "rank": 42
         },
         {
           "name": "FuturiMedia",
           "count": 1,
           "share": 0.1,
-          "rank": 44
+          "rank": 43
         },
         {
           "name": "HearThis",
+          "count": 1,
+          "share": 0.1,
+          "rank": 44
+        },
+        {
+          "name": "Kajabi",
           "count": 1,
           "share": 0.1,
           "rank": 45
@@ -24108,6 +24108,12 @@
           "count": 1,
           "share": 0.1,
           "rank": 50
+        },
+        {
+          "name": "iHeart / Triton",
+          "count": 1,
+          "share": 0.1,
+          "rank": 51
         }
       ]
     }
