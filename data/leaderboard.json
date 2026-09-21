@@ -13830,7 +13830,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": true,
+          "apple_video": false,
           "host_since": "2026-09-20",
           "prev_host": "Libsyn",
           "moved_on": "2026-09-20"
@@ -32470,7 +32470,7 @@
             "trend": null
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "host_since": "2026-09-20",
           "prev_host": "Megaphone",
           "moved_on": "2026-09-20"
@@ -34542,7 +34542,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-20",
           "prev_host": null,
           "moved_on": null
@@ -39847,7 +39847,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-20",
           "prev_host": null,
           "moved_on": null
@@ -41733,7 +41733,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-09-20",
           "prev_host": null,
           "moved_on": null
@@ -53795,7 +53795,7 @@
           "last_published": "2026-09-17",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": true,
           "host_since": "2026-09-20",
           "prev_host": null,
           "moved_on": null
