@@ -9744,8 +9744,8 @@
     },
     {
       "name": "Spotify/Anchor",
-      "count": 116,
-      "share": 14.5,
+      "count": 117,
+      "share": 14.6,
       "shows": [
         {
           "title": "PBD Podcast",
@@ -11843,6 +11843,30 @@
             "eps_year": 180,
             "trend": "slowing"
           },
+          "rss_video": null
+        },
+        {
+          "title": "La Heladera",
+          "id": "spotify:show:1IunkgVpp0FHUzuk6MlL9i",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fd89d584f4f03951446fe2d10",
+          "categories": [
+            "Music"
+          ],
+          "publisher": "TROOP AUDIO",
+          "chart_move": "DOWN",
+          "host_since": "2026-07-15",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/5af32140/podcast/rss",
+          "owner_name": "QUiNiENTOS55",
+          "owner_email": null,
+          "itunes_author": "QUiNiENTOS55",
+          "website": "https://anchor.fm/la-heladera",
+          "description": "La Heladera es un podcast en el que semana con semana opinamos sobre lo que está sucediendo actualmente en la cultura pop.",
+          "cadence": null,
+          "episode_count": 4,
+          "last_published": "2021-06-17",
+          "schedule": null,
           "rss_video": null
         },
         {
@@ -22022,8 +22046,8 @@
     },
     {
       "name": "Buzzsprout",
-      "count": 20,
-      "share": 2.5,
+      "count": 19,
+      "share": 2.4,
       "shows": [
         {
           "title": "LITTLE BIT BETTER",
@@ -22415,43 +22439,6 @@
           "episode_count": null,
           "last_published": null,
           "schedule": null,
-          "rss_video": null
-        },
-        {
-          "title": "FOMO",
-          "id": "spotify:show:38Fha7Bjt9qzSE4WFGRTmb",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f9df600a116acd90846e988c5",
-          "categories": [
-            "Music"
-          ],
-          "publisher": "Neele ♥️",
-          "chart_move": "UP",
-          "host_since": "2026-09-21",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://rss.buzzsprout.com/1982962.rss",
-          "owner_name": "The Fomo Podcast",
-          "owner_email": null,
-          "itunes_author": "The Fomo Podcast",
-          "website": "http://www.thefomopodcast.com",
-          "description": "We are two Former Mormons who were raised as members of the Church of Jesus Christ of Latter-day Saints. We’re also both registered Associate Marriage and Family Therapists in the state of California. We share our own stories, insights, and clinical opinions related to mental health and thriving in…",
-          "cadence": "Biweekly",
-          "episode_count": null,
-          "last_published": "2022-12-06",
-          "schedule": {
-            "days": [
-              2,
-              3,
-              1,
-              0,
-              3,
-              1,
-              0
-            ],
-            "label": "Biweekly",
-            "eps_year": 24,
-            "trend": "slowing"
-          },
           "rss_video": null
         },
         {
@@ -23620,7 +23607,7 @@
             "Music"
           ],
           "publisher": "YeezusLover808",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-09-22",
           "prev_host": null,
           "moved_on": null,
@@ -39299,6 +39286,404 @@
     "Music": {
       "platforms": [
         {
+          "name": "Spotify/Anchor",
+          "count": 13,
+          "share": 26.0,
+          "shows": [
+            {
+              "title": "STAN:A",
+              "id": "spotify:show:3mNzAtzbx87dJmkrz7HtS5",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fcb9affa24e3bb02a1a5c1f41",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "HYBE MEDIA STUDIO",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/3a0ea774/podcast/rss",
+              "owner_name": "Agustina Gasparini",
+              "owner_email": "podcasts60+3a0ea774@anchor.fm",
+              "itunes_author": "Agustina Gasparini",
+              "website": "https://podcasters.spotify.com/pod/show/agustina-gasparini",
+              "description": "Ffkkfd",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "songs",
+              "id": "spotify:show:0343Lfz0FG3swE9PtZXC7C",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fa305167240b43e3eea90bdad",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Bea",
+              "chart_move": "DOWN",
+              "host_since": "2026-08-13",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/59eb9b88/podcast/rss",
+              "owner_name": "Short Boy Ben",
+              "owner_email": "podcasts60+59eb9b88@anchor.fm",
+              "itunes_author": "Short Boy Ben",
+              "website": "https://podcasters.spotify.com/pod/show/benjamin-clark6",
+              "description": "its just me doing stuff",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": "2021-06-27",
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "SoundBoardW.com",
+              "id": "spotify:show:1JIgyA7XuJIoTLb8tQnMJP",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f80456fce1954470abebd0595",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "SoundBoardW",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-08-01",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/101c2183c/podcast/rss",
+              "owner_name": "SoundBoardW",
+              "owner_email": "soundboardw.com@gmail.com",
+              "itunes_author": "SoundBoardW",
+              "website": "https://soundboardw.com/",
+              "description": "SoundBoardW.com makes playing sound buttons easy. Simply click and enjoy instant reactions, pranks, and effects. Join millions using the best soundboard and sound board free online! Name: SoundBoardw.com Address: 1036 E 231st St, Bronx, New York 10466, United States Phone: +12013514000 https://sound…",
+              "cadence": "Daily",
+              "episode_count": null,
+              "last_published": "2026-07-31",
+              "schedule": {
+                "days": [
+                  3,
+                  5,
+                  4,
+                  3,
+                  5,
+                  4,
+                  0
+                ],
+                "label": "Daily",
+                "eps_year": 364,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Alofoke Music",
+              "id": "spotify:show:033AAEEm7Ps6GgHrJI5lOF",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ffb03959f450b538aae2c8649",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Alofoke Music",
+              "chart_move": "UP",
+              "host_since": "2026-07-29",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/510b3208/podcast/rss",
+              "owner_name": "Jetmusic",
+              "owner_email": "podcasts60+510b3208@anchor.fm",
+              "itunes_author": "Jetmusic",
+              "website": "https://podcasters.spotify.com/pod/show/audy96",
+              "description": "Hablamos de lo que estamos de acuerdo y lo que no con alofoke",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": "2021-03-12",
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Spotify Live",
+              "id": "spotify:show:2K5tDp2QRuZy16KTWoWq6B",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f859c7317f65324c3b5bce785",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Spotify",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-07-25",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/5be8d734/podcast/rss",
+              "owner_name": "2190",
+              "owner_email": "podcasts60+5be8d734@anchor.fm",
+              "itunes_author": "2190",
+              "website": "https://enlshen.wixsite.com/2190anthenaeum",
+              "description": "2190 Radio with Interviews and 2190 music for Spotify users!",
+              "cadence": "Weekly",
+              "episode_count": null,
+              "last_published": "2022-01-11",
+              "schedule": {
+                "days": [
+                  0,
+                  1,
+                  0,
+                  0,
+                  1,
+                  2,
+                  0
+                ],
+                "label": "Weekly · Sat & Tue",
+                "eps_year": 43,
+                "trend": null
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Trap Lore Ross",
+              "id": "spotify:show:0QORyVQIR6eXZO2I8uFml2",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f9c8179955fde464d3810e1fe",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Trap Lore Ross",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/1106710f4/podcast/rss",
+              "owner_name": "Cam Capone",
+              "owner_email": null,
+              "itunes_author": "Cam Capone",
+              "website": "https://art19.com/shows/cam-capone-news",
+              "description": "Interviews From Some of The Hottest Artist In Hip Hop",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "HardLore",
+              "id": "spotify:show:28Oo4qf29ebvFYFQ2iQ68E",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f53484e2b980b210a61cde0c1",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Colin Young, Bo Lueders, Knotfest",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/1134a4098/podcast/rss",
+              "owner_name": "Colin Young, Bo Lueders, Knotfest",
+              "owner_email": "hudson@5bam.com",
+              "itunes_author": "Colin Young, Bo Lueders, Knotfest",
+              "website": "https://www.hardlorepod.com",
+              "description": "HardLore Podcast • Hosted by Colin Young (Twitching Tongues, God’s Hate), featuring in-depth, biographical interviews with our favorite musicians from the worlds of hardcore/punk/metal & beyond...",
+              "cadence": "Weekly",
+              "episode_count": 206,
+              "last_published": "2026-06-25",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  0,
+                  24,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Thursdays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "bakerbaker",
+              "id": "spotify:show:7BopIybXuBlm1Xo5k3850V",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f612dff93349d3c752a0e89e3",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Naomi Baker",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/4d34b154/podcast/rss",
+              "owner_name": "Naomi Baker",
+              "owner_email": "podcasts60+4d34b154@anchor.fm",
+              "itunes_author": "Naomi Baker",
+              "website": "https://podcasters.spotify.com/pod/show/naomi-baker",
+              "description": "best music podcast",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": null,
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "Garza Podcast",
+              "id": "spotify:show:4Re2Ss3prlxFXgX0PsFzjk",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f18c5dee7459195faf2cd8397",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Chris Garza",
+              "chart_move": "UP",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/8c9756d0/podcast/rss",
+              "owner_name": "Chris Garza",
+              "owner_email": "chrisgeetarza@gmail.com",
+              "itunes_author": "Chris Garza",
+              "website": "http://garzapodcast.com",
+              "description": "Hosted by Chris Garza, guitar player & founder of Suicide Silence. New episodes every Monday.",
+              "cadence": "Weekly",
+              "episode_count": 241,
+              "last_published": "2026-06-29",
+              "schedule": {
+                "days": [
+                  24,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Weekly · Mondays",
+                "eps_year": 52,
+                "trend": "steady"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Music ",
+              "id": "spotify:show:1uE3sNsHGMFQWo1Zg20KPO",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f2b83bc34624a48943a51615f",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "TrN",
+              "chart_move": "DOWN",
+              "host_since": "2026-09-22",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/c7c15ae4/podcast/rss",
+              "owner_name": "Relaxing Music",
+              "owner_email": "relaxingmusic@awpodcast.com",
+              "itunes_author": "Relaxing Music",
+              "website": "https://anchor.fm/relaxing-music32",
+              "description": "Relaxing and soothing music.",
+              "cadence": "Daily",
+              "episode_count": null,
+              "last_published": "2022-03-02",
+              "schedule": {
+                "days": [
+                  0,
+                  0,
+                  4,
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                "label": "Daily · Wednesdays",
+                "eps_year": 730,
+                "trend": null
+              },
+              "rss_video": null
+            },
+            {
+              "title": "Genius Verified ",
+              "id": "spotify:show:00k5zjOhsiKMKRaGDSOtnn",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f0b89ed55297a676662b339d2",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "Genius",
+              "chart_move": "UP",
+              "host_since": "2026-09-13",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/a795c390/podcast/rss",
+              "owner_name": "Genius",
+              "owner_email": "melaniemogle@gmail.com",
+              "itunes_author": "Genius",
+              "website": "https://podcasters.spotify.com/pod/show/geniusverified",
+              "description": "Genius explains the deeper meaning behind music. Founded in 2009, Genius is a unique media company that’s powered by community, our in-house creative team, and the artists themselves. We serve music knowledge to over 100 million people each month on Genius.com and everywhere music fans connect acros…",
+              "cadence": null,
+              "episode_count": null,
+              "last_published": "2022-07-14",
+              "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "DJ Akademiks Live Streams",
+              "id": "spotify:show:6pYA7xSkQ8T7v3oAp60Jl4",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fb18ddc24f3ad6663b8c2a6ed",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "The Akademy",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-18",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/e9ae7088/podcast/rss",
+              "owner_name": "The Akademy",
+              "owner_email": null,
+              "itunes_author": "The Akademy",
+              "website": "https://djakademikstv.com",
+              "description": "Podcasts, Streams and such from DJ Akademiks and crew.",
+              "cadence": "~3×/week",
+              "episode_count": 389,
+              "last_published": "2026-07-09",
+              "schedule": {
+                "days": [
+                  1,
+                  5,
+                  3,
+                  8,
+                  3,
+                  4,
+                  0
+                ],
+                "label": "~3×/week",
+                "eps_year": 180,
+                "trend": "slowing"
+              },
+              "rss_video": null
+            },
+            {
+              "title": "La Heladera",
+              "id": "spotify:show:1IunkgVpp0FHUzuk6MlL9i",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fd89d584f4f03951446fe2d10",
+              "categories": [
+                "Music"
+              ],
+              "publisher": "TROOP AUDIO",
+              "chart_move": "DOWN",
+              "host_since": "2026-07-15",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/5af32140/podcast/rss",
+              "owner_name": "QUiNiENTOS55",
+              "owner_email": null,
+              "itunes_author": "QUiNiENTOS55",
+              "website": "https://anchor.fm/la-heladera",
+              "description": "La Heladera es un podcast en el que semana con semana opinamos sobre lo que está sucediendo actualmente en la cultura pop.",
+              "cadence": null,
+              "episode_count": 4,
+              "last_published": "2021-06-17",
+              "schedule": null,
+              "rss_video": null
+            }
+          ],
+          "rank": 1
+        },
+        {
           "name": "Megaphone",
           "count": 12,
           "share": 24.0,
@@ -39735,380 +40120,6 @@
               "rss_video": null
             }
           ],
-          "rank": 1
-        },
-        {
-          "name": "Spotify/Anchor",
-          "count": 12,
-          "share": 24.0,
-          "shows": [
-            {
-              "title": "STAN:A",
-              "id": "spotify:show:3mNzAtzbx87dJmkrz7HtS5",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fcb9affa24e3bb02a1a5c1f41",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "HYBE MEDIA STUDIO",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/3a0ea774/podcast/rss",
-              "owner_name": "Agustina Gasparini",
-              "owner_email": "podcasts60+3a0ea774@anchor.fm",
-              "itunes_author": "Agustina Gasparini",
-              "website": "https://podcasters.spotify.com/pod/show/agustina-gasparini",
-              "description": "Ffkkfd",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "songs",
-              "id": "spotify:show:0343Lfz0FG3swE9PtZXC7C",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fa305167240b43e3eea90bdad",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Bea",
-              "chart_move": "DOWN",
-              "host_since": "2026-08-13",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/59eb9b88/podcast/rss",
-              "owner_name": "Short Boy Ben",
-              "owner_email": "podcasts60+59eb9b88@anchor.fm",
-              "itunes_author": "Short Boy Ben",
-              "website": "https://podcasters.spotify.com/pod/show/benjamin-clark6",
-              "description": "its just me doing stuff",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": "2021-06-27",
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "SoundBoardW.com",
-              "id": "spotify:show:1JIgyA7XuJIoTLb8tQnMJP",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f80456fce1954470abebd0595",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "SoundBoardW",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-08-01",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/101c2183c/podcast/rss",
-              "owner_name": "SoundBoardW",
-              "owner_email": "soundboardw.com@gmail.com",
-              "itunes_author": "SoundBoardW",
-              "website": "https://soundboardw.com/",
-              "description": "SoundBoardW.com makes playing sound buttons easy. Simply click and enjoy instant reactions, pranks, and effects. Join millions using the best soundboard and sound board free online! Name: SoundBoardw.com Address: 1036 E 231st St, Bronx, New York 10466, United States Phone: +12013514000 https://sound…",
-              "cadence": "Daily",
-              "episode_count": null,
-              "last_published": "2026-07-31",
-              "schedule": {
-                "days": [
-                  3,
-                  5,
-                  4,
-                  3,
-                  5,
-                  4,
-                  0
-                ],
-                "label": "Daily",
-                "eps_year": 364,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Alofoke Music",
-              "id": "spotify:show:033AAEEm7Ps6GgHrJI5lOF",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ffb03959f450b538aae2c8649",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Alofoke Music",
-              "chart_move": "UP",
-              "host_since": "2026-07-29",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/510b3208/podcast/rss",
-              "owner_name": "Jetmusic",
-              "owner_email": "podcasts60+510b3208@anchor.fm",
-              "itunes_author": "Jetmusic",
-              "website": "https://podcasters.spotify.com/pod/show/audy96",
-              "description": "Hablamos de lo que estamos de acuerdo y lo que no con alofoke",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": "2021-03-12",
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "Spotify Live",
-              "id": "spotify:show:2K5tDp2QRuZy16KTWoWq6B",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f859c7317f65324c3b5bce785",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Spotify",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-07-25",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/5be8d734/podcast/rss",
-              "owner_name": "2190",
-              "owner_email": "podcasts60+5be8d734@anchor.fm",
-              "itunes_author": "2190",
-              "website": "https://enlshen.wixsite.com/2190anthenaeum",
-              "description": "2190 Radio with Interviews and 2190 music for Spotify users!",
-              "cadence": "Weekly",
-              "episode_count": null,
-              "last_published": "2022-01-11",
-              "schedule": {
-                "days": [
-                  0,
-                  1,
-                  0,
-                  0,
-                  1,
-                  2,
-                  0
-                ],
-                "label": "Weekly · Sat & Tue",
-                "eps_year": 43,
-                "trend": null
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Trap Lore Ross",
-              "id": "spotify:show:0QORyVQIR6eXZO2I8uFml2",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f9c8179955fde464d3810e1fe",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Trap Lore Ross",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/1106710f4/podcast/rss",
-              "owner_name": "Cam Capone",
-              "owner_email": null,
-              "itunes_author": "Cam Capone",
-              "website": "https://art19.com/shows/cam-capone-news",
-              "description": "Interviews From Some of The Hottest Artist In Hip Hop",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "HardLore",
-              "id": "spotify:show:28Oo4qf29ebvFYFQ2iQ68E",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f53484e2b980b210a61cde0c1",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Colin Young, Bo Lueders, Knotfest",
-              "chart_move": "DOWN",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/1134a4098/podcast/rss",
-              "owner_name": "Colin Young, Bo Lueders, Knotfest",
-              "owner_email": "hudson@5bam.com",
-              "itunes_author": "Colin Young, Bo Lueders, Knotfest",
-              "website": "https://www.hardlorepod.com",
-              "description": "HardLore Podcast • Hosted by Colin Young (Twitching Tongues, God’s Hate), featuring in-depth, biographical interviews with our favorite musicians from the worlds of hardcore/punk/metal & beyond...",
-              "cadence": "Weekly",
-              "episode_count": 206,
-              "last_published": "2026-06-25",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  0,
-                  24,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Thursdays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "bakerbaker",
-              "id": "spotify:show:7BopIybXuBlm1Xo5k3850V",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f612dff93349d3c752a0e89e3",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Naomi Baker",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/4d34b154/podcast/rss",
-              "owner_name": "Naomi Baker",
-              "owner_email": "podcasts60+4d34b154@anchor.fm",
-              "itunes_author": "Naomi Baker",
-              "website": "https://podcasters.spotify.com/pod/show/naomi-baker",
-              "description": "best music podcast",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "Garza Podcast",
-              "id": "spotify:show:4Re2Ss3prlxFXgX0PsFzjk",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f18c5dee7459195faf2cd8397",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Chris Garza",
-              "chart_move": "UP",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/8c9756d0/podcast/rss",
-              "owner_name": "Chris Garza",
-              "owner_email": "chrisgeetarza@gmail.com",
-              "itunes_author": "Chris Garza",
-              "website": "http://garzapodcast.com",
-              "description": "Hosted by Chris Garza, guitar player & founder of Suicide Silence. New episodes every Monday.",
-              "cadence": "Weekly",
-              "episode_count": 241,
-              "last_published": "2026-06-29",
-              "schedule": {
-                "days": [
-                  24,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Weekly · Mondays",
-                "eps_year": 52,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Music ",
-              "id": "spotify:show:1uE3sNsHGMFQWo1Zg20KPO",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f2b83bc34624a48943a51615f",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "TrN",
-              "chart_move": "DOWN",
-              "host_since": "2026-09-22",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/c7c15ae4/podcast/rss",
-              "owner_name": "Relaxing Music",
-              "owner_email": "relaxingmusic@awpodcast.com",
-              "itunes_author": "Relaxing Music",
-              "website": "https://anchor.fm/relaxing-music32",
-              "description": "Relaxing and soothing music.",
-              "cadence": "Daily",
-              "episode_count": null,
-              "last_published": "2022-03-02",
-              "schedule": {
-                "days": [
-                  0,
-                  0,
-                  4,
-                  0,
-                  0,
-                  0,
-                  0
-                ],
-                "label": "Daily · Wednesdays",
-                "eps_year": 730,
-                "trend": null
-              },
-              "rss_video": null
-            },
-            {
-              "title": "Genius Verified ",
-              "id": "spotify:show:00k5zjOhsiKMKRaGDSOtnn",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f0b89ed55297a676662b339d2",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Genius",
-              "chart_move": "UP",
-              "host_since": "2026-09-13",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/a795c390/podcast/rss",
-              "owner_name": "Genius",
-              "owner_email": "melaniemogle@gmail.com",
-              "itunes_author": "Genius",
-              "website": "https://podcasters.spotify.com/pod/show/geniusverified",
-              "description": "Genius explains the deeper meaning behind music. Founded in 2009, Genius is a unique media company that’s powered by community, our in-house creative team, and the artists themselves. We serve music knowledge to over 100 million people each month on Genius.com and everywhere music fans connect acros…",
-              "cadence": null,
-              "episode_count": null,
-              "last_published": "2022-07-14",
-              "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "DJ Akademiks Live Streams",
-              "id": "spotify:show:6pYA7xSkQ8T7v3oAp60Jl4",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fb18ddc24f3ad6663b8c2a6ed",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "The Akademy",
-              "chart_move": "UNCHANGED",
-              "host_since": "2026-06-18",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/e9ae7088/podcast/rss",
-              "owner_name": "The Akademy",
-              "owner_email": null,
-              "itunes_author": "The Akademy",
-              "website": "https://djakademikstv.com",
-              "description": "Podcasts, Streams and such from DJ Akademiks and crew.",
-              "cadence": "~3×/week",
-              "episode_count": 389,
-              "last_published": "2026-07-09",
-              "schedule": {
-                "days": [
-                  1,
-                  5,
-                  3,
-                  8,
-                  3,
-                  4,
-                  0
-                ],
-                "label": "~3×/week",
-                "eps_year": 180,
-                "trend": "slowing"
-              },
-              "rss_video": null
-            }
-          ],
           "rank": 2
         },
         {
@@ -40462,8 +40473,8 @@
         },
         {
           "name": "Buzzsprout",
-          "count": 3,
-          "share": 6.0,
+          "count": 2,
+          "share": 4.0,
           "shows": [
             {
               "title": "BBM 2F",
@@ -40487,43 +40498,6 @@
               "episode_count": null,
               "last_published": null,
               "schedule": null,
-              "rss_video": null
-            },
-            {
-              "title": "FOMO",
-              "id": "spotify:show:38Fha7Bjt9qzSE4WFGRTmb",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f9df600a116acd90846e988c5",
-              "categories": [
-                "Music"
-              ],
-              "publisher": "Neele ♥️",
-              "chart_move": "UP",
-              "host_since": "2026-09-21",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://rss.buzzsprout.com/1982962.rss",
-              "owner_name": "The Fomo Podcast",
-              "owner_email": null,
-              "itunes_author": "The Fomo Podcast",
-              "website": "http://www.thefomopodcast.com",
-              "description": "We are two Former Mormons who were raised as members of the Church of Jesus Christ of Latter-day Saints. We’re also both registered Associate Marriage and Family Therapists in the state of California. We share our own stories, insights, and clinical opinions related to mental health and thriving in…",
-              "cadence": "Biweekly",
-              "episode_count": null,
-              "last_published": "2022-12-06",
-              "schedule": {
-                "days": [
-                  2,
-                  3,
-                  1,
-                  0,
-                  3,
-                  1,
-                  0
-                ],
-                "label": "Biweekly",
-                "eps_year": 24,
-                "trend": "slowing"
-              },
               "rss_video": null
             },
             {
@@ -40717,7 +40691,7 @@
                 "Music"
               ],
               "publisher": "YeezusLover808",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-09-22",
               "prev_host": null,
               "moved_on": null,
