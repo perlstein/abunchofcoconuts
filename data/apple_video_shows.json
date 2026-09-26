@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25",
+  "generated": "2026-09-26",
   "shows": [
     {
       "itunes_id": "1358187061",
@@ -182,6 +182,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1199768588",
+      "title": "Sexy Unique Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/67/30/c96730d7-143c-ea58-eac0-aa889aa692d8/mza_6290860871025945634.jpeg/600x600bb.jpg",
+      "feed_url": "https://rss.pdrl.fm/560c99/feeds.acast.com/public/shows/68228256ca727346524e4a62",
+      "host": "Acast",
+      "episode_count": 945,
+      "last_published": "2026-09-24",
+      "on_chart": false
+    },
+    {
       "itunes_id": "960902903",
       "title": "The MeatEater Podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/27/62/ad2762c4-858d-c42b-0b81-cee586ab597d/mza_12778609106669149114.jpg/170x170bb.png",
@@ -190,16 +200,6 @@
       "episode_count": 944,
       "last_published": "2026-09-23",
       "on_chart": true
-    },
-    {
-      "itunes_id": "1199768588",
-      "title": "Sexy Unique Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c9/67/30/c96730d7-143c-ea58-eac0-aa889aa692d8/mza_6290860871025945634.jpeg/600x600bb.jpg",
-      "feed_url": "https://rss.pdrl.fm/560c99/feeds.acast.com/public/shows/68228256ca727346524e4a62",
-      "host": "Acast",
-      "episode_count": 944,
-      "last_published": "2026-09-24",
-      "on_chart": false
     },
     {
       "itunes_id": "1200343264",
@@ -218,7 +218,7 @@
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/the-yak",
       "host": "Barstool Sports",
       "episode_count": 911,
-      "last_published": "2026-09-24",
+      "last_published": "2026-09-25",
       "on_chart": true
     },
     {
@@ -228,7 +228,7 @@
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/chicks-in-the-office",
       "host": "Barstool Sports",
       "episode_count": 910,
-      "last_published": "2026-09-21",
+      "last_published": "2026-09-25",
       "on_chart": true
     },
     {
@@ -274,12 +274,12 @@
     {
       "itunes_id": "963144241",
       "title": "AppleInsider Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/7e/ec/7c7eeced-8fdb-e0b3-31be-d8e0f577314e/mza_10351125006468531805.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/7e/ec/7c7eeced-8fdb-e0b3-31be-d8e0f577314e/mza_10351125006468531805.jpg/170x170bb.png",
       "feed_url": "https://feeds.transistor.fm/appleinsider",
       "host": "Transistor",
       "episode_count": 662,
       "last_published": "2026-09-25",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1701260891",
@@ -304,12 +304,12 @@
     {
       "itunes_id": "1471270483",
       "title": "Gloss Angeles",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/03963f96-9683-5260-8377-d391301de9b7",
       "host": "Acast",
       "episode_count": 602,
       "last_published": "2026-09-22",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1375714621",
@@ -407,8 +407,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/d9/b3/f9d9b371-fd0c-4a6b-3f2d-953eb2086dde/mza_11424577040759351462.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/dear-shandy",
       "host": "Art19",
-      "episode_count": 491,
-      "last_published": "2026-09-24",
+      "episode_count": 492,
+      "last_published": "2026-09-25",
       "on_chart": false
     },
     {
@@ -417,8 +417,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/e5/27/6ce5278d-5c3f-b992-7ba5-e45811dad115/mza_3053656086025708268.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/68b1d0ea993d10acb9c3fe4f",
       "host": "Acast",
-      "episode_count": 486,
-      "last_published": "2026-09-22",
+      "episode_count": 487,
+      "last_published": "2026-09-24",
       "on_chart": true
     },
     {
@@ -548,7 +548,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/780a3042-864b-40fa-ae09-4557aec621c3",
       "host": "Acast",
       "episode_count": 350,
-      "last_published": "2026-09-18",
+      "last_published": "2026-09-22",
       "on_chart": true
     },
     {
@@ -567,8 +567,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/50/13/e2/5013e298-d39b-f8da-1bec-edc27d3f7c74/mza_11319126296776257617.jpeg/170x170bb.png",
       "feed_url": null,
       "host": "Unknown",
-      "episode_count": 333,
-      "last_published": "2026-09-15",
+      "episode_count": 334,
+      "last_published": "2026-09-17",
       "on_chart": true
     },
     {
@@ -587,7 +587,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/88/01/9e/88019e36-8a25-c3e5-833e-b2fb10bb8a8d/mza_8171845503956164291.png/600x600bb.jpg",
       "feed_url": "https://feed.podbean.com/sidealpha/feed.xml",
       "host": "Podbean",
-      "episode_count": 321,
+      "episode_count": 322,
       "last_published": "2026-09-17",
       "on_chart": false
     },
@@ -804,12 +804,12 @@
     {
       "itunes_id": "1652378547",
       "title": "The Just Security Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/d4/a0/7ed4a096-ddce-d996-d2da-81527be96145/mza_14485022442567831417.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/d4/a0/7ed4a096-ddce-d996-d2da-81527be96145/mza_14485022442567831417.jpg/170x170bb.png",
       "feed_url": "https://rss.buzzsprout.com/2074610.rss",
       "host": "Buzzsprout",
       "episode_count": 154,
       "last_published": "2026-09-25",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1700725168",
@@ -847,7 +847,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/ce/36/8cce3648-2e76-735c-f6d8-8e72febc8ed7/mza_13220543383965859061.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/hga-imo",
       "host": "Art19",
-      "episode_count": 113,
+      "episode_count": 114,
       "last_published": "2026-09-23",
       "on_chart": true
     },
@@ -890,6 +890,16 @@
       "episode_count": 98,
       "last_published": "2026-09-24",
       "on_chart": false
+    },
+    {
+      "itunes_id": "1770253354",
+      "title": "The NOËLLE FLOYD Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/5c/61/5b5c61aa-932c-cc5c-09a3-bc29a1a6abd6/mza_18024354376523662464.png/170x170bb.png",
+      "feed_url": "https://rss.libsyn.com/shows/546757/destinations/4715857.xml",
+      "host": "Libsyn",
+      "episode_count": 98,
+      "last_published": "2026-09-21",
+      "on_chart": true
     },
     {
       "itunes_id": "1650419102",
@@ -1054,12 +1064,12 @@
     {
       "itunes_id": "1736431000",
       "title": "Mind the Game",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f3/c1/7e/f3c17e70-d425-2f54-cee2-1b6e5fe0188b/mza_11492355831036822922.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f3/c1/7e/f3c17e70-d425-2f54-cee2-1b6e5fe0188b/mza_11492355831036822922.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/mind-the-game",
       "host": "Art19",
-      "episode_count": 51,
+      "episode_count": 50,
       "last_published": "2026-07-21",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1895935150",
@@ -1322,6 +1332,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "6788060249",
+      "title": "What Comes Next with Arun",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/82/d0/7082d068-1ac5-4aa2-b68f-2b0186e40cd9/mza_9414341923464907069.jpg/600x600bb.jpg",
+      "feed_url": "https://rss.buzzsprout.com/2624218.rss",
+      "host": "Buzzsprout",
+      "episode_count": 14,
+      "last_published": "2026-09-18",
+      "on_chart": false
+    },
+    {
       "itunes_id": "6783073441",
       "title": "Wildmen with Dylan Sprouse and Brendan Columbus",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/47/48/f8/4748f88a-12d1-80aa-a65b-07050d4cd981/mza_13643898798150148074.jpeg/600x600bb.jpg",
@@ -1340,16 +1360,6 @@
       "episode_count": 14,
       "last_published": "2026-09-30",
       "on_chart": true
-    },
-    {
-      "itunes_id": "6788060249",
-      "title": "What Comes Next with Arun",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/82/d0/7082d068-1ac5-4aa2-b68f-2b0186e40cd9/mza_9414341923464907069.jpg/600x600bb.jpg",
-      "feed_url": "https://rss.buzzsprout.com/2624218.rss",
-      "host": "Buzzsprout",
-      "episode_count": 13,
-      "last_published": "2026-09-18",
-      "on_chart": false
     },
     {
       "itunes_id": "6789198595",
