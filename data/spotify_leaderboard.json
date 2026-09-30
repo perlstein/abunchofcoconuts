@@ -1,6 +1,6 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-09-29",
+  "last_scanned": "2026-09-30",
   "total_unique_shows": 800,
   "resolved_rate": 97.6,
   "platforms": [
@@ -509,7 +509,7 @@
             "Business"
           ],
           "publisher": "Josh Brown",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -546,7 +546,7 @@
             "Business"
           ],
           "publisher": "Hubspot",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -657,7 +657,7 @@
             "Business"
           ],
           "publisher": "PHD Ventures",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -731,7 +731,7 @@
             "Business"
           ],
           "publisher": "Ramsey Network",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -768,7 +768,7 @@
             "Business"
           ],
           "publisher": "Andrew Giancola ",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -890,7 +890,7 @@
             "Business"
           ],
           "publisher": "Emma Grede | Audacy",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-07-05",
           "prev_host": null,
           "moved_on": null,
@@ -951,7 +951,7 @@
             "Business"
           ],
           "publisher": "BiggerPockets",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -988,7 +988,7 @@
             "Business"
           ],
           "publisher": "The Compound",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -2585,7 +2585,7 @@
         {
           "title": "Scary Horror Stories by Dr. NoSleep",
           "id": "spotify:show:2Sqi0dJoIudYWq430DXRH5",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1faeecc58bdd7a24ecdc52baf5",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fd95ad93d2b839e97afaf08c0",
           "categories": [
             "Fiction"
           ],
@@ -9687,43 +9687,6 @@
           "rss_video": null
         },
         {
-          "title": "SPOTIFY BUT SAD SONGS",
-          "id": "spotify:show:4SINLxjQcCxG3dMP4038nM",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1ffa2532f73db50b0365a7b647",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "LWJGL",
-          "chart_move": "NEW",
-          "host_since": "2026-09-29",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": "https://anchor.fm/s/f34291d8/podcast/rss",
-          "owner_name": "Dave High",
-          "owner_email": "davehigh@ntlworld.com",
-          "itunes_author": "Dave High",
-          "website": "https://podcasters.spotify.com/pod/show/dave-high4",
-          "description": "We are Dave and Jake, two 60 year old music fans, and we take on a different theme per episode and pick five relevant songs each. We cover music from the 60's to now, and more or less any genre you can think of. From Punk to Pop, Reggae to Northern Soul, Drum N Bass to Ambient, if it's out there, we…",
-          "cadence": "Biweekly",
-          "episode_count": null,
-          "last_published": "2026-09-21",
-          "schedule": {
-            "days": [
-              10,
-              1,
-              1,
-              5,
-              6,
-              0,
-              1
-            ],
-            "label": "Biweekly",
-            "eps_year": 33,
-            "trend": "steady"
-          },
-          "rss_video": null
-        },
-        {
           "title": "The Rundown",
           "id": "spotify:show:0VYfS0q26zf0cFc5VuCjwG",
           "artwork": "https://i.scdn.co/image/ab67656300005f1ff93a614425a5c61001c3804d",
@@ -9731,7 +9694,7 @@
             "Business"
           ],
           "publisher": "Public.com",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -9755,7 +9718,7 @@
             "Business"
           ],
           "publisher": "Raj Shamani",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-25",
           "prev_host": null,
           "moved_on": null,
@@ -9769,6 +9732,43 @@
           "episode_count": null,
           "last_published": null,
           "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "The Koerner Office - Business Ideas and Deep Dives with Chris Koerner",
+          "id": "spotify:show:1ciAGBave5Cv9hdvB9SFAh",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f6606966c87d3c3034b14fa51",
+          "categories": [
+            "Business"
+          ],
+          "publisher": "Chris Koerner",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-06-21",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/10796c924/podcast/rss",
+          "owner_name": "Chris Koerner",
+          "owner_email": "chris@cofounders.com",
+          "itunes_author": "Chris Koerner",
+          "website": "http://tkopod.com",
+          "description": "Hey, I'm Chris Koerner - serial entrepreneur, business ideas addict, and your new ADHD business ideas best friend. I've started 75 businesses, with 10 of them being worth 7-8+ figures. I love startup ideas! Want to make money, grow a business, or just start a side hustle? You're in the right spot. T…",
+          "cadence": "~2×/week",
+          "episode_count": 400,
+          "last_published": "2026-06-23",
+          "schedule": {
+            "days": [
+              1,
+              11,
+              0,
+              0,
+              12,
+              0,
+              0
+            ],
+            "label": "~2×/week · Fri & Tue",
+            "eps_year": 104,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -18887,7 +18887,7 @@
             "Business"
           ],
           "publisher": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -19350,7 +19350,7 @@
         {
           "title": "IHIP News",
           "id": "spotify:show:4gnbg5moE7d882Ag5Yhiz2",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fa50bf7eb7fb308da6474b693",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f0eed7658da03dc11df805428",
           "categories": [
             "News"
           ],
@@ -20064,7 +20064,7 @@
         {
           "title": "Race Chaser with Alaska & Willam",
           "id": "spotify:show:2pJvYcYBD6A4MPkWagUtb7",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f880a1b7dc8ee7edb52d71c2f",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f098a74b1e2f0d51877553aa7",
           "categories": [
             "TV & Film"
           ],
@@ -20188,7 +20188,7 @@
             "Business"
           ],
           "publisher": "Nick & Jack Studios",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null,
@@ -22437,7 +22437,7 @@
         {
           "title": "The Gaming Archive",
           "id": "spotify:show:033prSvZxAIslIUXVNVq2K",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fe3cecf082fa0a4ac4368ca58",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1feeedecc0edc3cb55a944015a",
           "categories": [
             "Leisure"
           ],
@@ -22792,7 +22792,7 @@
             "Business"
           ],
           "publisher": "leah ྀིྀིྀིྀིྀི (dont rate the pod)",
-          "chart_move": "UNCHANGED",
+          "chart_move": "UP",
           "host_since": "2026-09-13",
           "prev_host": null,
           "moved_on": null,
@@ -26083,7 +26083,7 @@
         {
           "title": "The BEMA Podcast",
           "id": "spotify:show:0g3Io9OkiFPEyvEPwXqaiq",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f7921751a3cc76549a4164283",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f2eaf25fcb2f58502c73dfbc2",
           "categories": [
             "Religion & Spirituality"
           ],
@@ -27655,7 +27655,7 @@
                 "Business"
               ],
               "publisher": "Josh Brown",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -27692,7 +27692,7 @@
                 "Business"
               ],
               "publisher": "Hubspot",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -27803,7 +27803,7 @@
                 "Business"
               ],
               "publisher": "PHD Ventures",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -27877,7 +27877,7 @@
                 "Business"
               ],
               "publisher": "Ramsey Network",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -27914,7 +27914,7 @@
                 "Business"
               ],
               "publisher": "Andrew Giancola ",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -28036,7 +28036,7 @@
                 "Business"
               ],
               "publisher": "Emma Grede | Audacy",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-07-05",
               "prev_host": null,
               "moved_on": null,
@@ -28097,7 +28097,7 @@
                 "Business"
               ],
               "publisher": "BiggerPockets",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -28134,7 +28134,7 @@
                 "Business"
               ],
               "publisher": "The Compound",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -28233,43 +28233,6 @@
               "rss_video": null
             },
             {
-              "title": "SPOTIFY BUT SAD SONGS",
-              "id": "spotify:show:4SINLxjQcCxG3dMP4038nM",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1ffa2532f73db50b0365a7b647",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "LWJGL",
-              "chart_move": "NEW",
-              "host_since": "2026-09-29",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": "https://anchor.fm/s/f34291d8/podcast/rss",
-              "owner_name": "Dave High",
-              "owner_email": "davehigh@ntlworld.com",
-              "itunes_author": "Dave High",
-              "website": "https://podcasters.spotify.com/pod/show/dave-high4",
-              "description": "We are Dave and Jake, two 60 year old music fans, and we take on a different theme per episode and pick five relevant songs each. We cover music from the 60's to now, and more or less any genre you can think of. From Punk to Pop, Reggae to Northern Soul, Drum N Bass to Ambient, if it's out there, we…",
-              "cadence": "Biweekly",
-              "episode_count": null,
-              "last_published": "2026-09-21",
-              "schedule": {
-                "days": [
-                  10,
-                  1,
-                  1,
-                  5,
-                  6,
-                  0,
-                  1
-                ],
-                "label": "Biweekly",
-                "eps_year": 33,
-                "trend": "steady"
-              },
-              "rss_video": null
-            },
-            {
               "title": "The Rundown",
               "id": "spotify:show:0VYfS0q26zf0cFc5VuCjwG",
               "artwork": "https://i.scdn.co/image/ab67656300005f1ff93a614425a5c61001c3804d",
@@ -28277,7 +28240,7 @@
                 "Business"
               ],
               "publisher": "Public.com",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -28301,7 +28264,7 @@
                 "Business"
               ],
               "publisher": "Raj Shamani",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-25",
               "prev_host": null,
               "moved_on": null,
@@ -28315,6 +28278,43 @@
               "episode_count": null,
               "last_published": null,
               "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "The Koerner Office - Business Ideas and Deep Dives with Chris Koerner",
+              "id": "spotify:show:1ciAGBave5Cv9hdvB9SFAh",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f6606966c87d3c3034b14fa51",
+              "categories": [
+                "Business"
+              ],
+              "publisher": "Chris Koerner",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-06-21",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/10796c924/podcast/rss",
+              "owner_name": "Chris Koerner",
+              "owner_email": "chris@cofounders.com",
+              "itunes_author": "Chris Koerner",
+              "website": "http://tkopod.com",
+              "description": "Hey, I'm Chris Koerner - serial entrepreneur, business ideas addict, and your new ADHD business ideas best friend. I've started 75 businesses, with 10 of them being worth 7-8+ figures. I love startup ideas! Want to make money, grow a business, or just start a side hustle? You're in the right spot. T…",
+              "cadence": "~2×/week",
+              "episode_count": 400,
+              "last_published": "2026-06-23",
+              "schedule": {
+                "days": [
+                  1,
+                  11,
+                  0,
+                  0,
+                  12,
+                  0,
+                  0
+                ],
+                "label": "~2×/week · Fri & Tue",
+                "eps_year": 104,
+                "trend": "steady"
+              },
               "rss_video": null
             }
           ],
@@ -28727,7 +28727,7 @@
                 "Business"
               ],
               "publisher": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -28772,7 +28772,7 @@
                 "Business"
               ],
               "publisher": "Nick & Jack Studios",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
               "moved_on": null,
@@ -28952,7 +28952,7 @@
                 "Business"
               ],
               "publisher": "leah ྀིྀིྀིྀིྀི (dont rate the pod)",
-              "chart_move": "UNCHANGED",
+              "chart_move": "UP",
               "host_since": "2026-09-13",
               "prev_host": null,
               "moved_on": null,
@@ -32655,7 +32655,7 @@
             {
               "title": "Scary Horror Stories by Dr. NoSleep",
               "id": "spotify:show:2Sqi0dJoIudYWq430DXRH5",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1faeecc58bdd7a24ecdc52baf5",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fd95ad93d2b839e97afaf08c0",
               "categories": [
                 "Fiction"
               ],
@@ -38995,7 +38995,7 @@
             {
               "title": "The Gaming Archive",
               "id": "spotify:show:033prSvZxAIslIUXVNVq2K",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fe3cecf082fa0a4ac4368ca58",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1feeedecc0edc3cb55a944015a",
               "categories": [
                 "Leisure"
               ],
@@ -42746,7 +42746,7 @@
             {
               "title": "IHIP News",
               "id": "spotify:show:4gnbg5moE7d882Ag5Yhiz2",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fa50bf7eb7fb308da6474b693",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f0eed7658da03dc11df805428",
               "categories": [
                 "News"
               ],
@@ -44204,7 +44204,7 @@
             {
               "title": "The BEMA Podcast",
               "id": "spotify:show:0g3Io9OkiFPEyvEPwXqaiq",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f7921751a3cc76549a4164283",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f2eaf25fcb2f58502c73dfbc2",
               "categories": [
                 "Religion & Spirituality"
               ],
@@ -54963,7 +54963,7 @@
             {
               "title": "Race Chaser with Alaska & Willam",
               "id": "spotify:show:2pJvYcYBD6A4MPkWagUtb7",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f880a1b7dc8ee7edb52d71c2f",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f098a74b1e2f0d51877553aa7",
               "categories": [
                 "TV & Film"
               ],
