@@ -1,8 +1,8 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-09-30",
+  "last_scanned": "2026-10-01",
   "total_unique_shows": 800,
-  "resolved_rate": 97.6,
+  "resolved_rate": 97.8,
   "platforms": [
     {
       "name": "Megaphone",
@@ -4484,7 +4484,7 @@
         {
           "title": "Bandsplain",
           "id": "spotify:show:3uKSgODaDrtWOulcJp57h7",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fded0ed477b9533cfa056be4a",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fc3d4f3cb1945239c8acaf9a4",
           "categories": [
             "Music"
           ],
@@ -5418,7 +5418,7 @@
           "rss_video": null
         },
         {
-          "title": "Reuters World News",
+          "title": "Reuters World News ",
           "id": "spotify:show:1alpjXkCUjn3Y9fR5xl8fZ",
           "artwork": "https://i.scdn.co/image/ab67656300005f1f9b223b9db7838b52f792a9c1",
           "categories": [
@@ -7408,7 +7408,7 @@
         {
           "title": "The McShay Show",
           "id": "spotify:show:6b22qPe8Q4uV8YB9QbKuEr",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fd0d2f395dac8b96945b7725a",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f149adb6656ed604172852b88",
           "categories": [
             "Sports"
           ],
@@ -8845,7 +8845,7 @@
         {
           "title": "The Big Picture",
           "id": "spotify:show:6mTel3azvnK8isLs4VujvF",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f933c4c392e93731df021a163",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f1bddde9e50bcb755e4a56c18",
           "categories": [
             "TV & Film"
           ],
@@ -9550,8 +9550,8 @@
     },
     {
       "name": "Spotify/Anchor",
-      "count": 119,
-      "share": 14.9,
+      "count": 120,
+      "share": 15.0,
       "shows": [
         {
           "title": "PBD Podcast",
@@ -9660,6 +9660,43 @@
           "episode_count": null,
           "last_published": null,
           "schedule": null,
+          "rss_video": null
+        },
+        {
+          "title": "The Koerner Office - Business Ideas and Deep Dives with Chris Koerner",
+          "id": "spotify:show:1ciAGBave5Cv9hdvB9SFAh",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f6606966c87d3c3034b14fa51",
+          "categories": [
+            "Business"
+          ],
+          "publisher": "Chris Koerner",
+          "chart_move": "DOWN",
+          "host_since": "2026-06-21",
+          "prev_host": null,
+          "moved_on": null,
+          "feed_url": "https://anchor.fm/s/10796c924/podcast/rss",
+          "owner_name": "Chris Koerner",
+          "owner_email": "chris@cofounders.com",
+          "itunes_author": "Chris Koerner",
+          "website": "http://tkopod.com",
+          "description": "Hey, I'm Chris Koerner - serial entrepreneur, business ideas addict, and your new ADHD business ideas best friend. I've started 75 businesses, with 10 of them being worth 7-8+ figures. I love startup ideas! Want to make money, grow a business, or just start a side hustle? You're in the right spot. T…",
+          "cadence": "~2×/week",
+          "episode_count": 400,
+          "last_published": "2026-06-23",
+          "schedule": {
+            "days": [
+              1,
+              11,
+              0,
+              0,
+              12,
+              0,
+              0
+            ],
+            "label": "~2×/week · Fri & Tue",
+            "eps_year": 104,
+            "trend": "steady"
+          },
           "rss_video": null
         },
         {
@@ -19731,7 +19768,7 @@
         {
           "title": "I've Had It",
           "id": "spotify:show:5HYmraLuzUrzy7yX5mzMLB",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fd373ff9dcb7efd633a1c2ef5",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f363704067fe5c6c54ce63641",
           "categories": [
             "Society & Culture"
           ],
@@ -21961,11 +21998,11 @@
         {
           "title": "Serialously with Annie Elise",
           "id": "spotify:show:6HdheEH8WeMTHoe5da34qU",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f40c2794693e25157184dad47",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1ffb095b35d6a05d62540e52e3",
           "categories": [
             "True Crime"
           ],
-          "publisher": "Annie Elise & Audioboom Studios",
+          "publisher": "Annie Elise",
           "chart_move": "UNCHANGED",
           "host_since": "2026-06-18",
           "prev_host": null,
@@ -22072,7 +22109,7 @@
         {
           "title": "10 to Life",
           "id": "spotify:show:4yLKPOt94HdrzVUoqEpZVa",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f9246030356463082c3ba0e72",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fd0c8de8bc7ce220b130b91ae",
           "categories": [
             "True Crime"
           ],
@@ -23349,33 +23386,9 @@
     },
     {
       "name": "Unresolved (Spotify-only)",
-      "count": 19,
-      "share": 2.4,
+      "count": 18,
+      "share": 2.2,
       "shows": [
-        {
-          "title": "I JS SHOVED A SUSHI UP MY BADUSSY 🫩🫩🫩🫩🫩🫩✌️✌️✌️✌️✌️✌️",
-          "id": "spotify:show:0347i7NvkLSmKVfMG1qAYK",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1f3584b5052e5a7fabfff1a653",
-          "categories": [
-            "Business"
-          ],
-          "publisher": "leah ྀིྀིྀིྀིྀི (dont rate the pod)",
-          "chart_move": "DOWN",
-          "host_since": "2026-09-13",
-          "prev_host": null,
-          "moved_on": null,
-          "feed_url": null,
-          "owner_name": null,
-          "owner_email": null,
-          "itunes_author": null,
-          "website": null,
-          "description": null,
-          "cadence": null,
-          "episode_count": null,
-          "last_published": null,
-          "schedule": null,
-          "rss_video": null
-        },
         {
           "title": "soundbuttonsspace",
           "id": "spotify:show:6U6zYXkyjlaq3PkCXzNk2U",
@@ -28155,8 +28168,8 @@
         },
         {
           "name": "Spotify/Anchor",
-          "count": 4,
-          "share": 8.0,
+          "count": 5,
+          "share": 10.0,
           "shows": [
             {
               "title": "PBD Podcast",
@@ -28265,6 +28278,43 @@
               "episode_count": null,
               "last_published": null,
               "schedule": null,
+              "rss_video": null
+            },
+            {
+              "title": "The Koerner Office - Business Ideas and Deep Dives with Chris Koerner",
+              "id": "spotify:show:1ciAGBave5Cv9hdvB9SFAh",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f6606966c87d3c3034b14fa51",
+              "categories": [
+                "Business"
+              ],
+              "publisher": "Chris Koerner",
+              "chart_move": "DOWN",
+              "host_since": "2026-06-21",
+              "prev_host": null,
+              "moved_on": null,
+              "feed_url": "https://anchor.fm/s/10796c924/podcast/rss",
+              "owner_name": "Chris Koerner",
+              "owner_email": "chris@cofounders.com",
+              "itunes_author": "Chris Koerner",
+              "website": "http://tkopod.com",
+              "description": "Hey, I'm Chris Koerner - serial entrepreneur, business ideas addict, and your new ADHD business ideas best friend. I've started 75 businesses, with 10 of them being worth 7-8+ figures. I love startup ideas! Want to make money, grow a business, or just start a side hustle? You're in the right spot. T…",
+              "cadence": "~2×/week",
+              "episode_count": 400,
+              "last_published": "2026-06-23",
+              "schedule": {
+                "days": [
+                  1,
+                  11,
+                  0,
+                  0,
+                  12,
+                  0,
+                  0
+                ],
+                "label": "~2×/week · Fri & Tue",
+                "eps_year": 104,
+                "trend": "steady"
+              },
               "rss_video": null
             }
           ],
@@ -28912,38 +28962,6 @@
             }
           ],
           "rank": 10
-        },
-        {
-          "name": "Unresolved (Spotify-only)",
-          "count": 1,
-          "share": 2.0,
-          "shows": [
-            {
-              "title": "I JS SHOVED A SUSHI UP MY BADUSSY 🫩🫩🫩🫩🫩🫩✌️✌️✌️✌️✌️✌️",
-              "id": "spotify:show:0347i7NvkLSmKVfMG1qAYK",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f3584b5052e5a7fabfff1a653",
-              "categories": [
-                "Business"
-              ],
-              "publisher": "leah ྀིྀིྀིྀིྀི (dont rate the pod)",
-              "chart_move": "DOWN",
-              "host_since": "2026-09-13",
-              "prev_host": null,
-              "moved_on": null,
-              "feed_url": null,
-              "owner_name": null,
-              "owner_email": null,
-              "itunes_author": null,
-              "website": null,
-              "description": null,
-              "cadence": null,
-              "episode_count": null,
-              "last_published": null,
-              "schedule": null,
-              "rss_video": null
-            }
-          ],
-          "rank": 11
         }
       ]
     },
@@ -39564,7 +39582,7 @@
             {
               "title": "Bandsplain",
               "id": "spotify:show:3uKSgODaDrtWOulcJp57h7",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fded0ed477b9533cfa056be4a",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fc3d4f3cb1945239c8acaf9a4",
               "categories": [
                 "Music"
               ],
@@ -41843,7 +41861,7 @@
               "rss_video": null
             },
             {
-              "title": "Reuters World News",
+              "title": "Reuters World News ",
               "id": "spotify:show:1alpjXkCUjn3Y9fR5xl8fZ",
               "artwork": "https://i.scdn.co/image/ab67656300005f1f9b223b9db7838b52f792a9c1",
               "categories": [
@@ -47387,7 +47405,7 @@
             {
               "title": "I've Had It",
               "id": "spotify:show:5HYmraLuzUrzy7yX5mzMLB",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fd373ff9dcb7efd633a1c2ef5",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f363704067fe5c6c54ce63641",
               "categories": [
                 "Society & Culture"
               ],
@@ -48571,7 +48589,7 @@
             {
               "title": "The McShay Show",
               "id": "spotify:show:6b22qPe8Q4uV8YB9QbKuEr",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fd0d2f395dac8b96945b7725a",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f149adb6656ed604172852b88",
               "categories": [
                 "Sports"
               ],
@@ -52985,11 +53003,11 @@
             {
               "title": "Serialously with Annie Elise",
               "id": "spotify:show:6HdheEH8WeMTHoe5da34qU",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f40c2794693e25157184dad47",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1ffb095b35d6a05d62540e52e3",
               "categories": [
                 "True Crime"
               ],
-              "publisher": "Annie Elise & Audioboom Studios",
+              "publisher": "Annie Elise",
               "chart_move": "UNCHANGED",
               "host_since": "2026-06-18",
               "prev_host": null,
@@ -53096,7 +53114,7 @@
             {
               "title": "10 to Life",
               "id": "spotify:show:4yLKPOt94HdrzVUoqEpZVa",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f9246030356463082c3ba0e72",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fd0c8de8bc7ce220b130b91ae",
               "categories": [
                 "True Crime"
               ],
@@ -53818,7 +53836,7 @@
             {
               "title": "The Big Picture",
               "id": "spotify:show:6mTel3azvnK8isLs4VujvF",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1f933c4c392e93731df021a163",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f1bddde9e50bcb755e4a56c18",
               "categories": [
                 "TV & Film"
               ],
