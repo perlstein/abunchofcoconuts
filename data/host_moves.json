@@ -1,7 +1,34 @@
 {
   "generated": "2026-10-01",
-  "total_tracked": 37029,
+  "total_tracked": 37245,
   "moves": [
+    {
+      "title": "Crash Dummies Podcast with Pat and Mike",
+      "feed_url": "https://feeds.megaphone.fm/TMGP2270700721",
+      "from": "Art19",
+      "to": "Megaphone",
+      "date": "2026-10-01",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/0f/6f/bf0f6f2d-8ddc-9c2a-74be-86e497419402/mza_18028533688196656084.jpeg/170x170bb.png"
+    },
+    {
+      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
+      "feed_url": "https://feeds.podcastmirror.com/rhap",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-01",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+    },
+    {
+      "title": "RHAP: We Know Survivor",
+      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-01",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
     {
       "title": "Serialously with Annie Elise",
       "feed_url": "https://feeds.simplecast.com/M8YChsRP",
@@ -28,6 +55,15 @@
       "date": "2026-10-01",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/42/dd/8b42dd16-38ef-a00a-9c49-0896a5dfc286/mza_14408812370411098795.jpeg/170x170bb.png"
+    },
+    {
+      "title": "The Every Podcast",
+      "feed_url": "https://rss2.flightcast.com/vh1lt5f2oeh4a5hn5jglgpzg.xml",
+      "from": "Transistor",
+      "to": "Flightcast",
+      "date": "2026-10-01",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4c/d0/f9/4cd0f9b7-6070-7ebe-0047-1c5bbbd77890/mza_15228488935838032210.jpg/170x170bb.png"
     },
     {
       "title": "The Daily Stoic",
