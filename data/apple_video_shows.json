@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01",
+  "generated": "2026-10-02",
   "shows": [
     {
       "itunes_id": "1358187061",
@@ -18,7 +18,7 @@
       "feed_url": "https://feeds.megaphone.fm/RM6151564048",
       "host": "Megaphone",
       "episode_count": 2000,
-      "last_published": "2026-09-30",
+      "last_published": "2026-10-01",
       "on_chart": true
     },
     {
@@ -28,7 +28,7 @@
       "feed_url": "https://www.omnycontent.com/d/playlist/006cbbeb-1b7a-4729-b380-b3df0127e8db/8e6865a3-daf5-49de-ab9f-b3df013312cd/bc6b5015-6def-4f8d-aee5-b3df013312d5/podcast.rss",
       "host": "Omny / Triton",
       "episode_count": 2000,
-      "last_published": "2026-09-30",
+      "last_published": "2026-10-01",
       "on_chart": true
     },
     {
@@ -48,7 +48,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/8af0c347-5e6e-48e2-8fae-3f4e765c84ab",
       "host": "Acast",
       "episode_count": 2000,
-      "last_published": "2026-09-29",
+      "last_published": "2026-10-01",
       "on_chart": false
     },
     {
@@ -74,12 +74,12 @@
     {
       "itunes_id": "1569103657",
       "title": "Sarah Westall - Business Game Changers",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/b0/40/76b040b7-7816-1014-9ad5-8f42c57950ff/mza_1840902391107729251.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/business-game-changers",
       "host": "Art19",
       "episode_count": 1491,
       "last_published": "2026-09-29",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1581058922",
@@ -97,7 +97,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/db/b9/36dbb9f6-8457-6909-f52b-f28a10db8d98/mza_7912119060353777497.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6818cd43eb146d8e35d312c7",
       "host": "Acast",
-      "episode_count": 1340,
+      "episode_count": 1341,
       "last_published": "2026-09-29",
       "on_chart": false
     },
@@ -147,8 +147,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/bc/14/34bc1439-eaad-6e89-ebb4-02efde08cb10/mza_6594351863031402438.jpg/170x170bb.png",
       "feed_url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
       "host": "Flightcast",
-      "episode_count": 1153,
-      "last_published": "2026-10-01",
+      "episode_count": 1152,
+      "last_published": "2026-09-29",
       "on_chart": true
     },
     {
@@ -197,7 +197,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/27/62/ad2762c4-858d-c42b-0b81-cee586ab597d/mza_12778609106669149114.jpg/170x170bb.png",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/podcast.rss",
       "host": "Omny / Triton",
-      "episode_count": 947,
+      "episode_count": 946,
       "last_published": "2026-09-30",
       "on_chart": true
     },
@@ -228,7 +228,7 @@
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/the-yak",
       "host": "Barstool Sports",
       "episode_count": 911,
-      "last_published": "2026-09-29",
+      "last_published": "2026-10-01",
       "on_chart": true
     },
     {
@@ -277,9 +277,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/74/d7/a574d77a-d195-db89-ef54-1e646f5865f4/mza_16463278511390909746.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/617c0d208afe370012ddf145",
       "host": "Acast",
-      "episode_count": 703,
-      "last_published": "2026-09-29",
+      "episode_count": 704,
+      "last_published": "2026-10-01",
       "on_chart": false
+    },
+    {
+      "itunes_id": "1772360235",
+      "title": "TBPN",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/170x170bb.png",
+      "feed_url": "https://feeds.transistor.fm/technology-brother",
+      "host": "Transistor",
+      "episode_count": 692,
+      "last_published": "2026-09-30",
+      "on_chart": true
     },
     {
       "itunes_id": "963144241",
@@ -304,12 +314,12 @@
     {
       "itunes_id": "1670705840",
       "title": "P1 with Matt and Tommy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/59/3d/24593df5-3a1d-bb1e-b723-c445089853d5/mza_1203789523881052632.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/59/3d/24593df5-3a1d-bb1e-b723-c445089853d5/mza_1203789523881052632.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/63e24225436c36001119fc66",
       "host": "Acast",
       "episode_count": 652,
       "last_published": "2026-09-30",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1471270483",
@@ -374,12 +384,12 @@
     {
       "itunes_id": "1100417601",
       "title": "Talk Easy with Sam Fragoso",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/5a/0a/555a0ad4-5dbf-9f9d-b205-08e629cc35dd/mza_17473463849753207729.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/5a/0a/555a0ad4-5dbf-9f9d-b205-08e629cc35dd/mza_17473463849753207729.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/talk-easy-with-sam-fragoso",
       "host": "Art19",
       "episode_count": 563,
       "last_published": "2026-09-20",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1507190937",
@@ -447,7 +457,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/82/88/df828894-86b2-309d-3bf5-8a3fd0bf7d8f/mza_1684717036094600523.jpg/170x170bb.png",
       "feed_url": "https://mcsorleys.barstoolsports.com/podcasts/380590e1/feed.xml",
       "host": "Barstool Sports",
-      "episode_count": 442,
+      "episode_count": 443,
       "last_published": "2026-09-29",
       "on_chart": true
     },
@@ -484,12 +494,12 @@
     {
       "itunes_id": "1131628553",
       "title": "Naked Beauty",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e6/54/83/e6548334-104f-f74f-690f-a233ee68107e/mza_16700439427347326231.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/e6/54/83/e6548334-104f-f74f-690f-a233ee68107e/mza_16700439427347326231.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/07c0147b-024d-4d30-b09f-a2834c0a713a",
       "host": "Acast",
       "episode_count": 425,
       "last_published": "2026-09-21",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1484760064",
@@ -507,8 +517,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/ae/52/0eae52bf-5236-e283-7938-28d91e1820e0/mza_3099432660874981459.jpg/170x170bb.png",
       "feed_url": "https://feeds.simplecast.com/Fa0PP4fl",
       "host": "Simplecast",
-      "episode_count": 403,
-      "last_published": "2026-10-01",
+      "episode_count": 402,
+      "last_published": "2026-09-28",
       "on_chart": true
     },
     {
@@ -554,7 +564,7 @@
     {
       "itunes_id": "1536352412",
       "title": "Giggly Squad",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0a/29/b10a293d-31bf-0e82-dd54-50452336f4c1/mza_908601013238146456.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/09/a6/e809a65d-03c3-82ce-383b-5586f49acc5b/mza_10887220202918113929.jpg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/780a3042-864b-40fa-ae09-4557aec621c3",
       "host": "Acast",
       "episode_count": 352,
@@ -767,8 +777,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/15/02/fb/1502fb99-6c37-8145-4724-df43dd8e41d4/mza_11216235737175056417.jpg/600x600bb.jpg",
       "feed_url": "https://rss.buzzsprout.com/2206375.rss",
       "host": "Buzzsprout",
-      "episode_count": 199,
-      "last_published": "2026-09-25",
+      "episode_count": 200,
+      "last_published": "2026-10-01",
       "on_chart": false
     },
     {
@@ -818,7 +828,7 @@
       "feed_url": "https://feeds.npr.org/510379/podcast.xml",
       "host": "Simplecast",
       "episode_count": 160,
-      "last_published": "2026-09-24",
+      "last_published": "2026-10-01",
       "on_chart": true
     },
     {
@@ -894,12 +904,12 @@
     {
       "itunes_id": "1707218732",
       "title": "Open Book with Jenna",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/8e/5d/638e5dbc-9338-d59c-ec0c-2e32eedbbf91/mza_6391172483811077609.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/8e/5d/638e5dbc-9338-d59c-ec0c-2e32eedbbf91/mza_6391172483811077609.jpg/600x600bb.jpg",
       "feed_url": "https://podcastfeeds.nbcnews.com/m1_s_Er3",
-      "host": "Simplecast",
+      "host": "Other/Self-Hosted",
       "episode_count": 118,
       "last_published": "2026-09-24",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1532956108",
@@ -934,12 +944,12 @@
     {
       "itunes_id": "1247526593",
       "title": "SOLVED with Mark Manson",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/c7/48/5ac748d0-797f-aed0-9453-d12c7f2b0682/mza_15051163886207836146.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/c7/48/5ac748d0-797f-aed0-9453-d12c7f2b0682/mza_15051163886207836146.jpg/600x600bb.jpg",
       "feed_url": "https://rss.pdrl.fm/6e7d4d/feeds.megaphone.fm/ISML9402684841",
       "host": "Megaphone",
       "episode_count": 101,
       "last_published": "2026-09-02",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "6803894653",
@@ -952,6 +962,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "1745170415",
+      "title": "Lemme Say This",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/89/0c/cc890c00-c6c3-66a3-9205-a8390c5ac0aa/mza_12077434506205819624.jpeg/600x600bb.jpg",
+      "feed_url": "https://rss.art19.com/lemme-say",
+      "host": "Art19",
+      "episode_count": 99,
+      "last_published": "2026-10-01",
+      "on_chart": false
+    },
+    {
       "itunes_id": "1770253354",
       "title": "The NOËLLE FLOYD Podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/5c/61/5b5c61aa-932c-cc5c-09a3-bc29a1a6abd6/mza_18024354376523662464.png/600x600bb.jpg",
@@ -959,16 +979,6 @@
       "host": "Libsyn",
       "episode_count": 99,
       "last_published": "2026-09-21",
-      "on_chart": false
-    },
-    {
-      "itunes_id": "1745170415",
-      "title": "Lemme Say This",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cc/89/0c/cc890c00-c6c3-66a3-9205-a8390c5ac0aa/mza_12077434506205819624.jpeg/600x600bb.jpg",
-      "feed_url": "https://rss.art19.com/lemme-say",
-      "host": "Art19",
-      "episode_count": 98,
-      "last_published": "2026-10-01",
       "on_chart": false
     },
     {
@@ -998,7 +1008,7 @@
       "feed_url": "https://rss.buzzsprout.com/2401224.rss",
       "host": "Buzzsprout",
       "episode_count": 73,
-      "last_published": "2026-09-21",
+      "last_published": "2026-09-28",
       "on_chart": true
     },
     {
@@ -1434,12 +1444,12 @@
     {
       "itunes_id": "6788060249",
       "title": "What Comes Next with Arun",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/82/d0/7082d068-1ac5-4aa2-b68f-2b0186e40cd9/mza_9414341923464907069.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/82/d0/7082d068-1ac5-4aa2-b68f-2b0186e40cd9/mza_9414341923464907069.jpg/600x600bb.jpg",
       "feed_url": "https://rss.buzzsprout.com/2624218.rss",
       "host": "Buzzsprout",
       "episode_count": 14,
       "last_published": "2026-09-18",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "6801608299",
@@ -1492,6 +1502,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "6786881576",
+      "title": "Dark Matter: The Official Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/09/39/5e0939a4-66f3-0344-5e9c-59195c377f89/mza_5605307784642931290.jpeg/170x170bb.png",
+      "feed_url": "https://rss.art19.com/dark-matter-the-official-podcast",
+      "host": "Art19",
+      "episode_count": 9,
+      "last_published": "2026-09-25",
+      "on_chart": true
+    },
+    {
       "itunes_id": "6796376545",
       "title": "Build or Break",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/30/a0/7c30a04a-3e8e-d121-71e7-bc69d04e43eb/mza_13300318693052042133.jpg/600x600bb.jpg",
@@ -1512,22 +1532,12 @@
       "on_chart": false
     },
     {
-      "itunes_id": "6786881576",
-      "title": "Dark Matter: The Official Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/09/39/5e0939a4-66f3-0344-5e9c-59195c377f89/mza_5605307784642931290.jpeg/170x170bb.png",
-      "feed_url": "https://rss.art19.com/dark-matter-the-official-podcast",
-      "host": "Art19",
-      "episode_count": 8,
-      "last_published": "2026-09-25",
-      "on_chart": true
-    },
-    {
       "itunes_id": "6806330990",
       "title": "Off the Cuff with Carson Kressley",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/56/8a/6a/568a6ad8-cba7-6d8a-5ba4-cb2235f5deba/mza_906007001989495174.png/600x600bb.jpg",
       "feed_url": "https://feeds.libsyn.com/629010/rss",
       "host": "Libsyn",
-      "episode_count": 8,
+      "episode_count": 7,
       "last_published": "2026-09-29",
       "on_chart": false
     },
@@ -1657,6 +1667,16 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/e4/49/dde449d4-5264-cad6-316b-87dd9a41c3ac/mza_2576793527310893825.jpg/170x170bb.png",
       "feed_url": "https://rss.buzzsprout.com/2653741.rss",
       "host": "Buzzsprout",
+      "episode_count": 1,
+      "last_published": "2026-09-29",
+      "on_chart": true
+    },
+    {
+      "itunes_id": "6816250455",
+      "title": "Is She Game?",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/cc/7b/3fcc7bf1-8015-ba12-d1b8-4c47e4eaa4ad/mza_17488934051483997947.jpeg/170x170bb.png",
+      "feed_url": "https://rss.art19.com/is-she-game",
+      "host": "Art19",
       "episode_count": 1,
       "last_published": "2026-09-29",
       "on_chart": true
