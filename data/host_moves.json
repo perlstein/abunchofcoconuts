@@ -1,12 +1,12 @@
 {
   "generated": "2026-10-06",
-  "total_tracked": 37837,
+  "total_tracked": 38080,
   "moves": [
     {
       "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
       "feed_url": "https://feeds.podcastmirror.com/rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
+      "from": "Simplecast",
+      "to": "Megaphone",
       "date": "2026-10-06",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
@@ -28,6 +28,15 @@
       "date": "2026-10-06",
       "source": "chart",
       "artwork": "https://i.scdn.co/image/ab67656300005f1fe9721dc00f5c198619a58bed"
+    },
+    {
+      "title": "Breaking Bread with Tom Papa",
+      "feed_url": "https://rss.art19.com/breaking-bread-tom-papa",
+      "from": "Megaphone",
+      "to": "Art19",
+      "date": "2026-10-06",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/26/39/df263906-269d-09e3-3164-dd0dfc669ce9/mza_17810962021863047361.jpeg/170x170bb.png"
     },
     {
       "title": "",
