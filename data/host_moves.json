@@ -1,7 +1,34 @@
 {
-  "generated": "2026-10-05",
-  "total_tracked": 37671,
+  "generated": "2026-10-06",
+  "total_tracked": 37837,
   "moves": [
+    {
+      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
+      "feed_url": "https://feeds.podcastmirror.com/rhap",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-06",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+    },
+    {
+      "title": "RHAP: We Know Survivor",
+      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-06",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
+    {
+      "title": "Brooke and Connor Make A Podcast",
+      "feed_url": "https://feeds.megaphone.fm/TMGP4719429402",
+      "from": "Art19",
+      "to": "Megaphone",
+      "date": "2026-10-06",
+      "source": "chart",
+      "artwork": "https://i.scdn.co/image/ab67656300005f1fe9721dc00f5c198619a58bed"
+    },
     {
       "title": "",
       "feed_url": "https://relevantmagazine.com/feed/podcast/fun-therapy",
@@ -10,24 +37,6 @@
       "date": "2026-10-05",
       "source": "subgenre",
       "artwork": ""
-    },
-    {
-      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
-      "feed_url": "https://feeds.podcastmirror.com/rhap",
-      "from": "Simplecast",
-      "to": "Megaphone",
-      "date": "2026-10-03",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
-    },
-    {
-      "title": "RHAP: We Know Survivor",
-      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
-      "from": "Simplecast",
-      "to": "Megaphone",
-      "date": "2026-10-03",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
     },
     {
       "title": "RHAP: We Know Big Brother",
@@ -732,7 +741,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/50/38/38/503838b1-4171-967a-207f-c82e0e82e12e/mza_14603526833864648319.jpeg/170x170bb.png"
     },
     {
-      "title": "Brooke and Connor Make A Podcast",
+      "title": "Brooke and Connor Make A Podcast - Members only",
       "feed_url": "https://rss.art19.com/brooke-and-connor-make-a-podcast",
       "from": "Megaphone",
       "to": "Art19",
