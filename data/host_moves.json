@@ -1,7 +1,16 @@
 {
   "generated": "2026-10-07",
-  "total_tracked": 38086,
+  "total_tracked": 38278,
   "moves": [
+    {
+      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
+      "feed_url": "https://feeds.podcastmirror.com/rhap",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-07",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+    },
     {
       "title": "Blank Check with Griffin & David",
       "feed_url": "https://feeds.acast.com/public/shows/6ac4309aaef0446505856133",
@@ -10,15 +19,6 @@
       "date": "2026-10-07",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/dc/a2/9edca279-2375-e939-1f16-7ef6cce8a2c1/mza_8895145708975523992.jpeg/170x170bb.png"
-    },
-    {
-      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
-      "feed_url": "https://feeds.podcastmirror.com/rhap",
-      "from": "Simplecast",
-      "to": "Megaphone",
-      "date": "2026-10-06",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
     },
     {
       "title": "RHAP: We Know Survivor",
