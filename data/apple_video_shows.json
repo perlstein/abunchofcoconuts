@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07",
+  "generated": "2026-10-08",
   "shows": [
     {
       "itunes_id": "1358187061",
@@ -28,7 +28,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/6abacdd76ffb28f8d6775e00",
       "host": "Acast",
       "episode_count": 2000,
-      "last_published": "2026-10-07",
+      "last_published": "2026-10-05",
       "on_chart": true
     },
     {
@@ -147,8 +147,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/f7/dc/e8f7dc6d-ba02-d839-8cf3-119f07786f76/mza_1421743491560310916.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/66b409fbec20c36e8e2e4115",
       "host": "Acast",
-      "episode_count": 1171,
-      "last_published": "2026-10-06",
+      "episode_count": 1172,
+      "last_published": "2026-10-07",
       "on_chart": true
     },
     {
@@ -167,7 +167,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/ab/5d/80ab5d28-8082-7d61-6de1-a6e1c4b9c840/mza_734485199881216612.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6818a1a4eb737caf8ca41879",
       "host": "Acast",
-      "episode_count": 1131,
+      "episode_count": 1132,
       "last_published": "2026-10-05",
       "on_chart": false
     },
@@ -177,19 +177,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/d6/e4/aad6e450-1ad5-4730-507d-5404244714ec/mza_4221339417551533538.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/zach-sang-show",
       "host": "Art19",
-      "episode_count": 1089,
-      "last_published": "2026-10-02",
+      "episode_count": 1090,
+      "last_published": "2026-10-07",
       "on_chart": true
     },
     {
       "itunes_id": "1292381204",
       "title": "TFTC: A Bitcoin Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/84/2a/29842aec-ab2f-f4ea-720c-0a182b896001/mza_16883325139704201560.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/84/2a/29842aec-ab2f-f4ea-720c-0a182b896001/mza_16883325139704201560.jpg/170x170bb.png",
       "feed_url": "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9",
       "host": "Fountain",
       "episode_count": 1055,
       "last_published": "2026-10-05",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1093028505",
@@ -228,7 +228,7 @@
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/the-yak",
       "host": "Barstool Sports",
       "episode_count": 911,
-      "last_published": "2026-10-05",
+      "last_published": "2026-10-07",
       "on_chart": true
     },
     {
@@ -238,7 +238,7 @@
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/chicks-in-the-office",
       "host": "Barstool Sports",
       "episode_count": 910,
-      "last_published": "2026-10-05",
+      "last_published": "2026-10-07",
       "on_chart": true
     },
     {
@@ -412,23 +412,13 @@
       "on_chart": true
     },
     {
-      "itunes_id": "1341478446",
-      "title": "The Home Service Expert Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/61/3d/4a613d98-7530-ac40-a8df-79f0c08bd64a/mza_17092466455454967949.png/170x170bb.png",
-      "feed_url": "https://rss.libsyn.com/shows/105472/destinations/567121.xml",
-      "host": "Libsyn",
-      "episode_count": 513,
-      "last_published": "2026-10-01",
-      "on_chart": true
-    },
-    {
       "itunes_id": "178083008",
       "title": "The Audible",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/65/44/01/6544011f-2c34-4081-4f37-e256cc3e3bc8/mza_4879895822646985560.jpg/600x600bb.jpg",
       "feed_url": "https://theaudible.libsyn.com/rss",
       "host": "Libsyn",
       "episode_count": 498,
-      "last_published": "2026-10-06",
+      "last_published": "2026-10-07",
       "on_chart": false
     },
     {
@@ -634,12 +624,12 @@
     {
       "itunes_id": "1537602643",
       "title": "Trauma Rewired",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/31/b6/f831b652-4db1-df81-03ec-e5d9bd022122/mza_2896041721466823079.png/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f8/31/b6/f831b652-4db1-df81-03ec-e5d9bd022122/mza_2896041721466823079.png/600x600bb.jpg",
       "feed_url": "https://rss.libsyn.com/shows/304250/destinations/2428643.xml",
       "host": "Libsyn",
       "episode_count": 304,
       "last_published": "2026-10-04",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1723943281",
@@ -697,8 +687,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/50/2a/5e/502a5e3a-1b77-676e-6422-60f66bf1d68f/mza_12854352421056200767.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/63e7cb3476a4a4001004ca4e",
       "host": "Acast",
-      "episode_count": 279,
-      "last_published": "2026-10-02",
+      "episode_count": 280,
+      "last_published": "2026-10-05",
       "on_chart": true
     },
     {
@@ -784,12 +774,12 @@
     {
       "itunes_id": "1639430316",
       "title": "The Great Birth Rebellion",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/82/ab/d082abd9-de84-dfbb-459e-a37dd204a30f/mza_4737325525394341969.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/82/ab/d082abd9-de84-dfbb-459e-a37dd204a30f/mza_4737325525394341969.jpeg/600x600bb.jpg",
       "feed_url": "https://rss2.flightcast.com/jcult9wy1ey81bgbiczdjy68.xml",
       "host": "Flightcast",
       "episode_count": 216,
       "last_published": "2026-09-27",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1482455669",
@@ -877,7 +867,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b5/b2/e7/b5b2e799-12f7-5f25-ce61-06b4eab311e1/mza_10558982396729170279.jpg/600x600bb.jpg",
       "feed_url": "https://rss.buzzsprout.com/2309293.rss",
       "host": "Buzzsprout",
-      "episode_count": 156,
+      "episode_count": 157,
       "last_published": "2026-09-25",
       "on_chart": false
     },
@@ -957,8 +947,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/ce/36/8cce3648-2e76-735c-f6d8-8e72febc8ed7/mza_13220543383965859061.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/hga-imo",
       "host": "Art19",
-      "episode_count": 116,
-      "last_published": "2026-10-07",
+      "episode_count": 115,
+      "last_published": "2026-09-30",
       "on_chart": true
     },
     {
@@ -1162,6 +1152,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1785985876",
+      "title": "Khloé in Wonder Land",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bd/f2/ce/bdf2ce71-1b21-5ed8-4c5b-ca266fb50f1b/mza_5413949935902486223.jpeg/170x170bb.png",
+      "feed_url": "https://rss.art19.com/khloe-in-wonder-land",
+      "host": "Art19",
+      "episode_count": 56,
+      "last_published": "2026-09-30",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1558889546",
       "title": "Smart Talks with IBM",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/41/9e/b4419e17-b3d7-a578-7bf6-d1118d27a19c/mza_6209722495607333664.jpg/600x600bb.jpg",
@@ -1170,16 +1170,6 @@
       "episode_count": 56,
       "last_published": "2026-07-28",
       "on_chart": false
-    },
-    {
-      "itunes_id": "1785985876",
-      "title": "Khloé in Wonder Land",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bd/f2/ce/bdf2ce71-1b21-5ed8-4c5b-ca266fb50f1b/mza_5413949935902486223.jpeg/170x170bb.png",
-      "feed_url": "https://rss.art19.com/khloe-in-wonder-land",
-      "host": "Art19",
-      "episode_count": 55,
-      "last_published": "2026-09-30",
-      "on_chart": true
     },
     {
       "itunes_id": "1808734718",
@@ -1192,6 +1182,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1895935150",
+      "title": "Stateside with Kai and Carter",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/c0/9e/2fc09ef7-cbf2-9480-7b02-a1b1dfcb31d0/mza_16492121554814505083.jpeg/600x600bb.jpg",
+      "feed_url": "https://feeds.acast.com/public/shows/69f1f631d7e73f5a692d1d3c",
+      "host": "Acast",
+      "episode_count": 54,
+      "last_published": "2026-10-07",
+      "on_chart": false
+    },
+    {
       "itunes_id": "1654074926",
       "title": "After the Whistle with Brendan Hunt and Rebecca Lowe",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/2c/bf/652cbf40-9143-042f-5f88-5261384e32c3/mza_17849545999156770446.jpeg/600x600bb.jpg",
@@ -1199,16 +1199,6 @@
       "host": "Art19",
       "episode_count": 53,
       "last_published": "2026-07-20",
-      "on_chart": false
-    },
-    {
-      "itunes_id": "1895935150",
-      "title": "Stateside with Kai and Carter",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/c0/9e/2fc09ef7-cbf2-9480-7b02-a1b1dfcb31d0/mza_16492121554814505083.jpeg/600x600bb.jpg",
-      "feed_url": "https://feeds.acast.com/public/shows/69f1f631d7e73f5a692d1d3c",
-      "host": "Acast",
-      "episode_count": 53,
-      "last_published": "2026-10-06",
       "on_chart": false
     },
     {
@@ -1367,8 +1357,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/84/e7/6984e772-9e27-1d7c-b641-0d1ca2208028/mza_9843280263932663127.jpg/170x170bb.png",
       "feed_url": "https://feeds.simplecast.com/BbxEWNSo",
       "host": "Simplecast",
-      "episode_count": 32,
-      "last_published": "2026-10-07",
+      "episode_count": 31,
+      "last_published": "2026-09-30",
       "on_chart": true
     },
     {
@@ -1382,6 +1372,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1888343624",
+      "title": "Cracking On with Sam Frost and Sarah Roberts",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6c/e9/f8/6ce9f8d0-4c4a-0396-64db-f3f7f6c02efb/mza_12587564008542980407.jpeg/170x170bb.png",
+      "feed_url": "https://feeds.acast.com/public/shows/69c4c11f217ea6ceb706debc",
+      "host": "Acast",
+      "episode_count": 26,
+      "last_published": "2026-09-30",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1829704095",
       "title": "The Initiation",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0b/5b/a6/0b5ba607-a612-9cac-ffd5-6546998c16d8/mza_7406823872921151922.jpg/600x600bb.jpg",
@@ -1390,16 +1390,6 @@
       "episode_count": 26,
       "last_published": "2026-08-27",
       "on_chart": false
-    },
-    {
-      "itunes_id": "1888343624",
-      "title": "Cracking On with Sam Frost and Sarah Roberts",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6c/e9/f8/6ce9f8d0-4c4a-0396-64db-f3f7f6c02efb/mza_12587564008542980407.jpeg/170x170bb.png",
-      "feed_url": "https://feeds.acast.com/public/shows/69c4c11f217ea6ceb706debc",
-      "host": "Acast",
-      "episode_count": 25,
-      "last_published": "2026-09-23",
-      "on_chart": true
     },
     {
       "itunes_id": "1848185680",
@@ -1542,6 +1532,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "6794923271",
+      "title": "No Time But Now with William Shatner and Melanie Shatner Gretsch",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/59/08/ac5908b9-5e25-208e-6348-aa0fb7e75cd9/mza_2601575612630893705.jpg/600x600bb.jpg",
+      "feed_url": "https://rss.buzzsprout.com/2632331.rss",
+      "host": "Buzzsprout",
+      "episode_count": 12,
+      "last_published": "2026-10-07",
+      "on_chart": false
+    },
+    {
       "itunes_id": "6789198595",
       "title": "Better in Person with Stephen Dubner",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/3a/cc/8c3acc05-1d0d-7ff1-121e-bc9fdb9a9705/mza_10068821893430063461.jpg/600x600bb.jpg",
@@ -1549,16 +1549,6 @@
       "host": "Simplecast",
       "episode_count": 11,
       "last_published": "2026-09-08",
-      "on_chart": false
-    },
-    {
-      "itunes_id": "6794923271",
-      "title": "No Time But Now with William Shatner and Melanie Shatner Gretsch",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/59/08/ac5908b9-5e25-208e-6348-aa0fb7e75cd9/mza_2601575612630893705.jpg/600x600bb.jpg",
-      "feed_url": "https://rss.buzzsprout.com/2632331.rss",
-      "host": "Buzzsprout",
-      "episode_count": 11,
-      "last_published": "2026-09-23",
       "on_chart": false
     },
     {
@@ -1627,8 +1617,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/52/12/da52125d-6d6b-5797-518a-3d6db6321f9c/mza_1419032825938347752.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.transistor.fm/stronger-with-andy-wood",
       "host": "Transistor",
-      "episode_count": 6,
-      "last_published": "2026-10-06",
+      "episode_count": 7,
+      "last_published": "2026-10-07",
       "on_chart": false
     },
     {
