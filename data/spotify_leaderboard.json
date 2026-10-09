@@ -1,6 +1,6 @@
 {
   "source": "Spotify Podcast Charts",
-  "last_scanned": "2026-10-08",
+  "last_scanned": "2026-10-09",
   "total_unique_shows": 800,
   "resolved_rate": 98.2,
   "platforms": [
@@ -9480,39 +9480,39 @@
           "rss_video": null
         },
         {
-          "title": "The Goats Pods",
-          "id": "spotify:show:3LGMZjYaFsCvM17GesKq99",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fd776d553fb8d2ff037973fe2",
+          "title": "The Psychology of Money with Morgan Housel",
+          "id": "spotify:show:2l01lGyIh9xodneIV37dD3",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1f54b46478969078f1a3d72e72",
           "categories": [
             "Business"
           ],
-          "publisher": "Drought",
-          "chart_move": "UP",
-          "host_since": "2026-10-08",
+          "publisher": "Morgan Housel",
+          "chart_move": "UNCHANGED",
+          "host_since": "2026-07-15",
           "prev_host": null,
           "moved_on": null,
-          "feed_url": "https://anchor.fm/s/eb024ae0/podcast/rss",
-          "owner_name": "The G.O.A.T. Pod",
-          "owner_email": null,
-          "itunes_author": "The G.O.A.T. Pod",
-          "website": "https://podcasters.spotify.com/pod/show/the-goat-pod",
-          "description": "A podcast that talks about the world's best-selling albums.",
-          "cadence": "Monthly",
+          "feed_url": "https://anchor.fm/s/104219ecc/podcast/rss",
+          "owner_name": "Morgan Housel",
+          "owner_email": "morgan@longtermwords.com",
+          "itunes_author": "Morgan Housel",
+          "website": "http://www.morganhousel.com",
+          "description": "Timeless lessons on wealth, greed, and happiness.",
+          "cadence": "Weekly",
           "episode_count": null,
-          "last_published": "2025-12-06",
+          "last_published": "2026-07-10",
           "schedule": {
             "days": [
+              4,
+              4,
+              3,
+              3,
+              10,
               0,
-              1,
-              0,
-              0,
-              22,
-              1,
               0
             ],
-            "label": "Biweekly · Fridays",
-            "eps_year": 25,
-            "trend": "slowing"
+            "label": "Weekly",
+            "eps_year": 41,
+            "trend": "steady"
           },
           "rss_video": null
         },
@@ -23442,7 +23442,7 @@
             "Business"
           ],
           "publisher": "werty",
-          "chart_move": "DOWN",
+          "chart_move": "UNCHANGED",
           "host_since": "2026-10-07",
           "prev_host": null,
           "moved_on": null,
@@ -26173,7 +26173,7 @@
         {
           "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
           "id": "spotify:show:6mLmgIW9lBPM8bN7Qgv4yg",
-          "artwork": "https://i.scdn.co/image/ab67656300005f1fd6c1255adf096d16dd81e3aa",
+          "artwork": "https://i.scdn.co/image/ab67656300005f1fbc5bb7d25b9fa9665db55f0e",
           "categories": [
             "TV & Film"
           ],
@@ -28363,39 +28363,39 @@
               "rss_video": null
             },
             {
-              "title": "The Goats Pods",
-              "id": "spotify:show:3LGMZjYaFsCvM17GesKq99",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fd776d553fb8d2ff037973fe2",
+              "title": "The Psychology of Money with Morgan Housel",
+              "id": "spotify:show:2l01lGyIh9xodneIV37dD3",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1f54b46478969078f1a3d72e72",
               "categories": [
                 "Business"
               ],
-              "publisher": "Drought",
-              "chart_move": "UP",
-              "host_since": "2026-10-08",
+              "publisher": "Morgan Housel",
+              "chart_move": "UNCHANGED",
+              "host_since": "2026-07-15",
               "prev_host": null,
               "moved_on": null,
-              "feed_url": "https://anchor.fm/s/eb024ae0/podcast/rss",
-              "owner_name": "The G.O.A.T. Pod",
-              "owner_email": null,
-              "itunes_author": "The G.O.A.T. Pod",
-              "website": "https://podcasters.spotify.com/pod/show/the-goat-pod",
-              "description": "A podcast that talks about the world's best-selling albums.",
-              "cadence": "Monthly",
+              "feed_url": "https://anchor.fm/s/104219ecc/podcast/rss",
+              "owner_name": "Morgan Housel",
+              "owner_email": "morgan@longtermwords.com",
+              "itunes_author": "Morgan Housel",
+              "website": "http://www.morganhousel.com",
+              "description": "Timeless lessons on wealth, greed, and happiness.",
+              "cadence": "Weekly",
               "episode_count": null,
-              "last_published": "2025-12-06",
+              "last_published": "2026-07-10",
               "schedule": {
                 "days": [
+                  4,
+                  4,
+                  3,
+                  3,
+                  10,
                   0,
-                  1,
-                  0,
-                  0,
-                  22,
-                  1,
                   0
                 ],
-                "label": "Biweekly · Fridays",
-                "eps_year": 25,
-                "trend": "slowing"
+                "label": "Weekly",
+                "eps_year": 41,
+                "trend": "steady"
               },
               "rss_video": null
             }
@@ -29148,7 +29148,7 @@
                 "Business"
               ],
               "publisher": "werty",
-              "chart_move": "DOWN",
+              "chart_move": "UNCHANGED",
               "host_since": "2026-10-07",
               "prev_host": null,
               "moved_on": null,
@@ -56069,7 +56069,7 @@
             {
               "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
               "id": "spotify:show:6mLmgIW9lBPM8bN7Qgv4yg",
-              "artwork": "https://i.scdn.co/image/ab67656300005f1fd6c1255adf096d16dd81e3aa",
+              "artwork": "https://i.scdn.co/image/ab67656300005f1fbc5bb7d25b9fa9665db55f0e",
               "categories": [
                 "TV & Film"
               ],
