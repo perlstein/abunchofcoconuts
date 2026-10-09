@@ -1,7 +1,25 @@
 {
-  "generated": "2026-10-08",
-  "total_tracked": 38445,
+  "generated": "2026-10-09",
+  "total_tracked": 38451,
   "moves": [
+    {
+      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
+      "feed_url": "https://feeds.podcastmirror.com/rhap",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-09",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+    },
+    {
+      "title": "The Road of Shadows",
+      "feed_url": "https://feeds.acast.com/public/shows/6ab696e4c974afb1545d898e",
+      "from": "Megaphone",
+      "to": "Acast",
+      "date": "2026-10-09",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/4f/18/a14f18d1-6b6d-1a49-83b0-8e188e3e9b82/mza_17606643547617806025.jpg/170x170bb.png"
+    },
     {
       "title": "BiggerPockets Money",
       "feed_url": "https://rss.art19.com/biggerpockets-money",
@@ -28,15 +46,6 @@
       "date": "2026-10-08",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0c/09/83/0c09835d-f7f0-4a12-6d01-e2949935fbce/mza_2999848817764715341.jpg/170x170bb.png"
-    },
-    {
-      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
-      "feed_url": "https://feeds.podcastmirror.com/rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-07",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
     },
     {
       "title": "Blank Check with Griffin & David",
