@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08",
+  "generated": "2026-10-09",
   "shows": [
     {
       "itunes_id": "1358187061",
@@ -104,12 +104,12 @@
     {
       "itunes_id": "1499409058",
       "title": "Bankless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7d/89/b1/7d89b1bf-d4dc-c8aa-894c-d2bc002c42be/mza_5764066019463168929.png/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7d/89/b1/7d89b1bf-d4dc-c8aa-894c-d2bc002c42be/mza_5764066019463168929.png/600x600bb.jpg",
       "feed_url": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
       "host": "Flightcast",
       "episode_count": 1347,
       "last_published": "2026-10-05",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1267958765",
@@ -117,8 +117,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/db/b9/36dbb9f6-8457-6909-f52b-f28a10db8d98/mza_7912119060353777497.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6818cd43eb146d8e35d312c7",
       "host": "Acast",
-      "episode_count": 1343,
-      "last_published": "2026-10-06",
+      "episode_count": 1344,
+      "last_published": "2026-10-08",
       "on_chart": false
     },
     {
@@ -167,8 +167,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/ab/5d/80ab5d28-8082-7d61-6de1-a6e1c4b9c840/mza_734485199881216612.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6818a1a4eb737caf8ca41879",
       "host": "Acast",
-      "episode_count": 1133,
-      "last_published": "2026-10-07",
+      "episode_count": 1134,
+      "last_published": "2026-10-09",
       "on_chart": false
     },
     {
@@ -287,8 +287,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/74/d7/a574d77a-d195-db89-ef54-1e646f5865f4/mza_16463278511390909746.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/617c0d208afe370012ddf145",
       "host": "Acast",
-      "episode_count": 706,
-      "last_published": "2026-10-06",
+      "episode_count": 707,
+      "last_published": "2026-10-08",
       "on_chart": false
     },
     {
@@ -377,7 +377,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/84/cc/fb84cca7-305e-cf11-da89-ba03245c3498/mza_13538265252165739187.jpg/600x600bb.jpg",
       "feed_url": "https://rss2.flightcast.com/luffx5klc3kc1at92ws4yrrm.xml",
       "host": "Flightcast",
-      "episode_count": 575,
+      "episode_count": 576,
       "last_published": "2026-10-01",
       "on_chart": false
     },
@@ -444,12 +444,12 @@
     {
       "itunes_id": "1610645427",
       "title": "Jack Hibbs Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/a9/eb/6aa9eb37-baea-b977-4225-71ec57378bef/mza_3622153439230671741.png/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/a9/eb/6aa9eb37-baea-b977-4225-71ec57378bef/mza_3622153439230671741.png/170x170bb.png",
       "feed_url": "https://rss2.flightcast.com/ex6dbrt1hjgo3wbcmp1ls284.xml",
       "host": "Flightcast",
       "episode_count": 475,
       "last_published": "2026-10-08",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1571779250",
@@ -547,8 +547,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/a3/48/0ea34886-96c0-8299-e16c-d039cfaedc78/mza_5307345217675863813.jpg/170x170bb.png",
       "feed_url": "https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques",
       "host": "Transistor",
-      "episode_count": 380,
-      "last_published": "2026-10-08",
+      "episode_count": 381,
+      "last_published": "2026-10-12",
       "on_chart": true
     },
     {
@@ -832,6 +832,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1277969212",
+      "title": "Barstool Pick Em",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/c5/00/59/c50059f3-052c-0c54-2910-e4f39595e1a9/mza_7788918276554253943.jpg/170x170bb.png",
+      "feed_url": "https://mcsorleys.barstoolsports.com/feed/barstool-pickem",
+      "host": "Barstool Sports",
+      "episode_count": 171,
+      "last_published": "2026-09-30",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1770778356",
       "title": "Unstoppable Success Podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/72/c7/3172c706-eaa8-7ceb-8b4d-405ce261c444/mza_17639464807238650201.jpg/600x600bb.jpg",
@@ -867,8 +877,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b5/b2/e7/b5b2e799-12f7-5f25-ce61-06b4eab311e1/mza_10558982396729170279.jpg/600x600bb.jpg",
       "feed_url": "https://rss.buzzsprout.com/2309293.rss",
       "host": "Buzzsprout",
-      "episode_count": 157,
-      "last_published": "2026-09-25",
+      "episode_count": 158,
+      "last_published": "2026-10-07",
       "on_chart": false
     },
     {
@@ -1172,6 +1182,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "1895935150",
+      "title": "Stateside with Kai and Carter",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/c0/9e/2fc09ef7-cbf2-9480-7b02-a1b1dfcb31d0/mza_16492121554814505083.jpeg/600x600bb.jpg",
+      "feed_url": "https://feeds.acast.com/public/shows/69f1f631d7e73f5a692d1d3c",
+      "host": "Acast",
+      "episode_count": 55,
+      "last_published": "2026-10-07",
+      "on_chart": false
+    },
+    {
       "itunes_id": "1808734718",
       "title": "Two Guys on a Plane",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/13/7f/0a137f52-07d0-d50b-aab2-9204c758041d/mza_9738203039129921166.jpg/170x170bb.png",
@@ -1180,16 +1200,6 @@
       "episode_count": 54,
       "last_published": "2026-10-06",
       "on_chart": true
-    },
-    {
-      "itunes_id": "1895935150",
-      "title": "Stateside with Kai and Carter",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/c0/9e/2fc09ef7-cbf2-9480-7b02-a1b1dfcb31d0/mza_16492121554814505083.jpeg/600x600bb.jpg",
-      "feed_url": "https://feeds.acast.com/public/shows/69f1f631d7e73f5a692d1d3c",
-      "host": "Acast",
-      "episode_count": 54,
-      "last_published": "2026-10-07",
-      "on_chart": false
     },
     {
       "itunes_id": "1654074926",
@@ -1203,7 +1213,7 @@
     },
     {
       "itunes_id": "1755770502",
-      "title": "Put It In My Mouth",
+      "title": "Put It In My Mouth: A Food Podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8a/76/ab/8a76ab6d-120d-75ef-506e-41ad09c3f437/mza_13017717084716060755.jpg/600x600bb.jpg",
       "feed_url": "https://rss.pdrl.fm/064ac1/feeds.libsyn.com/536812/rss/?redirect=false",
       "host": "Libsyn",
@@ -1247,8 +1257,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/aa/5a/2baa5aed-5eab-dc1d-95ad-5620f502b9a2/mza_2934007108515108068.jpg/170x170bb.png",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e1bf9c31-b143-4cab-9326-b435011facc4/207c15f2-8abc-4ee3-af74-b435011fb18c/podcast.rss",
       "host": "Omny / Triton",
-      "episode_count": 47,
-      "last_published": "2026-10-01",
+      "episode_count": 48,
+      "last_published": "2026-10-06",
       "on_chart": true
     },
     {
@@ -1562,6 +1572,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "6786881576",
+      "title": "Dark Matter: The Official Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/09/39/5e0939a4-66f3-0344-5e9c-59195c377f89/mza_5605307784642931290.jpeg/170x170bb.png",
+      "feed_url": "https://rss.art19.com/dark-matter-the-official-podcast",
+      "host": "Art19",
+      "episode_count": 10,
+      "last_published": "2026-10-02",
+      "on_chart": true
+    },
+    {
       "itunes_id": "6796376545",
       "title": "Build or Break",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/30/a0/7c30a04a-3e8e-d121-71e7-bc69d04e43eb/mza_13300318693052042133.jpg/600x600bb.jpg",
@@ -1570,16 +1590,6 @@
       "episode_count": 10,
       "last_published": "2026-09-29",
       "on_chart": false
-    },
-    {
-      "itunes_id": "6786881576",
-      "title": "Dark Matter: The Official Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/09/39/5e0939a4-66f3-0344-5e9c-59195c377f89/mza_5605307784642931290.jpeg/170x170bb.png",
-      "feed_url": "https://rss.art19.com/dark-matter-the-official-podcast",
-      "host": "Art19",
-      "episode_count": 9,
-      "last_published": "2026-09-25",
-      "on_chart": true
     },
     {
       "itunes_id": "6806330990",
@@ -1749,6 +1759,16 @@
       "host": "Acast",
       "episode_count": 1,
       "last_published": "2026-10-06",
+      "on_chart": true
+    },
+    {
+      "itunes_id": "6819412509",
+      "title": "Life Hax",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e7/fc/43/e7fc43d3-7662-a48c-655b-5522111c787a/mza_16641620299845254648.jpeg/170x170bb.png",
+      "feed_url": "https://feeds.acast.com/public/shows/6abd2f64205819f3d7d043fb",
+      "host": "Acast",
+      "episode_count": 1,
+      "last_published": "2026-10-08",
       "on_chart": true
     }
   ]
