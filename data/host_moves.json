@@ -1,12 +1,12 @@
 {
   "generated": "2026-10-09",
-  "total_tracked": 38451,
+  "total_tracked": 38573,
   "moves": [
     {
       "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
       "feed_url": "https://feeds.podcastmirror.com/rhap",
-      "from": "Simplecast",
-      "to": "Megaphone",
+      "from": "Megaphone",
+      "to": "Simplecast",
       "date": "2026-10-09",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
@@ -19,6 +19,15 @@
       "date": "2026-10-09",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/4f/18/a14f18d1-6b6d-1a49-83b0-8e188e3e9b82/mza_17606643547617806025.jpg/170x170bb.png"
+    },
+    {
+      "title": "Family Secrets",
+      "feed_url": "https://feeds.megaphone.fm/LEME7319238199",
+      "from": "Omny / Triton",
+      "to": "Megaphone",
+      "date": "2026-10-09",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/da/7a/45da7a2b-7149-c37f-31ef-2b9fbc315e56/mza_11498701725282533943.jpeg/170x170bb.png"
     },
     {
       "title": "BiggerPockets Money",
