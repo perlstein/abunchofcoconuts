@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-10",
   "shows": [
     {
       "itunes_id": "1358187061",
@@ -68,7 +68,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/c78baeb1-14c1-497c-bbfb-350cecd87107",
       "host": "Acast",
       "episode_count": 1999,
-      "last_published": "2026-10-05",
+      "last_published": "2026-10-08",
       "on_chart": true
     },
     {
@@ -104,12 +104,12 @@
     {
       "itunes_id": "1499409058",
       "title": "Bankless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7d/89/b1/7d89b1bf-d4dc-c8aa-894c-d2bc002c42be/mza_5764066019463168929.png/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7d/89/b1/7d89b1bf-d4dc-c8aa-894c-d2bc002c42be/mza_5764066019463168929.png/170x170bb.png",
       "feed_url": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
       "host": "Flightcast",
       "episode_count": 1348,
       "last_published": "2026-10-09",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1267958765",
@@ -177,7 +177,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/d6/e4/aad6e450-1ad5-4730-507d-5404244714ec/mza_4221339417551533538.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/zach-sang-show",
       "host": "Art19",
-      "episode_count": 1091,
+      "episode_count": 1092,
       "last_published": "2026-10-08",
       "on_chart": true
     },
@@ -197,8 +197,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/3f/e8/743fe8fd-31d0-2204-936f-fc5c06b4054e/mza_1022273159166077539.jpg/170x170bb.png",
       "feed_url": "https://rss.libsyn.com/shows/101095/destinations/533704.xml",
       "host": "Libsyn",
-      "episode_count": 1018,
-      "last_published": "2026-10-05",
+      "episode_count": 1019,
+      "last_published": "2026-10-08",
       "on_chart": true
     },
     {
@@ -207,8 +207,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/27/62/ad2762c4-858d-c42b-0b81-cee586ab597d/mza_12778609106669149114.jpg/170x170bb.png",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/podcast.rss",
       "host": "Omny / Triton",
-      "episode_count": 951,
-      "last_published": "2026-10-08",
+      "episode_count": 953,
+      "last_published": "2026-10-09",
       "on_chart": true
     },
     {
@@ -302,14 +302,24 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1529800263",
+      "title": "The Thyroid (and Hormone) Fixer Podcast: Thyropause, Menopause, Metabolism and How to Fix It",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/f9/ab/66f9ab37-20bf-ce22-9cda-5d0cf53fc123/mza_12992934777200774032.jpeg/170x170bb.png",
+      "feed_url": "https://rss2.flightcast.com/ee1bp3zh9h0d003fe1kvtfgi.xml",
+      "host": "Flightcast",
+      "episode_count": 672,
+      "last_published": "2026-10-09",
+      "on_chart": true
+    },
+    {
       "itunes_id": "963144241",
       "title": "AppleInsider Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/7e/ec/7c7eeced-8fdb-e0b3-31be-d8e0f577314e/mza_10351125006468531805.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/7e/ec/7c7eeced-8fdb-e0b3-31be-d8e0f577314e/mza_10351125006468531805.jpg/170x170bb.png",
       "feed_url": "https://feeds.transistor.fm/appleinsider",
       "host": "Transistor",
       "episode_count": 664,
       "last_published": "2026-10-09",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1670705840",
@@ -334,12 +344,12 @@
     {
       "itunes_id": "1471270483",
       "title": "Gloss Angeles",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/03963f96-9683-5260-8377-d391301de9b7",
       "host": "Acast",
       "episode_count": 606,
       "last_published": "2026-10-09",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1375714621",
@@ -357,8 +367,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/2e/88/252e88df-e96e-a264-7a32-456dce4a36dd/mza_13164992107952038598.jpg/170x170bb.png",
       "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/935c500f-8bb0-436b-ba7f-ae2700391b49/podcast.rss",
       "host": "Omny / Triton",
-      "episode_count": 579,
-      "last_published": "2026-10-07",
+      "episode_count": 580,
+      "last_published": "2026-10-09",
       "on_chart": true
     },
     {
@@ -464,12 +474,12 @@
     {
       "itunes_id": "1469153910",
       "title": "True Crime Conversations",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/9b/28/349b2875-24b8-c068-cf67-3d33d8e72e80/mza_3684647400195993813.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/9b/28/349b2875-24b8-c068-cf67-3d33d8e72e80/mza_3684647400195993813.jpg/170x170bb.png",
       "feed_url": "https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/abaa347e-8ac5-454e-85f9-aa64005c285f/6d9fdc19-147e-4f77-8d3f-aa64005e5923/podcast.rss",
       "host": "Omny / Triton",
       "episode_count": 438,
       "last_published": "2026-10-03",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1373518864",
@@ -547,8 +557,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/a3/48/0ea34886-96c0-8299-e16c-d039cfaedc78/mza_5307345217675863813.jpg/170x170bb.png",
       "feed_url": "https://feeds.transistor.fm/think-fast-talk-smart-communication-techniques",
       "host": "Transistor",
-      "episode_count": 381,
-      "last_published": "2026-10-12",
+      "episode_count": 382,
+      "last_published": "2026-10-15",
       "on_chart": true
     },
     {
@@ -567,8 +577,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1e/ca/c2/1ecac2c7-a567-01ee-8bbe-80145ef185e3/mza_1975528560600666532.jpg/170x170bb.png",
       "feed_url": "https://feeds.transistor.fm/80000-hours-podcast",
       "host": "Transistor",
-      "episode_count": 357,
-      "last_published": "2026-10-02",
+      "episode_count": 358,
+      "last_published": "2026-10-09",
       "on_chart": true
     },
     {
@@ -687,8 +697,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/50/2a/5e/502a5e3a-1b77-676e-6422-60f66bf1d68f/mza_12854352421056200767.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/63e7cb3476a4a4001004ca4e",
       "host": "Acast",
-      "episode_count": 280,
-      "last_published": "2026-10-05",
+      "episode_count": 281,
+      "last_published": "2026-10-09",
       "on_chart": true
     },
     {
@@ -732,6 +742,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "1704206163",
+      "title": "Rap Life Radio with Ebro Darden",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/170x170bb.png",
+      "feed_url": null,
+      "host": "Unknown",
+      "episode_count": 238,
+      "last_published": "2026-10-09",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1387192254",
       "title": "Growth Triggers: Content Marketing & AI",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/4c/ee/cb4cee65-9744-c590-08e7-413c7ee62323/mza_11424694778286883494.jpg/600x600bb.jpg",
@@ -740,16 +760,6 @@
       "episode_count": 238,
       "last_published": "2026-09-11",
       "on_chart": false
-    },
-    {
-      "itunes_id": "1704206163",
-      "title": "Rap Life Radio with Ebro Darden",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/170x170bb.png",
-      "feed_url": null,
-      "host": "Unknown",
-      "episode_count": 237,
-      "last_published": "2026-10-07",
-      "on_chart": true
     },
     {
       "itunes_id": "1569049585",
@@ -787,8 +797,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/e6/8e/ade68ebd-a384-06bc-ce9b-9467d8f3a146/mza_12700451613655739902.jpg/170x170bb.png",
       "feed_url": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg",
       "host": "Fountain",
-      "episode_count": 213,
-      "last_published": "2026-09-30",
+      "episode_count": 214,
+      "last_published": "2026-10-05",
       "on_chart": true
     },
     {
@@ -912,16 +922,6 @@
       "on_chart": true
     },
     {
-      "itunes_id": "1767185986",
-      "title": "Being Jewish with Jonah Platt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/27/0a/2e/270a2ec5-81aa-ee16-68c0-fb380a109230/mza_6147552928324784150.jpeg/170x170bb.png",
-      "feed_url": "https://feeds.cohostpodcasting.com/c2vDgCoR",
-      "host": "CoHost",
-      "episode_count": 131,
-      "last_published": "2026-10-08",
-      "on_chart": true
-    },
-    {
       "itunes_id": "1719789201",
       "title": "The Every Podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4c/d0/f9/4cd0f9b7-6070-7ebe-0047-1c5bbbd77890/mza_15228488935838032210.jpg/170x170bb.png",
@@ -929,6 +929,16 @@
       "host": "Flightcast",
       "episode_count": 131,
       "last_published": "2026-10-07",
+      "on_chart": true
+    },
+    {
+      "itunes_id": "1767185986",
+      "title": "Being Jewish with Jonah Platt",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/27/0a/2e/270a2ec5-81aa-ee16-68c0-fb380a109230/mza_6147552928324784150.jpeg/170x170bb.png",
+      "feed_url": "https://feeds.cohostpodcasting.com/c2vDgCoR",
+      "host": "CoHost",
+      "episode_count": 130,
+      "last_published": "2026-10-08",
       "on_chart": true
     },
     {
@@ -1024,12 +1034,12 @@
     {
       "itunes_id": "1675546694",
       "title": "Your Mama’s Kitchen",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/17/79/b6177931-d0e5-c0de-68d3-880cded9ac18/mza_9100905560111063966.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b6/17/79/b6177931-d0e5-c0de-68d3-880cded9ac18/mza_9100905560111063966.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6a6a4a58a585d3be788d8056",
       "host": "Acast",
       "episode_count": 93,
       "last_published": "2026-10-06",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1820508176",
@@ -1062,6 +1072,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "981373142",
+      "title": "Parenting Out Loud",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/24/08/84240887-884a-b7e2-230d-c0948352b2ae/mza_1770059722469350567.jpg/170x170bb.png",
+      "feed_url": "https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/5c116b8b-958c-413e-aabb-a4990019e0f7/8b30cd92-16a3-4a17-a36c-a4990059c7e5/podcast.rss",
+      "host": "Omny / Triton",
+      "episode_count": 70,
+      "last_published": "2026-10-09",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1769262461",
       "title": "The Deep View: Conversations",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/36/1b/c0/361bc083-cf1f-9b84-0f30-16b682ad1a1c/mza_2783281765218420833.jpg/600x600bb.jpg",
@@ -1072,24 +1092,14 @@
       "on_chart": false
     },
     {
-      "itunes_id": "981373142",
-      "title": "Parenting Out Loud",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/24/08/84240887-884a-b7e2-230d-c0948352b2ae/mza_1770059722469350567.jpg/170x170bb.png",
-      "feed_url": "https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/5c116b8b-958c-413e-aabb-a4990019e0f7/8b30cd92-16a3-4a17-a36c-a4990059c7e5/podcast.rss",
-      "host": "Omny / Triton",
-      "episode_count": 69,
-      "last_published": "2026-09-25",
-      "on_chart": true
-    },
-    {
       "itunes_id": "1776743104",
       "title": "Dreaming Spanish Podcast – Chats in Beginner Spanish",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/76/9a/94/769a9481-53e4-fe34-6e91-5e60b47365cf/mza_3312171994307795219.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/76/9a/94/769a9481-53e4-fe34-6e91-5e60b47365cf/mza_3312171994307795219.jpg/600x600bb.jpg",
       "feed_url": "https://rss.buzzsprout.com/2404122.rss",
       "host": "Buzzsprout",
       "episode_count": 68,
       "last_published": "2026-10-06",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1473854035",
@@ -1144,12 +1154,12 @@
     {
       "itunes_id": "1896920078",
       "title": "House Guest",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/cf/56/29cf563d-8073-9bf6-d887-24711a7002f3/mza_561177718790263016.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/cf/56/29cf563d-8073-9bf6-d887-24711a7002f3/mza_561177718790263016.jpg/170x170bb.png",
       "feed_url": "https://rss2.flightcast.com/uiym43jizwzqijks42lzcfkc.xml",
       "host": "Flightcast",
       "episode_count": 57,
       "last_published": "2026-10-03",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1785985876",
@@ -1324,12 +1334,12 @@
     {
       "itunes_id": "1877266132",
       "title": "The Person Who Believed In Me with David Begnaud",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/60/15/c3601517-0586-cd0c-b08c-4ea95727da44/mza_8768441501299510340.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/60/15/c3601517-0586-cd0c-b08c-4ea95727da44/mza_8768441501299510340.jpg/170x170bb.png",
       "feed_url": "https://rss2.flightcast.com/au8xi1zc2nsj66h2yf2oyrkj.xml",
       "host": "Flightcast",
       "episode_count": 34,
       "last_published": "2026-10-05",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1874167939",
