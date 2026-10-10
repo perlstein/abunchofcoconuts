@@ -1,7 +1,25 @@
 {
-  "generated": "2026-10-09",
-  "total_tracked": 38573,
+  "generated": "2026-10-10",
+  "total_tracked": 38577,
   "moves": [
+    {
+      "title": "We Know The Traitors",
+      "feed_url": "https://robhasawebsite.com/feed/traitors-podcast/?test-1",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-10",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/0d/0d/400d0d05-ac13-a727-dfa8-16ffae717295/mza_15781739411264473526.jpg/170x170bb.png"
+    },
+    {
+      "title": "Do Hard Things Podcast",
+      "feed_url": "https://anchor.fm/s/f9a43cfc/podcast/rss",
+      "from": "Podetize",
+      "to": "Spotify/Anchor",
+      "date": "2026-10-10",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4e/7e/a1/4e7ea1cb-c5ee-606c-78ab-1d5379bdc046/mza_11197473452030477585.jpg/170x170bb.png"
+    },
     {
       "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
       "feed_url": "https://feeds.podcastmirror.com/rhap",
