@@ -1,7 +1,25 @@
 {
   "generated": "2026-10-10",
-  "total_tracked": 38577,
+  "total_tracked": 38703,
   "moves": [
+    {
+      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
+      "feed_url": "https://feeds.podcastmirror.com/rhap",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-10",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+    },
+    {
+      "title": "RHAP: We Know Survivor",
+      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-10",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
     {
       "title": "We Know The Traitors",
       "feed_url": "https://robhasawebsite.com/feed/traitors-podcast/?test-1",
@@ -19,15 +37,6 @@
       "date": "2026-10-10",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4e/7e/a1/4e7ea1cb-c5ee-606c-78ab-1d5379bdc046/mza_11197473452030477585.jpg/170x170bb.png"
-    },
-    {
-      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
-      "feed_url": "https://feeds.podcastmirror.com/rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-09",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
     },
     {
       "title": "The Road of Shadows",
@@ -82,15 +91,6 @@
       "date": "2026-10-07",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9e/dc/a2/9edca279-2375-e939-1f16-7ef6cce8a2c1/mza_8895145708975523992.jpeg/170x170bb.png"
-    },
-    {
-      "title": "RHAP: We Know Survivor",
-      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-06",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
     },
     {
       "title": "Brooke and Connor Make A Podcast",
