@@ -1,7 +1,16 @@
 {
   "generated": "2026-10-13",
-  "total_tracked": 39001,
+  "total_tracked": 39142,
   "moves": [
+    {
+      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
+      "feed_url": "https://feeds.podcastmirror.com/rhap",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-13",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+    },
     {
       "title": "The New Yorker: Poetry",
       "feed_url": "https://feeds.megaphone.fm/CNE2606789144",
@@ -10,15 +19,6 @@
       "date": "2026-10-13",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/35/93/83359358-0585-d7b5-c1a1-a9adddbc22c0/mza_9303139005465881999.jpeg/170x170bb.png"
-    },
-    {
-      "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
-      "feed_url": "https://feeds.podcastmirror.com/rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-12",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
     },
     {
       "title": "RHAP: We Know Survivor",
