@@ -1,15 +1,33 @@
 {
   "generated": "2026-10-16",
-  "total_tracked": 39508,
+  "total_tracked": 39695,
   "moves": [
     {
       "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
       "feed_url": "https://feeds.podcastmirror.com/rhap",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-16",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+    },
+    {
+      "title": "RHAP: We Know Survivor",
+      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
       "from": "Simplecast",
       "to": "Megaphone",
       "date": "2026-10-16",
       "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
+    {
+      "title": "Dinks On Tap: The Happy Hour Pickleball Podcast",
+      "feed_url": "https://feeds.captivate.fm/dinks-on-tap/",
+      "from": "Megaphone",
+      "to": "Captivate",
+      "date": "2026-10-16",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/cb/95/70cb956c-197b-3df6-fcf7-a8eebb5548e5/mza_7709492382292854517.png/170x170bb.png"
     },
     {
       "title": "We Know The Traitors",
@@ -55,15 +73,6 @@
       "date": "2026-10-13",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/35/93/83359358-0585-d7b5-c1a1-a9adddbc22c0/mza_9303139005465881999.jpeg/170x170bb.png"
-    },
-    {
-      "title": "RHAP: We Know Survivor",
-      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-12",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
     },
     {
       "title": "Jet Setting Wealth Advisory",
