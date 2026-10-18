@@ -25504,7 +25504,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-10-18",
           "prev_host": null,
           "moved_on": null
@@ -53229,7 +53229,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": true,
           "host_since": "2026-10-18",
           "prev_host": null,
           "moved_on": null

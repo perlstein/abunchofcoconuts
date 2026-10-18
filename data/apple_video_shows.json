@@ -28,7 +28,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/6abacdd76ffb28f8d6775e00",
       "host": "Acast",
       "episode_count": 2000,
-      "last_published": "2026-10-16",
+      "last_published": "2026-10-17",
       "on_chart": true
     },
     {
@@ -184,12 +184,12 @@
     {
       "itunes_id": "1292381204",
       "title": "TFTC: A Bitcoin Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/84/2a/29842aec-ab2f-f4ea-720c-0a182b896001/mza_16883325139704201560.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/84/2a/29842aec-ab2f-f4ea-720c-0a182b896001/mza_16883325139704201560.jpg/170x170bb.png",
       "feed_url": "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9",
       "host": "Fountain",
       "episode_count": 1059,
       "last_published": "2026-10-17",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1093028505",
@@ -297,8 +297,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/96/9f/6f969f84-e7c6-261f-533c-781127c30340/mza_17205699195933789816.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/4d1eb966-6f07-4562-b9f1-9fd512f9631e",
       "host": "Acast",
-      "episode_count": 726,
-      "last_published": "2026-10-02",
+      "episode_count": 727,
+      "last_published": "2026-10-09",
       "on_chart": false
     },
     {
@@ -377,8 +377,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/47/1e/bc471eba-78fc-ee3d-e9fd-023ec4c54dd7/mza_649823573164273512.jpg/170x170bb.png",
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/comeback-szn",
       "host": "Barstool Sports",
-      "episode_count": 604,
-      "last_published": "2026-10-15",
+      "episode_count": 605,
+      "last_published": "2026-10-18",
       "on_chart": true
     },
     {
@@ -444,22 +444,22 @@
     {
       "itunes_id": "1507190937",
       "title": "Pop Apologists",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/99/66/db99663c-3801-a4a4-419b-610bf43d2dd1/mza_5542773936536259542.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/99/66/db99663c-3801-a4a4-419b-610bf43d2dd1/mza_5542773936536259542.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/pop-apologists",
       "host": "Art19",
       "episode_count": 539,
       "last_published": "2026-10-16",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1525795747",
       "title": "Dear Shandy",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/d9/b3/f9d9b371-fd0c-4a6b-3f2d-953eb2086dde/mza_11424577040759351462.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/d9/b3/f9d9b371-fd0c-4a6b-3f2d-953eb2086dde/mza_11424577040759351462.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/dear-shandy",
       "host": "Art19",
       "episode_count": 499,
-      "last_published": "2026-10-15",
-      "on_chart": false
+      "last_published": "2026-10-17",
+      "on_chart": true
     },
     {
       "itunes_id": "178083008",
@@ -694,12 +694,12 @@
     {
       "itunes_id": "1723943281",
       "title": "Primary Technology",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/59/7d/67597d7e-d4d5-7ece-8cdf-f5f64feff787/mza_6687276585359038551.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/59/7d/67597d7e-d4d5-7ece-8cdf-f5f64feff787/mza_6687276585359038551.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.transistor.fm/primary-technology",
       "host": "Transistor",
       "episode_count": 304,
       "last_published": "2026-10-15",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1253221897",
@@ -794,12 +794,12 @@
     {
       "itunes_id": "1704206163",
       "title": "Rap Life Radio with Ebro Darden",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/170x170bb.png",
-      "feed_url": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/600x600bb.jpg",
+      "feed_url": "",
       "host": "Unknown",
       "episode_count": 240,
       "last_published": "2026-10-16",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1617883406",
@@ -1342,6 +1342,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "1863268753",
+      "title": "Cult of Mac",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/9e/5e/da9e5e15-0428-21da-60bd-bdf1cdc8ae0d/mza_14454408909566371805.jpg/170x170bb.png",
+      "feed_url": "https://feeds.transistor.fm/cult-of-mac",
+      "host": "Transistor",
+      "episode_count": 40,
+      "last_published": "2026-10-15",
+      "on_chart": true
+    },
+    {
       "itunes_id": "301025324",
       "title": "Patriot Truth Podcast",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts6/v4/10/b1/b8/10b1b801-1bc6-e0e6-1652-c91e6ae7786c/mza_1869596339798234334.jpg/600x600bb.jpg",
@@ -1414,12 +1424,12 @@
     {
       "itunes_id": "1884146372",
       "title": "The Morgan Stewart Show",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/ce/f9/d9cef978-e710-7864-f2f5-e65d57344663/mza_3844900642202523714.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/ce/f9/d9cef978-e710-7864-f2f5-e65d57344663/mza_3844900642202523714.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.simplecast.com/BbxEWNSo",
       "host": "Simplecast",
       "episode_count": 33,
       "last_published": "2026-10-14",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1805870502",
@@ -1534,12 +1544,12 @@
     {
       "itunes_id": "1762728526",
       "title": "Story Warz",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/2b/07/842b0739-a33e-f85f-4690-23f6e6e4bdf2/mza_17662187549036329376.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/2b/07/842b0739-a33e-f85f-4690-23f6e6e4bdf2/mza_17662187549036329376.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/story-warz",
       "host": "Art19",
       "episode_count": 20,
       "last_published": "2026-10-16",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "507135865",
@@ -1884,22 +1894,22 @@
     {
       "itunes_id": "6819870116",
       "title": "OMNISPHERE the Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/86/32/22/8632220c-1c64-399e-24bd-db8a1c620c0b/mza_3421115167421665235.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/86/32/22/8632220c-1c64-399e-24bd-db8a1c620c0b/mza_3421115167421665235.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.transistor.fm/omnisphere-the-podcast",
       "host": "Transistor",
       "episode_count": 1,
       "last_published": "2026-10-06",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "6821706863",
       "title": "The Kyle Buchanan Show",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/c0/ff/1bc0ffb8-895d-7d75-5bf0-6e53be157860/mza_17645293319018847560.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/c0/ff/1bc0ffb8-895d-7d75-5bf0-6e53be157860/mza_17645293319018847560.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6acbd82fd3bfab176e6dcba4",
       "host": "Acast",
       "episode_count": 1,
       "last_published": "2026-10-16",
-      "on_chart": true
+      "on_chart": false
     }
   ]
 }
