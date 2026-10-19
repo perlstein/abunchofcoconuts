@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18",
+  "generated": "2026-10-19",
   "shows": [
     {
       "itunes_id": "1358187061",
@@ -18,7 +18,7 @@
       "feed_url": "https://feeds.megaphone.fm/RM6151564048",
       "host": "Megaphone",
       "episode_count": 2000,
-      "last_published": "2026-10-17",
+      "last_published": "2026-10-18",
       "on_chart": true
     },
     {
@@ -104,12 +104,12 @@
     {
       "itunes_id": "1499409058",
       "title": "Bankless",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7d/89/b1/7d89b1bf-d4dc-c8aa-894c-d2bc002c42be/mza_5764066019463168929.png/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7d/89/b1/7d89b1bf-d4dc-c8aa-894c-d2bc002c42be/mza_5764066019463168929.png/600x600bb.jpg",
       "feed_url": "https://feeds.flightcast.com/p83fuj0y0u58o82l41xei7zo.xml",
       "host": "Flightcast",
       "episode_count": 1350,
       "last_published": "2026-10-16",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1267958765",
@@ -117,8 +117,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/36/db/b9/36dbb9f6-8457-6909-f52b-f28a10db8d98/mza_7912119060353777497.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6818cd43eb146d8e35d312c7",
       "host": "Acast",
-      "episode_count": 1348,
-      "last_published": "2026-10-14",
+      "episode_count": 1349,
+      "last_published": "2026-10-18",
       "on_chart": false
     },
     {
@@ -434,12 +434,12 @@
     {
       "itunes_id": "1551696865",
       "title": "Macrodosing: Arian Foster and PFT Commenter",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/bd/4d/98bd4d60-a541-8c4b-b31e-550145e4fe7b/mza_8884570418984756306.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/bd/4d/98bd4d60-a541-8c4b-b31e-550145e4fe7b/mza_8884570418984756306.jpeg/600x600bb.jpg",
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/barstool-podcast-8",
       "host": "Barstool Sports",
       "episode_count": 550,
       "last_published": "2026-10-15",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1507190937",
@@ -774,12 +774,12 @@
     {
       "itunes_id": "1609986124",
       "title": "The Comment Section with Drew Afualo",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/93/6b/87936ba3-101d-14f8-05b7-ebbff7db6865/mza_421653371068461902.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/93/6b/87936ba3-101d-14f8-05b7-ebbff7db6865/mza_421653371068461902.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6a3029dd6cf76d774561b003",
       "host": "Acast",
       "episode_count": 245,
       "last_published": "2026-10-14",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1515385282",
@@ -792,6 +792,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1617883406",
+      "title": "Compass Points",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/07/e4/2607e41c-330e-c1e5-45db-b529a9ee2d7d/mza_15517120161772684229.jpeg/600x600bb.jpg",
+      "feed_url": "https://rss.libsyn.com/shows/409379/destinations/3389264.xml",
+      "host": "Libsyn",
+      "episode_count": 241,
+      "last_published": "2026-10-11",
+      "on_chart": false
+    },
+    {
       "itunes_id": "1704206163",
       "title": "Rap Life Radio with Ebro Darden",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/cc/fd/b8ccfd10-0749-d70e-fe49-7298830de41d/mza_13620872199379913135.jpeg/600x600bb.jpg",
@@ -799,16 +809,6 @@
       "host": "Unknown",
       "episode_count": 240,
       "last_published": "2026-10-16",
-      "on_chart": false
-    },
-    {
-      "itunes_id": "1617883406",
-      "title": "Compass Points",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/07/e4/2607e41c-330e-c1e5-45db-b529a9ee2d7d/mza_15517120161772684229.jpeg/600x600bb.jpg",
-      "feed_url": "https://rss.libsyn.com/shows/409379/destinations/3389264.xml",
-      "host": "Libsyn",
-      "episode_count": 240,
-      "last_published": "2026-10-11",
       "on_chart": false
     },
     {
@@ -847,8 +847,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/82/ab/d082abd9-de84-dfbb-459e-a37dd204a30f/mza_4737325525394341969.jpeg/600x600bb.jpg",
       "feed_url": "https://rss2.flightcast.com/jcult9wy1ey81bgbiczdjy68.xml",
       "host": "Flightcast",
-      "episode_count": 217,
-      "last_published": "2026-10-04",
+      "episode_count": 218,
+      "last_published": "2026-10-18",
       "on_chart": false
     },
     {
@@ -857,7 +857,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/e6/8e/ade68ebd-a384-06bc-ce9b-9467d8f3a146/mza_12700451613655739902.jpg/170x170bb.png",
       "feed_url": "https://feeds.fountain.fm/UZSKQcrOnhqYS1JopxGg",
       "host": "Fountain",
-      "episode_count": 216,
+      "episode_count": 217,
       "last_published": "2026-10-15",
       "on_chart": true
     },
@@ -1014,12 +1014,12 @@
     {
       "itunes_id": "1707218732",
       "title": "Open Book with Jenna",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/8e/5d/638e5dbc-9338-d59c-ec0c-2e32eedbbf91/mza_6391172483811077609.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/8e/5d/638e5dbc-9338-d59c-ec0c-2e32eedbbf91/mza_6391172483811077609.jpg/170x170bb.png",
       "feed_url": "https://podcastfeeds.nbcnews.com/m1_s_Er3",
-      "host": "Other/Self-Hosted",
+      "host": "Simplecast",
       "episode_count": 121,
       "last_published": "2026-10-15",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1532956108",
@@ -1132,24 +1132,24 @@
       "on_chart": false
     },
     {
-      "itunes_id": "981373142",
-      "title": "Parenting Out Loud",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/24/08/84240887-884a-b7e2-230d-c0948352b2ae/mza_1770059722469350567.jpg/600x600bb.jpg",
-      "feed_url": "https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/5c116b8b-958c-413e-aabb-a4990019e0f7/8b30cd92-16a3-4a17-a36c-a4990059c7e5/podcast.rss",
-      "host": "Omny / Triton",
-      "episode_count": 71,
-      "last_published": "2026-10-16",
-      "on_chart": false
-    },
-    {
       "itunes_id": "1769262461",
       "title": "The Deep View: Conversations",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/36/1b/c0/361bc083-cf1f-9b84-0f30-16b682ad1a1c/mza_2783281765218420833.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.transistor.fm/tdv",
       "host": "Transistor",
-      "episode_count": 71,
+      "episode_count": 72,
       "last_published": "2026-10-09",
       "on_chart": false
+    },
+    {
+      "itunes_id": "981373142",
+      "title": "Parenting Out Loud",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/24/08/84240887-884a-b7e2-230d-c0948352b2ae/mza_1770059722469350567.jpg/170x170bb.png",
+      "feed_url": "https://www.omnycontent.com/d/playlist/3ea926be-9be7-482a-8ac3-a44f016e43d1/5c116b8b-958c-413e-aabb-a4990019e0f7/8b30cd92-16a3-4a17-a36c-a4990059c7e5/podcast.rss",
+      "host": "Omny / Triton",
+      "episode_count": 71,
+      "last_published": "2026-10-16",
+      "on_chart": true
     },
     {
       "itunes_id": "1776743104",
@@ -1207,8 +1207,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/cf/56/29cf563d-8073-9bf6-d887-24711a7002f3/mza_561177718790263016.jpg/600x600bb.jpg",
       "feed_url": "https://rss2.flightcast.com/uiym43jizwzqijks42lzcfkc.xml",
       "host": "Flightcast",
-      "episode_count": 58,
-      "last_published": "2026-10-03",
+      "episode_count": 59,
+      "last_published": "2026-10-17",
       "on_chart": false
     },
     {
@@ -1424,12 +1424,12 @@
     {
       "itunes_id": "1884146372",
       "title": "The Morgan Stewart Show",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/ce/f9/d9cef978-e710-7864-f2f5-e65d57344663/mza_3844900642202523714.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/ce/f9/d9cef978-e710-7864-f2f5-e65d57344663/mza_3844900642202523714.jpg/170x170bb.png",
       "feed_url": "https://feeds.simplecast.com/BbxEWNSo",
       "host": "Simplecast",
       "episode_count": 33,
       "last_published": "2026-10-14",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1805870502",
@@ -1574,12 +1574,12 @@
     {
       "itunes_id": "553604212",
       "title": "MacBreak Weekly (Video)",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/10/76/5a10763f-f1b2-bfb1-b1b8-0b7a07605c80/mza_15465470930174652847.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/10/76/5a10763f-f1b2-bfb1-b1b8-0b7a07605c80/mza_15465470930174652847.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.twit.tv/mbw_video_hd.xml",
       "host": "TWiT",
       "episode_count": 20,
       "last_published": "2026-10-07",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "6803894653",
@@ -1654,12 +1654,12 @@
     {
       "itunes_id": "6794923271",
       "title": "No Time But Now with William Shatner and Melanie Shatner Gretsch",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/59/08/ac5908b9-5e25-208e-6348-aa0fb7e75cd9/mza_2601575612630893705.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/59/08/ac5908b9-5e25-208e-6348-aa0fb7e75cd9/mza_2601575612630893705.jpg/600x600bb.jpg",
       "feed_url": "https://rss.buzzsprout.com/2632331.rss",
       "host": "Buzzsprout",
       "episode_count": 13,
       "last_published": "2026-10-07",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "6789198595",
@@ -1707,19 +1707,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/56/8a/6a/568a6ad8-cba7-6d8a-5ba4-cb2235f5deba/mza_906007001989495174.png/600x600bb.jpg",
       "feed_url": "https://feeds.libsyn.com/629010/rss",
       "host": "Libsyn",
-      "episode_count": 10,
+      "episode_count": 9,
       "last_published": "2026-10-13",
       "on_chart": false
     },
     {
       "itunes_id": "6801953391",
       "title": "Call 'Em Like Museum with Eric Johnson",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/7b/ff/ab7bff02-b5fe-0c4f-022b-b95086d2095b/mza_4348264613762740975.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/7b/ff/ab7bff02-b5fe-0c4f-022b-b95086d2095b/mza_4348264613762740975.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.transistor.fm/museum-podcast",
       "host": "Transistor",
       "episode_count": 9,
       "last_published": "2026-10-06",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1896466787",
