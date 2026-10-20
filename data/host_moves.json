@@ -1,24 +1,51 @@
 {
-  "generated": "2026-10-19",
-  "total_tracked": 40115,
+  "generated": "2026-10-20",
+  "total_tracked": 40127,
   "moves": [
     {
       "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
       "feed_url": "https://feeds.podcastmirror.com/rhap",
-      "from": "Simplecast",
-      "to": "Megaphone",
-      "date": "2026-10-17",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-20",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
     },
     {
       "title": "RHAP: We Know Survivor",
       "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
-      "from": "Simplecast",
-      "to": "Megaphone",
-      "date": "2026-10-16",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-20",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
+    {
+      "title": "Liftoff Journeys with Jeanniey Walden",
+      "feed_url": "https://www.spreaker.com/show/7424699/episodes/feed",
+      "from": "AmperWave (Audacy)",
+      "to": "Spreaker",
+      "date": "2026-10-20",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/7a/f1/327af17f-6a32-24ec-0e28-9d268455d03a/mza_9651729326620478899.jpg/170x170bb.png"
+    },
+    {
+      "title": "On Par with Maury Povich",
+      "feed_url": "https://rss.libsyn.com/shows/632864/destinations/5586374.xml",
+      "from": "AmperWave (Audacy)",
+      "to": "Libsyn",
+      "date": "2026-10-20",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/59/03/7f5903ec-9dc3-b324-38db-6687d3f3b8de/mza_10452429799388463260.jpg/170x170bb.png"
+    },
+    {
+      "title": "The Middle School Mary Poppins Podcast",
+      "feed_url": "https://www.spreaker.com/show/7467210/episodes/feed",
+      "from": "Spotify/Anchor",
+      "to": "Spreaker",
+      "date": "2026-10-20",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/51/4c/b3514cbe-0f38-5726-4f51-1125a9992ee1/mza_17919026257424966505.jpg/170x170bb.png"
     },
     {
       "title": "Dinks On Tap: The Happy Hour Pickleball Podcast",
