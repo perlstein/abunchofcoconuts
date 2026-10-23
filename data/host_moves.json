@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-23",
-  "total_tracked": 40315,
+  "total_tracked": 40490,
   "moves": [
     {
       "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
@@ -10,6 +10,33 @@
       "date": "2026-10-23",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
+    },
+    {
+      "title": "RHAP: We Know Survivor",
+      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-23",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
+    {
+      "title": "2004: The Year Indie Rock Broke",
+      "feed_url": "https://feeds.acast.com/public/shows/6ad0173ce53019e890b1a241",
+      "from": "Megaphone",
+      "to": "Acast",
+      "date": "2026-10-23",
+      "source": "watchlist",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/43/14/97/4314970b-44fd-2751-4742-3c4a6844cc0e/mza_2211487294624765100.jpg/170x170bb.png"
+    },
+    {
+      "title": "The 80 Million Podcast",
+      "feed_url": "https://api.substack.com/feed/podcast/4160010.rss",
+      "from": "Podbean",
+      "to": "Substack",
+      "date": "2026-10-23",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/56/92/c4569224-3de1-1a28-6e13-99b7a9a453ba/mza_1443779314258896537.jpg/170x170bb.png"
     },
     {
       "title": "Game Theory",
@@ -55,15 +82,6 @@
       "date": "2026-10-21",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/fb/ee/c8/fbeec8e6-3d1f-20b4-d8b4-025fc884959e/mza_7133861084749007820.jpg/170x170bb.png"
-    },
-    {
-      "title": "RHAP: We Know Survivor",
-      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-20",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
     },
     {
       "title": "Liftoff Journeys with Jeanniey Walden",
