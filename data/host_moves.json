@@ -1,7 +1,25 @@
 {
-  "generated": "2026-10-23",
-  "total_tracked": 40490,
+  "generated": "2026-10-24",
+  "total_tracked": 40496,
   "moves": [
+    {
+      "title": "RHAP: We Know Survivor",
+      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-24",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
+    {
+      "title": "We Know The Traitors",
+      "feed_url": "https://robhasawebsite.com/feed/traitors-podcast/?test-1",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-24",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/0d/0d/400d0d05-ac13-a727-dfa8-16ffae717295/mza_15781739411264473526.jpg/170x170bb.png"
+    },
     {
       "title": "Rob Has a Podcast | Big Brother, Survivor & Reality TV - RHAP",
       "feed_url": "https://feeds.podcastmirror.com/rhap",
@@ -10,15 +28,6 @@
       "date": "2026-10-23",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/d3/fb/54d3fb2f-1134-2c3d-95e1-509d0096c438/mza_8102573241270278649.jpeg/170x170bb.png"
-    },
-    {
-      "title": "RHAP: We Know Survivor",
-      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
-      "from": "Simplecast",
-      "to": "Megaphone",
-      "date": "2026-10-23",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
     },
     {
       "title": "2004: The Year Indie Rock Broke",
@@ -64,15 +73,6 @@
       "date": "2026-10-21",
       "source": "watchlist",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/ad/5a/3dad5a7c-2993-7992-06ec-671870ed4672/mza_16764932599325750788.jpg/170x170bb.png"
-    },
-    {
-      "title": "We Know The Traitors",
-      "feed_url": "https://robhasawebsite.com/feed/traitors-podcast/?test-1",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-21",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/0d/0d/400d0d05-ac13-a727-dfa8-16ffae717295/mza_15781739411264473526.jpg/170x170bb.png"
     },
     {
       "title": "The Unauthorized History of the Pacific War",
