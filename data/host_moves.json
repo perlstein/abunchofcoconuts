@@ -1,15 +1,24 @@
 {
-  "generated": "2026-10-24",
-  "total_tracked": 40585,
+  "generated": "2026-10-25",
+  "total_tracked": 40587,
   "moves": [
     {
       "title": "RHAP: We Know Survivor",
       "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-24",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-25",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
+    {
+      "title": "RHAP: We Know Big Brother",
+      "feed_url": "https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/",
+      "from": "Megaphone",
+      "to": "Simplecast",
+      "date": "2026-10-25",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/ec/11/dfec111c-67df-5206-ad5e-3b7fc98d596b/mza_4699944216672989194.jpeg/170x170bb.png"
     },
     {
       "title": "We Know The Traitors",
@@ -262,15 +271,6 @@
       "date": "2026-10-05",
       "source": "subgenre",
       "artwork": ""
-    },
-    {
-      "title": "RHAP: We Know Big Brother",
-      "feed_url": "https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/",
-      "from": "Simplecast",
-      "to": "Megaphone",
-      "date": "2026-10-03",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/ec/11/dfec111c-67df-5206-ad5e-3b7fc98d596b/mza_4699944216672989194.jpeg/170x170bb.png"
     },
     {
       "title": "The Code To Winning",
