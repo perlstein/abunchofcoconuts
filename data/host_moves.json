@@ -1,7 +1,16 @@
 {
   "generated": "2026-10-26",
-  "total_tracked": 40710,
+  "total_tracked": 40860,
   "moves": [
+    {
+      "title": "Learn Spanish",
+      "feed_url": "https://feed.podbean.com/learnspanishpodcast/feed.xml",
+      "from": "Transistor",
+      "to": "Podbean",
+      "date": "2026-10-26",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/79/5e/b1795e99-d6f1-f89d-56ee-ae0c20dbc28b/mza_3438470924875366980.jpg/170x170bb.png"
+    },
     {
       "title": "RHAP: We Know Survivor",
       "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
