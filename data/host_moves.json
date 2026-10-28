@@ -1,7 +1,16 @@
 {
-  "generated": "2026-10-27",
-  "total_tracked": 41020,
+  "generated": "2026-10-28",
+  "total_tracked": 41027,
   "moves": [
+    {
+      "title": "RHAP: We Know Big Brother",
+      "feed_url": "https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-28",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/ec/11/dfec111c-67df-5206-ad5e-3b7fc98d596b/mza_4699944216672989194.jpeg/170x170bb.png"
+    },
     {
       "title": "RHAP: We Know Survivor",
       "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
@@ -46,15 +55,6 @@
       "date": "2026-10-26",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/79/5e/b1795e99-d6f1-f89d-56ee-ae0c20dbc28b/mza_3438470924875366980.jpg/170x170bb.png"
-    },
-    {
-      "title": "RHAP: We Know Big Brother",
-      "feed_url": "https://rss.pdrl.fm/118060/robhasawebsite.com/feed/big-brother/",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-25",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/ec/11/dfec111c-67df-5206-ad5e-3b7fc98d596b/mza_4699944216672989194.jpeg/170x170bb.png"
     },
     {
       "title": "We Know The Traitors",
