@@ -4851,7 +4851,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-06-18",
           "prev_host": null,
           "moved_on": null
@@ -25333,7 +25333,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-10-29",
           "prev_host": null,
           "moved_on": null
@@ -30417,7 +30417,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-10-29",
           "prev_host": null,
           "moved_on": null
@@ -36753,7 +36753,7 @@
             "trend": "steady"
           },
           "rss_video": "mp4",
-          "apple_video": null,
+          "apple_video": true,
           "host_since": "2026-10-29",
           "prev_host": null,
           "moved_on": null
@@ -38190,7 +38190,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-10-29",
           "prev_host": null,
           "moved_on": null
@@ -43536,7 +43536,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-10-29",
           "prev_host": null,
           "moved_on": null
@@ -47356,7 +47356,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-10-29",
           "prev_host": null,
           "moved_on": null
@@ -50640,7 +50640,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "host_since": "2026-10-29",
           "prev_host": null,
           "moved_on": null
