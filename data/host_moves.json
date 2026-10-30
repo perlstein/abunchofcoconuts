@@ -1,7 +1,25 @@
 {
   "generated": "2026-10-30",
-  "total_tracked": 41291,
+  "total_tracked": 41437,
   "moves": [
+    {
+      "title": "RHAP: We Know Survivor",
+      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
+      "from": "Simplecast",
+      "to": "Megaphone",
+      "date": "2026-10-30",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
+    },
+    {
+      "title": "Ready For Love with Hilary Silver",
+      "feed_url": "https://feeds.megaphone.fm/CTL7202879289",
+      "from": "Podbean",
+      "to": "Megaphone",
+      "date": "2026-10-30",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/18/15/15/181515d9-7306-5693-2e81-44468c4941e0/mza_17018921689691037283.jpeg/170x170bb.png"
+    },
     {
       "title": "Ready For Love with Hilary Silver",
       "feed_url": "https://feed.podbean.com/hilaryed/feed.xml",
@@ -10,6 +28,15 @@
       "date": "2026-10-30",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/d9/bb/34d9bb9f-4e54-cc2d-339a-63e359b280f9/mza_3715480441507575413.jpg/170x170bb.png"
+    },
+    {
+      "title": "FDX ALPA Podcast",
+      "feed_url": "https://feed.podbean.com/fedexpilots/feed.xml",
+      "from": "Blubrry",
+      "to": "Podbean",
+      "date": "2026-10-30",
+      "source": "chart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/a8/0e/7aa80e4f-abda-7112-39c5-c2d92aac9a45/mza_11964473922151585738.jpg/170x170bb.png"
     },
     {
       "title": "Life of the Record",
@@ -28,15 +55,6 @@
       "date": "2026-10-28",
       "source": "chart",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/ec/11/dfec111c-67df-5206-ad5e-3b7fc98d596b/mza_4699944216672989194.jpeg/170x170bb.png"
-    },
-    {
-      "title": "RHAP: We Know Survivor",
-      "feed_url": "https://rss.pdrl.fm/37683e/feeds.podcastmirror.com/survivor-rhap",
-      "from": "Megaphone",
-      "to": "Simplecast",
-      "date": "2026-10-27",
-      "source": "chart",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/5d/f8/b85df838-ac13-c2c1-3c34-f540e0a6d971/mza_1582878573372276282.jpeg/170x170bb.png"
     },
     {
       "title": "Speakeasy",
