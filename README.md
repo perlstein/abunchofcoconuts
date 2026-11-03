@@ -77,7 +77,67 @@ from `PODCASTINDEX_KEY` / `PODCASTINDEX_SECRET` env vars, or a gitignored
 
 ## How domain detection works
 
-A show's feed-delivery domain is read from its RSS enclosure URLs (see
-`hosts.py`). Domain **changes** are detected by re-fetching feeds in
-`corpus_feeds.csv` on a rolling, time-boxed budget and comparing the current
-domain to the last seen one.
+RSS fetches follow HTTP redirects. The final feed URL and media enclosure are
+classified separately. Disagreement is explicitly conflicting evidence, not a
+confirmed host change. HTML error pages and failed requests are not successful
+observations. Spotify identities can be cached, but their hosting evidence is
+refreshed on every chart run, reusing a current Apple fetch of the same feed.
+
+`research.py` owns permanent show IDs, dated metadata, confirmed placements,
+and the append-only migration ledger. Two consistent successful checks on
+different UTC dates within seven days confirm a placement. A migration also
+requires a previously confirmed placement. Replayed scans cannot confirm a
+change; failed or conflicting observations interrupt a pending confirmation.
+Legacy detections remain visible as unverified and never generate churn alerts.
+
+`cumulative.py` rechecks feeds within a time budget, including off-chart shows.
+Only today's successful RSS evidence skips a recheck. Previously recorded events
+and metadata survive when shows leave the charts. Historical events whose
+supporting observations were never recorded cannot be retroactively verified.
+
+## Durable research records (September 2026)
+
+`cumulative.py` now finishes by building `research.py`. The new public outputs
+are `show_index.json`, `shows/<shard>.json`, `host_moves.json` (schema 2), and
+`research_manifest.json`. `show_registry.json` is the retained state, including
+per-show chart observations, contact metadata with observation dates, identities,
+and event history. Keep this state between runs. Records are never pruned merely
+because a show leaves a chart.
+
+Identity links use directory IDs, normalized feed URLs, verified redirect
+URLs, or podcast GUIDs. Equal titles do not merge shows. Former record IDs redirect
+to the surviving record after an identity merge. `backfill_identity.py` can recover
+Apple-ID-to-feed associations from the public lookup API for archived chart IDs;
+its checked-in `identity_links.json` preserves every returned association.
+
+Hosting is detected from the final HTTP response and enclosure origin, so a
+retired Megaphone URL redirecting to a PRX feed no longer counts as Megaphone.
+Disagreeing feed/media or alias observations are flagged. Cached Spotify bridge
+records are refreshed for hosting evidence and public metadata every scan.
+
+A placement requires successful, consistent RSS observations on two distinct UTC
+dates. A migration requires both a previously confirmed placement and two-date
+confirmation of the new placement. Replaying a scan cannot confirm a move.
+Confirmation dates are observation dates, not claimed contract-effective dates.
+Every newly confirmed migration retains both observations in the event history;
+later moves do not overwrite earlier ones. Available legacy detections remain
+unverified, with same-day opposite directions labeled as conflicts. Earlier events
+already overwritten by the old tracker cannot be certified retroactively.
+
+The frontend consumes the complete checksummed research generation. Run
+`python -m unittest discover -s scraper -p 'test_*.py'` for regression coverage.
+
+
+## Validation and rollout
+
+Run `python -m unittest discover -s scraper -p 'test_*.py'`.
+The workflow bootstraps the durable registry before the first upgraded Apple
+scan so old detections are retained. Deploy this engine before the matching
+website change; the website requires its research manifest and show shards.
+Generated registry/index/shard data is produced by the scheduled workflow.
+
+Host confidence is categorical (confirmed, pending, conflicting, stale, or
+unverified), not a statistical probability. Hosting detection does not establish
+contract termination or customer status. A `placement` records the initial
+confirmed host; `events` retain subsequent confirmed migrations and explicitly
+unverified imported detections.

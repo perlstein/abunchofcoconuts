@@ -29,6 +29,10 @@ permissions:
 # later failure never loses upstream data. Any downstream analysis or reporting
 # runs elsewhere, consuming these published outputs.
 
+concurrency:
+  group: chart-sync
+  cancel-in-progress: false
+
 jobs:
   apple:
     runs-on: ubuntu-latest
@@ -45,6 +49,9 @@ jobs:
           cache-dependency-path: scraper/requirements.txt
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
+      - name: Preserve legacy identities and detections before scanning
+        run: |
+          if [ ! -f data/show_registry.json ]; then python scraper/research.py; fi
       - name: Run Apple chart scraper
         run: python scraper/scrape.py
       - name: Commit and push Apple data
@@ -52,6 +59,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/leaderboard.json data/history.json data/show_history.json data/host_state.json
+          if [ -f data/research_manifest.json ]; then git add data/show_registry.json data/show_index.json data/shows data/host_moves.json data/research_manifest.json; fi
           if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "Apple scrape: $(date -u +%Y-%m-%d)"
           for i in 1 2 3 4 5; do
@@ -178,7 +186,6 @@ jobs:
     needs: [spotify, apple_video, trending]
     runs-on: ubuntu-latest
     timeout-minutes: 90
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v5
         with:
@@ -198,7 +205,6 @@ jobs:
         # is enough to sweep the full ~21k corpus in a single run, so no feed
         # waits a cycle; paired with the twice-daily schedule, every show is
         # re-checked ~twice a day.
-        continue-on-error: true
         env:
           CUMULATIVE_DEADLINE_SECONDS: '3300'
         run: python scraper/cumulative.py
@@ -206,7 +212,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/tracked_feeds.json data/host_moves.json data/cumulative_history.json
+          git add data/tracked_feeds.json data/host_moves.json data/cumulative_history.json data/show_registry.json data/show_index.json data/research_manifest.json data/shows/
           if git diff --staged --quiet; then echo "No changes to commit"; exit 0; fi
           git commit -m "Cumulative host tracker: $(date -u +%Y-%m-%d)"
           for i in 1 2 3 4 5; do

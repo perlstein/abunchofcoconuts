@@ -32,7 +32,7 @@ import requests
 
 from hosts import UNMATCHED, detect_host
 from scrape import (HEADERS, LEADERBOARD_PATH, TIMEOUT, compact_history, log,
-                    parse_feed_meta, prune_synthetic, strip_html,
+                    parse_feed_meta, prune_synthetic, strip_html, fetch_show_feed,
                     track_host_changes)
 
 # Contact fields carried on every show record (mirrors the Apple card).
@@ -261,6 +261,40 @@ def write_show_history(entry: dict, shows: dict):
     return len(entries)
 
 
+def refresh_host_evidence(shows, cache, scan_date):
+    # Cached bridge identities may persist; host evidence and public metadata
+    # must not. Reuse this run's Apple RSS observation by URL or fetch once.
+    from research import normalize_feed
+    fresh_feeds = {}
+    for platform in load_json(LEADERBOARD_PATH, {}).get('platforms', []):
+        for row in platform.get('shows', []):
+            evidence = row.get('host_evidence') or {}
+            if evidence.get('success') and evidence.get('checked_at', '')[:10] == scan_date:
+                fresh_feeds[normalize_feed(row.get('feed_url'))] = (platform['name'], row)
+    for uri, show in shows.items():
+        rec = show['rec']
+        feed = rec.get('feed_url')
+        if not feed:
+            continue
+        key = normalize_feed(feed)
+        if key not in fresh_feeds:
+            fresh_feeds[key] = fetch_show_feed(feed)
+        host, meta = fresh_feeds[key]
+        evidence = meta.get('host_evidence') or {}
+        rec['host_evidence'] = evidence
+        rec['host_checked_at'] = evidence.get('checked_at')
+        if evidence.get('success'):
+            rec['host'] = host
+            for field, value in meta.items():
+                if value is not None and field not in ('id', 'itunes_id', 'feed_url', 'categories', 'host'):
+                    rec[field] = value
+        else:
+            rec['last_known_host'] = rec.get('host')
+            rec['host'] = 'Unknown'
+        cache[uri] = rec
+
+
+
 def main() -> int:
     scan_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     log(f"[{scan_date}] Spotify charts scrape...")
@@ -341,6 +375,8 @@ def main() -> int:
 
         s["rec"] = empty_rec("Unresolved (Spotify-only)"); counts["unresolved"] += 1
 
+    refresh_host_evidence(shows, cache, scan_date)
+
     CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, separators=(",", ":")))
     log("resolution: " + ", ".join(f"{k}={v}" for k, v in counts.items()))
     emails = sum(1 for s in shows.values() if s["rec"].get("owner_email"))
@@ -366,7 +402,7 @@ def main() -> int:
                        "chart_move": x["move"],
                        "host_since": x.get("host_since"), "prev_host": x.get("prev_host"),
                        "moved_on": x.get("moved_on"),
-                       **{f: x["rec"].get(f) for f in CONTACT_FIELDS}} for x in m],
+                       **{f: x["rec"].get(f) for f in tuple(CONTACT_FIELDS) + ("resolved_feed_url", "host_evidence", "metadata_observed_on", "podcast_guid")}} for x in m],
         } for h, m in by_host.items()]
         plats.sort(key=lambda p: (-p["count"], p["name"]))
         for i, p in enumerate(plats, 1):

@@ -363,6 +363,7 @@ def parse_feed_meta(feed_content: bytes) -> dict:
     """
     parsed = feedparser.parse(feed_content)
     meta = dict(EMPTY_META)
+    meta['valid_feed'] = bool(parsed.version and parsed.feed)
     for entry in parsed.entries:
         for enclosure in entry.get("enclosures", []):
             href = enclosure.get("href") or enclosure.get("url")
@@ -388,6 +389,8 @@ def parse_feed_meta(feed_content: bytes) -> dict:
     meta["last_published"] = time.strftime("%Y-%m-%d", max(pubs)) if pubs else None
 
     channel = parsed.feed
+    meta["title"] = channel.get("title") or None
+    meta["podcast_guid"] = channel.get("podcast_guid") or None
     meta["website"] = channel.get("link") or None
     description = channel.get("summary") or channel.get("description") or None
     if description:
@@ -409,20 +412,40 @@ def fetch_show_feed(feed_url: str) -> "tuple[str, dict]":
     falls back to the feed-domain match, or "Unknown" if there is none.
     """
     domain_host = detect_host(feed_url)
+    checked_at = datetime.now(timezone.utc).isoformat()
     try:
         resp = requests.get(feed_url, headers=HEADERS, timeout=TIMEOUT)
         resp.raise_for_status()
         meta = parse_feed_meta(resp.content)
+        if not meta['valid_feed']:
+            raise ValueError('Response is not an RSS or Atom feed')
     except requests.RequestException as exc:
         log(f"WARNING: could not fetch RSS {feed_url}: {exc}")
-        return (domain_host if domain_host != UNMATCHED else "Unknown"), dict(EMPTY_META)
+        return "Unknown", dict(EMPTY_META, host_evidence={
+            'checked_at': checked_at, 'feed_url': feed_url, 'success': False,
+            'host': None, 'error': type(exc).__name__})
     except Exception as exc:  # malformed feeds must never abort the run
         log(f"WARNING: could not parse RSS {feed_url}: {exc}")
-        return (domain_host if domain_host != UNMATCHED else "Unknown"), dict(EMPTY_META)
+        return "Unknown", dict(EMPTY_META, host_evidence={
+            'checked_at': checked_at, 'feed_url': feed_url, 'success': False,
+            'host': None, 'error': type(exc).__name__})
     time.sleep(0.5)
-    if domain_host != UNMATCHED:
-        return domain_host, meta
-    return detect_host(feed_url, meta["media_url"] or ""), meta
+    # A retired host's URL can redirect to the new host. Classify the final
+    # response and media origin, never the original URL after a redirect.
+    final_host = detect_host(resp.url)
+    media_host = detect_host("", meta.get("media_url") or "")
+    confident = lambda h: h not in (UNMATCHED, "Unknown", None, "")
+    host = media_host if confident(media_host) else final_host
+    checked_at = datetime.now(timezone.utc).isoformat()
+    meta["resolved_feed_url"] = resp.url
+    meta["metadata_observed_on"] = checked_at[:10]
+    meta["host_evidence"] = {
+        "checked_at": checked_at, "success": True, "feed_url": feed_url,
+        "resolved_feed_url": resp.url, "media_url": meta.get("media_url"),
+        "host": host, "feed_host": final_host, "media_host": media_host,
+        "conflict": confident(final_host) and confident(media_host) and final_host != media_host,
+    }
+    return ("Conflicting observations" if meta["host_evidence"]["conflict"] else host), meta
 
 
 def resolve_hosts(shows: dict, host_cache: dict = None) -> None:
@@ -487,6 +510,10 @@ def rank_platforms(show_list: list, include_shows: bool) -> list:
                 "schedule": s.get("schedule"),
                 "rss_video": s.get("rss_video"),
                 "apple_video": s.get("apple_video"),
+                "resolved_feed_url": s.get("resolved_feed_url"),
+                "podcast_guid": s.get("podcast_guid"),
+                "metadata_observed_on": s.get("metadata_observed_on"),
+                "host_evidence": s.get("host_evidence"),
                 "host_since": s.get("host_since"),
                 "prev_host": s.get("prev_host"),
                 "moved_on": s.get("moved_on"),
@@ -521,7 +548,7 @@ def track_host_changes(records, id_key: str, state_path, scan_date: str) -> int:
         if not sid:
             continue
         st = state.get(sid)
-        confident = host and host not in ("Unknown", UNMATCHED)
+        confident = host and host not in ("Unknown", UNMATCHED, "Conflicting observations", "Unresolved (Spotify-only)")
         if confident:
             if st is None:
                 state[sid] = {"host": host, "since": scan_date}

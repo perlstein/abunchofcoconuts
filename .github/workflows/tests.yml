@@ -1,0 +1,18 @@
+name: Research regression tests
+on:
+  pull_request:
+    paths: ['scraper/**', '.github/workflows/tests.yml']
+  push:
+    paths: ['scraper/**', '.github/workflows/tests.yml']
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - run: pip install -r scraper/requirements.txt
+      - run: python -m unittest discover -s scraper -p 'test_*.py'

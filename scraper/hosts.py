@@ -142,7 +142,7 @@ def _match(text: str) -> str:
         return ""
     text = text.lower()
     for pattern, name in HOST_PATTERNS.items():
-        if pattern in text:
+        if text == pattern or text.endswith('.' + pattern):
             return name
     return ""
 
