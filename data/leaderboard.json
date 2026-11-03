@@ -11014,7 +11014,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/WFH1568989392",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-03",
@@ -30779,7 +30779,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/prfkVTCb",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-03",
@@ -66950,7 +66950,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.podbean.com/Joeyhudson/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-03",
@@ -67300,7 +67300,7 @@
             "trend": "steady"
           },
           "rss_video": "mp4",
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feed.podbean.com/DailyGracePodcast/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-03",
