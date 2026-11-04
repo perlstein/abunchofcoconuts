@@ -25608,7 +25608,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/_AgGkBvW",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-04",
@@ -28135,7 +28135,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/YP1R_bhS",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-04",
@@ -46370,7 +46370,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6415373d0baefa001128aedf",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-04",
@@ -59145,7 +59145,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/f5e7e78/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-04",
@@ -59649,7 +59649,7 @@
             "trend": null
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/1191ff15c/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-04",
@@ -74057,7 +74057,7 @@
             "trend": null
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.transistor.fm/other-futures-tech-resistance-imagining-otherwise",
           "podcast_guid": "cecbab49-81f9-5d30-9c8c-53d18825e510",
           "metadata_observed_on": "2026-11-04",
@@ -74302,7 +74302,7 @@
           "last_published": "2026-11-02",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.spreaker.com/show/7514299/episodes/feed",
           "podcast_guid": "0e3c31a5-98c0-5fea-af03-574ca7c61053",
           "metadata_observed_on": "2026-11-04",
