@@ -73,4 +73,33 @@ class ResearchTests(unittest.TestCase):
         self.assertEqual(len(r['shows']),1)
         self.assertEqual(next(iter(r['shows'].values()))['ids']['spotify'],['spotify:show:abc'])
 
-if __name__=='__main__':unittest.main()
+
+class GuidRegressionTests(unittest.TestCase):
+    def test_malformed_cached_guids_do_not_crash_or_merge_unrelated_shows(self):
+        for value in ({'ispermalink': 'false'}, {'value': 'same'}, ['same'], 123, True, '  '):
+            with self.subTest(value=value):
+                rows = [record('https://one.example/rss', apple='1', podcast_guid=value),
+                        record('https://two.example/rss', apple='2', podcast_guid=value)]
+                registry = build(rows)
+                self.assertEqual(len(registry['shows']), 2)
+                self.assertTrue(all('podcast_guid' not in r for r in registry['shows'].values()))
+
+    def test_valid_guid_merges_aliases_and_survives_replay(self):
+        rows = [record('https://one.example/rss', apple='1', podcast_guid='  good-guid  '),
+                record('https://two.example/rss', apple='2', podcast_guid='good-guid')]
+        registry = build(rows)
+        self.assertEqual(len(registry['shows']), 1)
+        sid = next(iter(registry['shows']))
+        replay = build([], registry)
+        self.assertEqual(replay['shows'][sid]['podcast_guid'], 'good-guid')
+
+    def test_malformed_previous_registry_guid_is_cleaned_without_losing_identity(self):
+        registry = build([record()]);sid = next(iter(registry['shows']))
+        registry['shows'][sid]['podcast_guid'] = {'ispermalink': 'false'}
+        replay = build([], registry)
+        self.assertIn(sid, replay['shows'])
+        self.assertNotIn('podcast_guid', replay['shows'][sid])
+
+
+if __name__ == "__main__":
+    unittest.main()

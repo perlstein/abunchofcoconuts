@@ -37,6 +37,13 @@ def normalize_feed(url):
         return ''
 
 
+def normalize_guid(value):
+    """Only textual podcast GUIDs are identity evidence, never serialized objects."""
+    if not isinstance(value, str):
+        return None
+    return value.strip() or None
+
+
 def digest(value):
     return hashlib.sha256(value.encode()).hexdigest()[:20]
 
@@ -64,8 +71,9 @@ def tokens(record):
         ts.add('apple:' + str(record['itunes_id']))
     if str(record.get('id', '')).startswith('spotify:show:'):
         ts.add(record['id'])
-    if record.get('podcast_guid'):
-        ts.add('guid:' + record['podcast_guid'])
+    guid = normalize_guid(record.get('podcast_guid'))
+    if guid:
+        ts.add('guid:' + guid)
     return ts
 
 
@@ -145,6 +153,8 @@ def build_registry(records, previous, legacy_moves, today):
         for i in prior_ids[1:]:
             redirects[i] = sid
         rec = copy.deepcopy(old.get(sid, {}))
+        # Do not carry malformed historical GUID objects into the next generation.
+        rec.pop('podcast_guid', None)
         # Merge archives when formerly separate identities become one.
         events = {e['event_id']: e for r in rows for e in r.get('events', [])}
         placements = {p['placement_id']: p for r in rows for p in r.get('placements', [])}

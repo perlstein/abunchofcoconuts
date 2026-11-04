@@ -43,6 +43,7 @@ import csv
 import json
 import os
 import sys
+import traceback
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -415,6 +416,7 @@ def main() -> int:
 if __name__ == "__main__":
     try:
         sys.exit(main())
-    except Exception as exc:  # never block the pipeline
+    except Exception as exc:  # fail visibly rather than publish an incomplete generation
         log(f"cumulative: failed to publish a complete research generation: {exc}")
+        traceback.print_exc()
         sys.exit(1)

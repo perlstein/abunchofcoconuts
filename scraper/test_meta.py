@@ -89,5 +89,32 @@ class TestParseFeedMeta(unittest.TestCase):
         self.assertEqual(parse_feed_meta(content)["owner_email"], "sec@example.com")
 
 
+
+class TestPodcastGuid(unittest.TestCase):
+    def parse(self, body):
+        return parse_feed_meta(('<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0"><channel><title>Example</title>' + body + '</channel></rss>').encode())
+
+    def test_guid_with_attributes_uses_text_not_feedparser_dictionary(self):
+        for attrs in ('', ' isPermaLink="false"', ' custom="yes"'):
+            with self.subTest(attrs=attrs):
+                self.assertEqual(self.parse('<podcast:guid'+attrs+'> good-guid </podcast:guid>')['podcast_guid'], 'good-guid')
+
+    def test_non_guid_values_and_episode_guids_are_not_show_identity(self):
+        for body in ('<podcast:guid value="bad"/>', '<podcast:guid>  </podcast:guid>',
+                     '<item><guid>episode-id</guid><podcast:guid>episode-podcast-id</podcast:guid></item>', '<guid>non-namespaced</guid>'):
+            with self.subTest(body=body):
+                self.assertIsNone(self.parse(body)['podcast_guid'])
+
+    def test_feed_with_attributes_can_build_and_publish_a_complete_registry(self):
+        import tempfile
+        from pathlib import Path
+        from research import build_registry, publish, load
+        record = dict(self.parse('<podcast:guid isPermaLink="false">good-guid</podcast:guid>'), feed_url='https://example.com/rss')
+        registry = build_registry([record], {}, [], '2026-11-04')
+        with tempfile.TemporaryDirectory() as folder:
+            publish(Path(folder), registry)
+            self.assertTrue(load(Path(folder)/'research_manifest.json', {})['files'])
+
+
 if __name__ == "__main__":
     unittest.main()

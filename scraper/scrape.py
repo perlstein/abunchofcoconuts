@@ -354,6 +354,26 @@ def _itunes_channel_fields(feed_content: bytes) -> "tuple[str, str, str]":
     return owner_name, owner_email or root_email, author
 
 
+def _podcast_channel_guid(feed_content):
+    """Read channel-level podcast:guid text, including tags with XML attributes.
+
+    feedparser 6.0.10 returns an attribute dictionary for extension elements
+    with attributes, losing their text in the normalized podcast_guid field.
+    Episode GUIDs and attribute-only elements are not show identity evidence.
+    """
+    try:
+        root = ET.fromstring(feed_content)
+        channel = root.find('channel') if root.tag == 'rss' else root
+        if channel is None:
+            return None
+        element = channel.find('{https://podcastindex.org/namespace/1.0}guid')
+        if element is None or not element.text:
+            return None
+        return element.text.strip() or None
+    except ET.ParseError:
+        return None
+
+
 def parse_feed_meta(feed_content: bytes) -> dict:
     """Extract the first media URL plus channel-level contact metadata.
 
@@ -390,7 +410,7 @@ def parse_feed_meta(feed_content: bytes) -> dict:
 
     channel = parsed.feed
     meta["title"] = channel.get("title") or None
-    meta["podcast_guid"] = channel.get("podcast_guid") or None
+    meta["podcast_guid"] = _podcast_channel_guid(feed_content)
     meta["website"] = channel.get("link") or None
     description = channel.get("summary") or channel.get("description") or None
     if description:

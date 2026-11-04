@@ -16,3 +16,5 @@ jobs:
           python-version: '3.11'
       - run: pip install -r scraper/requirements.txt
       - run: python -m unittest discover -s scraper -p 'test_*.py'
+      - name: Build research outputs from checked-in data
+        run: python scraper/research.py
