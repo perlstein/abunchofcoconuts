@@ -64,8 +64,11 @@ def tokens(record):
         ts.add('apple:' + str(record['itunes_id']))
     if str(record.get('id', '')).startswith('spotify:show:'):
         ts.add(record['id'])
-    if record.get('podcast_guid'):
-        ts.add('guid:' + record['podcast_guid'])
+    guid = record.get('podcast_guid')
+    # Older parser output may contain an XML-attribute dictionary. Ignore
+    # malformed cached values; stringifying them could merge unrelated shows.
+    if isinstance(guid, str) and guid.strip():
+        ts.add('guid:' + guid.strip())
     return ts
 
 

@@ -222,3 +222,12 @@ jobs:
             sleep $((RANDOM % 15 + 5))
           done
           echo "::error::failed to push cumulative data after 5 attempts"; exit 1
+      - name: Preserve scan results if publication fails
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cumulative-recovery-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            data/tracked_feeds.json
+            data/cumulative_history.json
+          retention-days: 7

@@ -354,6 +354,32 @@ def _itunes_channel_fields(feed_content: bytes) -> "tuple[str, str, str]":
     return owner_name, owner_email or root_email, author
 
 
+def podcast_guid(feed_content: bytes, fallback=None):
+    """Read the identifier's text, never feedparser's attribute dictionary.
+
+    feedparser 6.0.10 returns a dict for namespaced tags with attributes,
+    discarding their text. Identical attributes are not a shared show ID.
+    """
+    try:
+        channel = ET.fromstring(feed_content).find('channel')
+    except ET.ParseError:
+        return fallback.strip() or None if isinstance(fallback, str) else None
+    if channel is None:
+        return None
+    values = set()
+    for element in channel:
+        if not element.tag.startswith('{'):
+            continue
+        namespace, name = element.tag[1:].split('}', 1)
+        if (namespace.rstrip('/') in ('https://podcastindex.org/namespace/1.0',
+                                       'http://podcastindex.org/namespace/1.0')
+                and name == 'guid' and not len(element) and element.text):
+            value = element.text.strip()
+            if value:
+                values.add(value)
+    return next(iter(values)) if len(values) == 1 else None
+
+
 def parse_feed_meta(feed_content: bytes) -> dict:
     """Extract the first media URL plus channel-level contact metadata.
 
@@ -390,7 +416,7 @@ def parse_feed_meta(feed_content: bytes) -> dict:
 
     channel = parsed.feed
     meta["title"] = channel.get("title") or None
-    meta["podcast_guid"] = channel.get("podcast_guid") or None
+    meta["podcast_guid"] = podcast_guid(feed_content, channel.get("podcast_guid"))
     meta["website"] = channel.get("link") or None
     description = channel.get("summary") or channel.get("description") or None
     if description:

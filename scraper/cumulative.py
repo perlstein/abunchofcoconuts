@@ -415,6 +415,8 @@ def main() -> int:
 if __name__ == "__main__":
     try:
         sys.exit(main())
-    except Exception as exc:  # never block the pipeline
+    except Exception as exc:
+        import traceback
         log(f"cumulative: failed to publish a complete research generation: {exc}")
+        traceback.print_exc()
         sys.exit(1)
