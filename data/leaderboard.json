@@ -14503,7 +14503,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/AETTA8923538463",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-05",
@@ -21403,7 +21403,7 @@
             "trend": null
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/ESP5369526091",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-05",
@@ -29593,7 +29593,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/XAV7AC2Z",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-05",
@@ -53910,7 +53910,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.art19.com/the-wonder-of-stevie",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-05",
@@ -72554,7 +72554,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.captivate.fm/financialfellowship/",
           "podcast_guid": "fa06dce3-7722-581f-be5b-997882e95916",
           "metadata_observed_on": "2026-11-05",
@@ -72704,7 +72704,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.captivate.fm/mhdcd8/",
           "podcast_guid": "575fd6c7-5dc5-5ce7-bdcd-f86a4b4827c9",
           "metadata_observed_on": "2026-11-05",
@@ -85164,7 +85164,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://dergrosseneustart.podigee.io/feed/mp3",
           "podcast_guid": "1bba4c27-2a36-5f7f-912f-1bc6b4cf71ac",
           "metadata_observed_on": "2026-11-05",
