@@ -34,7 +34,23 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - run: pip install -r scraper/requirements.txt
+      - name: Run regression tests before scanning
+        run: python -m unittest discover -s scraper -p 'test_*.py'
+      - name: Verify the existing archive is complete
+        run: python scraper/validate_data.py
   apple:
+    needs: preflight
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -71,6 +87,7 @@ jobs:
           echo "::error::failed to push Apple data after 5 attempts"; exit 1
 
   trending:
+    needs: preflight
     runs-on: ubuntu-latest
     timeout-minutes: 30
     continue-on-error: true
@@ -111,7 +128,6 @@ jobs:
     needs: apple
     runs-on: ubuntu-latest
     timeout-minutes: 90
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v5
         with:
@@ -125,7 +141,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
       - name: Build Spotify leaderboard (MVP)
-        continue-on-error: true
         env:
           PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
           PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
@@ -210,6 +225,8 @@ jobs:
         run: python scraper/cumulative.py
       - name: Check publication size before committing
         run: python scraper/check_data_size.py
+      - name: Verify record counts, retained history, and freshness
+        run: python scraper/validate_data.py --baseline-ref HEAD --max-age-days 1
       - name: Commit and push cumulative tracker data
         run: |
           git config user.name "github-actions[bot]"

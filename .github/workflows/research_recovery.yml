@@ -41,6 +41,8 @@ jobs:
         run: python scraper/research.py
       - name: Check publication size
         run: python scraper/check_data_size.py
+      - name: Verify recovered history before publication
+        run: python scraper/validate_data.py --baseline-ref HEAD --max-age-days 1
       - name: Publish recovered data
         run: |
           git config user.name "github-actions[bot]"

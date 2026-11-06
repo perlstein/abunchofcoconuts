@@ -114,6 +114,18 @@ publish the research records without rescanning feeds. Recovery rejects snapshot
 that would overwrite newer committed observations. The normal schedule and
 recovery share a concurrency group so they cannot publish over each other.
 
+Every Daily Chart Sync starts with regression tests and an archive-integrity
+check. The final publication checks file sizes, chart totals, shard checksums,
+identity redirects, and preservation of recorded migration events and chart
+dates against the checked-in generation. Data more than one UTC day behind
+stops publication. Spotify is required; its failures cannot be labeled a
+successful complete scan. Trending and video enrichment remain optional.
+
+Run the same checks locally with `python -m unittest discover -s scraper -p
+'test_*.py'` and `python scraper/validate_data.py --baseline-ref HEAD
+--max-age-days 1`. `Research regression tests` also supports a manual run without
+repeating the RSS scan.
+
 Identity links use directory IDs, normalized feed URLs, verified redirect
 URLs, or podcast GUIDs. Equal titles do not merge shows. Former record IDs redirect
 to the surviving record after an identity merge. `backfill_identity.py` can recover
