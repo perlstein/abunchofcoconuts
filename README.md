@@ -99,10 +99,20 @@ supporting observations were never recorded cannot be retroactively verified.
 
 `cumulative.py` now finishes by building `research.py`. The new public outputs
 are `show_index.json`, `shows/<shard>.json`, `host_moves.json` (schema 2), and
-`research_manifest.json`. `show_registry.json` is the retained state, including
-per-show chart observations, contact metadata with observation dates, identities,
-and event history. Keep this state between runs. Records are never pruned merely
-because a show leaves a chart.
+`research_manifest.json`. `show_registry.json` is a small, checksum-verified
+storage header. The complete retained records live in `shows/<shard>.json`,
+including per-show chart observations, dated contact metadata, identities, and
+event history. Keep the header and all its referenced shards together between
+runs. Legacy single-file registries migrate automatically without pruning data.
+Missing or changed shards stop the build rather than silently losing history.
+Records are never pruned merely because a show leaves a chart.
+
+If the cumulative job finishes scanning but fails to publish, its seven-day
+`cumulative-recovery-<run ID>-<attempt>` artifact contains the completed scan.
+Run **Recover completed chart scan** with that run ID and attempt to rebuild and
+publish the research records without rescanning feeds. Recovery rejects snapshots
+that would overwrite newer committed observations. The normal schedule and
+recovery share a concurrency group so they cannot publish over each other.
 
 Identity links use directory IDs, normalized feed URLs, verified redirect
 URLs, or podcast GUIDs. Equal titles do not merge shows. Former record IDs redirect

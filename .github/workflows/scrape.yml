@@ -208,6 +208,8 @@ jobs:
         env:
           CUMULATIVE_DEADLINE_SECONDS: '3300'
         run: python scraper/cumulative.py
+      - name: Check publication size before committing
+        run: python scraper/check_data_size.py
       - name: Commit and push cumulative tracker data
         run: |
           git config user.name "github-actions[bot]"

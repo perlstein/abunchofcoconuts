@@ -1,0 +1,56 @@
+name: Recover completed chart scan
+on:
+  workflow_dispatch:
+    inputs:
+      source_run_id:
+        description: Failed Daily Chart Sync run containing the saved scan
+        required: true
+        type: string
+      source_attempt:
+        description: Attempt number of that failed run
+        default: '1'
+        required: true
+        type: string
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: chart-sync
+  cancel-in-progress: false
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - name: Download the completed scan
+        uses: actions/download-artifact@v4
+        with:
+          github-token: ${{ github.token }}
+          run-id: ${{ inputs.source_run_id }}
+          name: cumulative-recovery-${{ inputs.source_run_id }}-${{ inputs.source_attempt }}
+          path: recovery
+      - name: Validate and restore saved observations
+        run: python scraper/restore_scan.py recovery
+      - name: Rebuild durable research records
+        run: python scraper/research.py
+      - name: Check publication size
+        run: python scraper/check_data_size.py
+      - name: Publish recovered data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tracked_feeds.json data/cumulative_history.json data/show_registry.json data/show_index.json data/research_manifest.json data/host_moves.json data/shows/
+          if git diff --staged --quiet; then echo "Already published"; exit 0; fi
+          git commit -m "Recover completed scan using sharded research storage"
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 15 + 5))
+          done
+          echo "::error::Could not publish recovered scan"; exit 1

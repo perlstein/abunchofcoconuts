@@ -8,6 +8,7 @@ confirm a new placement/migration; replaying the same scan never confirms it.
 import copy
 import hashlib
 import json
+import re
 from collections import defaultdict
 from datetime import date, timedelta, datetime, timezone
 from pathlib import Path
@@ -50,6 +51,30 @@ def save(path, data):
     tmp = path.with_suffix(path.suffix + '.tmp')
     tmp.write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')))
     tmp.replace(path)
+
+
+def load_registry(data_dir):
+    """Read legacy monoliths or verified shards; never discard missing history."""
+    header = load(data_dir / 'show_registry.json', {})
+    if not header or 'shows' in header:
+        return header
+    if header.get('storage_version') != 2:
+        raise ValueError('Unsupported registry storage version')
+    shows = {}
+    for name, expected in header['shards'].items():
+        if not re.fullmatch(r'shows/[0-9a-f]{2}\.json', name):
+            raise ValueError('Invalid registry shard path: ' + name)
+        raw = (data_dir / name).read_bytes()
+        if hashlib.sha256(raw).hexdigest() != expected:
+            raise ValueError('Registry shard checksum mismatch: ' + name)
+        records = json.loads(raw)
+        for sid, record in records.items():
+            if sid != record['id'] or digest(sid)[:2] != name[6:8] or sid in shows:
+                raise ValueError('Invalid registry shard identity: ' + sid)
+            shows[sid] = record
+    if len(shows) != header['show_count']:
+        raise ValueError('Incomplete registry: show count mismatch')
+    return dict(header['metadata'], shows=shows)
 
 
 def tokens(record):
@@ -338,13 +363,21 @@ def publish(data_dir, registry):
                      if r['hosting_status'] in ('pending', 'conflict')]})
     # Written last; consumers must download the entire generation before publishing.
     files = ['show_index.json', 'host_moves.json'] + ['shows/' + s + '.json' for s in sorted(shards)]
+    checksums = {f: hashlib.sha256((data_dir / f).read_bytes()).hexdigest() for f in files}
+    # The public shards already contain the complete durable records. Retain a
+    # small verified header instead of duplicating them in a >100 MiB Git blob.
+    save(data_dir / 'show_registry.json', {
+        'storage_version': 2, 'show_count': len(shows),
+        'metadata': {k: v for k, v in registry.items() if k != 'shows'},
+        'shards': {f: checksums[f] for f in files if f.startswith('shows/')},
+    })
     save(data_dir / 'research_manifest.json', {'schema_version': 1, 'generated': registry['generated'],
-         'files': {f: hashlib.sha256((data_dir / f).read_bytes()).hexdigest() for f in files}})
+         'files': checksums})
 
 
 def main():
     data_dir = ROOT / 'data'
-    previous = load(data_dir / 'show_registry.json', {})
+    previous = load_registry(data_dir)
     moves = load(data_dir / 'host_moves.json', {})
     legacy = moves.get('moves', []) if moves.get('schema_version', 1) < 2 else []
     registry = build_registry(collect(data_dir), previous, legacy, datetime.now(timezone.utc).date().isoformat())
@@ -352,7 +385,6 @@ def main():
     for src, filename in [('apple', 'show_history.json'), ('spotify', 'spotify_show_history.json')]:
         scans[src] = sorted(set(scans.get(src, [])) | {e['date'] for e in load(data_dir / filename, {}).get('entries', [])})
     registry['chart_scan_dates'] = scans
-    save(data_dir / 'show_registry.json', registry)
     publish(data_dir, registry)
     print(f"Research registry: {len(registry['shows'])} durable show records")
 
