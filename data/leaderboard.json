@@ -1275,7 +1275,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/VKRX1702812835",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -2929,7 +2929,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/YAP3664118540",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -8249,7 +8249,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/SINCL8786936060",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -24540,7 +24540,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/4LZRim3c",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -37955,7 +37955,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/a8cdbf10-d816-4c77-9e79-aa1c012547e1/2c4fab5d-5afc-4430-852c-aa3801443b07/8dc5bee8-e8d4-4095-9c13-aa3801443b07/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -49433,7 +49433,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/928/destinations/3522.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -51633,7 +51633,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/56548/destinations/211291.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -56245,7 +56245,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6a1cc17c428d759cb3f4077d",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -56295,7 +56295,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6ac3c2599610f265be0022ef",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -56695,7 +56695,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://my.slate.com/podcasts/feeds/what-next-tbd/",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -62987,7 +62987,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://robinhoodradioondemand.com/feed/podcast/a-way-to-garden-with-margaret-roach/",
           "podcast_guid": "85e0957c-0cf3-5182-8340-ce56ac461653",
           "metadata_observed_on": "2026-11-07",
@@ -64737,7 +64737,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.sqpn.com/mysterious",
           "podcast_guid": "7e907b0b-2398-55fb-85a4-c0ce67ebced2",
           "metadata_observed_on": "2026-11-07",
@@ -65037,7 +65037,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.daopub.com/ld.xml",
           "podcast_guid": "7008bf9f-6510-4c43-b035-078e1bfabfff",
           "metadata_observed_on": "2026-11-07",
@@ -67605,7 +67605,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.buzzsprout.com/1890340.rss",
           "podcast_guid": "7d89294d-a2a8-5c8b-b033-799beeff27f2",
           "metadata_observed_on": "2026-11-07",
@@ -69913,7 +69913,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/1053d961c/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -71258,7 +71258,7 @@
           "last_published": "2026-11-06",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/1187253a8/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -73166,7 +73166,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.podbean.com/RadioRaah/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -74216,7 +74216,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.podbean.com/camerosity/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -74266,7 +74266,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.podbean.com/everythingag/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -76394,7 +76394,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.thespecialsaucepodcast.com/",
           "podcast_guid": "cd147521-b037-568f-b809-31ffbaf88b85",
           "metadata_observed_on": "2026-11-07",
@@ -81662,7 +81662,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss2.flightcast.com/pmgqiszts7kfhopzaq8el6yw.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -82588,7 +82588,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.xyzfm.space/j8yp8gxkmgqr",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
@@ -83404,7 +83404,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "http://portal-api.thisisdistorted.com/xml/chicane-presents-sun-sets",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-07",
