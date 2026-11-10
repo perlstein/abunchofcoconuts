@@ -14740,7 +14740,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/backonfigg",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-10",
@@ -24936,7 +24936,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/xE9e0As4",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-10",
@@ -34074,7 +34074,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8dbc4f54-a337-4481-9ef2-b355012b0a3d/eac4c628-29cb-469a-b5c8-b355012b0a48/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-10",
@@ -75417,7 +75417,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "http://rangedtouch.com/category/just-king-things/feed/",
           "podcast_guid": "a7e386cb-8c3c-52c1-ba7e-1ca126de213e",
           "metadata_observed_on": "2026-11-10",
@@ -78083,7 +78083,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.transistor.fm/appstories",
           "podcast_guid": "c19f4a55-29aa-5c4a-87de-b397385bc6ea",
           "metadata_observed_on": "2026-11-10",
