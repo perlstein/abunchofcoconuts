@@ -60,6 +60,7 @@ SUBGENRE_FEEDS_PATH = ROOT / "data" / "subgenre_feeds.csv"  # auto-built by subg
 # Blended, label-less corpus of bare feed URLs: the seed universe tracked for
 # host changes. Carries no labels or attribution. Optional (absent in dev).
 CORPUS_FEEDS_PATH = ROOT / "data" / "corpus_feeds.csv"
+IDENTITY_LINKS_PATH = ROOT / "data" / "identity_links.json"
 SPOTIFY_LEADERBOARD_PATH = ROOT / "data" / "spotify_leaderboard.json"
 TRENDING_PATH = ROOT / "data" / "trending.json"
 
@@ -251,6 +252,14 @@ def load_seed_feeds():
     label-less corpus_feeds.csv (the public engine's whole seed universe).
     Deduped by URL; the first occurrence's label wins."""
     out, seen = [], set()
+    # Feeds recovered for archived Apple chart IDs (backfill_identity.py). A show
+    # that left the charts before its feed was tracked would otherwise never get
+    # a host observation.
+    for link in _load_json(IDENTITY_LINKS_PATH) or []:
+        url = (link.get("feed_url") or "").strip()
+        if url.lower().startswith("http") and url not in seen:
+            seen.add(url)
+            out.append((url, link.get("title") or None))
     for path in (SUBGENRE_FEEDS_PATH, CORPUS_FEEDS_PATH):
         if not path.exists():
             continue
