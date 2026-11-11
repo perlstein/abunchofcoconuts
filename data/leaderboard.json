@@ -1175,7 +1175,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/ADV9127984426",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -12439,7 +12439,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/TSF5755062742",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -12689,7 +12689,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/stinkydragon",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -15376,7 +15376,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/radioatlantic",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -18026,7 +18026,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/ringer-dish",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -20026,7 +20026,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/galaxybrain",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -20576,7 +20576,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/IDG8935300959",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -25396,7 +25396,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/mYgYE8V9",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -29430,7 +29430,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/oPwoKpPT",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -32480,7 +32480,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/a0erDdmX",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -33080,7 +33080,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/C0h5kjnu",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -65598,7 +65598,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://finlayson-fife.com/podcasts-rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -72832,7 +72832,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.podbean.com/straightforwardfarming/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-11",
@@ -75650,7 +75650,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.redcircle.com/6fb1e853-719d-44d9-8b9e-9d4af81d7a89",
           "podcast_guid": "6fb1e853-719d-44d9-8b9e-9d4af81d7a89",
           "metadata_observed_on": "2026-11-11",
@@ -76350,7 +76350,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.redcircle.com/f0827e48-15bf-45e1-913f-95996ace10e6",
           "podcast_guid": "f0827e48-15bf-45e1-913f-95996ace10e6",
           "metadata_observed_on": "2026-11-11",
@@ -80552,7 +80552,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.captivate.fm/ben-franklins-world/",
           "podcast_guid": "b6d8b938-e4cf-527e-bbe5-92a5e739812e",
           "metadata_observed_on": "2026-11-11",
