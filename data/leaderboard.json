@@ -1225,7 +1225,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/mugglecast",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -13541,7 +13541,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/EDLLC3514359520",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -15828,7 +15828,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/thedavidfrumshow",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -37452,7 +37452,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/98a2599f-cd9b-4f2a-9be4-b22c00e585f2/82c7e0e1-3097-496e-8855-b3f40110f3b9/6a8ca33d-0301-4773-9f8e-b3f40110f3c4/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -41510,7 +41510,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.art19.com/the-memo-by-howard-marks",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -44868,7 +44868,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.art19.com/todd-n-tyler-radio-empire-podcast",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -62524,7 +62524,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.amperwave.net/v2/feed/audacy/ae81725dd31ba2d0cea338bae3e9cf3e",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -68600,7 +68600,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.buzzsprout.com/2343124.rss",
           "podcast_guid": "7bf028a1-a0aa-5fc1-890f-72458619596a",
           "metadata_observed_on": "2026-11-12",
@@ -81099,7 +81099,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:6030051/sounds.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
