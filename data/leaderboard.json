@@ -2629,7 +2629,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/askthecompound",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -7795,7 +7795,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/thehomefront",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -12741,7 +12741,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/storytimewithjoshandblue",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -13991,7 +13991,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/AMGAC9705074721",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -19028,7 +19028,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/served",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -19478,7 +19478,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/trapdraw",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -36167,7 +36167,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a9f8aaf1-b12b-40b8-85aa-b08f0126e2b6/1581fee1-5f5c-4277-9efe-b08f0127bab2/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -50199,7 +50199,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": true,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/529502/destinations/4554632.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -52949,7 +52949,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/66741/destinations/269939.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -53049,7 +53049,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://relay.fm/clockwise/feed",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -53149,7 +53149,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/585455/destinations/5079640.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
@@ -54694,7 +54694,7 @@
           "last_published": "2026-11-03",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6ac025230d8a484144efff63",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-12",
