@@ -1829,7 +1829,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/IWTYB6912370287/",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-13",
@@ -2779,7 +2779,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/RM6855404952",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-13",
@@ -5697,7 +5697,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/UOR9292670229",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-13",
@@ -5947,7 +5947,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/drnosleep",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-13",
@@ -6597,7 +6597,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/DNS7360946379",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-13",
@@ -56883,7 +56883,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6af5e6588c556a17cf43af7c",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-13",
@@ -68189,7 +68189,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.podbean.com/issaquahbuzz/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-13",
@@ -73946,7 +73946,7 @@
           "last_published": "2026-11-05",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": null,
           "podcast_guid": null,
           "metadata_observed_on": null,
@@ -73979,7 +73979,7 @@
           "last_published": "2026-11-12",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": null,
           "podcast_guid": null,
           "metadata_observed_on": null,
@@ -74627,7 +74627,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://radioopensource.org/feed/",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-13",
@@ -75985,7 +75985,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.transistor.fm/our-curious-amalgam",
           "podcast_guid": "e126735c-98d0-5e17-a74a-220daee45c4b",
           "metadata_observed_on": "2026-11-13",
