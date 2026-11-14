@@ -2779,7 +2779,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/RM3649708894",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-14",
@@ -20474,7 +20474,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/macworld",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-14",
@@ -20674,7 +20674,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/IDG8935300959",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-14",
@@ -21674,7 +21674,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/DIR9134059435",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-14",
@@ -48074,7 +48074,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/34911/destinations/85209.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-14",
@@ -54325,7 +54325,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/651bfc111a0dfa0011e0c9ee",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-14",
