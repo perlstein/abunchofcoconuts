@@ -1275,7 +1275,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/VKRX1793797555",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -10736,7 +10736,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/CTL7768873649",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -12836,7 +12836,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/NSR8265075081",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -15773,7 +15773,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/theyoungturks",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -19123,7 +19123,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/IKPN4136479588",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -41104,7 +41104,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.art19.com/masters-of-scale",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -48618,7 +48618,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/916/destinations/3511.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -52726,7 +52726,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/55809/destinations/207223.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -67046,7 +67046,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/ff33dd08/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -67654,7 +67654,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/e31e8b04/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -69962,7 +69962,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.buzzsprout.com/1853724.rss",
           "podcast_guid": "22734401-eb18-5bdd-83a3-73b9c8c7ae33",
           "metadata_observed_on": "2026-11-15",
