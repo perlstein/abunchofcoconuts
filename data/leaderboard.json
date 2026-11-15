@@ -14283,7 +14283,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/shoutitoutloudcast",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -23180,7 +23180,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/UP2Isnsy",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -35296,7 +35296,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/18f8f75d-e4c1-4ad3-b38e-b19201458be3/7b9adb3d-44da-494b-a803-b1920145ab57/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -49324,7 +49324,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/176333/destinations/1192955.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -52524,7 +52524,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/305027/destinations/2437685.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -67602,7 +67602,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": true,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/11a2671c0/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",
@@ -74534,7 +74534,7 @@
           "last_published": "2026-11-13",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": null,
           "podcast_guid": null,
           "metadata_observed_on": null,
@@ -84809,7 +84809,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.pod.co/the-art-of-awakening",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-15",

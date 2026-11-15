@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "shows": [
     {
       "itunes_id": "160904630",
@@ -28,7 +28,7 @@
       "feed_url": "https://feeds.megaphone.fm/ARML8165884693",
       "host": "Megaphone",
       "episode_count": 2000,
-      "last_published": "2026-11-12",
+      "last_published": "2026-11-14",
       "on_chart": true
     },
     {
@@ -48,7 +48,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/6abacdd76ffb28f8d6775e00",
       "host": "Acast",
       "episode_count": 2000,
-      "last_published": "2026-11-12",
+      "last_published": "2026-11-14",
       "on_chart": true
     },
     {
@@ -59,16 +59,6 @@
       "host": "Omny / Triton",
       "episode_count": 2000,
       "last_published": "2026-11-13",
-      "on_chart": true
-    },
-    {
-      "itunes_id": "158961219",
-      "title": "The Cato Weekly Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fc/95/3e/fc953e97-08bb-6a79-d5ce-e68a6068ec47/mza_9064887737174599358.jpeg/170x170bb.png",
-      "feed_url": "https://feeds.acast.com/public/shows/5e28e0d8963f166217546493",
-      "host": "Acast",
-      "episode_count": 2000,
-      "last_published": "2026-11-03",
       "on_chart": true
     },
     {
@@ -94,12 +84,12 @@
     {
       "itunes_id": "1433583146",
       "title": "WhatCulture Gaming",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/de/63/2b/de632b9b-e002-87e7-a75c-5c816d0b7152/mza_6920716791128904764.png/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/de/63/2b/de632b9b-e002-87e7-a75c-5c816d0b7152/mza_6920716791128904764.png/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/c78baeb1-14c1-497c-bbfb-350cecd87107",
       "host": "Acast",
       "episode_count": 1999,
       "last_published": "2026-11-14",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1640331646",
@@ -107,7 +97,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/09/6b/15/096b153d-4718-2ec0-547d-28b4e1531be4/mza_12703442939709128276.jpeg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/iowaeverywhere",
       "host": "Megaphone",
-      "episode_count": 1942,
+      "episode_count": 1943,
       "last_published": "2026-11-13",
       "on_chart": true
     },
@@ -167,8 +157,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/3a/ab/d73aab71-4aba-399f-43d2-e0351b6f8661/mza_14583232528022861104.jpeg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/amithegenius",
       "host": "Megaphone",
-      "episode_count": 1353,
-      "last_published": "2026-11-12",
+      "episode_count": 1354,
+      "last_published": "2026-11-13",
       "on_chart": true
     },
     {
@@ -194,12 +184,12 @@
     {
       "itunes_id": "1487513861",
       "title": "Get Sleepy: stories for sleep",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.megaphone.fm/SGP8517078272",
       "host": "Megaphone",
       "episode_count": 1232,
       "last_published": "2026-11-19",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1665219519",
@@ -277,8 +267,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/55/ba/6955ba9b-bb18-f834-88ff-23f074ab44ff/mza_102414667069556676.jpg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/SHHWD4599743349",
       "host": "Megaphone",
-      "episode_count": 1131,
-      "last_published": "2026-11-12",
+      "episode_count": 1132,
+      "last_published": "2026-11-14",
       "on_chart": true
     },
     {
@@ -392,6 +382,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1448604292",
+      "title": "Shout It Out Loudcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/44/d9/2d44d970-2b2a-c47c-a24f-224baf5374dd/mza_10818239564046676298.jpg/170x170bb.png",
+      "feed_url": "https://feeds.megaphone.fm/shoutitoutloudcast",
+      "host": "Megaphone",
+      "episode_count": 903,
+      "last_published": "2026-11-13",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1089973241",
       "title": "The Official SaaStr Podcast: SaaS | Founders | Investors",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/09/f6/5c09f622-930e-51ef-c5c5-bb4bfe64eaec/mza_17381129555848190764.png/600x600bb.jpg",
@@ -404,12 +404,12 @@
     {
       "itunes_id": "76699727",
       "title": "MuggleCast: The Harry Potter Re-Read Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/55/89/73/5589730b-9f69-1676-6c7b-fd4c6058529f/mza_9626456196136665390.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/55/89/73/5589730b-9f69-1676-6c7b-fd4c6058529f/mza_9626456196136665390.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.megaphone.fm/mugglecast",
       "host": "Megaphone",
       "episode_count": 883,
       "last_published": "2026-11-11",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1501880187",
@@ -587,8 +587,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/SSM2868305742",
       "host": "Megaphone",
-      "episode_count": 626,
-      "last_published": "2026-11-13",
+      "episode_count": 628,
+      "last_published": "2026-11-16",
       "on_chart": true
     },
     {
@@ -957,8 +957,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1e/ca/c2/1ecac2c7-a567-01ee-8bbe-80145ef185e3/mza_1975528560600666532.jpg/170x170bb.png",
       "feed_url": "https://feeds.transistor.fm/80000-hours-podcast",
       "host": "Transistor",
-      "episode_count": 369,
-      "last_published": "2026-11-10",
+      "episode_count": 370,
+      "last_published": "2026-11-13",
       "on_chart": true
     },
     {
@@ -1244,12 +1244,12 @@
     {
       "itunes_id": "1606809265",
       "title": "Trying Not to Care",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/be/72/00/be7200c4-f120-94e2-a6d8-3aed3fa5a9c0/mza_5302945902464215756.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/be/72/00/be7200c4-f120-94e2-a6d8-3aed3fa5a9c0/mza_5302945902464215756.jpg/600x600bb.jpg",
       "feed_url": "https://audioboom.com/channels/5085605.rss",
       "host": "Audioboom",
       "episode_count": 231,
       "last_published": "2026-11-02",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1563814788",
@@ -1874,12 +1874,12 @@
     {
       "itunes_id": "1421573955",
       "title": "Dr. Death",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/c5/84/79c584a0-727d-5c23-3223-9163a6e9d047/mza_4089194153421910651.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/c5/84/79c584a0-727d-5c23-3223-9163a6e9d047/mza_4089194153421910651.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/dr-death",
       "host": "Art19",
       "episode_count": 51,
       "last_published": "2026-11-09",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1755173852",
@@ -2637,19 +2637,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/12/0d/ba120dbc-d2be-ff79-e825-8cc84b77b797/mza_4350005222928080608.jpg/600x600bb.jpg",
       "feed_url": "https://rss.buzzsprout.com/2657560.rss",
       "host": "Buzzsprout",
-      "episode_count": 2,
-      "last_published": "2026-10-15",
+      "episode_count": 3,
+      "last_published": "2026-11-14",
       "on_chart": false
     },
     {
       "itunes_id": "6828599331",
       "title": "To Be Honest with Quinlan Walther",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/47/61/85476134-a901-2f56-3245-95fb3191fd1c/mza_15112870354436756145.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/85/47/61/85476134-a901-2f56-3245-95fb3191fd1c/mza_15112870354436756145.jpeg/600x600bb.jpg",
       "feed_url": "https://feeds.acast.com/public/shows/6ac025230d8a484144efff63",
       "host": "Acast",
       "episode_count": 2,
       "last_published": "2026-11-03",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "6819870116",
