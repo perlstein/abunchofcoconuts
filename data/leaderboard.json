@@ -2827,7 +2827,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/TIFM6133783130",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -15520,7 +15520,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/BENNYMED7549931483",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -17570,7 +17570,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/permanentquestions",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -34683,7 +34683,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/717172f9-c910-463a-ac64-a8f00106f265/48ffbace-4826-4ace-a409-ae76014f9793/a87a9838-10e0-4474-8f1d-ae76015007db/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -47815,7 +47815,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/451611/destinations/3794235.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
