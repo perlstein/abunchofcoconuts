@@ -775,7 +775,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/dish",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -2281,7 +2281,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/TAMTD8073577965",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -5899,7 +5899,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/straight-up-shelton",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -6799,7 +6799,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/PHTE7242290417",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -13839,7 +13839,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/definingduke",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -15039,7 +15039,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/THEDAILYSIGNAL2043100319",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -19476,7 +19476,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/postgame",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -28588,7 +28588,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/rLwdXRgF",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -31925,7 +31925,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/sa0QprVo",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -34333,7 +34333,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/13ef36f9-b947-4bf3-ba70-a8260147fab8/13443b64-a0d3-4679-b3b2-aa3200cde8cc/fc48640f-7800-4ec5-93dc-aa3200cde8da/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -42909,7 +42909,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.art19.com/red-valley",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -48119,7 +48119,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/94820/destinations/482814.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
@@ -78866,7 +78866,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://mcsorleys.barstoolsports.com/feed/planbri-uncut",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-16",
