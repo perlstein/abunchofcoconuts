@@ -1125,7 +1125,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/gom-jabbar",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -34752,7 +34752,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/a7b0bd27-d748-4fbe-ab3b-a6fa0049bcf6/b8131f2f-955e-465a-b8c1-b0b601018d7a/bc77706a-40c9-4c5c-a02a-b0b601018d8c/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -57158,7 +57158,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6ae8baec375d48fb430b9032",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -57608,7 +57608,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6a98464fe7a9fe2478f741e7",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -60924,7 +60924,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://audioboom.com/channels/5034723.rss",
           "podcast_guid": "dffd62b5-5c0d-5048-8911-22a5d4bc7ccd",
           "metadata_observed_on": "2026-11-17",
@@ -64198,7 +64198,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/f06a1be8/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -65756,7 +65756,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/297b36c0/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -69922,7 +69922,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.spreaker.com/show/4464781/episodes/feed",
           "podcast_guid": "a524bea2-c326-554d-ac32-0caa14b6eb0c",
           "metadata_observed_on": "2026-11-17",
@@ -71024,7 +71024,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.spreaker.com/show/5883154/episodes/feed",
           "podcast_guid": "3c0b316e-3c04-5f4b-a419-ef9afc6fdc8e",
           "metadata_observed_on": "2026-11-17",
@@ -72332,7 +72332,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.buzzsprout.com/745205.rss",
           "podcast_guid": "5e18249c-aa55-556d-9452-bb9721f29380",
           "metadata_observed_on": "2026-11-17",
@@ -75404,7 +75404,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.retirementwisdom.com/podcasts/feed/retirement-wisdom-podcast-feed/",
           "podcast_guid": "bd417a4f-2492-5f16-ac8e-d8eb34a8da72",
           "metadata_observed_on": "2026-11-17",
@@ -76304,7 +76304,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "http://feeds.feedburner.com/ThisHadOscarBuzz",
           "podcast_guid": "d16a050b-f130-531b-953b-00bec0219cc3",
           "metadata_observed_on": "2026-11-17",
