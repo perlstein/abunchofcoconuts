@@ -12794,7 +12794,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/EPI2414865299",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -47474,7 +47474,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/91128/destinations/454482.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -54890,7 +54890,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/5e28e0d8963f166217546493",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -66092,7 +66092,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/102804adc/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -67342,7 +67342,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/13394a00/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -78599,7 +78599,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://podcasts.files.bbci.co.uk/w13xtvs0.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
@@ -84241,7 +84241,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.ximalaya.com/album/67531569.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-17",
