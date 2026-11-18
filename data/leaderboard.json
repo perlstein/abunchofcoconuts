@@ -625,7 +625,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": true,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/dish",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -2281,7 +2281,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/GLD9218176758",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -2631,7 +2631,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/LLL5449685314",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -9597,7 +9597,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/sleepyhistory",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -21184,7 +21184,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/nvidiaaipodcast",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -32734,7 +32734,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/hWgo8jEx",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -33334,7 +33334,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.eff.org/howtofixtheinternet",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -49434,7 +49434,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/830/destinations/3440.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -73825,7 +73825,7 @@
           "last_published": "2026-11-18",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": null,
           "podcast_guid": null,
           "metadata_observed_on": null,
@@ -84285,7 +84285,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "http://feeds.feedburner.com/kaleochurchsermons",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
