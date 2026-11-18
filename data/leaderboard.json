@@ -15576,7 +15576,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/candace",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -20226,7 +20226,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/ESP5342806866",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -45668,7 +45668,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://rss.art19.com/new-heights",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -50984,7 +50984,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/43690/destinations/138325.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-18",
@@ -59899,7 +59899,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://audioboom.com/channels/5131280.rss",
           "podcast_guid": "5386d62a-2a74-5a4c-af88-f88aec2f8146",
           "metadata_observed_on": "2026-11-18",
