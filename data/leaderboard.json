@@ -6297,7 +6297,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/nightfalls",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-19",
@@ -6697,7 +6697,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/lastshift",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-19",
@@ -20978,7 +20978,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/possible",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-19",
@@ -28491,7 +28491,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/lQwwDIs1",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-19",
@@ -31228,7 +31228,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/VISQt3DT",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-19",
@@ -53694,7 +53694,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6517d338ebbe5d0011a4ac1b",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-19",
@@ -55494,7 +55494,7 @@
             "trend": null
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6af3e92f3925cd47eb310fd9",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-19",
@@ -83762,7 +83762,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "http://www.ximalaya.com/album/26640504.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-19",
