@@ -4101,7 +4101,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/YMH5847489315",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-20",
@@ -4301,7 +4301,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/YMH8516456556",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-20",
@@ -46769,7 +46769,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.art19.com/the-womens-game",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-20",
@@ -51879,7 +51879,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/6af5e6588c556a17cf43af7c",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-20",
@@ -81081,7 +81081,7 @@
             "trend": null
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.publicradio.org/public_feeds/song-of-the-day",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-20",
@@ -81441,7 +81441,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": true,
+          "apple_video": false,
           "resolved_feed_url": "https://rss2.flightcast.com/luffx5klc3kc1at92ws4yrrm.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-20",
