@@ -18376,7 +18376,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/ASEMS4278037250",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-21",
@@ -24386,7 +24386,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/Cyw1tJ_z",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-21",
@@ -70648,7 +70648,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.buzzsprout.com/1051513.rss",
           "podcast_guid": "668ea23e-3384-5160-a8b8-49eca0c6c486",
           "metadata_observed_on": "2026-11-21",
