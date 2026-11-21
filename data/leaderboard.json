@@ -7634,7 +7634,7 @@
           "last_published": "2026-11-18",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/NILOR5371102240",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-21",
@@ -31864,7 +31864,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/08g3zWzs",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-21",
@@ -40646,7 +40646,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://rss.art19.com/the-newest-olympian",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-21",
@@ -61314,7 +61314,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/for-the-love",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-21",
@@ -65667,7 +65667,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/1142f2a28/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-21",
