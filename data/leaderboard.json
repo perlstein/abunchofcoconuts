@@ -5293,7 +5293,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/beginagain",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-22",
@@ -35483,7 +35483,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/566281f8-200e-4c9f-8378-a4870055423b/d4aac6b4-08ca-4a8d-be5f-ae8a0051cdab/e4d26527-d5d0-4421-8d2c-afd600162e95/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-22",
@@ -71198,7 +71198,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.podbean.com/newhorizonmeditation/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-22",
@@ -75870,7 +75870,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://esl.culips.com/feed/podcast/",
           "podcast_guid": "e3eed996-85b4-59d1-8600-548d0729ec59",
           "metadata_observed_on": "2026-11-22",
@@ -82460,7 +82460,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.cdnstream1.com/zjb/feed/download/4b/e5/cc/4be5cc7b-8528-4b9e-8981-08d89bcff381.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-22",
