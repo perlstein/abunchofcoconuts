@@ -52165,7 +52165,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/108018/destinations/586545.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-22",
@@ -57279,7 +57279,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/66e25e2a9a7dcc160e7c1211",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-22",
