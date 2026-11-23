@@ -64162,7 +64162,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/rico-brogna",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-23",
@@ -72196,7 +72196,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.spreaker.com/show/5817291/episodes/feed",
           "podcast_guid": "1de56163-27d0-55cf-a79e-93ae55a1e80f",
           "metadata_observed_on": "2026-11-23",
@@ -81896,7 +81896,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.captivate.fm/ifanboy/",
           "podcast_guid": "dca6b694-1602-5c0e-b40a-f03ced0901d4",
           "metadata_observed_on": "2026-11-23",
