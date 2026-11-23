@@ -825,7 +825,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/dish",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-23",
@@ -13875,7 +13875,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/IMP2654482957",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-23",
@@ -23624,7 +23624,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/HZtr0HV5",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-23",
@@ -36431,7 +36431,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/2a719a76-7cdb-4059-a7a0-af33012f7563/94ffb699-c5c9-4525-bf39-af3801515155/31f23a60-ba51-46ce-98b6-af380151517b/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-23",
@@ -43247,7 +43247,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.art19.com/redacted-declassified-mysteries",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-23",
@@ -67926,7 +67926,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.buzzsprout.com/2248211.rss",
           "podcast_guid": "8f961529-c898-566f-a7d3-058991312051",
           "metadata_observed_on": "2026-11-23",
@@ -73639,7 +73639,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feed.podbean.com/bogleheads/feed.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-23",
@@ -85125,7 +85125,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "http://www.ximalaya.com/album/33244571.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-23",
