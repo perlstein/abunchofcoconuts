@@ -12832,7 +12832,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/HSW7290434971",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-24",
@@ -63974,7 +63974,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/108411f00/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-24",
