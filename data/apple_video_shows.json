@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24",
+  "generated": "2026-11-25",
   "shows": [
     {
       "itunes_id": "597919007",
@@ -18,7 +18,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
       "host": "Acast",
       "episode_count": 2174,
-      "last_published": "2026-11-23",
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -28,7 +28,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/6818c192eb737caf8cadd833",
       "host": "Acast",
       "episode_count": 2001,
-      "last_published": "2026-11-23",
+      "last_published": "2026-11-24",
       "on_chart": false
     },
     {
@@ -38,7 +38,7 @@
       "feed_url": "https://feeds.megaphone.fm/ARML8165884693",
       "host": "Megaphone",
       "episode_count": 2000,
-      "last_published": "2026-11-23",
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -78,7 +78,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/5e28e0d8963f166217546493",
       "host": "Acast",
       "episode_count": 2000,
-      "last_published": "2026-11-10",
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -102,6 +102,16 @@
       "on_chart": true
     },
     {
+      "itunes_id": "1414100645",
+      "title": "Pack-A-Day: Your Daily Packers Podcast",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8d/86/da/8d86daad-5058-20bd-3bfd-156ad9fc5c36/mza_7090265852042132910.jpeg/170x170bb.png",
+      "feed_url": "https://feeds.simplecast.com/wX3kDX_W",
+      "host": "Simplecast",
+      "episode_count": 2000,
+      "last_published": "2026-11-24",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1433583146",
       "title": "WhatCulture Gaming",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/de/63/2b/de632b9b-e002-87e7-a75c-5c816d0b7152/mza_6920716791128904764.png/170x170bb.png",
@@ -117,8 +127,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/09/6b/15/096b153d-4718-2ec0-547d-28b4e1531be4/mza_12703442939709128276.jpeg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/iowaeverywhere",
       "host": "Megaphone",
-      "episode_count": 1963,
-      "last_published": "2026-11-24",
+      "episode_count": 1964,
+      "last_published": "2026-11-25",
       "on_chart": true
     },
     {
@@ -127,8 +137,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/04/ea/53/04ea5351-9a69-6650-ac69-d6351bfd95da/mza_16931716041146167328.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/69545da8cb029db7575279fc",
       "host": "Acast",
-      "episode_count": 1828,
-      "last_published": "2026-11-23",
+      "episode_count": 1829,
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -177,7 +187,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/3a/ab/d73aab71-4aba-399f-43d2-e0351b6f8661/mza_14583232528022861104.jpeg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/amithegenius",
       "host": "Megaphone",
-      "episode_count": 1363,
+      "episode_count": 1364,
       "last_published": "2026-11-23",
       "on_chart": true
     },
@@ -192,24 +202,14 @@
       "on_chart": true
     },
     {
-      "itunes_id": "1487513861",
-      "title": "Get Sleepy: stories for sleep",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
-      "feed_url": "https://feeds.megaphone.fm/SGP8517078272",
-      "host": "Megaphone",
-      "episode_count": 1241,
-      "last_published": "2026-12-03",
-      "on_chart": false
-    },
-    {
       "itunes_id": "1665219519",
       "title": "Reuters World News",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/37/79/ed/3779ed28-900c-fe28-3fd4-177873c3bba4/mza_6421898793909046859.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/37/79/ed/3779ed28-900c-fe28-3fd4-177873c3bba4/mza_6421898793909046859.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.megaphone.fm/reutersworldnews",
       "host": "Megaphone",
-      "episode_count": 1240,
-      "last_published": "2026-11-23",
-      "on_chart": true
+      "episode_count": 1241,
+      "last_published": "2026-11-24",
+      "on_chart": false
     },
     {
       "itunes_id": "880837011",
@@ -220,6 +220,16 @@
       "episode_count": 1237,
       "last_published": "2026-11-23",
       "on_chart": true
+    },
+    {
+      "itunes_id": "1487513861",
+      "title": "Get Sleepy: stories for sleep",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/600x600bb.jpg",
+      "feed_url": "https://feeds.megaphone.fm/SGP8517078272",
+      "host": "Megaphone",
+      "episode_count": 1237,
+      "last_published": "2026-11-26",
+      "on_chart": false
     },
     {
       "itunes_id": "647826736",
@@ -237,8 +247,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/f7/dc/e8f7dc6d-ba02-d839-8cf3-119f07786f76/mza_1421743491560310916.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/66b409fbec20c36e8e2e4115",
       "host": "Acast",
-      "episode_count": 1200,
-      "last_published": "2026-11-22",
+      "episode_count": 1201,
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -537,8 +547,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/6f/83/da6f83ce-5d6e-e4e6-42e8-906e085d2431/mza_7970262893223688744.jpg/170x170bb.png",
       "feed_url": "https://feeds.transistor.fm/technology-brother",
       "host": "Transistor",
-      "episode_count": 768,
-      "last_published": "2026-11-23",
+      "episode_count": 770,
+      "last_published": "2026-11-25",
       "on_chart": true
     },
     {
@@ -547,8 +557,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/6a/44/d66a446d-cfdf-489c-ab3c-f7578b996878/mza_14946399919998708600.jpg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/IKPN4136479588",
       "host": "Megaphone",
-      "episode_count": 758,
-      "last_published": "2026-11-22",
+      "episode_count": 759,
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -584,12 +594,12 @@
     {
       "itunes_id": "1709071922",
       "title": "Hello, Puzzlers!",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/d6/e9/b4d6e920-2760-bc18-db40-e825385e04f6/mza_1681624259175412099.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b4/d6/e9/b4d6e920-2760-bc18-db40-e825385e04f6/mza_1681624259175412099.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/hello-puzzlers",
       "host": "Art19",
       "episode_count": 720,
       "last_published": "2026-11-23",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1529800263",
@@ -634,22 +644,22 @@
     {
       "itunes_id": "948913991",
       "title": "Exchanges",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/79/a4/c379a4a5-f7c8-4439-a0a2-cd29e4477057/mza_6867949465968852213.png/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/79/a4/c379a4a5-f7c8-4439-a0a2-cd29e4477057/mza_6867949465968852213.png/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/GLD9218176758",
       "host": "Megaphone",
       "episode_count": 653,
       "last_published": "2026-11-17",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1378040733",
       "title": "Nothing much happens: bedtime stories to help you sleep",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.megaphone.fm/SSM2868305742",
       "host": "Megaphone",
       "episode_count": 630,
       "last_published": "2026-11-26",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1456467014",
@@ -657,7 +667,7 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ec/24/9b/ec249b4b-de37-6119-9a20-abee7f026747/mza_15439318216231701568.jpg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/TCP4771071679",
       "host": "Megaphone",
-      "episode_count": 627,
+      "episode_count": 628,
       "last_published": "2026-11-20",
       "on_chart": true
     },
@@ -667,19 +677,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/98/f2/3798f205-1638-f2bb-b7be-99a4346637a2/mza_16903719543958962168.jpg/170x170bb.png",
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/comeback-szn",
       "host": "Barstool Sports",
-      "episode_count": 621,
-      "last_published": "2026-11-24",
+      "episode_count": 622,
+      "last_published": "2026-11-25",
       "on_chart": true
     },
     {
       "itunes_id": "1471270483",
       "title": "Gloss Angeles",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/91/b7/0e91b735-b578-05d4-0110-72ebd62b174b/mza_6016859994760297336.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/03963f96-9683-5260-8377-d391301de9b7",
       "host": "Acast",
       "episode_count": 619,
       "last_published": "2026-11-24",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "312900254",
@@ -847,8 +857,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/33/6f/c6/336fc616-d502-e275-2b71-7cb67da75009/mza_4089989466656231139.jpeg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/candace",
       "host": "Megaphone",
-      "episode_count": 463,
-      "last_published": "2026-11-24",
+      "episode_count": 464,
+      "last_published": "2026-11-25",
       "on_chart": true
     },
     {
@@ -857,8 +867,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/82/88/df828894-86b2-309d-3bf5-8a3fd0bf7d8f/mza_1684717036094600523.jpg/170x170bb.png",
       "feed_url": "https://mcsorleys.barstoolsports.com/podcasts/380590e1/feed.xml",
       "host": "Barstool Sports",
-      "episode_count": 457,
-      "last_published": "2026-11-17",
+      "episode_count": 458,
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -892,6 +902,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "1727790717",
+      "title": "Served with Andy Roddick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/d4/37/c4d43779-19bc-bc93-7331-0b9434f9083a/mza_2781453858196074609.jpeg/170x170bb.png",
+      "feed_url": "https://feeds.megaphone.fm/served",
+      "host": "Megaphone",
+      "episode_count": 435,
+      "last_published": "2026-11-20",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1484760064",
       "title": "Get Started Investing",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/93/cb/da93cb4e-3b75-a927-c381-002016f33034/mza_5448240316491935178.jpeg/600x600bb.jpg",
@@ -899,16 +919,6 @@
       "host": "Acast",
       "episode_count": 435,
       "last_published": "2026-11-23",
-      "on_chart": false
-    },
-    {
-      "itunes_id": "1727790717",
-      "title": "Served with Andy Roddick",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/d4/37/c4d43779-19bc-bc93-7331-0b9434f9083a/mza_2781453858196074609.jpeg/600x600bb.jpg",
-      "feed_url": "https://feeds.megaphone.fm/served",
-      "host": "Megaphone",
-      "episode_count": 434,
-      "last_published": "2026-11-20",
       "on_chart": false
     },
     {
@@ -928,7 +938,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/6953b9ead0c0aeaf12bcbd70",
       "host": "Acast",
       "episode_count": 429,
-      "last_published": "2026-11-21",
+      "last_published": "2026-11-23",
       "on_chart": false
     },
     {
@@ -997,8 +1007,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/28/29/cc/2829cc5e-9422-0cd1-81c5-b1e6e8be177c/mza_11523760701586402293.jpeg/170x170bb.png",
       "feed_url": "https://feeds.acast.com/public/shows/4d1603d1-3c56-4f4d-a5b3-7611f87011a9",
       "host": "Acast",
-      "episode_count": 398,
-      "last_published": "2026-11-11",
+      "episode_count": 399,
+      "last_published": "2026-11-25",
       "on_chart": true
     },
     {
@@ -1024,12 +1034,12 @@
     {
       "itunes_id": "1544833260",
       "title": "Ask The Compound",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/77/37/d7773792-205f-a475-9986-c21e8158f9ea/mza_12467752170087112878.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/77/37/d7773792-205f-a475-9986-c21e8158f9ea/mza_12467752170087112878.jpg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/askthecompound",
       "host": "Megaphone",
       "episode_count": 377,
       "last_published": "2026-11-18",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1596728253",
@@ -1044,12 +1054,12 @@
     {
       "itunes_id": "1245002988",
       "title": "80,000 Hours Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1e/ca/c2/1ecac2c7-a567-01ee-8bbe-80145ef185e3/mza_1975528560600666532.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1e/ca/c2/1ecac2c7-a567-01ee-8bbe-80145ef185e3/mza_1975528560600666532.jpg/170x170bb.png",
       "feed_url": "https://feeds.transistor.fm/80000-hours-podcast",
       "host": "Transistor",
-      "episode_count": 372,
+      "episode_count": 373,
       "last_published": "2026-11-19",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1566731706",
@@ -1067,8 +1077,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/09/a6/e809a65d-03c3-82ce-383b-5586f49acc5b/mza_10887220202918113929.jpg/170x170bb.png",
       "feed_url": "https://feeds.simplecast.com/6J0Ivoq9",
       "host": "Simplecast",
-      "episode_count": 367,
-      "last_published": "2026-11-17",
+      "episode_count": 368,
+      "last_published": "2026-11-20",
       "on_chart": true
     },
     {
@@ -1097,8 +1107,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/82/5a/84/825a8420-ba97-a55b-98e4-323f79ea1a34/mza_10440591909348362177.jpg/170x170bb.png",
       "feed_url": "https://feeds.simplecast.com/CNz6ZsPr",
       "host": "Simplecast",
-      "episode_count": 349,
-      "last_published": "2026-11-17",
+      "episode_count": 350,
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -1174,12 +1184,12 @@
     {
       "itunes_id": "1560751222",
       "title": "All the Hacks: Money, Points & Life",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4e/25/ce/4e25ce8a-998f-197d-fca7-98f624434d7f/mza_13655246230400093108.jpg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4e/25/ce/4e25ce8a-998f-197d-fca7-98f624434d7f/mza_13655246230400093108.jpg/600x600bb.jpg",
       "feed_url": "https://feeds.transistor.fm/all-the-hacks",
       "host": "Transistor",
       "episode_count": 304,
       "last_published": "2026-11-11",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1627891759",
@@ -1212,16 +1222,6 @@
       "on_chart": true
     },
     {
-      "itunes_id": "990149481",
-      "title": "The Knowledge Project",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/9c/e2/4a9ce2fd-ddf6-0d00-8760-4e7167378ecf/mza_16600443422050351456.jpeg/170x170bb.png",
-      "feed_url": "https://feeds.megaphone.fm/FSMI7575968096",
-      "host": "Megaphone",
-      "episode_count": 295,
-      "last_published": "2026-11-10",
-      "on_chart": true
-    },
-    {
       "itunes_id": "1570644971",
       "title": "Summation with Auren Hoffman",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/bf/3d/68bf3d7d-2fb1-bfbf-1583-434c195ccbac/mza_10904211912736335537.jpg/600x600bb.jpg",
@@ -1230,6 +1230,16 @@
       "episode_count": 295,
       "last_published": "2026-11-24",
       "on_chart": false
+    },
+    {
+      "itunes_id": "990149481",
+      "title": "The Knowledge Project",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/9c/e2/4a9ce2fd-ddf6-0d00-8760-4e7167378ecf/mza_16600443422050351456.jpeg/170x170bb.png",
+      "feed_url": "https://feeds.megaphone.fm/FSMI7575968096",
+      "host": "Megaphone",
+      "episode_count": 294,
+      "last_published": "2026-11-10",
+      "on_chart": true
     },
     {
       "itunes_id": "1577864998",
@@ -1247,19 +1257,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/21/b1/8c/21b18c51-3734-7fdd-8113-b05631c38dc6/mza_3436610707193666304.jpeg/170x170bb.png",
       "feed_url": "https://rss.art19.com/the-newest-olympian",
       "host": "Art19",
-      "episode_count": 281,
-      "last_published": "2026-11-20",
+      "episode_count": 282,
+      "last_published": "2026-11-25",
       "on_chart": true
     },
     {
       "itunes_id": "1711834296",
       "title": "Taylor Watch",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/4f/91/d44f91a6-7248-3978-080c-25a831768bee/mza_9721825394188152115.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/4f/91/d44f91a6-7248-3978-080c-25a831768bee/mza_9721825394188152115.jpg/170x170bb.png",
       "feed_url": "https://mcsorleys.barstoolsports.com/podcasts/Y30IqxclSwJmPEpVguddMWp9/feed.xml",
       "host": "Barstool Sports",
       "episode_count": 270,
       "last_published": "2026-11-19",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1479285354",
@@ -1297,19 +1307,19 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/f3/0c/69f30c74-d45b-bbca-a756-11aaf092ac3e/mza_8637948344782580934.jpg/170x170bb.png",
       "feed_url": "https://rss2.flightcast.com/mbqbwjr8ssv2vt5jgwcv3w20.xml",
       "host": "Flightcast",
-      "episode_count": 249,
+      "episode_count": 250,
       "last_published": "2026-11-17",
       "on_chart": true
     },
     {
       "itunes_id": "1617883406",
       "title": "Compass Points",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/07/e4/2607e41c-330e-c1e5-45db-b529a9ee2d7d/mza_15517120161772684229.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/07/e4/2607e41c-330e-c1e5-45db-b529a9ee2d7d/mza_15517120161772684229.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.libsyn.com/shows/409379/destinations/3389264.xml",
       "host": "Libsyn",
       "episode_count": 246,
       "last_published": "2026-11-22",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "1704206163",
@@ -1467,8 +1477,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/61/84/88/6184889e-826a-dcaf-0e9d-76e6c6d05f9f/mza_2601383526890745965.jpg/170x170bb.png",
       "feed_url": "https://feeds.megaphone.fm/dish",
       "host": "Megaphone",
-      "episode_count": 190,
-      "last_published": "2026-11-18",
+      "episode_count": 191,
+      "last_published": "2026-11-25",
       "on_chart": true
     },
     {
@@ -1514,12 +1524,12 @@
     {
       "itunes_id": "1277969212",
       "title": "Barstool Pick Em",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/c5/00/59/c50059f3-052c-0c54-2910-e4f39595e1a9/mza_7788918276554253943.jpg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/c5/00/59/c50059f3-052c-0c54-2910-e4f39595e1a9/mza_7788918276554253943.jpg/170x170bb.png",
       "feed_url": "https://mcsorleys.barstoolsports.com/feed/barstool-pickem",
       "host": "Barstool Sports",
-      "episode_count": 177,
-      "last_published": "2026-11-12",
-      "on_chart": false
+      "episode_count": 178,
+      "last_published": "2026-11-25",
+      "on_chart": true
     },
     {
       "itunes_id": "1738794415",
@@ -1588,7 +1598,7 @@
       "feed_url": "https://feeds.megaphone.fm/sleepyhistory",
       "host": "Megaphone",
       "episode_count": 153,
-      "last_published": "2026-12-01",
+      "last_published": "2026-12-03",
       "on_chart": true
     },
     {
@@ -1644,12 +1654,12 @@
     {
       "itunes_id": "1767185986",
       "title": "Being Jewish with Jonah Platt",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/27/0a/2e/270a2ec5-81aa-ee16-68c0-fb380a109230/mza_6147552928324784150.jpeg/600x600bb.jpg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/27/0a/2e/270a2ec5-81aa-ee16-68c0-fb380a109230/mza_6147552928324784150.jpeg/170x170bb.png",
       "feed_url": "https://feeds.cohostpodcasting.com/c2vDgCoR",
       "host": "CoHost",
       "episode_count": 143,
       "last_published": "2026-11-24",
-      "on_chart": false
+      "on_chart": true
     },
     {
       "itunes_id": "1719789201",
@@ -1710,6 +1720,16 @@
       "episode_count": 122,
       "last_published": "2026-11-12",
       "on_chart": false
+    },
+    {
+      "itunes_id": "1750736528",
+      "title": "Training Data",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/01/bd/4001bd05-9453-3d7f-c034-d815c74d332d/mza_6464974713460854089.png/170x170bb.png",
+      "feed_url": "https://feeds.megaphone.fm/trainingdata",
+      "host": "Megaphone",
+      "episode_count": 115,
+      "last_published": "2026-11-24",
+      "on_chart": true
     },
     {
       "itunes_id": "1723403350",
@@ -1957,8 +1977,8 @@
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/13/7f/0a137f52-07d0-d50b-aab2-9204c758041d/mza_9738203039129921166.jpg/170x170bb.png",
       "feed_url": "https://rss.buzzsprout.com/2458177.rss",
       "host": "Buzzsprout",
-      "episode_count": 60,
-      "last_published": "2026-11-10",
+      "episode_count": 61,
+      "last_published": "2026-11-24",
       "on_chart": true
     },
     {
@@ -2102,6 +2122,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "1877705944",
+      "title": "Stories of Art",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/d1/9c/93d19ce1-9e66-052b-f6dd-85b04c33ce31/mza_9317689713513636454.jpg/170x170bb.png",
+      "feed_url": "https://rss2.flightcast.com/mqmgmtnt1tf3r7iyurohb3ib.xml",
+      "host": "Flightcast",
+      "episode_count": 42,
+      "last_published": "2026-11-17",
+      "on_chart": true
+    },
+    {
       "itunes_id": "1876968955",
       "title": "Friends Keep Secrets",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/66/4c/0b/664c0b43-a04b-8114-68c0-59726320aded/mza_17105170738683158659.jpg/600x600bb.jpg",
@@ -2110,16 +2140,6 @@
       "episode_count": 41,
       "last_published": "2026-11-24",
       "on_chart": false
-    },
-    {
-      "itunes_id": "1877705944",
-      "title": "Stories of Art",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/d1/9c/93d19ce1-9e66-052b-f6dd-85b04c33ce31/mza_9317689713513636454.jpg/170x170bb.png",
-      "feed_url": "https://rss2.flightcast.com/mqmgmtnt1tf3r7iyurohb3ib.xml",
-      "host": "Flightcast",
-      "episode_count": 41,
-      "last_published": "2026-11-17",
-      "on_chart": true
     },
     {
       "itunes_id": "1877266132",
@@ -2424,12 +2444,12 @@
     {
       "itunes_id": "507135865",
       "title": "Legion of Skanks Podcast",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/34/6d/3b/346d3b42-6ca9-4301-85e7-8a4275d83f6c/mza_16145849430656662283.jpeg/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/34/6d/3b/346d3b42-6ca9-4301-85e7-8a4275d83f6c/mza_16145849430656662283.jpeg/600x600bb.jpg",
       "feed_url": "https://rss.art19.com/legion-of-skanks",
       "host": "Art19",
       "episode_count": 20,
       "last_published": "2026-11-13",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "6788060249",
@@ -2564,12 +2584,12 @@
     {
       "itunes_id": "6803240325",
       "title": "The Permanent Questions With David Brooks",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/51/fd/8451fd9a-b37d-7660-10a7-cfc1a2cef4d1/mza_14608455056506575971.png/170x170bb.png",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/51/fd/8451fd9a-b37d-7660-10a7-cfc1a2cef4d1/mza_14608455056506575971.png/600x600bb.jpg",
       "feed_url": "https://feeds.megaphone.fm/permanentquestions",
       "host": "Megaphone",
       "episode_count": 12,
       "last_published": "2026-11-22",
-      "on_chart": true
+      "on_chart": false
     },
     {
       "itunes_id": "6808978952",
@@ -2652,6 +2672,16 @@
       "on_chart": false
     },
     {
+      "itunes_id": "6821125433",
+      "title": "Midnight Radio",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/dd/f3/6fddf354-332d-ce62-8d9b-f8c2e848ab39/mza_12964220275557830237.jpg/170x170bb.png",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b86ad516-baad-4e99-9b99-b4de011c14eb/268bd2bd-17f6-4561-9992-b4de011c1902/podcast.rss",
+      "host": "Omny / Triton",
+      "episode_count": 9,
+      "last_published": "2026-11-23",
+      "on_chart": true
+    },
+    {
       "itunes_id": "6817330100",
       "title": "Bots Don't Cry",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/e4/49/dde449d4-5264-cad6-316b-87dd9a41c3ac/mza_2576793527310893825.jpg/600x600bb.jpg",
@@ -2680,16 +2710,6 @@
       "episode_count": 8,
       "last_published": "2026-11-17",
       "on_chart": false
-    },
-    {
-      "itunes_id": "6821125433",
-      "title": "Midnight Radio",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/dd/f3/6fddf354-332d-ce62-8d9b-f8c2e848ab39/mza_12964220275557830237.jpg/170x170bb.png",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b86ad516-baad-4e99-9b99-b4de011c14eb/268bd2bd-17f6-4561-9992-b4de011c1902/podcast.rss",
-      "host": "Omny / Triton",
-      "episode_count": 8,
-      "last_published": "2026-11-23",
-      "on_chart": true
     },
     {
       "itunes_id": "6810221315",
