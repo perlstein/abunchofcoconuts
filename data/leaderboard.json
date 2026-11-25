@@ -1729,7 +1729,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/pbdpodcast",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-25",
@@ -22376,7 +22376,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/ESP8934279661",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-25",
@@ -71906,7 +71906,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.spreaker.com/show/6874234/episodes/feed",
           "podcast_guid": "c7e2777d-ef6c-5147-a2d7-a72fd785f197",
           "metadata_observed_on": "2026-11-25",
