@@ -48632,7 +48632,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.libsyn.com/shows/43423/destinations/136703.xml",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-26",
@@ -57248,7 +57248,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.acast.com/public/shows/5d0a6e707759114c1b3267c1",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-26",
@@ -68239,7 +68239,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.buzzsprout.com/2532863.rss",
           "podcast_guid": "b0490829-704c-5315-bb76-2e07d6d46062",
           "metadata_observed_on": "2026-11-26",
@@ -72759,7 +72759,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.spreaker.com/show/6019906/episodes/feed",
           "podcast_guid": "4683aef0-f3cf-5962-9abd-6c19c1d11612",
           "metadata_observed_on": "2026-11-26",
@@ -82659,7 +82659,7 @@
             "trend": null
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.captivate.fm/sucker/",
           "podcast_guid": "829a7a72-e242-503f-a5fc-e87b3b4bc138",
           "metadata_observed_on": "2026-11-26",
