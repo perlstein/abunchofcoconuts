@@ -15090,7 +15090,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/hark",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-26",
@@ -20877,7 +20877,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/WSMM6799091049",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-26",
@@ -32981,7 +32981,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/g0emIHww",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-26",
@@ -42109,7 +42109,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://www.omnycontent.com/d/playlist/0c331867-ade6-4f54-a1a9-aa5d00345817/83401779-97c9-44de-9cc7-b1bc0147b77b/2ab10124-220b-48bc-b067-b1bc014c8107/podcast.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-26",
@@ -64366,7 +64366,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://anchor.fm/s/fb4114e0/podcast/rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-26",
@@ -69178,7 +69178,7 @@
           "last_published": "2026-11-25",
           "schedule": null,
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": true,
           "resolved_feed_url": "https://rss.buzzsprout.com/2663333.rss",
           "podcast_guid": "adc50df0-4f3a-5420-8d86-3fd3d65a10fc",
           "metadata_observed_on": "2026-11-26",
@@ -75517,7 +75517,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "http://www.airplanegeeks.com/?feed=podcast",
           "podcast_guid": "dea8fcd9-f291-523a-b6f1-85d50722b0cd",
           "metadata_observed_on": "2026-11-26",
@@ -80061,7 +80061,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://podcasts.files.bbci.co.uk/p07mnkk8.rss",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-26",
