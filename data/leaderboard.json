@@ -4943,7 +4943,7 @@
             "trend": "accelerating"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/paula-poundstone",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-27",
@@ -7193,7 +7193,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": false,
+          "apple_video": true,
           "resolved_feed_url": "https://feeds.megaphone.fm/PHTE4456308564",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-27",
@@ -7393,7 +7393,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/ARML2865920177",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-27",
@@ -8343,7 +8343,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.megaphone.fm/PMO8430796457",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-27",
@@ -27545,7 +27545,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/OvoXT1qQ",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-27",
@@ -28687,7 +28687,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.simplecast.com/h18ZIZD_",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-27",
@@ -46521,7 +46521,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://rss.art19.com/forward-progress",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-27",
@@ -62406,7 +62406,7 @@
             "trend": "slowing"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://cloud.mave.digital/33812",
           "podcast_guid": null,
           "metadata_observed_on": "2026-11-27",
@@ -75379,7 +75379,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://espanolconjuan.blubrry.net/feed/podcast/",
           "podcast_guid": "aff7cf6c-8ab2-58e8-a66a-b0947532a55a",
           "metadata_observed_on": "2026-11-27",
@@ -80377,7 +80377,7 @@
             "trend": "steady"
           },
           "rss_video": null,
-          "apple_video": null,
+          "apple_video": false,
           "resolved_feed_url": "https://feeds.redcircle.com/8854b6f0-5f35-4c57-ae7e-7a1843d92bda",
           "podcast_guid": "8854b6f0-5f35-4c57-ae7e-7a1843d92bda",
           "metadata_observed_on": "2026-11-27",
